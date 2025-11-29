@@ -1,0 +1,58 @@
+{
+  "category": "Ashtakam",
+  "version": 1,
+  "items": [
+    {
+      "id": "ashtakam_shiva",
+      "title": "शिवाष्टकम",
+      "language": "hindi",
+      "image": "shiva.png",
+      "orderIndex": 1,
+      "content": [
+        {
+          "shloka": "प्रभुं प्राणनाथम",
+          "meaning": "भगवान शिव विश्व के स्वामी और रक्षक हैं।"
+        }
+      ]
+    },
+    {
+      "id": "ashtakam_dattatreya",
+      "title": "दत्ताष्टकम",
+      "language": "hindi",
+      "image": "datta.png",
+      "orderIndex": 2,
+      "content": [
+        {
+          "shloka": "जय देव जय देव दिगंबरा",
+          "meaning": "दत्तात्रेय ब्रह्मा, विष्णु और शिव के संयुक्त अवतार हैं।"
+        }
+      ]
+    },
+    {
+      "id": "ashtakam_krishna",
+      "title": "कृष्णाष्टकम",
+      "language": "hindi",
+      "image": "krishna.png",
+      "orderIndex": 3,
+      "content": [
+        {
+          "shloka": "वासुदेवसुतं देवं",
+          "meaning": "भगवान कृष्ण परम दयालु और धर्मस्थापक हैं।"
+        }
+      ]
+    },
+    {
+      "id": "ashtakam_linga",
+      "title": "लिंगाष्टकम",
+      "language": "hindi",
+      "image": "linga.png",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "ब्रह्ममुरारी सुरार्चित लिंगम्",
+          "meaning": "शिवलिंग शिव के अनंत स्वरूप का प्रतीक है।"
+        }
+      ]
+    }
+  ]
+}

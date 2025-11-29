@@ -1,0 +1,58 @@
+{
+  "category": "Katha",
+  "version": 1,
+  "items": [
+    {
+      "id": "katha_sai",
+      "title": "साई कथा",
+      "language": "hindi",
+      "image": "sai.png",
+      "orderIndex": 1,
+      "content": [
+        {
+          "shloka": "साई कृपा सब पर रहती है",
+          "meaning": "साईं बाबा सभी भक्तों पर दया करते हैं।"
+        }
+      ]
+    },
+    {
+      "id": "katha_ganapati",
+      "title": "गणेश कथा",
+      "language": "hindi",
+      "image": "ganpati.png",
+      "orderIndex": 2,
+      "content": [
+        {
+          "shloka": "गणेश जन्म कथा",
+          "meaning": "पार्वती माता के तप से गणेश का जन्म हुआ।"
+        }
+      ]
+    },
+    {
+      "id": "katha_datta",
+      "title": "दत्त कथा",
+      "language": "hindi",
+      "image": "datta.png",
+      "orderIndex": 3,
+      "content": [
+        {
+          "shloka": "दत्त अवतार कथा",
+          "meaning": "दत्तात्रेय त्रिमूर्ति का दिव्य अवतार हैं।"
+        }
+      ]
+    },
+    {
+      "id": "katha_vitthal",
+      "title": "विठ्ठल कथा",
+      "language": "hindi",
+      "image": "vitthal.png",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "विठ्ठल पंडरपुर कथा",
+          "meaning": "विठ्ठल भगवान भक्तों के प्रेम से प्रकट हुए।"
+        }
+      ]
+    }
+  ]
+}

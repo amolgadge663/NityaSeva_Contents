@@ -1,0 +1,58 @@
+{
+  "category": "Chalisa",
+  "version": 1,
+  "items": [
+    {
+      "id": "chalisa_hanuman",
+      "title": "हनुमान चालीसा",
+      "language": "hindi",
+      "image": "hanuman.png",
+      "orderIndex": 1,
+      "content": [
+        {
+          "shloka": "श्रीगुरु चरण सरोज रज",
+          "meaning": "गुरु की कृपा से ज्ञान और बुद्धि की प्राप्ति होती है।"
+        }
+      ]
+    },
+    {
+      "id": "chalisa_durga",
+      "title": "दुर्गा चालीसा",
+      "language": "hindi",
+      "image": "durga.png",
+      "orderIndex": 2,
+      "content": [
+        {
+          "shloka": "नमो नमो दुर्गे सुख करनी",
+          "meaning": "माता दुर्गा अपने भक्तों का कल्याण करती हैं।"
+        }
+      ]
+    },
+    {
+      "id": "chalisa_shani",
+      "title": "शनि चालीसा",
+      "language": "hindi",
+      "image": "shani.png",
+      "orderIndex": 3,
+      "content": [
+        {
+          "shloka": "जय जय श्री शनिदेव भगवान",
+          "meaning": "शनि देव कर्म के आधार पर फल देने वाले देवता हैं।"
+        }
+      ]
+    },
+    {
+      "id": "chalisa_laxmi",
+      "title": "लक्ष्मी चालीसा",
+      "language": "hindi",
+      "image": "laxmi.png",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "जय लक्ष्मी माता",
+          "meaning": "लक्ष्मी माँ सौभाग्य, धन और समृद्धि प्रदान करती हैं।"
+        }
+      ]
+    }
+  ]
+}

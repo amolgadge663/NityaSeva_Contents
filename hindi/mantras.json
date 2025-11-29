@@ -1,0 +1,58 @@
+{
+  "category": "Mantras",
+  "version": 1,
+  "items": [
+    {
+      "id": "mantra_gayatri",
+      "title": "गायत्री मंत्र",
+      "language": "hindi",
+      "image": "gayatri.png",
+      "orderIndex": 1,
+      "content": [
+        {
+          "shloka": "ॐ भूर्भुवः स्वः",
+          "meaning": "हे दिव्य ऊर्जा, हमें सही मार्ग दिखाएं।"
+        }
+      ]
+    },
+    {
+      "id": "mantra_mahamrityunjay",
+      "title": "महामृत्युंजय मंत्र",
+      "language": "hindi",
+      "image": "shiva.png",
+      "orderIndex": 2,
+      "content": [
+        {
+          "shloka": "ॐ त्र्यम्बकं यजामहे",
+          "meaning": "यह मंत्र मृत्यु और भय से मुक्ति प्रदान करता है।"
+        }
+      ]
+    },
+    {
+      "id": "mantra_ram",
+      "title": "राम नाम",
+      "language": "hindi",
+      "image": "ram.png",
+      "orderIndex": 3,
+      "content": [
+        {
+          "shloka": "श्रीराम जय राम जय जय राम",
+          "meaning": "राम नाम मानसिक शांति और भक्ति बढ़ाता है।"
+        }
+      ]
+    },
+    {
+      "id": "mantra_durga",
+      "title": "दुर्गा मंत्र",
+      "language": "hindi",
+      "image": "durga.png",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "ॐ दूं दुर्गायै नमः",
+          "meaning": "दुर्गा माता शक्ति और सुरक्षा देती हैं।"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "category": "Aarti",
+  "version": 1,
+  "items": [
+    {
+      "id": "aarti_ganapati",
+      "title": "गणपति आरती",
+      "language": "hindi",
+      "image": "ganpati.png",
+      "orderIndex": 1,
+      "content": [
+        {
+          "shloka": "जय देव जय देव जय श्री गणराय",
+          "meaning": "हे गणराय, आप सबके रक्षक और विघ्नहर्ता हैं।"
+        }
+      ]
+    },
+    {
+      "id": "aarti_durga",
+      "title": "दुर्गा आरती",
+      "language": "hindi",
+      "image": "durga.png",
+      "orderIndex": 2,
+      "content": [
+        {
+          "shloka": "जय अम्बे गौरी, मैया जय श्यामा गौरी",
+          "meaning": "माता दुर्गा सभी भक्तों की रक्षा करती हैं।"
+        }
+      ]
+    },
+    {
+      "id": "aarti_vitthal",
+      "title": "विठ्ठल आरती",
+      "language": "hindi",
+      "image": "vitthal.png",
+      "orderIndex": 3,
+      "content": [
+        {
+          "shloka": "युगों-युगों के नाथ विठ्ठल",
+          "meaning": "विठ्ठल भक्तों के दुःख दूर करने वाले भगवान हैं।"
+        }
+      ]
+    },
+    {
+      "id": "aarti_shankar",
+      "title": "शंकर आरती",
+      "language": "hindi",
+      "image": "shankar.png",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "ॐ जय शिव ओंकारा",
+          "meaning": "शिव परम शक्ति, करुणा और कल्याण का स्वरूप हैं।"
+        }
+      ]
+    }
+  ]
+}
