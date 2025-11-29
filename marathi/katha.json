@@ -1,0 +1,58 @@
+{
+  "category": "Katha",
+  "version": 1,
+  "items": [
+    {
+      "id": "katha_sai",
+      "title": "साई कथा",
+      "language": "marathi",
+      "image": "sai.png",
+      "orderIndex": 1,
+      "content": [
+        {
+          "shloka": "साई कृपा सर्वांवर",
+          "meaning": "साई बाबा सर्व जीवांवर दया करतात."
+        }
+      ]
+    },
+    {
+      "id": "katha_ganapati",
+      "title": "गणेश कथा",
+      "language": "marathi",
+      "image": "ganpati.png",
+      "orderIndex": 2,
+      "content": [
+        {
+          "shloka": "गणपती जन्म कथा",
+          "meaning": "पार्वतीदेवीच्या तपातून गणेशाचा जन्म."
+        }
+      ]
+    },
+    {
+      "id": "katha_datta",
+      "title": "दत्त कथा",
+      "language": "marathi",
+      "image": "datta.png",
+      "orderIndex": 3,
+      "content": [
+        {
+          "shloka": "दत्त अवतार कथा",
+          "meaning": "दत्तात्रेय हा त्रिमूर्तीचा अवतार आहे."
+        }
+      ]
+    },
+    {
+      "id": "katha_vitthal",
+      "title": "विठ्ठल कथा",
+      "language": "marathi",
+      "image": "vitthal.png",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "विठ्ठल पंढरी कथा",
+          "meaning": "विठ्ठल भक्तांसाठी प्रकट झाला."
+        }
+      ]
+    }
+  ]
+}

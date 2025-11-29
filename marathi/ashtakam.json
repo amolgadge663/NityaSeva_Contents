@@ -1,0 +1,58 @@
+{
+  "category": "Ashtakam",
+  "version": 1,
+  "items": [
+    {
+      "id": "ashtakam_shiva",
+      "title": "शिवाष्टकम",
+      "language": "marathi",
+      "image": "shiva.png",
+      "orderIndex": 1,
+      "content": [
+        {
+          "shloka": "प्रभुं प्राणनाथं",
+          "meaning": "शिव हा जगाचा नाथ आणि रक्षणकर्ता आहे."
+        }
+      ]
+    },
+    {
+      "id": "ashtakam_dattatreya",
+      "title": "दत्ताष्टकम",
+      "language": "marathi",
+      "image": "datta.png",
+      "orderIndex": 2,
+      "content": [
+        {
+          "shloka": "जय देव जय देव दिगंबरा",
+          "meaning": "दत्तात्रेय हा ब्रह्म, विष्णू आणि शिव यांचा एकत्रित अवतार आहे."
+        }
+      ]
+    },
+    {
+      "id": "ashtakam_krishna",
+      "title": "कृष्णाष्टकम",
+      "language": "marathi",
+      "image": "krishna.png",
+      "orderIndex": 3,
+      "content": [
+        {
+          "shloka": "वासुदेवसुतं देवं",
+          "meaning": "कृष्ण हा परम देवता आहे."
+        }
+      ]
+    },
+    {
+      "id": "ashtakam_linga",
+      "title": "लिंगाष्टकम",
+      "language": "marathi",
+      "image": "linga.png",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "ब्रह्ममुरारी सुरार्चित लिंगम्",
+          "meaning": "लिंग हे शिवाचे विश्वरूप आहे."
+        }
+      ]
+    }
+  ]
+}

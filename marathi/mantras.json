@@ -1,0 +1,58 @@
+{
+  "category": "Mantras",
+  "version": 1,
+  "items": [
+    {
+      "id": "mantra_gayatri",
+      "title": "गायत्री मंत्र",
+      "language": "marathi",
+      "image": "gayatri.png",
+      "orderIndex": 1,
+      "content": [
+        {
+          "shloka": "ॐ भूर भुवः स्वः",
+          "meaning": "हे सार्वत्रिक ऊर्जा, आम्हाला योग्य मार्ग दाखव."
+        }
+      ]
+    },
+    {
+      "id": "mantra_mahamrityunjay",
+      "title": "महामृत्युंजय मंत्र",
+      "language": "marathi",
+      "image": "shiva.png",
+      "orderIndex": 2,
+      "content": [
+        {
+          "shloka": "ॐ त्र्यम्बकं यजामहे",
+          "meaning": "मृत्यूवर विजय देणारा शिव मंत्र."
+        }
+      ]
+    },
+    {
+      "id": "mantra_ram",
+      "title": "राम नाव",
+      "language": "marathi",
+      "image": "ram.png",
+      "orderIndex": 3,
+      "content": [
+        {
+          "shloka": "श्रीराम जय राम जय जय राम",
+          "meaning": "राम नाम मनाला शांती देते."
+        }
+      ]
+    },
+    {
+      "id": "mantra_durga",
+      "title": "दुर्गा मंत्र",
+      "language": "marathi",
+      "image": "durga.png",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "ॐ दुं दुर्गायै नमः",
+          "meaning": "दुर्गा संरक्षण आणि शक्ती देते."
+        }
+      ]
+    }
+  ]
+}

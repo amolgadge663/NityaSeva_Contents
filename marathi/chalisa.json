@@ -1,0 +1,58 @@
+{
+  "category": "Chalisa",
+  "version": 1,
+  "items": [
+    {
+      "id": "chalisa_hanuman",
+      "title": "हनुमान चालीसा",
+      "language": "marathi",
+      "image": "hanuman.png",
+      "orderIndex": 1,
+      "content": [
+        {
+          "shloka": "श्रीगुरु चरन सरोज रज",
+          "meaning": "गुरूंच्या चरणातील धूळ मला बुद्धी देते."
+        }
+      ]
+    },
+    {
+      "id": "chalisa_durga",
+      "title": "दुर्गा चालीसा",
+      "language": "marathi",
+      "image": "durga.png",
+      "orderIndex": 2,
+      "content": [
+        {
+          "shloka": "नमो नमो दुर्गे सुख करनी",
+          "meaning": "हे दुर्गा, तू सुख देणारी माता आहेस."
+        }
+      ]
+    },
+    {
+      "id": "chalisa_shani",
+      "title": "शनि चालीसा",
+      "language": "marathi",
+      "image": "shani.png",
+      "orderIndex": 3,
+      "content": [
+        {
+          "shloka": "जय जय श्री शनिदेव भगवान",
+          "meaning": "शनीदेव हा न्याय आणि कर्मफल देणारा देव आहे."
+        }
+      ]
+    },
+    {
+      "id": "chalisa_laxmi",
+      "title": "लक्ष्मी चालीसा",
+      "language": "marathi",
+      "image": "laxmi.png",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "जय लक्ष्मी माता",
+          "meaning": "लक्ष्मी माता धन, संपत्ती आणि सौभाग्य देते."
+        }
+      ]
+    }
+  ]
+}

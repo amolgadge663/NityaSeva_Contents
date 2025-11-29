@@ -1,0 +1,58 @@
+{
+  "category": "Aarti",
+  "version": 1,
+  "items": [
+    {
+      "id": "aarti_ganapati",
+      "title": "गणपती आरती",
+      "language": "marathi",
+      "image": "ganpati.png",
+      "orderIndex": 1,
+      "content": [
+        {
+          "shloka": "जय देव जय देव जय श्री गणराया",
+          "meaning": "हे गणराया, तू सर्वांचा रक्षणकर्ता आहेस."
+        }
+      ]
+    },
+    {
+      "id": "aarti_durga",
+      "title": "दुर्गा आरती",
+      "language": "marathi",
+      "image": "durga.png",
+      "orderIndex": 2,
+      "content": [
+        {
+          "shloka": "जय देवी जय देवी जय महिषासुरमर्दिनी",
+          "meaning": "देवी, तू महिषासुराचा संहार करणारी शक्ती आहेस."
+        }
+      ]
+    },
+    {
+      "id": "aarti_vitthal",
+      "title": "विठ्ठल आरती",
+      "language": "marathi",
+      "image": "vitthal.png",
+      "orderIndex": 3,
+      "content": [
+        {
+          "shloka": "युगायुगांचे आधी पांडुरंग",
+          "meaning": "पांडुरंग हा भक्तांचा आधार आहे."
+        }
+      ]
+    },
+    {
+      "id": "aarti_shankar",
+      "title": "शंकराची आरती",
+      "language": "marathi",
+      "image": "shankar.png",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "कार्तिकेय-गणेश समेत",
+          "meaning": "शंकर, तू महादेव आहेस, संपूर्ण विश्वाचे पालनकर्ता आहेस."
+        }
+      ]
+    }
+  ]
+}

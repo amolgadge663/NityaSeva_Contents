@@ -1,0 +1,58 @@
+{
+  "category": "Katha",
+  "version": 1,
+  "items": [
+    {
+      "id": "katha_sai",
+      "title": "Sai Katha",
+      "language": "english",
+      "image": "sai.png",
+      "orderIndex": 1,
+      "content": [
+        {
+          "shloka": "Sai’s blessings are for all",
+          "meaning": "Sai Baba showers compassion on every being."
+        }
+      ]
+    },
+    {
+      "id": "katha_ganapati",
+      "title": "Ganapati Katha",
+      "language": "english",
+      "image": "ganpati.png",
+      "orderIndex": 2,
+      "content": [
+        {
+          "shloka": "Story of Ganesha’s birth",
+          "meaning": "Ganesha was created from the divine energy of Goddess Parvati."
+        }
+      ]
+    },
+    {
+      "id": "katha_datta",
+      "title": "Datta Katha",
+      "language": "english",
+      "image": "datta.png",
+      "orderIndex": 3,
+      "content": [
+        {
+          "shloka": "Story of Lord Dattatreya",
+          "meaning": "Dattatreya is the combined form of Brahma, Vishnu, and Shiva."
+        }
+      ]
+    },
+    {
+      "id": "katha_vitthal",
+      "title": "Vitthal Katha",
+      "language": "english",
+      "image": "vitthal.png",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "Pandharpur story",
+          "meaning": "Vitthal appeared for his devotee Pundalik in Pandharpur."
+        }
+      ]
+    }
+  ]
+}

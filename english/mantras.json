@@ -1,0 +1,58 @@
+{
+  "category": "Mantras",
+  "version": 1,
+  "items": [
+    {
+      "id": "mantra_gayatri",
+      "title": "Gayatri Mantra",
+      "language": "english",
+      "image": "gayatri.png",
+      "orderIndex": 1,
+      "content": [
+        {
+          "shloka": "Om Bhur Bhuvah Swaha",
+          "meaning": "The universal divine light guides our intelligence."
+        }
+      ]
+    },
+    {
+      "id": "mantra_mahamrityunjay",
+      "title": "Maha Mrityunjaya Mantra",
+      "language": "english",
+      "image": "shiva.png",
+      "orderIndex": 2,
+      "content": [
+        {
+          "shloka": "Om Tryambakam Yajamahe",
+          "meaning": "A mantra of protection and freedom from fear."
+        }
+      ]
+    },
+    {
+      "id": "mantra_ram",
+      "title": "Shri Ram Mantra",
+      "language": "english",
+      "image": "ram.png",
+      "orderIndex": 3,
+      "content": [
+        {
+          "shloka": "Shri Ram Jai Ram Jai Jai Ram",
+          "meaning": "Chanting Ram’s name brings peace and devotion."
+        }
+      ]
+    },
+    {
+      "id": "mantra_durga",
+      "title": "Durga Mantra",
+      "language": "english",
+      "image": "durga.png",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "Om Dum Durgayai Namah",
+          "meaning": "A mantra invoking strength, courage, and protection."
+        }
+      ]
+    }
+  ]
+}

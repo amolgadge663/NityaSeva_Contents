@@ -1,0 +1,58 @@
+{
+  "category": "Aarti",
+  "version": 1,
+  "items": [
+    {
+      "id": "aarti_ganapati",
+      "title": "Ganapati Aarti",
+      "language": "english",
+      "image": "ganpati.png",
+      "orderIndex": 1,
+      "content": [
+        {
+          "shloka": "Jai Dev Jai Dev Jai Shri Ganesha",
+          "meaning": "Ganesha, the remover of obstacles, blesses everyone."
+        }
+      ]
+    },
+    {
+      "id": "aarti_durga",
+      "title": "Durga Aarti",
+      "language": "english",
+      "image": "durga.png",
+      "orderIndex": 2,
+      "content": [
+        {
+          "shloka": "Jai Devi Jai Devi Jai Mahishasuramardini",
+          "meaning": "Goddess Durga destroys negativity and protects devotees."
+        }
+      ]
+    },
+    {
+      "id": "aarti_vitthal",
+      "title": "Vitthal Aarti",
+      "language": "english",
+      "image": "vitthal.png",
+      "orderIndex": 3,
+      "content": [
+        {
+          "shloka": "Pandurang, the divine form",
+          "meaning": "Vitthal guides devotees towards devotion and truth."
+        }
+      ]
+    },
+    {
+      "id": "aarti_shankar",
+      "title": "Shankar Aarti",
+      "language": "english",
+      "image": "shankar.png",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "With Kartikeya and Ganesha",
+          "meaning": "Shankar (Shiva) is the supreme protector of the universe."
+        }
+      ]
+    }
+  ]
+}

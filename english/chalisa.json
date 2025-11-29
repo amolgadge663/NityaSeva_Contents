@@ -1,0 +1,58 @@
+{
+  "category": "Chalisa",
+  "version": 1,
+  "items": [
+    {
+      "id": "chalisa_hanuman",
+      "title": "Hanuman Chalisa",
+      "language": "english",
+      "image": "hanuman.png",
+      "orderIndex": 1,
+      "content": [
+        {
+          "shloka": "Sri Guru Charan Saroj Raj",
+          "meaning": "The dust of Guru's feet purifies the mind."
+        }
+      ]
+    },
+    {
+      "id": "chalisa_durga",
+      "title": "Durga Chalisa",
+      "language": "english",
+      "image": "durga.png",
+      "orderIndex": 2,
+      "content": [
+        {
+          "shloka": "Namo Namo Durge Sukh Karni",
+          "meaning": "Durga brings prosperity and removes obstacles."
+        }
+      ]
+    },
+    {
+      "id": "chalisa_shani",
+      "title": "Shani Chalisa",
+      "language": "english",
+      "image": "shani.png",
+      "orderIndex": 3,
+      "content": [
+        {
+          "shloka": "Jai Jai Shri Shanidev Bhagwan",
+          "meaning": "Shani Dev gives justice based on karma."
+        }
+      ]
+    },
+    {
+      "id": "chalisa_laxmi",
+      "title": "Laxmi Chalisa",
+      "language": "english",
+      "image": "laxmi.png",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "Jai Laxmi Mata",
+          "meaning": "Goddess Laxmi grants wealth, prosperity, and blessings."
+        }
+      ]
+    }
+  ]
+}

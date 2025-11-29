@@ -1,0 +1,58 @@
+{
+  "category": "Ashtakam",
+  "version": 1,
+  "items": [
+    {
+      "id": "ashtakam_shiva",
+      "title": "Shiva Ashtakam",
+      "language": "english",
+      "image": "shiva.png",
+      "orderIndex": 1,
+      "content": [
+        {
+          "shloka": "Prabhum Pran Nath",
+          "meaning": "Shiva is the Lord and protector of all beings."
+        }
+      ]
+    },
+    {
+      "id": "ashtakam_dattatreya",
+      "title": "Dattatreya Ashtakam",
+      "language": "english",
+      "image": "datta.png",
+      "orderIndex": 2,
+      "content": [
+        {
+          "shloka": "Jai Dev Jai Dev Digambara",
+          "meaning": "Dattatreya represents the combined form of the Trimurti."
+        }
+      ]
+    },
+    {
+      "id": "ashtakam_krishna",
+      "title": "Krishna Ashtakam",
+      "language": "english",
+      "image": "krishna.png",
+      "orderIndex": 3,
+      "content": [
+        {
+          "shloka": "Vasudeva Suta Deva",
+          "meaning": "Krishna is the supreme Lord and guide for humanity."
+        }
+      ]
+    },
+    {
+      "id": "ashtakam_linga",
+      "title": "Lingashtakam",
+      "language": "english",
+      "image": "linga.png",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "Brahma Murari Surarchita Lingam",
+          "meaning": "The Shiva Linga represents the cosmic form of Shiva."
+        }
+      ]
+    }
+  ]
+}
