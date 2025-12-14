@@ -6,7 +6,7 @@
       "id": "ashtakam_shiva",
       "title": "Shiva Ashtakam",
       "language": "english",
-      "image": "shiva.png",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/aarti/shiv.jpg",
       "orderIndex": 1,
       "content": [
         {
@@ -25,7 +25,7 @@
       "id": "ashtakam_dattatreya",
       "title": "Dattatreya Ashtakam",
       "language": "english",
-      "image": "datta.png",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/ashtakam/shree_gurudev_datta.jpg",
       "orderIndex": 2,
       "content": [
         {
@@ -38,7 +38,7 @@
       "id": "ashtakam_krishna",
       "title": "Krishna Ashtakam",
       "language": "english",
-      "image": "krishna.png",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/ashtakam/krishna.jpg",
       "orderIndex": 3,
       "content": [
         {
@@ -51,7 +51,7 @@
       "id": "ashtakam_linga",
       "title": "Lingashtakam",
       "language": "english",
-      "image": "linga.png",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/ashtakam/namah_shivaya.jpg",
       "orderIndex": 4,
       "content": [
         {

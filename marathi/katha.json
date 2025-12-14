@@ -6,7 +6,7 @@
       "id": "katha_sai",
       "title": "साई कथा",
       "language": "marathi",
-      "image": "sai.png",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/katha/sai.jpg",
       "orderIndex": 1,
       "content": [
         {
@@ -19,7 +19,7 @@
       "id": "katha_ganapati",
       "title": "गणेश कथा",
       "language": "marathi",
-      "image": "ganpati.png",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/aarti/ganesh.jpg",
       "orderIndex": 2,
       "content": [
         {
@@ -40,7 +40,7 @@
       "id": "katha_datta",
       "title": "दत्त कथा",
       "language": "marathi",
-      "image": "datta.png",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/ashtakam/shree_gurudev_datta.jpg",
       "orderIndex": 3,
       "content": [
         {
@@ -53,7 +53,7 @@
       "id": "katha_vitthal",
       "title": "विठ्ठल कथा",
       "language": "marathi",
-      "image": "vitthal.png",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/aarti/Panduranga.jpg",
       "orderIndex": 4,
       "content": [
         {

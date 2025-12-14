@@ -6,18 +6,20 @@
       "id": "ram_baalkand_invocation",
       "title": "Baal Kaand – Invocation",
       "language": "english",
-      "image": "",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/ramcharitmanas/shri_ram.jpg",
       "orderIndex": 1,
       "content": [
         {
           "shloka": "Varnanamarthasanghanam Rasanam Chhandasamapi",
           "transliteration": "Varṇānām artha saṅghānāṁ rasānāṁ chhandasām api",
-          "meaning": "I bow to Saraswati and Ganesh, the originators of language and meaning."
+          "meaning": "I bow to Saraswati and Ganesh, the originators of language and meaning.",
+          "imageUrl": "https://amolgadge663.github.io/NityaSeva_Contents/images/ramcharitmanas/bal_kand_baal_ram.jpg"
         },
         {
           "shloka": "Bhavani Shankarau Vande Shraddha Vishwas Roopinam",
           "transliteration": "Bhavānī Śaṅkarau vande śraddhā viśvāsa rūpiṇau",
-          "meaning": "I worship Parvati and Shankar, embodiments of faith and devotion."
+          "meaning": "I worship Parvati and Shankar, embodiments of faith and devotion.",
+          "imageUrl": "https://amolgadge663.github.io/NityaSeva_Contents/images/ramcharitmanas/bal_kand_baal_ram.jpg"
         }
       ]
     }

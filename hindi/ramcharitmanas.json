@@ -6,20 +6,20 @@
       "id": "ram_baalkand_mangalacharan",
       "title": "बालकांड – मंगलाचरण",
       "language": "hindi",
-      "image": "",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/ramcharitmanas/shri_ram.jpg",
       "orderIndex": 1,
       "content": [
         {
           "shloka": "वर्णानामर्थसंघानां रसानां छन्दसामपि",
           "meaning": "अक्षर, अर्थ, रस और छंद के कर्ता को नमन।",
           "transliteration": null,
-          "imageUrl": null
+          "imageUrl": "https://amolgadge663.github.io/NityaSeva_Contents/images/ramcharitmanas/bal_kand_baal_ram.jpg"
         },
         {
           "shloka": "भवानीशंकरौ वन्दे श्रद्धाविश्वासरूपिणौ",
           "meaning": "श्रद्धा और विश्वास के स्वरूप माता पार्वती और भगवान शंकर को वंदन।",
           "transliteration": null,
-          "imageUrl": null
+          "imageUrl": "https://amolgadge663.github.io/NityaSeva_Contents/images/ramcharitmanas/bal_kand_baal_ram.jpg"
         }
       ]
     }

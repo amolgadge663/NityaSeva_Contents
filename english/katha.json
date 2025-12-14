@@ -6,7 +6,7 @@
       "id": "katha_sai",
       "title": "Sai Katha",
       "language": "english",
-      "image": "sai.png",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/katha/sai.jpg",
       "orderIndex": 1,
       "content": [
         {
@@ -23,7 +23,7 @@
       "id": "katha_ganapati",
       "title": "Ganapati Katha",
       "language": "english",
-      "image": "ganpati.png",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/aarti/ganesh.jpg",
       "orderIndex": 2,
       "content": [
         {
@@ -40,7 +40,7 @@
       "id": "katha_datta",
       "title": "Datta Katha",
       "language": "english",
-      "image": "datta.png",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/ashtakam/shree_gurudev_datta.jpg",
       "orderIndex": 3,
       "content": [
         {
@@ -53,7 +53,7 @@
       "id": "katha_vitthal",
       "title": "Vitthal Katha",
       "language": "english",
-      "image": "vitthal.png",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/aarti/Panduranga.jpg",
       "orderIndex": 4,
       "content": [
         {

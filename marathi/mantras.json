@@ -6,7 +6,7 @@
       "id": "mantra_gayatri",
       "title": "गायत्री मंत्र",
       "language": "marathi",
-      "image": "gayatri.png",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/matra_devi.jpg",
       "orderIndex": 1,
       "content": [
         {
@@ -27,7 +27,7 @@
       "id": "mantra_mahamrityunjay",
       "title": "महामृत्युंजय मंत्र",
       "language": "marathi",
-      "image": "shiva.png",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/aarti/shiv.jpg",
       "orderIndex": 2,
       "content": [
         {
@@ -40,7 +40,7 @@
       "id": "mantra_ram",
       "title": "राम नाव",
       "language": "marathi",
-      "image": "ram.png",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/ram.jpg",
       "orderIndex": 3,
       "content": [
         {
@@ -53,7 +53,7 @@
       "id": "mantra_durga",
       "title": "दुर्गा मंत्र",
       "language": "marathi",
-      "image": "durga.png",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/chalisa/durga.jpg",
       "orderIndex": 4,
       "content": [
         {
