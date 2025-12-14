@@ -10,8 +10,16 @@
       "orderIndex": 1,
       "content": [
         {
-          "shloka": "जय देव जय देव जय श्री गणराय",
-          "meaning": "हे गणराय, आप सबके रक्षक और विघ्नहर्ता हैं।"
+          "shloka": "जय देव जय देव जय श्री गणेशा",
+          "meaning": "हे गणेश भगवान, आपकी जय हो। आप सभी विघ्नों को दूर करने वाले हैं।",
+          "transliteration": null,
+          "imageUrl": null
+        },
+        {
+          "shloka": "मंगल मूर्ति मोरया",
+          "meaning": "हे मंगलमूर्ति, कृपा करके शीघ्र पधारिए।",
+          "transliteration": null,
+          "imageUrl": null
         }
       ]
     },
@@ -49,8 +57,16 @@
       "orderIndex": 4,
       "content": [
         {
-          "shloka": "ॐ जय शिव ओंकारा",
-          "meaning": "शिव परम शक्ति, करुणा और कल्याण का स्वरूप हैं।"
+          "shloka": "जय शिव ओंकारा हर शिव ओंकारा",
+          "meaning": "हे शिव भगवान, आप सृष्टि के आधार हैं।",
+          "transliteration": null,
+          "imageUrl": null
+        },
+        {
+          "shloka": "ब्रह्मा विष्णु सदाशिव अर्द्धांगी धारा",
+          "meaning": "आप ब्रह्मा, विष्णु और महेश तीनों के स्वरूप हैं।",
+          "transliteration": null,
+          "imageUrl": null
         }
       ]
     }

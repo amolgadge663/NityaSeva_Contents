@@ -23,8 +23,16 @@
       "orderIndex": 2,
       "content": [
         {
-          "shloka": "गणेश जन्म कथा",
-          "meaning": "पार्वती माता के तप से गणेश का जन्म हुआ।"
+          "shloka": "माता पार्वती ने गणेश जी की रचना अपने शरीर से की।",
+          "meaning": "यह कथा मातृत्व और भक्ति का प्रतीक है।",
+          "transliteration": null,
+          "imageUrl": null
+        },
+        {
+          "shloka": "भगवान शिव ने गणेश को प्रथम पूज्य बनाया।",
+          "meaning": "इस कारण गणेश को विघ्नहर्ता कहा जाता है।",
+          "transliteration": null,
+          "imageUrl": null
         }
       ]
     },

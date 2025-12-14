@@ -1,0 +1,25 @@
+{
+  "category": "ramcharitmanas",
+  "version": 1,
+  "items": [
+    {
+      "id": "ram_baalkand_invocation",
+      "title": "Baal Kaand – Invocation",
+      "language": "english",
+      "image": "",
+      "orderIndex": 1,
+      "content": [
+        {
+          "shloka": "Varnanamarthasanghanam Rasanam Chhandasamapi",
+          "transliteration": "Varṇānām artha saṅghānāṁ rasānāṁ chhandasām api",
+          "meaning": "I bow to Saraswati and Ganesh, the originators of language and meaning."
+        },
+        {
+          "shloka": "Bhavani Shankarau Vande Shraddha Vishwas Roopinam",
+          "transliteration": "Bhavānī Śaṅkarau vande śraddhā viśvāsa rūpiṇau",
+          "meaning": "I worship Parvati and Shankar, embodiments of faith and devotion."
+        }
+      ]
+    }
+  ]
+}

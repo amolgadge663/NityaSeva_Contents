@@ -1,0 +1,33 @@
+{
+  "category": "aarti",
+  "version": 1,
+  "items": [
+    {
+      "id": "example_item_id",
+      "title": "Example Pooja Title",
+      "language": "english",
+      "image": "optional_cover_image_url_or_empty",
+      "orderIndex": 1,
+      "content": [
+        {
+          "shloka": "First line of the shloka or text goes here",
+          "meaning": "Optional meaning or explanation in the same language",
+          "transliteration": "Optional transliteration if original is Sanskrit/Marathi/Hindi",
+          "imageUrl": "optional_image_for_this_block_or_null"
+        },
+        {
+          "shloka": "Second shloka or paragraph goes here",
+          "meaning": "Meaning for second block (can be null)",
+          "transliteration": null,
+          "imageUrl": null
+        },
+        {
+          "shloka": "Third block content",
+          "meaning": null,
+          "transliteration": null,
+          "imageUrl": null
+        }
+      ]
+    }
+  ]
+}

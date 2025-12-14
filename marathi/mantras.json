@@ -10,8 +10,16 @@
       "orderIndex": 1,
       "content": [
         {
-          "shloka": "ॐ भूर भुवः स्वः",
-          "meaning": "हे सार्वत्रिक ऊर्जा, आम्हाला योग्य मार्ग दाखव."
+          "shloka": "सर्वे भवन्तु सुखिनः",
+          "meaning": "सर्व लोक सुखी असोत.",
+          "transliteration": null,
+          "imageUrl": null
+        },
+        {
+          "shloka": "सर्वे सन्तु निरामयाः",
+          "meaning": "सर्व लोक निरोगी असोत.",
+          "transliteration": null,
+          "imageUrl": null
         }
       ]
     },

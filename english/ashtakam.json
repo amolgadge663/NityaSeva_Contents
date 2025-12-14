@@ -10,8 +10,14 @@
       "orderIndex": 1,
       "content": [
         {
-          "shloka": "Prabhum Pran Nath",
-          "meaning": "Shiva is the Lord and protector of all beings."
+          "shloka": "Prabhum Prananatham Vibhum Vishwanatham",
+          "transliteration": "Prabhuṁ prāṇanāthaṁ vibhuṁ viśvanāthaṁ",
+          "meaning": "Salutations to Shiva, the lord of life and master of the universe."
+        },
+        {
+          "shloka": "Jagannatham Natham Sadananda Bhajam",
+          "transliteration": "Jagannāthaṁ nāthaṁ sadānanda bhajaṁ",
+          "meaning": "I worship Shiva, the eternal source of bliss."
         }
       ]
     },

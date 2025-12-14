@@ -10,8 +10,16 @@
       "orderIndex": 1,
       "content": [
         {
-          "shloka": "प्रभुं प्राणनाथम",
-          "meaning": "भगवान शिव विश्व के स्वामी और रक्षक हैं।"
+          "shloka": "प्रभुं प्राणनाथं विभुं विश्वनाथं",
+          "meaning": "भगवान शिव प्राणों के स्वामी और सम्पूर्ण विश्व के नाथ हैं।",
+          "transliteration": null,
+          "imageUrl": null
+        },
+        {
+          "shloka": "भजे शिवं शंकरं",
+          "meaning": "मैं शिव शंकर का भजन करता हूँ।",
+          "transliteration": null,
+          "imageUrl": null
         }
       ]
     },

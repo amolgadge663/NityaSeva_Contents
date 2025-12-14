@@ -10,8 +10,14 @@
       "orderIndex": 1,
       "content": [
         {
-          "shloka": "Jai Dev Jai Dev Jai Shri Ganesha",
-          "meaning": "Ganesha, the remover of obstacles, blesses everyone."
+          "shloka": "Sukhkarta Dukhharta Varta Vighnachi",
+          "transliteration": "Sukhkartā dukhhartā vārtā vighnāchī",
+          "meaning": "You are the giver of happiness and remover of sorrow, the one who eliminates obstacles."
+        },
+        {
+          "shloka": "Jai Dev Jai Dev Jai Mangalmurti",
+          "transliteration": "Jai Dev Jai Dev Jai Mangalmūrtī",
+          "meaning": "Victory to you, O auspicious idol, bestower of blessings."
         }
       ]
     },
@@ -23,8 +29,14 @@
       "orderIndex": 2,
       "content": [
         {
-          "shloka": "Jai Devi Jai Devi Jai Mahishasuramardini",
-          "meaning": "Goddess Durga destroys negativity and protects devotees."
+          "shloka": "Jai Devi Jai Devi Mahishasuramardini",
+          "transliteration": "Jai Devī Jai Devī Mahīṣāsuramardinī",
+          "meaning": "Victory to Goddess Durga, slayer of the demon Mahishasura."
+        },
+        {
+          "shloka": "Sur Nar Muni Jan Sevat",
+          "transliteration": "Sur nar muni jan sevat",
+          "meaning": "She is worshipped by gods, humans, and sages alike."
         }
       ]
     },

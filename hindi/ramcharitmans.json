@@ -1,0 +1,27 @@
+{
+  "category": "ramcharitmanas",
+  "version": 1,
+  "items": [
+    {
+      "id": "ram_baalkand_mangalacharan",
+      "title": "बालकांड – मंगलाचरण",
+      "language": "hindi",
+      "image": "",
+      "orderIndex": 1,
+      "content": [
+        {
+          "shloka": "वर्णानामर्थसंघानां रसानां छन्दसामपि",
+          "meaning": "अक्षर, अर्थ, रस और छंद के कर्ता को नमन।",
+          "transliteration": null,
+          "imageUrl": null
+        },
+        {
+          "shloka": "भवानीशंकरौ वन्दे श्रद्धाविश्वासरूपिणौ",
+          "meaning": "श्रद्धा और विश्वास के स्वरूप माता पार्वती और भगवान शंकर को वंदन।",
+          "transliteration": null,
+          "imageUrl": null
+        }
+      ]
+    }
+  ]
+}

@@ -10,8 +10,14 @@
       "orderIndex": 1,
       "content": [
         {
-          "shloka": "Om Bhur Bhuvah Swaha",
-          "meaning": "The universal divine light guides our intelligence."
+          "shloka": "Sarve Bhavantu Sukhinah",
+          "transliteration": "Sarve bhavantu sukhinaḥ",
+          "meaning": "May all beings be happy."
+        },
+        {
+          "shloka": "Sarve Santu Niramayah",
+          "transliteration": "Sarve santu nirāmayāḥ",
+          "meaning": "May all be free from illness."
         }
       ]
     },

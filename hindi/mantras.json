@@ -53,6 +53,27 @@
           "meaning": "दुर्गा माता शक्ति और सुरक्षा देती हैं।"
         }
       ]
+    },
+    {
+      "id": "mantra_shanti",
+      "title": "शांति मंत्र",
+      "language": "hindi",
+      "image": "",
+      "orderIndex": 5,
+      "content": [
+        {
+          "shloka": "सर्वे भवन्तु सुखिनः",
+          "meaning": "सभी लोग सुखी हों।",
+          "transliteration": null,
+          "imageUrl": null
+        },
+        {
+          "shloka": "सर्वे सन्तु निरामयाः",
+          "meaning": "सभी लोग निरोगी रहें।",
+          "transliteration": null,
+          "imageUrl": null
+        }
+      ]
     }
   ]
 }
