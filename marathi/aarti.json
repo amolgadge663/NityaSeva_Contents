@@ -11,15 +11,27 @@
       "content": [
         {
           "shloka": "सुखकर्ता दुःखहर्ता वार्ता विघ्नाची | \nनुरवी पुरवी प्रेम कृपा जयाची | \nसर्वांगी सुंदर उटी शेंदुराची | \nकंठी झळके माळ मुक्ताफळांची ||",
-          "meaning": "सुख देणारा आणि दुःख दूर करणारा देव.",
-          "transliteration": "Sukhkarta Dukhharta Varta Vighnachi",
+          "meaning": "सुख देणारा, दुःख दूर करणारा आणि संकटांची वार्ता मिटवणारा. ज्याची कृपा प्रेमाचा वर्षाव करते, ज्याच्या अंगाला शेंदूर लावला आहे आणि गळ्यात मोत्यांची माळ शोभते.",
+          "transliteration": "Sukhkarta Dukhharta Varta Vighnachi | Nurvi Purvi Prem Krupa Jayachi | Sarvangi Sundar Uti Shendurachi | Kanthi Zhalke Maal Muktaphalanchi ||",
           "imageUrl": ""
         },
         {
           "shloka": "जय देव जय देव जय मंगलमूर्ती | \nदर्शनमात्रे मनकामना पुरती ||",
-          "meaning": "हे मंगलमूर्ती, तुझा जयजयकार असो.",
-          "transliteration": "Jai Dev Jai Dev Jai Mangalmurti",
+          "meaning": "देवा तुझा जयजयकार असो, हे मंगलमूर्ती! तुझ्या केवळ दर्शनानेच मनातील सर्व इच्छा पूर्ण होतात.",
+          "transliteration": "Jai Dev Jai Dev Jai Mangalmurti | Darshanmatre Mankamana Purti ||",
           "imageUrl": ""
+        },
+        {
+          "shloka": "रत्नखचित फरा तूज गौरीकुमरा | \nचंदनाची उटी कुमकुमकेशरा | \nहिरेजडित मुकुट शोभतो बरा | \nरुणुझुणुती नुपुरे चरणी घागरिया ||",
+          "meaning": "हे गौरीपुत्रा, तू रत्नांनी जडलेले दागिने घातले आहेस. अंगाला चंदन, कुंकू आणि केशराचा टिळा लावला आहे. तुझ्या डोक्यावर हिऱ्यांचा मुकुट आहे आणि पायात रुणझुणणारे पैंजण आहेत.",
+          "transliteration": "Ratnakhachit Phara Tuj Gaurikumara | Chandanachi Uti Kumkumkeshara | Hirejadit Mukut Shobhato Bara | Runuzunuti Nupure Charni Ghagariya ||",
+          "imageUrl": "ganpati_3.png"
+        },
+        {
+          "shloka": "लंबोदर पीतांबर फणिवरबंधना | \nसरळ सोंड वक्रतुंड त्रिनयना | \nदास रामाचा वाट पाहे सदना | \nसंकटी पावावे निर्वाणी रक्षावे सुरवरवंदना ||",
+          "meaning": "मोठे पोट असलेला, पिवळे पितांबर नेसलेला आणि कमरेला नाग बांधलेला. ज्याची सोंड सरळ आहे, जो वक्रतुंड आणि त्रिनेत्र आहे. समर्थ रामदासांचा हा दास तुझी वाट पाहत आहे, संकटात पावावे आणि शेवटच्या वेळी रक्षण करावे.",
+          "transliteration": "Lambodar Pitambar Phanivarbandhana | Saral Sond Vakratund Trinayana | Das Ramacha Vaat Pahe Sadna | Sankati Paave Nirvani Rakshave Survarvandana ||",
+          "imageUrl": "ganpati_4.png"
         }
       ]
     },
