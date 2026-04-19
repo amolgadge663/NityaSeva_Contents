@@ -6,46 +6,200 @@
       "id": "mantra_gayatri",
       "title": "गायत्री मंत्र",
       "language": "marathi",
-      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/matra_devi.jpg",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/gayatri.jpg",
       "orderIndex": 1,
       "content": [
         {
-          "shloka": "सर्वे भवन्तु सुखिनः",
-          "meaning": "सर्व लोक सुखी असोत.",
-          "transliteration": null,
+          "shloka": "ॐ भूर्भुवः स्वः |",
+          "meaning": "ॐ हे पृथ्वी, अंतरिक्ष आणि स्वर्गलोक यांचे प्रतीक आहे.",
+          "transliteration": "Om Bhur Bhuvah Svah |",
           "imageUrl": null
         },
         {
-          "shloka": "सर्वे सन्तु निरामयाः",
-          "meaning": "सर्व लोक निरोगी असोत.",
-          "transliteration": null,
+          "shloka": "तत्सवितुर्वरेण्यं |",
+          "meaning": "त्या श्रेष्ठ सविता देवाचे (सूर्यदेवाचे) जे उत्कृष्ट तेज आहे,",
+          "transliteration": "Tat Savitur Varenyam |",
+          "imageUrl": null
+        },
+        {
+          "shloka": "भर्गो देवस्य धीमहि |",
+          "meaning": "त्या दिव्य देवाच्या तेजाचे आम्ही ध्यान करतो.",
+          "transliteration": "Bhargo Devasya Dheemahi |",
+          "imageUrl": null
+        },
+        {
+          "shloka": "धियो यो नः प्रचोदयात् ||",
+          "meaning": "तो परमात्मा आमच्या बुद्धीला सन्मार्गाकडे प्रेरित करो.",
+          "transliteration": "Dhiyo Yo Nah Prachodayaat ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ भूर्भुवः स्वः तत्सवितुर्वरेण्यं | भर्गो देवस्य धीमहि | धियो यो नः प्रचोदयात् ||",
+          "meaning": "हा संपूर्ण गायत्री मंत्र आहे. ॐ, पृथ्वी, अंतरिक्ष आणि स्वर्गलोकातील त्या श्रेष्ठ सूर्यदेवाच्या दिव्य तेजाचे आम्ही ध्यान करतो. तो आमच्या बुद्धीला सत्याकडे प्रेरित करो.",
+          "transliteration": "Om Bhur Bhuvah Svah Tat Savitur Varenyam | Bhargo Devasya Dheemahi | Dhiyo Yo Nah Prachodayaat ||",
           "imageUrl": null
         }
       ]
     },
     {
-      "id": "mantra_mahamrityunjay",
+      "id": "mantra_mahamrityunjaya",
       "title": "महामृत्युंजय मंत्र",
       "language": "marathi",
-      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/aarti/shiv.jpg",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/shiv.jpg",
       "orderIndex": 2,
       "content": [
         {
-          "shloka": "ॐ त्र्यम्बकं यजामहे",
-          "meaning": "मृत्यूवर विजय देणारा शिव मंत्र."
+          "shloka": "ॐ त्र्यम्बकं यजामहे |",
+          "meaning": "आम्ही त्रिनेत्रधारी भगवान शिवांची पूजा करतो.",
+          "transliteration": "Om Tryambakam Yajaamahe |",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सुगन्धिं पुष्टिवर्धनम् |",
+          "meaning": "जे सुगंधी आहेत आणि सर्व प्राणिमात्रांचे पोषण करतात.",
+          "transliteration": "Sugandhim Pushtivardhanam |",
+          "imageUrl": null
+        },
+        {
+          "shloka": "उर्वारुकमिव बन्धनात् |",
+          "meaning": "जसे काकडी वेलीपासून सहज अलग होते,",
+          "transliteration": "Urvaarukamiva Bandhanaat |",
+          "imageUrl": null
+        },
+        {
+          "shloka": "मृत्योर्मुक्षीय मामृतात् ||",
+          "meaning": "त्याप्रमाणे आम्हाला मृत्यूपासून मुक्त करा, अमरत्वापासून नव्हे.",
+          "transliteration": "Mrityor Muksheeya Maamritaat ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम् | उर्वारुकमिव बन्धनात् मृत्योर्मुक्षीय मामृतात् ||",
+          "meaning": "हा संपूर्ण महामृत्युंजय मंत्र आहे. आम्ही त्रिनेत्रधारी भगवान शिवांची पूजा करतो, जे सुगंधी आणि पोषणकर्ते आहेत. जसे काकडी वेलीपासून सहज वेगळी होते, तसे आम्हाला मृत्यूपासून मुक्त करा, अमरत्वाकडे नेणारे.",
+          "transliteration": "Om Tryambakam Yajaamahe Sugandhim Pushtivardhanam | Urvaarukamiva Bandhanaat Mrityor Muksheeya Maamritaat ||",
+          "imageUrl": null
         }
       ]
     },
     {
-      "id": "mantra_ram",
-      "title": "राम नाव",
+      "id": "mantra_ganesh",
+      "title": "गणेश मंत्र",
       "language": "marathi",
-      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/ram.jpg",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/ganesh.jpg",
       "orderIndex": 3,
       "content": [
         {
-          "shloka": "श्रीराम जय राम जय जय राम",
-          "meaning": "राम नाम मनाला शांती देते."
+          "shloka": "ॐ गं गणपतये नमः ||",
+          "meaning": "ॐ, गणपती देवाला आमचे नमन असो. हा गणेशाचा बीज मंत्र आहे.",
+          "transliteration": "Om Gam Ganapataye Namah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "वक्रतुण्ड महाकाय सूर्यकोटि समप्रभ |",
+          "meaning": "हे वक्र सोंडेचे, विशाल शरीराचे, कोटी सूर्यांसमान तेजस्वी,",
+          "transliteration": "Vakratunda Mahakaaya Suryakoti Samaprabha |",
+          "imageUrl": null
+        },
+        {
+          "shloka": "निर्विघ्नं कुरु मे देव सर्वकार्येषु सर्वदा ||",
+          "meaning": "हे देवा, माझ्या सर्व कार्यांमध्ये सदैव विघ्ने दूर करा.",
+          "transliteration": "Nirvighnam Kuru Me Deva Sarvakaryeshu Sarvadaa ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अगजानन पद्मार्कं गजाननं अहर्निशम् |",
+          "meaning": "पार्वतीपुत्र, कमळासमान मुख असलेल्या, गजमुखधारी,",
+          "transliteration": "Agajaanana Padmaarkam Gajaananam Aharnisham |",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अनेकदन्तं भक्तानां एकदन्तम् उपास्महे ||",
+          "meaning": "अनेक दातांचे भक्तांसाठी एकदंत असलेल्या गणेशाची आम्ही उपासना करतो.",
+          "transliteration": "Anekadantam Bhaktaanaam Ekadantam Upaasmahe ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ श्री गणेशाय नमः ||",
+          "meaning": "श्री गणेश देवाला आमचे विनम्र नमस्कार असो.",
+          "transliteration": "Om Shri Ganeshaaya Namah ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "mantra_saraswati",
+      "title": "सरस्वती मंत्र",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/saraswati.jpg",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "ॐ ऐं सरस्वत्यै नमः ||",
+          "meaning": "ॐ, सरस्वती देवीला आमचे नमन असो. हा सरस्वतीचा बीज मंत्र आहे.",
+          "transliteration": "Om Aim Saraswatyai Namah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "या कुन्देन्दु तुषारहार धवला या शुभ्रवस्त्रावृता |",
+          "meaning": "जी कुंद पुष्पासमान, चंद्रासमान, हिमासमान गोरी आणि शुभ्र वस्त्र परिधान केलेली आहे,",
+          "transliteration": "Yaa Kundendu Tushaara Haara Dhavalaa Yaa Shubhra Vastraavritaa |",
+          "imageUrl": null
+        },
+        {
+          "shloka": "या वीणावरदण्डमण्डितकरा या श्वेतपद्मासना |",
+          "meaning": "जिच्या हातात वीणा शोभून दिसते आणि जी श्वेत कमळावर विराजमान आहे,",
+          "transliteration": "Yaa Veena Vara Danda Manditakaraa Yaa Shweta Padmaasanaa |",
+          "imageUrl": null
+        },
+        {
+          "shloka": "या ब्रह्माच्युतशङ्करप्रभृतिभिर्देवैः सदा पूजिता |",
+          "meaning": "ब्रह्मा, विष्णू आणि शंकर यांसह सर्व देव जिची सदैव पूजा करतात,",
+          "transliteration": "Yaa Brahma Achyuta Shankara Prabhritibhir Devaih Sadaa Poojitaa |",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सा मां पातु सरस्वती भगवती निःशेषजाड्यापहा ||",
+          "meaning": "ती सर्व जडत्व नष्ट करणारी भगवती सरस्वती माझे रक्षण करो.",
+          "transliteration": "Saa Maam Paatu Saraswati Bhagavati Nihshesha Jaadyaapahaa ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "mantra_vishnu",
+      "title": "विष्णु मंत्र",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/vishnu.jpg",
+      "orderIndex": 5,
+      "content": [
+        {
+          "shloka": "ॐ नमो भगवते वासुदेवाय ||",
+          "meaning": "ॐ, भगवान वासुदेव (श्रीविष्णू) यांना आमचे नमन असो. हा द्वादशाक्षरी मंत्र आहे.",
+          "transliteration": "Om Namo Bhagavate Vaasudevaaya ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "शान्ताकारं भुजगशयनं पद्मनाभं सुरेशम् |",
+          "meaning": "शांत स्वरूपाचे, शेषनागावर शयन करणारे, कमलनाभ, देवांचे ईश्वर,",
+          "transliteration": "Shaantaakaaram Bhujagashayanam Padmanaabham Suresham |",
+          "imageUrl": null
+        },
+        {
+          "shloka": "विश्वाधारं गगनसदृशं मेघवर्णं शुभाङ्गम् |",
+          "meaning": "विश्वाचा आधार, आकाशासमान व्यापक, मेघवर्णी, शुभ अंगांचे,",
+          "transliteration": "Vishvaadhaaram Gaganasadrisham Meghavarnam Shubhaangam |",
+          "imageUrl": null
+        },
+        {
+          "shloka": "लक्ष्मीकान्तं कमलनयनं योगिभिर्ध्यानगम्यम् |",
+          "meaning": "लक्ष्मीचे पती, कमळनयन, योगींना ध्यानाद्वारे प्राप्त होणारे,",
+          "transliteration": "Lakshmeekaantam Kamalanyanam Yogibhir Dhyaanagamyam |",
+          "imageUrl": null
+        },
+        {
+          "shloka": "वन्दे विष्णुं भवभयहरं सर्वलोकैकनाथम् ||",
+          "meaning": "संसाराचे भय हरण करणाऱ्या, सर्व लोकांचे एकमेव नाथ, अशा श्रीविष्णूंना मी वंदन करतो.",
+          "transliteration": "Vande Vishnum Bhavabhayaharam Sarvalokaikanatham ||",
+          "imageUrl": null
         }
       ]
     },
@@ -53,12 +207,473 @@
       "id": "mantra_durga",
       "title": "दुर्गा मंत्र",
       "language": "marathi",
-      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/chalisa/durga.jpg",
-      "orderIndex": 4,
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/durga.jpg",
+      "orderIndex": 6,
       "content": [
         {
-          "shloka": "ॐ दुं दुर्गायै नमः",
-          "meaning": "दुर्गा संरक्षण आणि शक्ती देते."
+          "shloka": "ॐ दुं दुर्गायै नमः ||",
+          "meaning": "ॐ, दुर्गा देवीला आमचे नमन असो. हा दुर्गेचा बीज मंत्र आहे.",
+          "transliteration": "Om Dum Durgaayai Namah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सर्वमङ्गलमाङ्गल्ये शिवे सर्वार्थसाधिके |",
+          "meaning": "सर्व मंगलांमध्ये मंगलरूप, कल्याणकारी, सर्व इच्छा पूर्ण करणारी,",
+          "transliteration": "Sarva Mangala Maangalye Shive Sarvaartha Saadhike |",
+          "imageUrl": null
+        },
+        {
+          "shloka": "शरण्ये त्र्यम्बके गौरि नारायणि नमोऽस्तु ते ||",
+          "meaning": "हे शरणदात्री, त्रिनेत्री, गौरी, नारायणी, तुला माझे नमस्कार असोत.",
+          "transliteration": "Sharanye Tryambake Gauri Naaraayani Namostute ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "या देवी सर्वभूतेषु शक्तिरूपेण संस्थिता |",
+          "meaning": "जी देवी सर्व प्राणिमात्रांमध्ये शक्तिस्वरूपात विराजमान आहे,",
+          "transliteration": "Yaa Devi Sarvabhuteshu Shaktirupena Samsthitaa |",
+          "imageUrl": null
+        },
+        {
+          "shloka": "नमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः ||",
+          "meaning": "तिला नमस्कार, तिला नमस्कार, तिला वारंवार नमस्कार असो.",
+          "transliteration": "Namastasyai Namastasyai Namastasyai Namo Namah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जयन्ती मङ्गला काली भद्रकाली कपालिनी |",
+          "meaning": "जयन्ती, मंगला, काली, भद्रकाली, कपालिनी,",
+          "transliteration": "Jayanti Mangalaa Kaali Bhadrakaali Kapaalinee |",
+          "imageUrl": null
+        },
+        {
+          "shloka": "दुर्गा शिवा क्षमा धात्री स्वाहा स्वधा नमोऽस्तु ते ||",
+          "meaning": "दुर्गा, शिवा, क्षमा, धात्री, स्वाहा, स्वधा अशा तुला नमस्कार असो.",
+          "transliteration": "Durgaa Shivaa Kshamaa Dhaatri Swaahaa Swadhaa Namostute ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "mantra_lakshmi",
+      "title": "लक्ष्मी मंत्र",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/lakshmi.jpg",
+      "orderIndex": 7,
+      "content": [
+        {
+          "shloka": "ॐ श्रीं महालक्ष्म्यै नमः ||",
+          "meaning": "ॐ, महालक्ष्मी देवीला आमचे नमन असो. हा लक्ष्मीचा बीज मंत्र आहे.",
+          "transliteration": "Om Shreem Mahaalakshmyai Namah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "नमस्तेऽस्तु महामाये श्रीपीठे सुरपूजिते |",
+          "meaning": "हे महामाया, श्रीपीठावर विराजमान, देवतांद्वारे पूजित, तुला नमस्कार.",
+          "transliteration": "Namastestu Mahaamaye Shreepeethe Surapujite |",
+          "imageUrl": null
+        },
+        {
+          "shloka": "शङ्खचक्रगदाहस्ते महालक्ष्मि नमोऽस्तु ते ||",
+          "meaning": "हातात शंख, चक्र आणि गदा धारण करणाऱ्या महालक्ष्मी, तुला नमस्कार.",
+          "transliteration": "Shankha Chakra Gadaahaste Mahaalakshmi Namostute ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सर्वज्ञे सर्ववरदे सर्वदुष्टभयङ्करि |",
+          "meaning": "सर्वज्ञ, सर्व वर देणारी, सर्व दुष्टांना भय उत्पन्न करणारी,",
+          "transliteration": "Sarvajne Sarva Varade Sarva Dushta Bhayankari |",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सर्वदुःखहरे देवि महालक्ष्मि नमोऽस्तु ते ||",
+          "meaning": "सर्व दुःख दूर करणारी हे देवी महालक्ष्मी, तुला नमस्कार असो.",
+          "transliteration": "Sarva Duhkhahare Devi Mahaalakshmi Namostute ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "mantra_hanuman",
+      "title": "हनुमान मंत्र",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/hanuman.jpg",
+      "orderIndex": 8,
+      "content": [
+        {
+          "shloka": "ॐ हं हनुमते नमः ||",
+          "meaning": "ॐ, हनुमंताला आमचे नमन असो. हा हनुमानाचा बीज मंत्र आहे.",
+          "transliteration": "Om Ham Hanumate Namah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "मनोजवं मारुततुल्यवेगं जितेन्द्रियं बुद्धिमतां वरिष्ठम् |",
+          "meaning": "मनासमान वेगवान, वायूसमान गतिमान, जितेंद्रिय, बुद्धिमानांमध्ये श्रेष्ठ,",
+          "transliteration": "Manojavam Maarutatulyavegam Jitendriyam Buddhimataam Varishtham |",
+          "imageUrl": null
+        },
+        {
+          "shloka": "वातात्मजं वानरयूथमुख्यं श्रीरामदूतं शरणं प्रपद्ये ||",
+          "meaning": "वायुपुत्र, वानरसेनेचे प्रमुख, श्रीरामांचे दूत, अशा हनुमंताला मी शरण जातो.",
+          "transliteration": "Vaataatmajam Vaanarayuthamukhyam Shreeraamadootam Sharanam Prapadye ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "बुद्धिर्बलं यशो धैर्यं निर्भयत्वं अरोगताम् |",
+          "meaning": "बुद्धी, बल, यश, धैर्य, निर्भयता आणि आरोग्य,",
+          "transliteration": "Buddhir Balam Yasho Dhairyam Nirbhayatvam Arogataam |",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अजाड्यं वाक्पटुत्वं च हनुमत्स्मरणात् भवेत् ||",
+          "meaning": "जडत्वाचा नाश आणि वाक्चातुर्य हे हनुमंताच्या स्मरणाने प्राप्त होतात.",
+          "transliteration": "Ajaadyam Vaakpatuttvam Cha Hanumatsmaranaat Bhavet ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ आञ्जनेयाय विद्महे वायुपुत्राय धीमहि | तन्नो हनुमत् प्रचोदयात् ||",
+          "meaning": "आम्ही अंजनीपुत्राला जाणतो, वायुपुत्राचे ध्यान करतो. ते हनुमंत आमच्या बुद्धीला प्रेरित करोत.",
+          "transliteration": "Om Aanjaneyaaya Vidmahe Vaayuputraaya Dheemahi | Tanno Hanumat Prachodayaat ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "mantra_shanti",
+      "title": "शांती मंत्र",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/om.jpg",
+      "orderIndex": 9,
+      "content": [
+        {
+          "shloka": "ॐ सह नाववतु |",
+          "meaning": "ॐ, परमेश्वर आम्हा गुरु-शिष्य दोघांचे एकत्र रक्षण करो.",
+          "transliteration": "Om Saha Naavavatu |",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सह नौ भुनक्तु |",
+          "meaning": "आम्हा दोघांचे एकत्र पालन-पोषण करो.",
+          "transliteration": "Saha Nau Bhunaktu |",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सह वीर्यं करवावहै |",
+          "meaning": "आम्ही एकत्रितपणे सामर्थ्याने अध्ययन करू.",
+          "transliteration": "Saha Veeryam Karavaavahai |",
+          "imageUrl": null
+        },
+        {
+          "shloka": "तेजस्वि नावधीतमस्तु मा विद्विषावहै ||",
+          "meaning": "आमचे अध्ययन तेजस्वी होवो, आम्हामध्ये कधीही वैर निर्माण होऊ नये.",
+          "transliteration": "Tejasvi Naavadheetamastu Maa Vidvishaavahai ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ शान्तिः शान्तिः शान्तिः ||",
+          "meaning": "ॐ, शांती शांती शांती. आध्यात्मिक, आधिदैविक आणि आधिभौतिक तिन्ही तापांची शांती होवो.",
+          "transliteration": "Om Shaantih Shaantih Shaantih ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ असतो मा सद्गमय | तमसो मा ज्योतिर्गमय | मृत्योर्मा अमृतं गमय ||",
+          "meaning": "असत्यापासून सत्याकडे नेणारे, अंधकारापासून प्रकाशाकडे नेणारे, मृत्यूपासून अमरत्वाकडे नेणारे, हे प्रभू.",
+          "transliteration": "Om Asato Maa Sadgamaya | Tamaso Maa Jyotirgamaya | Mrityormaa Amritam Gamaya ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ सर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः | सर्वे भद्राणि पश्यन्तु मा कश्चिद्दुःखभाग्भवेत् ||",
+          "meaning": "सर्वांना सुख लाभो, सर्व निरोगी राहोत, सर्वांचे कल्याण होवो, कोणालाही दुःख भोगावे लागू नये.",
+          "transliteration": "Om Sarve Bhavantu Sukhinah Sarve Santu Niraamayaah | Sarve Bhadraani Pashyantu Maa Kashchid Duhkha Bhaag Bhavet ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "mantra_navgraha",
+      "title": "नवग्रह मंत्र",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/navgraha.jpg",
+      "orderIndex": 10,
+      "content": [
+        {
+          "shloka": "ॐ सूर्याय नमः ||",
+          "meaning": "सूर्यदेवाला नमस्कार. सूर्य हा आत्मकारक ग्रह आहे जो आरोग्य, तेज आणि यश प्रदान करतो.",
+          "transliteration": "Om Suryaaya Namah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ चन्द्राय नमः ||",
+          "meaning": "चंद्रदेवाला नमस्कार. चंद्र हा मनोकारक ग्रह आहे जो शांती आणि समाधान प्रदान करतो.",
+          "transliteration": "Om Chandraaya Namah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ अङ्गारकाय नमः ||",
+          "meaning": "मंगळदेवाला नमस्कार. मंगळ हा शौर्य आणि पराक्रमाचा ग्रह आहे.",
+          "transliteration": "Om Angaarakaaya Namah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ बुधाय नमः ||",
+          "meaning": "बुधदेवाला नमस्कार. बुध हा बुद्धी, विद्या आणि वाणीचा ग्रह आहे.",
+          "transliteration": "Om Budhaaya Namah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ बृहस्पतये नमः ||",
+          "meaning": "गुरु (बृहस्पती) देवाला नमस्कार. गुरु हा ज्ञान, भाग्य आणि धर्माचा ग्रह आहे.",
+          "transliteration": "Om Brihaspataye Namah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ शुक्राय नमः ||",
+          "meaning": "शुक्रदेवाला नमस्कार. शुक्र हा प्रेम, सौंदर्य आणि ऐश्वर्याचा ग्रह आहे.",
+          "transliteration": "Om Shukraaya Namah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ शनैश्चराय नमः ||",
+          "meaning": "शनिदेवाला नमस्कार. शनि हा न्यायाचा आणि कर्मफलदाता ग्रह आहे.",
+          "transliteration": "Om Shanaishcharaaya Namah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ राहवे नमः | ॐ केतवे नमः ||",
+          "meaning": "राहू आणि केतू यांना नमस्कार. राहू-केतू हे छायाग्रह आहेत जे कर्मबंधन दूर करतात.",
+          "transliteration": "Om Raahave Namah | Om Ketave Namah ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "mantra_panchakshara",
+      "title": "पंचाक्षरी मंत्र",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/shiv.jpg",
+      "orderIndex": 11,
+      "content": [
+        {
+          "shloka": "ॐ नमः शिवाय ||",
+          "meaning": "ॐ, भगवान शिवांना नमस्कार. हा पंचाक्षरी मंत्र शिवाचा सर्वश्रेष्ठ मंत्र आहे.",
+          "transliteration": "Om Namah Shivaaya ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "नागेन्द्रहाराय त्रिलोचनाय भस्माङ्गरागाय महेश्वराय |",
+          "meaning": "नागराजाचा हार धारण करणाऱ्या, त्रिनेत्रधारी, अंगाला भस्म लावलेल्या महेश्वराला,",
+          "transliteration": "Naagendrahaaraaya Trilochanaya Bhasmaangaraagaaya Maheshwaraaya |",
+          "imageUrl": null
+        },
+        {
+          "shloka": "नित्याय शुद्धाय दिगम्बराय तस्मै नकाराय नमः शिवाय ||",
+          "meaning": "नित्य, शुद्ध, दिगंबर अशा शिवांना 'न' काराचे प्रतीक नमस्कार असो.",
+          "transliteration": "Nityaaya Shuddhaaya Digambaraaya Tasmai Nakaaraaya Namah Shivaaya ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "मन्दाकिनीसलिलचन्दनचर्चिताय नन्दीश्वरप्रमथनाथमहेश्वराय |",
+          "meaning": "गंगाजल आणि चंदनाने अभिषिक्त, नंदीश्वर आणि प्रमथगणांचे नाथ, महेश्वर,",
+          "transliteration": "Mandaakinee Salila Chandana Charchitaaya Nandeeshwara Pramathanatha Maheshwaraaya |",
+          "imageUrl": null
+        },
+        {
+          "shloka": "मन्दारपुष्पबहुपुष्पसुपूजिताय तस्मै मकाराय नमः शिवाय ||",
+          "meaning": "मंदार आणि अनेक पुष्पांनी पूजित अशा शिवांना 'म' काराचे प्रतीक नमस्कार.",
+          "transliteration": "Mandaarapushpa Bahupushpa Supoojitaaya Tasmai Makaaraaya Namah Shivaaya ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "शिवाय गौरीवदनाब्जवृन्दसूर्याय दक्षाध्वरनाशकाय |",
+          "meaning": "गौरीच्या मुखकमलाचे सूर्य, दक्षयज्ञाचा नाश करणारे,",
+          "transliteration": "Shivaaya Gauri Vadanaabja Vrinda Suryaaya Dakshaadhvara Naashakaaya |",
+          "imageUrl": null
+        },
+        {
+          "shloka": "श्रीनीलकण्ठाय वृषध्वजाय तस्मै शिकाराय नमः शिवाय ||",
+          "meaning": "नीलकंठ, वृषभध्वज अशा शिवांना 'शि' काराचे प्रतीक नमस्कार.",
+          "transliteration": "Shree Neelakanthaaya Vrishadhvajaaya Tasmai Shikaaraaya Namah Shivaaya ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "mantra_ashtakshara",
+      "title": "अष्टाक्षरी मंत्र",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/vishnu.jpg",
+      "orderIndex": 12,
+      "content": [
+        {
+          "shloka": "ॐ नमो नारायणाय ||",
+          "meaning": "ॐ, भगवान नारायणाला नमस्कार. हा अष्टाक्षरी मंत्र विष्णूचा परम मंत्र आहे.",
+          "transliteration": "Om Namo Naaraayanaaya ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कायेन वाचा मनसेन्द्रियैर्वा बुद्ध्यात्मना वा प्रकृतेः स्वभावात् |",
+          "meaning": "शरीराने, वाणीने, मनाने, इंद्रियांनी, बुद्धीने किंवा स्वभावाने,",
+          "transliteration": "Kaayena Vaachaa Manasendriyairvaa Buddhyaatmanaa Vaa Prakriteh Svabhaavaat |",
+          "imageUrl": null
+        },
+        {
+          "shloka": "करोमि यद्यत्सकलं परस्मै नारायणायेति समर्पयामि ||",
+          "meaning": "मी जे काही करतो ते सर्व त्या परम नारायणाला समर्पित करतो.",
+          "transliteration": "Karomi Yadyat Sakalam Parasmai Naaraayanaayeti Samarpayaami ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "त्वमेव माता च पिता त्वमेव | त्वमेव बन्धुश्च सखा त्वमेव |",
+          "meaning": "तूच माता आणि तूच पिता, तूच बंधू आणि तूच सखा,",
+          "transliteration": "Tvameva Maataa Cha Pitaa Tvameva | Tvameva Bandhushcha Sakhaa Tvameva |",
+          "imageUrl": null
+        },
+        {
+          "shloka": "त्वमेव विद्या द्रविणं त्वमेव | त्वमेव सर्वं मम देवदेव ||",
+          "meaning": "तूच विद्या आणि तूच धन, तूच सर्वकाही आहेस, हे देवदेवा.",
+          "transliteration": "Tvameva Vidyaa Dravinam Tvameva | Tvameva Sarvam Mama Devadeva ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "mantra_dhanvantari",
+      "title": "धन्वंतरी मंत्र",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/vishnu.jpg",
+      "orderIndex": 13,
+      "content": [
+        {
+          "shloka": "ॐ नमो भगवते वासुदेवाय धन्वन्तरये |",
+          "meaning": "ॐ, भगवान वासुदेवांचे अवतार धन्वंतरी देवाला नमस्कार.",
+          "transliteration": "Om Namo Bhagavate Vaasudevaaya Dhanvantaraye |",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अमृतकलशहस्ताय सर्वामयविनाशनाय |",
+          "meaning": "हातात अमृतकलश धारण करणाऱ्या, सर्व रोग नष्ट करणाऱ्या,",
+          "transliteration": "Amritakalasha Hastaaya Sarvaamaya Vinaashanaaya |",
+          "imageUrl": null
+        },
+        {
+          "shloka": "त्रैलोक्यनाथाय श्री महाविष्णवे नमः ||",
+          "meaning": "तिन्ही लोकांचे नाथ, श्री महाविष्णूंना नमस्कार असो.",
+          "transliteration": "Trailokyanaathaaya Shree Mahavishnave Namah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ धन्वन्तरये नमः ||",
+          "meaning": "ॐ, आयुर्वेदाचे देवता धन्वंतरींना नमस्कार. हा मंत्र आरोग्य प्राप्तीसाठी जपावा.",
+          "transliteration": "Om Dhanvantaraye Namah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अच्युतानन्दगोविन्द नामोच्चारणभेषजात् |",
+          "meaning": "अच्युत, आनंद, गोविंद या नामांचे उच्चारण हेच औषध आहे,",
+          "transliteration": "Achyutaananda Govinda Naamochaarana Bheshajaat |",
+          "imageUrl": null
+        },
+        {
+          "shloka": "नश्यन्ति सकला रोगाः सत्यं सत्यं वदाम्यहम् ||",
+          "meaning": "सर्व रोग नष्ट होतात, हे मी सत्य सत्य सांगतो.",
+          "transliteration": "Nashyanti Sakalaa Rogaah Satyam Satyam Vadaamyaham ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "mantra_santan_gopal",
+      "title": "संतान गोपाल मंत्र",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/krishna.jpg",
+      "orderIndex": 14,
+      "content": [
+        {
+          "shloka": "ॐ श्रीं ह्रीं क्लीं ग्लौं देवकीसुत गोविन्द |",
+          "meaning": "ॐ, श्रीं, ह्रीं, क्लीं, ग्लौं, देवकीपुत्र गोविंद,",
+          "transliteration": "Om Shreem Hreem Kleem Glaum Devakeesuta Govinda |",
+          "imageUrl": null
+        },
+        {
+          "shloka": "वासुदेव जगत्पते देहि मे तनयं कृष्ण |",
+          "meaning": "हे वासुदेव, जगाचे पालनकर्ते, हे कृष्णा, मला संतान प्रदान करा,",
+          "transliteration": "Vaasudeva Jagatpate Dehi Me Tanayam Krishna |",
+          "imageUrl": null
+        },
+        {
+          "shloka": "त्वामहं शरणं गतः ||",
+          "meaning": "मी तुझ्या शरणी आलो आहे.",
+          "transliteration": "Tvaamaham Sharanam Gatah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ नमो भगवते वासुदेवाय ||",
+          "meaning": "ॐ, भगवान वासुदेवांना नमस्कार. संतानप्राप्तीसाठी हा मंत्र भक्तिपूर्वक जपावा.",
+          "transliteration": "Om Namo Bhagavate Vaasudevaaya ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कृष्णाय वासुदेवाय हरये परमात्मने |",
+          "meaning": "कृष्ण, वासुदेव, हरी, परमात्मा,",
+          "transliteration": "Krishnaaya Vaasudevaaya Haraye Paramaatmane |",
+          "imageUrl": null
+        },
+        {
+          "shloka": "प्रणतक्लेशनाशाय गोविन्दाय नमो नमः ||",
+          "meaning": "शरणागतांचे क्लेश नष्ट करणाऱ्या गोविंदाला वारंवार नमस्कार.",
+          "transliteration": "Pranata Klesha Naashaaya Govindaaya Namo Namah ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "mantra_guru",
+      "title": "गुरु मंत्र (गुरुर्ब्रह्मा)",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/om.jpg",
+      "orderIndex": 15,
+      "content": [
+        {
+          "shloka": "गुरुर्ब्रह्मा गुरुर्विष्णुः गुरुर्देवो महेश्वरः |",
+          "meaning": "गुरु हेच ब्रह्मा, गुरु हेच विष्णू, गुरु हेच महेश्वर (शिव) आहेत.",
+          "transliteration": "Gurur Brahmaa Gurur Vishnuh Gurur Devo Maheshwarah |",
+          "imageUrl": null
+        },
+        {
+          "shloka": "गुरुः साक्षात् परं ब्रह्म तस्मै श्री गुरवे नमः ||",
+          "meaning": "गुरु हेच साक्षात परब्रह्म आहेत, अशा श्री गुरूंना माझे नमस्कार.",
+          "transliteration": "Guruh Saakshaat Param Brahma Tasmai Shree Gurave Namah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अखण्डमण्डलाकारं व्याप्तं येन चराचरम् |",
+          "meaning": "अखंड मंडलाकार ज्यांनी चराचर व्यापलेले आहे,",
+          "transliteration": "Akhandamandalaakaaram Vyaaptam Yena Charaacharam |",
+          "imageUrl": null
+        },
+        {
+          "shloka": "तत्पदं दर्शितं येन तस्मै श्री गुरवे नमः ||",
+          "meaning": "ज्यांनी ते परम तत्त्व दाखवले, अशा श्री गुरूंना नमस्कार.",
+          "transliteration": "Tatpadam Darshitam Yena Tasmai Shree Gurave Namah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अज्ञानतिमिरान्धस्य ज्ञानाञ्जनशलाकया |",
+          "meaning": "अज्ञानरूपी अंधकाराने आंधळ्या झालेल्यांना ज्ञानरूपी अंजनाच्या शलाकेने,",
+          "transliteration": "Ajnaana Timiraandhasya Jnaanaanjana Shalaakayaa |",
+          "imageUrl": null
+        },
+        {
+          "shloka": "चक्षुरुन्मीलितं येन तस्मै श्री गुरवे नमः ||",
+          "meaning": "ज्यांनी डोळे उघडले (ज्ञानदृष्टी दिली), अशा श्री गुरूंना नमस्कार.",
+          "transliteration": "Chakshur Unmeelitam Yena Tasmai Shree Gurave Namah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ध्यानमूलं गुरोर्मूर्तिः पूजामूलं गुरोः पदम् | मन्त्रमूलं गुरोर्वाक्यं मोक्षमूलं गुरोः कृपा ||",
+          "meaning": "ध्यानाचे मूळ गुरुमूर्ती, पूजेचे मूळ गुरुचरण, मंत्राचे मूळ गुरुवाक्य आणि मोक्षाचे मूळ गुरुकृपा आहे.",
+          "transliteration": "Dhyaanamoolam Gurormurtih Poojaamoolam Guroh Padam | Mantramoolam Gurorvakyam Mokshamoolam Guroh Kripaa ||",
+          "imageUrl": null
         }
       ]
     }

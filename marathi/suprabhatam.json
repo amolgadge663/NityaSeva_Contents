@@ -1,0 +1,204 @@
+{
+  "category": "Suprabhatam",
+  "version": 1,
+  "items": [
+    {
+      "id": "supra_venkatesh",
+      "title": "श्री वेंकटेश्वर सुप्रभातम्",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/suprabhatam/venkatesh.jpg",
+      "orderIndex": 1,
+      "content": [
+        {
+          "shloka": "कौसल्या सुप्रजा राम पूर्वा सन्ध्या प्रवर्तते |\nउत्तिष्ठ नरशार्दूल कर्तव्यं दैवम् आह्निकम् ||",
+          "meaning": "हे राम, कौसल्येचे सुपुत्र, प्रातःकालीन संध्या येत आहे. उठा, हे नरश्रेष्ठ, दैनिक दिव्य कर्तव्ये करण्याची वेळ आली.",
+          "transliteration": "Kausalya Supraja Rama Purva Sandhya Pravartate |\nUttishtha Narashardula Kartavyam Daivam Ahnikam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "श्री वेङ्कटेश सुप्रभातम् आरभ्यते |\nश्रीमन् अभीष्ट वरदाखिल लोक बन्धो |\nश्री श्रीनिवास जगदेक दयैक सिन्धो ||",
+          "meaning": "श्री वेंकटेश्वरांचे सुप्रभातम् सुरू होते. हे सर्व अभीष्टांचे वरदाता, सर्व लोकांचे बंधू, हे श्रीनिवास, जगाचे एकमेव दयासागर.",
+          "transliteration": "Shri Venkatesh Suprabhatam Arabhyate |\nShriman Abhishta Varadakhila Loka Bandho |\nShri Shrinivasa Jagadeka Dayaika Sindho ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "श्री वेङ्कटाचलपते तव सुप्रभातम् |\nब्रह्मादयः सुरवरगणाः समहृष्या |\nसन्तस् सनन्दन मुखास्तत्त्वं प्रणमन्ति ||",
+          "meaning": "हे वेंकटाचलाचे स्वामी, तुमचे सुप्रभात असो! ब्रह्मदेव आणि श्रेष्ठ देवतांचा समूह, सनंदन आदी संत प्रसन्नतेने तुम्हाला प्रणाम करतात.",
+          "transliteration": "Shri Venkatachalapate Tava Suprabhatam |\nBrahmadayah Suravaraagnah Samahrishya |\nSantas Sanandana Mukhasttatvam Pranamanti ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "लक्ष्मी निवास निरवद्य गुणैक सिन्धो |\nसंसार सागर समुत्तरणैक सेतो |\nवेदान्त वेद्य निजवैभव भक्त भोग्य |\nश्री वेङ्कटाचलपते तव सुप्रभातम् ||",
+          "meaning": "हे लक्ष्मीचे निवासस्थान, निर्दोष गुणांचे सागर, संसार सागर पार करण्याचा एकमेव सेतू, वेदान्ताने ज्ञेय, ज्यांच्या वैभवाचा भक्त आनंद घेतात — हे वेंकटाचलपती, सुप्रभात!",
+          "transliteration": "Lakshmi Nivasa Niravadya Gunaika Sindho |\nSamsara Sagara Samuttaranaika Seto |\nVedanta Vedya Nijavaibhava Bhakta Bhogya |\nShri Venkatachalapate Tava Suprabhatam ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "supra_ram",
+      "title": "श्री राम सुप्रभातम्",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/suprabhatam/ram.jpg",
+      "orderIndex": 2,
+      "content": [
+        {
+          "shloka": "कौसल्या सुप्रजा राम पूर्वा सन्ध्या प्रवर्तते |\nउत्तिष्ठ नरशार्दूल कर्तव्यं दैवम् आह्निकम् ||",
+          "meaning": "हे राम, कौसल्येचे श्रेष्ठ पुत्र, प्रातःकालीन संध्या आली आहे. उठा, हे नरश्रेष्ठ, दैनिक दिव्य कर्तव्ये पार पाडायची आहेत.",
+          "transliteration": "Kausalya Supraja Rama Purva Sandhya Pravartate |\nUttishtha Narashardula Kartavyam Daivam Ahnikam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "उत्तिष्ठ उत्तिष्ठ गोविन्द उत्तिष्ठ गरुडध्वज |\nउत्तिष्ठ कमलाकान्त त्रैलोक्यं मङ्गलं कुरु ||",
+          "meaning": "उठा, उठा हे गोविंद! उठा हे गरुडध्वज! उठा हे कमलाकांत, तिन्ही लोकांचे मंगल करा.",
+          "transliteration": "Uttishtha Uttishtha Govinda Uttishtha Garudadhvaja |\nUttishtha Kamalakanta Trailokyam Mangalam Kuru ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "मातस्तु कौसल्या सुप्रजाता सुपुत्र |\nसीता रामस्य दयिता प्रिया वनिता |\nलक्ष्मणो अनुचरो भरतः प्रणामी ||",
+          "meaning": "माता कौसल्या श्रेष्ठ पुत्राने धन्य; सीता रामांची प्रिय पत्नी; लक्ष्मण सेवक आणि भरत प्रणामी.",
+          "transliteration": "Matastu Kausalya Suprajata Suputra |\nSita Ramasya Dayita Priya Vanita |\nLakshmano Anucharo Bharatah Pranami ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "श्री रामचन्द्र चरणौ मनसा स्मरामि |\nश्री रामचन्द्र चरणौ वचसा गृणामि |\nश्री रामचन्द्र चरणौ शिरसा नमामि |\nश्री रामचन्द्र सुप्रभातम् ||",
+          "meaning": "श्री रामचंद्रांच्या चरणांचे मी मनाने स्मरण करतो. श्री रामचंद्रांच्या चरणांची वाणीने स्तुती करतो. श्री रामचंद्रांच्या चरणांना शिराने नमन करतो. श्री रामचंद्र सुप्रभात!",
+          "transliteration": "Shri Ramachandra Charanau Manasa Smarami |\nShri Ramachandra Charanau Vachasa Grinami |\nShri Ramachandra Charanau Shirasa Namami |\nShri Ramachandra Suprabhatam ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "supra_krishna",
+      "title": "श्री कृष्ण सुप्रभातम्",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/suprabhatam/krishna.jpg",
+      "orderIndex": 3,
+      "content": [
+        {
+          "shloka": "वसुदेव सुतं देवं कंस चाणूर मर्दनम् |\nदेवकी परमानन्दं कृष्णं वन्दे जगद्गुरुम् ||",
+          "meaning": "मी वसुदेवपुत्र, देव, कंस आणि चाणूराचे मर्दन करणाऱ्या, देवकीचा परमानंद, जगद्गुरू कृष्णाला वंदन करतो.",
+          "transliteration": "Vasudeva Sutam Devam Kamsa Chanura Mardanam |\nDevaki Paramanandam Krishnam Vande Jagadgurum ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "उत्तिष्ठ कृष्ण गोविन्द उत्तिष्ठ नन्द नन्दन |\nउत्तिष्ठ कमलाकान्त उत्तिष्ठ व्रज मण्डन ||",
+          "meaning": "उठा कृष्णा! उठा गोविंदा! उठा नंदनंदना! उठा कमलाकांता! उठा व्रजभूषणा!",
+          "transliteration": "Uttishtha Krishna Govinda Uttishtha Nanda Nandana |\nUttishtha Kamalakanta Uttishtha Vraja Mandana ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "गोपी गोपाल बालानां प्राण वल्लभ केशव |\nमुरली धर माधव प्रातः सुप्रभातम् अस्तु ते ||",
+          "meaning": "हे केशवा, गोपी, गोपाळ आणि बालकांचे प्राणवल्लभ! हे मुरलीधर माधवा — तुमचे प्रातःकाळ शुभ असो!",
+          "transliteration": "Gopi Gopala Balanam Prana Vallabha Keshava |\nMurali Dhara Madhava Pratah Suprabhatam Astu Te ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "मथुरा नगरी रम्या यमुना तीर वासिने |\nगोवर्धनोद्धारिणे नमः श्री कृष्णाय सुप्रभातम् ||",
+          "meaning": "रम्य मथुरा नगरीत यमुना तटावर राहणाऱ्या, गोवर्धन उचलणाऱ्या श्री कृष्णाला नमस्कार आणि सुप्रभात!",
+          "transliteration": "Mathura Nagari Ramya Yamuna Tira Vasine |\nGovardhanoddharine Namah Shri Krishnaya Suprabhatam ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "supra_shiva",
+      "title": "श्री शिव सुप्रभातम्",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/suprabhatam/shiva.jpg",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "प्रातः स्मरामि भव भीति हरं सुरेशम् |\nगङ्गा धरं वृषभ वाहनम् अम्बिकेशम् |\nखाट्वाङ्ग शूल वरदम् अभयं कराग्रे |\nश्री शम्भवे तव सुप्रभातम् ||",
+          "meaning": "प्रातःकाळी मी संसाराच्या भयाचे हरण करणाऱ्या, देवाधिदेव, गंगाधर, वृषभवाहन, अंबिकापतींचे स्मरण करतो — ज्यांच्या हातांत खट्वांग, शूल, वरद आणि अभय मुद्रा आहे. हे शंभू, सुप्रभात!",
+          "transliteration": "Pratah Smarami Bhava Bhiti Haram Suresham |\nGanga Dharam Vrishabha Vahanam Ambikesha |\nKhatvanga Shula Varadam Abhayam Karagre |\nShri Shambhave Tava Suprabhatam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "प्रातः नमामि गिरिशं गिरिजा अर्धदेहम् |\nसर्ग स्थिति प्रलय कारणम् आदिदेवम् |\nविश्वेश्वरं विजित विश्वम् अनेक मूर्तिम् ||",
+          "meaning": "प्रातःकाळी मी गिरिशांना नमन करतो ज्यांचे अर्ध शरीर गिरिजेचे (पार्वतीचे) आहे, जे सृष्टी, स्थिती आणि प्रलयाचे कारण आदिदेव, विश्वेश्वर, अनेक मूर्तींचे आहेत.",
+          "transliteration": "Pratah Namami Girisham Girija Ardhadeham |\nSarga Sthiti Pralaya Karanam Adidevam |\nVishveshvaram Vijita Vishvam Aneka Murtim ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कैलास शिखर स्थितम् उमा सहितम् |\nपञ्चवक्त्रं दश भुजं त्रिनयनम् |\nशशाङ्क शेखरं जटा मुकुट मण्डितम् |\nश्री महादेवाय सुप्रभातम् ||",
+          "meaning": "कैलास शिखरावर उमेसह विराजमान, पंचमुख, दशभुज, त्रिनेत्र, चंद्रशेखर, जटामुकुटाने सुशोभित — श्री महादेवांना सुप्रभात!",
+          "transliteration": "Kailasa Shikhara Sthitam Uma Sahitam |\nPanchavaktram Dasha Bhujam Trinayanam |\nShashanka Shekharam Jata Mukuta Manditam |\nShri Mahadevaya Suprabhatam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "नन्दी समीपे वृषभ वाहन प्रिय |\nगणेश स्कन्द जनक शिव शङ्कर |\nभस्म विभूषित दिगम्बर मृत्युञ्जय |\nश्री काशी विश्वनाथाय सुप्रभातम् ||",
+          "meaning": "नंदीजवळ, वृषभवाहन प्रिय, गणेश आणि स्कंदांचे पिता शिव शंकर, भस्मविभूषित, दिगंबर, मृत्युंजय — श्री काशी विश्वनाथांना सुप्रभात!",
+          "transliteration": "Nandi Samipe Vrishabha Vahana Priya |\nGanesha Skanda Janaka Shiva Shankara |\nBhasma Vibhushita Digambara Mrityunjaya |\nShri Kashi Vishvanathaya Suprabhatam ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "supra_devi",
+      "title": "श्री देवी सुप्रभातम्",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/suprabhatam/devi.jpg",
+      "orderIndex": 5,
+      "content": [
+        {
+          "shloka": "प्रातः स्मरामि सरसीरुह लोचनां तां |\nसिन्दूर बिन्दु तिलकाङ्कित भाल देशाम् |\nकुङ्कुम रञ्जित करां कमलेक्षणां ताम् |\nश्री जगदम्बिकायै सुप्रभातम् ||",
+          "meaning": "प्रातःकाळी मी त्या कमलनयनीचे स्मरण करतो ज्यांच्या ललाटावर सिंदूराचे तिलक, कुंकुमाने रंजित हात आहेत — श्री जगदंबिकेला सुप्रभात!",
+          "transliteration": "Pratah Smarami Sarasiruha Lochanam Tam |\nSindura Bindu Tilakankita Bhala Desham |\nKunkuma Ranjita Karam Kamalekshanam Tam |\nShri Jagadambikayai Suprabhatam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "उत्तिष्ठ देवि जगदम्बिके प्रातः काले |\nउत्तिष्ठ महालक्ष्मि उत्तिष्ठ सरस्वती |\nउत्तिष्ठ दुर्गा भवानी शिवे पाहिमाम् ||",
+          "meaning": "उठा देवी जगदंबे प्रातःकाळी! उठा महालक्ष्मी! उठा सरस्वती! उठा दुर्गा, भवानी, शिवे — माझे रक्षण करा!",
+          "transliteration": "Uttishtha Devi Jagadambike Pratah Kale |\nUttishtha Mahalakshmi Uttishtha Sarasvati |\nUttishtha Durga Bhavani Shive Pahimam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सिंह वाहिनी महिषासुर मर्दिनी |\nशङ्ख चक्र गदा पद्म धारिणी |\nसर्व मङ्गल माङ्गल्ये शिवे |\nश्री ललिताम्बिकायै सुप्रभातम् ||",
+          "meaning": "सिंहवाहिनी, महिषासुरमर्दिनी, शंख-चक्र-गदा-पद्म धारिणी, सर्वमंगल मांगल्ये शिवे — श्री ललितांबिकेला सुप्रभात!",
+          "transliteration": "Simha Vahini Mahishasura Mardini |\nShankha Chakra Gada Padma Dharini |\nSarva Mangala Mangalye Shive |\nShri Lalitambikayai Suprabhatam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "या देवी सर्वभूतेषु शक्ति रूपेण संस्थिता |\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः |\nश्री आदि पराशक्त्यै सुप्रभातम् ||",
+          "meaning": "जी देवी सर्व प्राण्यांमध्ये शक्ती रूपात विद्यमान आहे — तिला तीनदा नमस्कार, पुन्हा पुन्हा नमस्कार. श्री आदि पराशक्तीला सुप्रभात!",
+          "transliteration": "Ya Devi Sarvabhuteshu Shakti Rupena Samsthita |\nNamastasyai Namastasyai Namastasyai Namo Namah |\nShri Adi Parashaktyai Suprabhatam ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "supra_hanuman",
+      "title": "श्री हनुमान सुप्रभातम्",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/suprabhatam/hanuman.jpg",
+      "orderIndex": 6,
+      "content": [
+        {
+          "shloka": "उत्तिष्ठ वायु तनय प्रातः काल समागते |\nराम सेवा परो नित्यं हनूमन् सुप्रभातम् ||",
+          "meaning": "उठा वायुपुत्रा, प्रातःकाळ आला आहे! हे हनुमान, सदैव रामसेवेत तत्पर — सुप्रभात!",
+          "transliteration": "Uttishtha Vayu Tanaya Pratah Kala Samagate |\nRama Seva Paro Nityam Hanuman Suprabhatam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अञ्जना नन्दन वीर बल बुद्धि विद्या धनम् |\nमहावीर विक्रम बजरंगी महाबली |\nराम दूत अतुलित बलधाम सुप्रभातम् ||",
+          "meaning": "हे अंजनानंदना, वीरता, बल, बुद्धी, विद्या आणि धनाने संपन्न! हे महावीर, विक्रमी बजरंगी, महाबली! हे रामदूत, अतुलित बलधाम — सुप्रभात!",
+          "transliteration": "Anjana Nandana Vira Bala Buddhi Vidya Dhanam |\nMahavira Vikrama Bajrangi Mahabali |\nRama Duta Atulita Baladhama Suprabhatam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "लङ्का दहन सञ्जीवनी आनयन प्रभो |\nसीता शोक निवारण राम प्रिय भक्त |\nअष्ट सिद्धि नव निधि के दाता ||",
+          "meaning": "हे लंकादहन आणि संजीवनी आणणाऱ्या प्रभो! सीतेचे दुःख दूर करणारे, रामांचे प्रिय भक्त, अष्टसिद्धी आणि नवनिधीचे दाता.",
+          "transliteration": "Lanka Dahana Sanjivani Anayana Prabho |\nSita Shoka Nivarana Rama Priya Bhakta |\nAshta Siddhi Nava Nidhi Ke Data ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "मनोजवं मारुत तुल्य वेगम् |\nजितेन्द्रियं बुद्धि मतां वरिष्ठम् |\nवात आत्मजं वानर यूथ मुख्यम् |\nश्री राम दूतं शरणं प्रपद्ये |\nश्री हनुमते सुप्रभातम् ||",
+          "meaning": "मनाइतक्या वेगवान, वायूइतक्या गतिमान, जितेंद्रिय, बुद्धिमानांमध्ये श्रेष्ठ, वायुपुत्र, वानरसेनेचे प्रमुख, श्री रामदूत — मी शरण जातो. श्री हनुमान सुप्रभात!",
+          "transliteration": "Manojavam Maruta Tulya Vegam |\nJitendriyam Buddhi Matam Varishtham |\nVata Atmajam Vanara Yutha Mukhyam |\nShri Rama Dutam Sharanam Prapadye |\nShri Hanumate Suprabhatam ||",
+          "imageUrl": null
+        }
+      ]
+    }
+  ]
+}

@@ -10,319 +10,682 @@
       "orderIndex": 1,
       "content": [
         {
-          "shloka": "सुखकर्ता दुःखहर्ता वार्ता विघ्नाची | \nनुरवी पुरवी प्रेम कृपा जयाची | \nसर्वांगी सुंदर उटी शेंदुराची | \nकंठी झळके माळ मुक्ताफळांची ||",
-          "meaning": "सुख देणारा, दुःख दूर करणारा आणि संकटांची वार्ता मिटवणारा. ज्याची कृपा प्रेमाचा वर्षाव करते, ज्याच्या अंगाला शेंदूर लावला आहे आणि गळ्यात मोत्यांची माळ शोभते.",
-          "transliteration": "Sukhkarta Dukhharta Varta Vighnachi | Nurvi Purvi Prem Krupa Jayachi | Sarvangi Sundar Uti Shendurachi | Kanthi Zhalke Maal Muktaphalanchi ||",
-          "imageUrl": ""
+          "shloka": "सुखकर्ता दुःखहर्ता वार्ता विघ्नाची |\nनुरवी पुरवी प्रेम कृपा जयाची |\nसर्वांगी सुंदर उटी शेंदुराची |\nकंठी झळके माळ मुक्ताफळांची || १ ||",
+          "meaning": "सुख देणारा, दुःख हरण करणारा, विघ्ने नष्ट करणारा असा गणपती. त्याच्या कृपेने प्रेम पूर्ण होते. त्याचे सर्वांग शेंदुराने सुंदर शोभते आणि गळ्यात मोत्यांची माळ झळकते.",
+          "transliteration": "Sukhakarta Dukhharta Varta Vighnachi |\nNuravi Puravi Prem Krupa Jayachi |\nSarvangi Sundar Uti Shendurachi |\nKanthi Jhalake Maal Muktaphalānchi || 1 ||",
+          "imageUrl": null
         },
         {
-          "shloka": "जय देव जय देव जय मंगलमूर्ती | \nदर्शनमात्रे मनकामना पुरती ||",
-          "meaning": "देवा तुझा जयजयकार असो, हे मंगलमूर्ती! तुझ्या केवळ दर्शनानेच मनातील सर्व इच्छा पूर्ण होतात.",
-          "transliteration": "Jai Dev Jai Dev Jai Mangalmurti | Darshanmatre Mankamana Purti ||",
-          "imageUrl": ""
+          "shloka": "जय देव जय देव जय मंगलमूर्ती |\nदर्शनमात्रे मनकामना पुरती |\nजय देव जय देव || धृ ||",
+          "meaning": "हे मंगलमूर्ती गणेशा, तुझा जय असो. तुझ्या दर्शनमात्रे मनातील सर्व इच्छा पूर्ण होतात.",
+          "transliteration": "Jay Dev Jay Dev Jay Mangalmurti |\nDarshanmatre Mankaamana Purti |\nJay Dev Jay Dev || Dhru ||",
+          "imageUrl": null
         },
         {
-          "shloka": "रत्नखचित फरा तूज गौरीकुमरा | \nचंदनाची उटी कुमकुमकेशरा | \nहिरेजडित मुकुट शोभतो बरा | \nरुणुझुणुती नुपुरे चरणी घागरिया ||",
-          "meaning": "हे गौरीपुत्रा, तू रत्नांनी जडलेले दागिने घातले आहेस. अंगाला चंदन, कुंकू आणि केशराचा टिळा लावला आहे. तुझ्या डोक्यावर हिऱ्यांचा मुकुट आहे आणि पायात रुणझुणणारे पैंजण आहेत.",
-          "transliteration": "Ratnakhachit Phara Tuj Gaurikumara | Chandanachi Uti Kumkumkeshara | Hirejadit Mukut Shobhato Bara | Runuzunuti Nupure Charni Ghagariya ||",
-          "imageUrl": "ganpati_3.png"
+          "shloka": "रत्नखचित फरा तुज गौरीकुमरा |\nचंदनाची उटी कुंकुमकेशरा |\nहिरेजडित मुकुट शोभतो बरा |\nरुणझुणती नूपुरे चरणी घागरिया || २ ||",
+          "meaning": "हे गौरीकुमारा, तुला रत्नजडित फरा (मुकुट) आहे. चंदन आणि कुंकुमकेशराची उटी लावली आहे. हिऱ्यांनी जडलेला मुकुट तुझ्या मस्तकावर शोभतो आणि चरणी घागरिया रुणझुणतात.",
+          "transliteration": "Ratnakhachit Phara Tuj Gaurikumara |\nChandanachi Uti Kunkumakeshara |\nHirejaDit Mukut Shobhato Bara |\nRunajhunati Nupure Charani Ghaagariya || 2 ||",
+          "imageUrl": null
         },
         {
-          "shloka": "लंबोदर पीतांबर फणिवरबंधना | \nसरळ सोंड वक्रतुंड त्रिनयना | \nदास रामाचा वाट पाहे सदना | \nसंकटी पावावे निर्वाणी रक्षावे सुरवरवंदना ||",
-          "meaning": "मोठे पोट असलेला, पिवळे पितांबर नेसलेला आणि कमरेला नाग बांधलेला. ज्याची सोंड सरळ आहे, जो वक्रतुंड आणि त्रिनेत्र आहे. समर्थ रामदासांचा हा दास तुझी वाट पाहत आहे, संकटात पावावे आणि शेवटच्या वेळी रक्षण करावे.",
-          "transliteration": "Lambodar Pitambar Phanivarbandhana | Saral Sond Vakratund Trinayana | Das Ramacha Vaat Pahe Sadna | Sankati Paave Nirvani Rakshave Survarvandana ||",
-          "imageUrl": "ganpati_4.png"
-        }
-      ]
-    },
-    {
-      "id": "aarti_shankar",
-      "title": "शंकराची आरती",
-      "language": "marathi",
-      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/aarti/shiv.jpg",
-      "orderIndex": 2,
-      "content": [
-        {
-          "shloka": "लवथवती विक्राळा ब्रह्मांडीं माळा | \nविषे कंठ काळा त्रिनेत्रीं ज्वाळा ||",
-          "meaning": "भगवान शिवाचे भयानक आणि शक्तिशाली रूप.",
-          "transliteration": "Lavthavati Vikrala Brahmandi Maala",
-          "imageUrl": ""
+          "shloka": "जय देव जय देव जय मंगलमूर्ती |\nदर्शनमात्रे मनकामना पुरती |\nजय देव जय देव || धृ ||",
+          "meaning": "हे मंगलमूर्ती गणेशा, तुझा जय असो. तुझ्या दर्शनमात्रे मनातील सर्व इच्छा पूर्ण होतात.",
+          "transliteration": "Jay Dev Jay Dev Jay Mangalmurti |\nDarshanmatre Mankaamana Purti |\nJay Dev Jay Dev || Dhru ||",
+          "imageUrl": null
         },
         {
-          "shloka": "जय देव जय देव जय श्रीशंकरा | \nआरती ओवाळू तुज कर्पूरगौरा ||",
-          "meaning": "हे कर्पूरगौरा शंकरा, तुझा जयजयकार असो.",
-          "transliteration": "Jai Dev Jai Dev Jai Shrishankara",
-          "imageUrl": ""
+          "shloka": "लंबोदर पीतांबर फणिवरबंधना |\nसरळ सोंड वक्रतुंड त्रिनयना |\nदास रामाचा वाट पाहे सदना |\nसंकटी पावावे निर्वाणी रक्षावे |\nसुरवरवंदना || ३ ||",
+          "meaning": "हे लंबोदरा, पीतांबरधारी, सर्पांनी बांधलेल्या, सरळ सोंडेच्या, वक्रतुंडा, तीन नेत्र असलेल्या गणपतीस दास रामाचा नमस्कार. संकटात तू रक्षण कर. देवांनाही वंदनीय अशा गणेशा!",
+          "transliteration": "Lambodar Pitambar Phanivar-Bandhana |\nSaral Sond Vakratunda Trinayana |\nDas Ramacha Vaat Pahe Sadana |\nSankati Paavave Nirvani Rakshave |\nSurvar-Vandana || 3 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जय देव जय देव जय मंगलमूर्ती |\nदर्शनमात्रे मनकामना पुरती |\nजय देव जय देव || धृ ||",
+          "meaning": "हे मंगलमूर्ती गणेशा, तुझा जय असो. तुझ्या दर्शनमात्रे मनातील सर्व इच्छा पूर्ण होतात.",
+          "transliteration": "Jay Dev Jay Dev Jay Mangalmurti |\nDarshanmatre Mankaamana Purti |\nJay Dev Jay Dev || Dhru ||",
+          "imageUrl": null
         }
       ]
     },
     {
       "id": "aarti_durga",
-      "title": "दुर्गा देवी आरती",
+      "title": "दुर्गा आरती (दुर्गे दुर्घट भारी)",
       "language": "marathi",
       "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/aarti/durga_devi.jpg",
-      "orderIndex": 3,
+      "orderIndex": 2,
       "content": [
         {
-          "shloka": "दुर्गे दुर्घट भारी तुजविण संसारी | \nअनाथनाथे अंबे करुणा विस्तारी ||",
-          "meaning": "हे अंबे, या कठीण जगात तुझ्याशिवाय कोणीही तारणार नाही.",
-          "transliteration": "Durge Durghat Bhari Tujvin Sansari",
-          "imageUrl": ""
+          "shloka": "दुर्गे दुर्घट भारी तुजविण संसारी |\nअनाथ नाथे अंबे करुणा विस्तारी |\nवारी वारी जन्ममरणाते वारी |\nहारी पडलो आता संकट निवारी || १ ||",
+          "meaning": "हे दुर्गे, तुझ्यावाचून हा संसार अत्यंत कठीण आहे. हे अनाथांच्या नाथे, अंबे, करुणा विस्तार. जन्ममरणाच्या फेऱ्यातून सोडव. मी थकलो आहे, माझ्या संकटांचे निवारण कर.",
+          "transliteration": "Durge Durghat Bhari Tujvin Sansari |\nAnath Nathe Ambe Karuna Vistari |\nVari Vari Janmamaranate Vari |\nHari Padalo Aata Sankat Nivari || 1 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जय देवी जय देवी जय महिषासुरमर्दिनी |\nसुरवर ईश्वर-वरदे तारक संजीवनी |\nजय देवी जय देवी || धृ ||",
+          "meaning": "हे महिषासुरमर्दिनी देवी, तुझा जय असो. तू देवांना आणि ईश्वरालाही वरदान देणारी, तारक संजीवनी आहेस.",
+          "transliteration": "Jay Devi Jay Devi Jay Mahishasuramardini |\nSurvar Ishwar-Varde Tarak Sanjivani |\nJay Devi Jay Devi || Dhru ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "त्रिभुवनी भुवनी पाहता तुज ऐसी नाही |\nचारी श्रमले परंतू न बोलवे काही |\nसाही विवाद करिता पडले प्रवाही |\nते तू भक्तालागी पावसी लवलाही || २ ||",
+          "meaning": "तिन्ही भुवनांमध्ये तुझ्यासारखी दुसरी कोणी नाही. चारही वेद श्रमले पण तुझे वर्णन करू शकले नाहीत. सहा शास्त्रे वाद करता करता प्रवाहात पडली. परंतु तू भक्तांसाठी लगेच धावून येतेस.",
+          "transliteration": "Tribhuvani Bhuvani Pahata Tuj Aisi Nahi |\nChari Shramale Parantu Na Bolave Kahi |\nSahi Vivad Karita Padale Pravahi |\nTe Tu Bhaktalagi Pavasi Lavalahi || 2 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जय देवी जय देवी जय महिषासुरमर्दिनी |\nसुरवर ईश्वर-वरदे तारक संजीवनी |\nजय देवी जय देवी || धृ ||",
+          "meaning": "हे महिषासुरमर्दिनी देवी, तुझा जय असो. तू देवांना आणि ईश्वरालाही वरदान देणारी, तारक संजीवनी आहेस.",
+          "transliteration": "Jay Devi Jay Devi Jay Mahishasuramardini |\nSurvar Ishwar-Varde Tarak Sanjivani |\nJay Devi Jay Devi || Dhru ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "प्रसन्न वदने प्रसन्न हासे |\nमिळती जीवा ईश्वर ते विश्वासे |\nकठीण कामी सतत गुंतलो मी |\nआता तारी देवी तूचि अंबे नमी || ३ ||",
+          "meaning": "तुझ्या प्रसन्न वदनावर प्रसन्न हास्य आहे. तुझ्यावर विश्वास ठेवल्यास जीवाला ईश्वर भेटतो. कठीण कामांत मी सतत गुंतलो आहे. हे अंबे, आता तूच मला तार.",
+          "transliteration": "Prasanna Vadane Prasanna Hase |\nMilati Jiva Ishwar Te Vishwase |\nKathin Kami Satat Guntalo Mi |\nAata Tari Devi Tuchi Ambe Nami || 3 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जय देवी जय देवी जय महिषासुरमर्दिनी |\nसुरवर ईश्वर-वरदे तारक संजीवनी |\nजय देवी जय देवी || धृ ||",
+          "meaning": "हे महिषासुरमर्दिनी देवी, तुझा जय असो. तू देवांना आणि ईश्वरालाही वरदान देणारी, तारक संजीवनी आहेस.",
+          "transliteration": "Jay Devi Jay Devi Jay Mahishasuramardini |\nSurvar Ishwar-Varde Tarak Sanjivani |\nJay Devi Jay Devi || Dhru ||",
+          "imageUrl": null
         }
       ]
     },
     {
       "id": "aarti_vitthal",
-      "title": "विठ्ठल आरती",
+      "title": "विठ्ठल आरती (येई ओ विठ्ठले)",
       "language": "marathi",
       "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/aarti/Panduranga.jpg",
+      "orderIndex": 3,
+      "content": [
+        {
+          "shloka": "येई ओ विठ्ठले माझे माऊली ये |\nयेई ओ विठ्ठले माझे माऊली ये |\nजिवलगा रखुमाईच्या राजसा ये |\nपंढरीच्या राजसा ये || १ ||",
+          "meaning": "हे विठ्ठला, माझ्या माऊली, ये. हे रखुमाईच्या जिवलगा, पंढरीच्या राजा, ये.",
+          "transliteration": "Yei O Vitthale Majhe Mauli Ye |\nYei O Vitthale Majhe Mauli Ye |\nJivalaga Rakhumaicha Rajasa Ye |\nPandharichya Rajasa Ye || 1 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जय देव जय देव जय पांडुरंगा |\nरखुमाईवल्लभा राहीच्या वल्लभा |\nपावे जिवलगा || धृ ||",
+          "meaning": "हे पांडुरंगा, तुझा जय असो. रखुमाई आणि राहीचा वल्लभ, हे जिवलगा, पावे.",
+          "transliteration": "Jay Dev Jay Dev Jay Panduranga |\nRakhumaiVallabha Rahichya Vallabha |\nPaave Jivalaga || Dhru ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "भक्तांसाठी उभा विटेवरी |\nकट धरोनि कर ठेवोनी कटेवरी |\nतुळसीमाळा गळा कासे पीतांबर |\nआवडे भक्ती रे या पंढरीनाथा || २ ||",
+          "meaning": "भक्तांसाठी विटेवर उभा राहून, कमरेवर हात ठेवून, गळ्यात तुळशीमाळ आणि कमरेला पीतांबर अशा पंढरीनाथाला भक्ती प्रिय आहे.",
+          "transliteration": "Bhaktansathi Ubha Vitevari |\nKat Dharoni Kar Thevoni Katevari |\nTulsimaala Gala Kase Pitambar |\nAavade Bhakti Re Ya Pandharinatha || 2 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जय देव जय देव जय पांडुरंगा |\nरखुमाईवल्लभा राहीच्या वल्लभा |\nपावे जिवलगा || धृ ||",
+          "meaning": "हे पांडुरंगा, तुझा जय असो. रखुमाई आणि राहीचा वल्लभ, हे जिवलगा, पावे.",
+          "transliteration": "Jay Dev Jay Dev Jay Panduranga |\nRakhumaiVallabha Rahichya Vallabha |\nPaave Jivalaga || Dhru ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "चंद्रभागेमाजी सोडोनिया देही |\nदिंड्या पताका वैष्णव नाचती |\nपंढरीचा महिमा वर्णावा किती |\nतीर्थ अमृताहुनी गोड रे || ३ ||",
+          "meaning": "चंद्रभागेमध्ये देह विसरून, दिंड्या-पताका घेऊन वैष्णव नाचतात. पंढरीचा महिमा किती वर्णावा? हे तीर्थ अमृतापेक्षाही गोड आहे.",
+          "transliteration": "Chandrabhagemaaji Sodoniya Dehi |\nDindya Pataka Vaishnav Nachati |\nPandharichya Mahima Varnava Kiti |\nTirtha Amritahuni God Re || 3 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जय देव जय देव जय पांडुरंगा |\nरखुमाईवल्लभा राहीच्या वल्लभा |\nपावे जिवलगा || धृ ||",
+          "meaning": "हे पांडुरंगा, तुझा जय असो. रखुमाई आणि राहीचा वल्लभ, हे जिवलगा, पावे.",
+          "transliteration": "Jay Dev Jay Dev Jay Panduranga |\nRakhumaiVallabha Rahichya Vallabha |\nPaave Jivalaga || Dhru ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "aarti_shankar",
+      "title": "शंकर आरती (लवथवती विक्राळा)",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/aarti/shiv.jpg",
       "orderIndex": 4,
       "content": [
         {
-          "shloka": "युगे अठ्ठावीस विटेवरी उभा | \nवामांगी रखुमाई दिसे दिव्य शोभा ||",
-          "meaning": "२८ युगांपासून विटेवर उभा असलेला पांडुरंग.",
-          "transliteration": "Yuge Athhavis Vitevari Ubha",
-          "imageUrl": ""
+          "shloka": "लवथवती विक्राळा ब्रह्मांडी माळा |\nवीषे कंठ काळा त्रिनेत्री ज्वाळा |\nलावण्यसुंदर मस्तकी बाळा |\nतेथुनिया जल निर्मळ वाहे झुळझुळा || १ ||",
+          "meaning": "ब्रह्मांडाला माळ असलेले, कंठाला विषाने काळवंडलेले, तीन नेत्रांमधून ज्वाळा निघणारे, मस्तकावर चंद्र असलेले, त्यांच्या जटांमधून गंगेचे निर्मळ पाणी झुळझुळ वाहत आहे.",
+          "transliteration": "Lavathavati Vikrala Brahmandi Mala |\nVishe Kanth Kala Trinetri Jwala |\nLavanya-Sundar Mastaki Bala |\nTethuniya Jal Nirmal Vahe Jhulajhula || 1 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जय देव जय देव जय श्रीशंकरा |\nआरती ओवाळू तुज कर्पूरगौरा |\nजय देव जय देव || धृ ||",
+          "meaning": "हे कर्पूरासमान गोऱ्या शंकरा, तुझा जय असो. तुझी आरती ओवाळतो.",
+          "transliteration": "Jay Dev Jay Dev Jay Shri Shankara |\nAarti Ovalu Tuj Karpurgaura |\nJay Dev Jay Dev || Dhru ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कर्पूरगौरा भोळा नयनी विशाळा |\nअर्धांगी पार्वती सुमनांच्या माळा |\nविभूतीचे उधळण शितिकंठ नीळा |\nऐसा शंकर शोभे उमावेल्हाळा || २ ||",
+          "meaning": "कापरासमान गोरा, भोळा, विशाल नयनांचा, अर्धांगी पार्वती, फुलांच्या माळा, विभूतीचे उधळण, निळ्या कंठाचा, असा शंकर उमेच्या वेल्हाळात शोभतो.",
+          "transliteration": "Karpurgaura Bhola Nayani Vishala |\nArdhāngi Parvati Sumananchya Mala |\nVibhutiche Udhalan Shitikanth Nila |\nAisa Shankar Shobhe Uma-Velhala || 2 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जय देव जय देव जय श्रीशंकरा |\nआरती ओवाळू तुज कर्पूरगौरा |\nजय देव जय देव || धृ ||",
+          "meaning": "हे कर्पूरासमान गोऱ्या शंकरा, तुझा जय असो. तुझी आरती ओवाळतो.",
+          "transliteration": "Jay Dev Jay Dev Jay Shri Shankara |\nAarti Ovalu Tuj Karpurgaura |\nJay Dev Jay Dev || Dhru ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "देवी दैत्यी सागरमंथन पै केले |\nत्यामाजी अवचित हळाहळ उठिले |\nते त्वां असुरपणे प्राशन पै केले |\nनीळकंठ नाम प्रसिद्ध झाले || ३ ||",
+          "meaning": "देव आणि दैत्यांनी सागरमंथन केले. त्यातून अचानक हळाहळ विष उठले. ते तू वीरपणे प्राशन केले आणि म्हणून नीळकंठ नाव प्रसिद्ध झाले.",
+          "transliteration": "Devi Daityi Sagaramanthan Pai Kele |\nTyamaji Avachit Halahal Uthile |\nTe Tvan Asurapane Prashan Pai Kele |\nNilakanth Naam Prasiddh Jhale || 3 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जय देव जय देव जय श्रीशंकरा |\nआरती ओवाळू तुज कर्पूरगौरा |\nजय देव जय देव || धृ ||",
+          "meaning": "हे कर्पूरासमान गोऱ्या शंकरा, तुझा जय असो. तुझी आरती ओवाळतो.",
+          "transliteration": "Jay Dev Jay Dev Jay Shri Shankara |\nAarti Ovalu Tuj Karpurgaura |\nJay Dev Jay Dev || Dhru ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "व्याघ्रांबर फणिवरधर सुंदर मदनारी |\nपंचानन मनमोहन मुनिजनसुखकारी |\nशतकोटीचे बीज वाचे उच्चारी |\nरघुकुळटिळक रामदासी अंतरी || ४ ||",
+          "meaning": "व्याघ्रचर्म धारण करणारा, सर्पधारी, सुंदर, कामदेवाचा शत्रू, पंचमुखी, मनमोहक, मुनिजनांना सुखकारी, शतकोटी बीजमंत्र वाचेने उच्चारणारा, रामदासांच्या अंतरी वसणारा रघुकुळटिळक.",
+          "transliteration": "Vyaghrambar Phanivar-Dhar Sundar Madanari |\nPanchanan Manmohan Munijan-Sukhkari |\nShatkotiche Bij Vache Uchchari |\nRaghukulatilak Ramdasi Antari || 4 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जय देव जय देव जय श्रीशंकरा |\nआरती ओवाळू तुज कर्पूरगौरा |\nजय देव जय देव || धृ ||",
+          "meaning": "हे कर्पूरासमान गोऱ्या शंकरा, तुझा जय असो. तुझी आरती ओवाळतो.",
+          "transliteration": "Jay Dev Jay Dev Jay Shri Shankara |\nAarti Ovalu Tuj Karpurgaura |\nJay Dev Jay Dev || Dhru ||",
+          "imageUrl": null
         }
       ]
     },
     {
-      "id": "aarti_datta",
-      "title": "दत्ताची आरती",
+      "id": "aarti_laxmi",
+      "title": "लक्ष्मी आरती",
       "language": "marathi",
-      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/aarti/datta.jpg",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/aarti/lakshmi.jpg",
       "orderIndex": 5,
       "content": [
         {
-          "shloka": "त्रिगुणात्मक त्रैमूर्ति दत्त हा जाणा | \nत्रिगुणी अवतार त्रैलोक्यराणा ||",
-          "meaning": "ब्रह्मा, विष्णू आणि महेश यांचे एकत्रित रूप.",
-          "transliteration": "Trigunatmaka traimurti datta ha jana",
-          "imageUrl": ""
+          "shloka": "जय देवी जय देवी जय महालक्ष्मी |\nवससी व्यापकरूपे तू स्थूलसूक्ष्मी |\nकर्मी भक्ती ज्ञानी तूच मुख्य जनमी |\nनरहरी वरदे तुज नमो नमी || १ ||",
+          "meaning": "हे महालक्ष्मी, तुझा जय असो. तू व्यापक रूपात स्थूल आणि सूक्ष्म सर्वत्र वसतेस. कर्म, भक्ती आणि ज्ञानामध्ये तूच मुख्य आहेस. नरहरीच्या वरदे, तुला नमस्कार.",
+          "transliteration": "Jay Devi Jay Devi Jay Mahalakshmi |\nVasasi Vyapakrupe Tu Sthulasukshmi |\nKarmi Bhakti Jnani Tuch Mukhya Janmi |\nNarhari Varde Tuj Namo Nami || 1 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जय देवी जय देवी जय महालक्ष्मी |\nजय देवी जय देवी || धृ ||",
+          "meaning": "हे महालक्ष्मी, तुझा जय असो.",
+          "transliteration": "Jay Devi Jay Devi Jay Mahalakshmi |\nJay Devi Jay Devi || Dhru ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "चतुर्भुज विशाळे हिरेजडित मुकुटा |\nकंठी हार रत्नजडित वैजयंती कंठा |\nकमळा वरदे सौभाग्य देसी मोठा |\nमनकामना पुरवी जनलोका || २ ||",
+          "meaning": "चार भुजा, विशाल, हिऱ्यांचा मुकुट, गळ्यात रत्नजडित वैजयंती हार, कमळ हातात, सौभाग्य देणारी, जनलोकांच्या मनोकामना पूर्ण करणारी.",
+          "transliteration": "Chaturbhuj Vishale Hirejadita Mukuta |\nKanthi Haar Ratnajadita Vaijayanti Kantha |\nKamala Varde Saubhagya Desi Motha |\nMankamana Puravi Janaloka || 2 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जय देवी जय देवी जय महालक्ष्मी |\nजय देवी जय देवी || धृ ||",
+          "meaning": "हे महालक्ष्मी, तुझा जय असो.",
+          "transliteration": "Jay Devi Jay Devi Jay Mahalakshmi |\nJay Devi Jay Devi || Dhru ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "तू चि विश्वकर्ती तू चि विश्वभर्ती |\nतू चि विश्वहर्ती तू चि ते निगुती |\nतुझी लीला वर्णावी किती रे शक्ती |\nभक्तांसी कृपेने तारी तू भगवती || ३ ||",
+          "meaning": "तूच विश्वाची निर्माती, तूच पालनकर्ती, तूच संहारकर्ती. तुझी लीला किती वर्णावी? हे भगवती, भक्तांना कृपेने तार.",
+          "transliteration": "Tu Chi Vishwakarti Tu Chi Vishwabharti |\nTu Chi Vishwaharti Tu Chi Te Niguti |\nTujhi Lila Varnavi Kiti Re Shakti |\nBhaktansi Krupene Tari Tu Bhagwati || 3 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जय देवी जय देवी जय महालक्ष्मी |\nजय देवी जय देवी || धृ ||",
+          "meaning": "हे महालक्ष्मी, तुझा जय असो.",
+          "transliteration": "Jay Devi Jay Devi Jay Mahalakshmi |\nJay Devi Jay Devi || Dhru ||",
+          "imageUrl": null
         }
       ]
     },
     {
-      "id": "aarti_hanuman",
-      "title": "हनुमानाची आरती",
+      "id": "aarti_saraswati",
+      "title": "सरस्वती आरती",
       "language": "marathi",
-      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/aarti/hanuman.jpg",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/aarti/saraswati.jpg",
       "orderIndex": 6,
       "content": [
         {
-          "shloka": "सत्राणें उड्डाणें हुंकार वदनीं | \nकरिपाळ डळमळला धाकें त्रिभुवनीं ||",
-          "meaning": "हनुमानाचे सामर्थ्य आणि उड्डाण.",
-          "transliteration": "Satrane uddane hunkara vadani",
-          "imageUrl": ""
+          "shloka": "जय देवी जय देवी जय वीणापाणी |\nसरस्वती म्हणतां कापे दुर्जन वाणी |\nश्वेतवस्त्र शोभे तुज कमळासनी |\nमुक्ताफळे माळा शोभे तव कंठी || १ ||",
+          "meaning": "हे वीणापाणी सरस्वती, तुझा जय असो. सरस्वती नाम घेतल्यावर दुर्जनांची वाणी कापते. तुला श्वेत वस्त्र शोभते, कमळावर बसलेल्या तुझ्या कंठी मोत्यांची माळ शोभते.",
+          "transliteration": "Jay Devi Jay Devi Jay Vinapani |\nSaraswati Mhanta Kape Durjan Vani |\nShwetavastra Shobhe Tuj Kamalasani |\nMuktaphale Mala Shobhe Tav Kanthi || 1 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जय देवी जय देवी जय सरस्वती |\nआरती ओवाळू तुज सद्गुणमूर्ती |\nजय देवी जय देवी || धृ ||",
+          "meaning": "हे सद्गुणमूर्ती सरस्वती, तुझा जय असो. तुझी आरती ओवाळतो.",
+          "transliteration": "Jay Devi Jay Devi Jay Saraswati |\nAarti Ovalu Tuj Sadgunmurti |\nJay Devi Jay Devi || Dhru ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "हंसवाहिनी तू ज्ञानदायिनी |\nविद्या बुद्धी दे तू मुक्तीदायिनी |\nतुझ्या कृपेने कवी वक्ता होती जनी |\nतू भक्तांची माय दयाळू स्वामिनी || २ ||",
+          "meaning": "हंसावर बसणारी, ज्ञान देणारी, विद्या-बुद्धी देणारी, मुक्ती देणारी. तुझ्या कृपेने लोक कवी-वक्ते होतात. तू भक्तांची माय, दयाळू स्वामिनी.",
+          "transliteration": "Hansavahini Tu Jnandayini |\nVidya Buddhi De Tu Muktidayini |\nTujhya Krupene Kavi Vakta Hoti Jani |\nTu Bhaktanchi May Dayalu Swamini || 2 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जय देवी जय देवी जय सरस्वती |\nआरती ओवाळू तुज सद्गुणमूर्ती |\nजय देवी जय देवी || धृ ||",
+          "meaning": "हे सद्गुणमूर्ती सरस्वती, तुझा जय असो. तुझी आरती ओवाळतो.",
+          "transliteration": "Jay Devi Jay Devi Jay Saraswati |\nAarti Ovalu Tuj Sadgunmurti |\nJay Devi Jay Devi || Dhru ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "वेदशास्त्र तुझे रूप पुराणे तुझी वाणी |\nगायत्री सावित्री तू ब्रह्मांडराणी |\nचौदा विद्या तुझे रूप चौसष्ट कळा जाणी |\nतुला शरण आलो आम्ही दीन प्राणी || ३ ||",
+          "meaning": "वेदशास्त्र तुझे रूप, पुराणे तुझी वाणी. तू गायत्री, सावित्री, ब्रह्मांडाची राणी. चौदा विद्या तुझे रूप आणि चौसष्ट कळा तू जाणतेस. आम्ही दीन प्राणी तुला शरण आलो.",
+          "transliteration": "Vedshastra Tujhe Roop Purane Tujhi Vani |\nGayatri Savitri Tu Brahmandarani |\nChauda Vidya Tujhe Roop Chausashth Kala Jani |\nTula Sharan Aalo Amhi Deen Prani || 3 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जय देवी जय देवी जय सरस्वती |\nआरती ओवाळू तुज सद्गुणमूर्ती |\nजय देवी जय देवी || धृ ||",
+          "meaning": "हे सद्गुणमूर्ती सरस्वती, तुझा जय असो. तुझी आरती ओवाळतो.",
+          "transliteration": "Jay Devi Jay Devi Jay Saraswati |\nAarti Ovalu Tuj Sadgunmurti |\nJay Devi Jay Devi || Dhru ||",
+          "imageUrl": null
         }
       ]
     },
     {
       "id": "aarti_ram",
-      "title": "श्रीरामाची आरती",
+      "title": "राम आरती",
       "language": "marathi",
       "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/aarti/ram.jpg",
       "orderIndex": 7,
       "content": [
         {
-          "shloka": "ओवाळूं आरती राघवा | \nदशरथनंदना कौसल्यारामा ||",
-          "meaning": "दशरथ पुत्र रामाची आरती.",
-          "transliteration": "Ovalu aarti raghava",
-          "imageUrl": ""
-        }
-      ]
-    },
-    {
-      "id": "aarti_mahalaxmi",
-      "title": "महालक्ष्मी आरती",
-      "language": "marathi",
-      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/aarti/laxmi.jpg",
-      "orderIndex": 8,
-      "content": [
+          "shloka": "ओवाळू आरती मम श्रीरामा |\nसच्चिदानंद परब्रह्म पूर्णकामा |\nआरती ओवाळू मम श्रीरामा || धृ ||",
+          "meaning": "माझ्या श्रीरामाची आरती ओवाळतो. सच्चिदानंद, परब्रह्म, पूर्णकाम अशा श्रीरामाची आरती.",
+          "transliteration": "Ovalu Aarti Mam Shrirama |\nSachchidanand Parabrahma Purnakama |\nAarti Ovalu Mam Shrirama || Dhru ||",
+          "imageUrl": null
+        },
         {
-          "shloka": "जय देवी जय देवी जय महालक्ष्मी | \nवससी व्यापक रूपे तू स्थूलसूक्ष्मी ||",
-          "meaning": "संपत्तीची देवी महालक्ष्मीचा जयजयकार.",
-          "transliteration": "Jai devi jai devi jai mahalakshmi",
-          "imageUrl": ""
-        }
-      ]
-    },
-    {
-      "id": "aarti_dnyaneshwar",
-      "title": "ज्ञानदेवाची आरती",
-      "language": "marathi",
-      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/aarti/dnyaneshwar.jpg",
-      "orderIndex": 9,
-      "content": [
+          "shloka": "रत्नजडित सिंहासन दिव्य मुकुट शोभतो |\nमकराकृत कुंडले हिरेजडित कानी |\nकंठी हार वैजयंती दिव्य शोभली |\nकासे पीतांबर कटी खड्ग विराजे || १ ||",
+          "meaning": "रत्नजडित सिंहासनावर दिव्य मुकुट शोभतो. मकराकृती कुंडले कानांत हिऱ्यांनी जडित. गळ्यात वैजयंती हार शोभतो. कमरेस पीतांबर आणि कटीस खड्ग विराजमान आहे.",
+          "transliteration": "Ratnajadita Sinhasana Divya Mukut Shobhato |\nMakarakrut Kundale Hirejadita Kani |\nKanthi Haar Vaijayanti Divya Shobhali |\nKase Pitambar Kati Khadga Viraje || 1 ||",
+          "imageUrl": null
+        },
         {
-          "shloka": "आरती ज्ञानराजा महाकैवल्यतेजा | \nसेविली साधुसंतीं मनु वेधला माझा ||",
-          "meaning": "संत ज्ञानेश्वर महाराजांची स्तुती.",
-          "transliteration": "Aarti dnyanraja mahakaivalyateja",
-          "imageUrl": ""
-        }
-      ]
-    },
-    {
-      "id": "aarti_tukaram",
-      "title": "तुकारामाची आरती",
-      "language": "marathi",
-      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/aarti/tukaram.jpg",
-      "orderIndex": 10,
-      "content": [
+          "shloka": "डव्या भागी सीता शोभे सुंदर |\nउजव्या भागी लक्ष्मण सेवेसी तत्पर |\nपुढे मारुती अंजनीसुत सुंदर |\nकर जोडोनी रामा ध्यातो निरंतर || २ ||",
+          "meaning": "डाव्या बाजूस सीता सुंदर शोभते. उजव्या बाजूस लक्ष्मण सेवेला तत्पर आहे. पुढे अंजनीसुत मारुती कर जोडून निरंतर रामाचे ध्यान करतो.",
+          "transliteration": "Davya Bhagi Sita Shobhe Sundar |\nUjavya Bhagi Lakshman Sevesi Tatpar |\nPudhe Maruti Anjanisut Sundar |\nKar Jodoni Rama Dhyato Nirantar || 2 ||",
+          "imageUrl": null
+        },
         {
-          "shloka": "आरती तुकारामा | \nस्वामी सदगुरुधामा ||",
-          "meaning": "जगद्गुरु तुकाराम महाराजांची आरती.",
-          "transliteration": "Aarti tukarama",
-          "imageUrl": ""
+          "shloka": "रघुकुळटिळक राम हा दशरथनंदन |\nपतितपावन सीतावल्लभ जीवन |\nसमर्थ रामदास स्वामी पूर्णब्रह्म सनातन |\nओवाळू आरती मम श्रीरामा || ३ ||",
+          "meaning": "रघुकुळाचा टिळक, दशरथनंदन राम, पतितपावन, सीतेचा वल्लभ, जीवन. समर्थ रामदास स्वामींचा पूर्णब्रह्म सनातन. माझ्या श्रीरामाची आरती ओवाळतो.",
+          "transliteration": "Raghukulatilak Ram Ha Dasharathnandan |\nPatitapavan Sitavallabh Jivan |\nSamarth Ramdas Swami Purnabrahma Sanatan |\nOvalu Aarti Mam Shrirama || 3 ||",
+          "imageUrl": null
         }
       ]
     },
     {
       "id": "aarti_krishna",
-      "title": "कृष्णाची आरती",
+      "title": "कृष्ण आरती",
       "language": "marathi",
-      "image": "",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/aarti/krishna.jpg",
+      "orderIndex": 8,
+      "content": [
+        {
+          "shloka": "ओवाळू आरती माझ्या सद्गुरुनाथा |\nपंचप्राणांची दीपकळा लावू तुझ्या गाथा |\nओवाळू आरती || धृ ||",
+          "meaning": "माझ्या सद्गुरुनाथा कृष्णाची आरती ओवाळतो. पंचप्राणांची दीपज्योत लावून तुझ्या गाथा गातो.",
+          "transliteration": "Ovalu Aarti Majhya Sadgurunatha |\nPanchapranānchi Dipakala Lavu Tujhya Gatha |\nOvalu Aarti || Dhru ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कृष्ण माझा जिवलग सखा कृष्ण माझा विसावा |\nकृष्ण माझे जीवन कृष्ण माझा भावा |\nकृष्ण माझा गुरु कृष्ण माझा देवा |\nकृष्णपदी अर्पण करी माझी हे सेवा || १ ||",
+          "meaning": "कृष्ण माझा जिवलग सखा, माझा विसावा, माझे जीवन, माझा भाव, माझा गुरु, माझा देव. कृष्णचरणी माझी सेवा अर्पण करतो.",
+          "transliteration": "Krishna Majha Jivalag Sakha Krishna Majha Visava |\nKrishna Majhe Jivan Krishna Majha Bhava |\nKrishna Majha Guru Krishna Majha Deva |\nKrishnapadi Arpan Kari Majhi He Seva || 1 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "श्यामसुंदर विठ्ठल मुरलीधर गोपाळा |\nगोविंदा गोकुळनंदना गोपीच्या लाला |\nयशोदानंदन देवकीनंदन नंदलाला |\nकंसमर्दन कालियामर्दन यदुकुळ गोपाळा || २ ||",
+          "meaning": "श्यामसुंदर विठ्ठल, मुरलीधर गोपाळ, गोविंद, गोकुळनंदन, गोपींचा लाल, यशोदानंदन, देवकीनंदन, नंदलाला, कंसमर्दन, कालियामर्दन, यदुकुळातील गोपाळ.",
+          "transliteration": "Shyamsundar Vitthal Murlidhar Gopala |\nGovinda Gokulnandana Gopichya Lala |\nYashodanandan Devkinandan Nandlala |\nKansamardan Kaliyamardan Yadukul Gopala || 2 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "मथुरेमाजी जन्मला गोकुळी वाढला |\nगोपगोपिकांसंगे रासक्रीडा खेळला |\nद्वारकेमाजी राज्य करी धर्म रक्षिला |\nभक्तजनांसाठी पांडवांसी रक्षिला || ३ ||",
+          "meaning": "मथुरेत जन्मला, गोकुळात वाढला, गोपगोपिकांसोबत रासक्रीडा खेळला, द्वारकेत राज्य केले, धर्म रक्षिला, भक्तजनांसाठी आणि पांडवांचे रक्षण केले.",
+          "transliteration": "Mathuremaaji Janmala Gokuli Vadhala |\nGop-Gopikansange Raaskrida Khelala |\nDwarakemaaji Rajya Kari Dharma Rakshila |\nBhaktajanansathi Pandavansi Rakshila || 3 ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "aarti_hanuman",
+      "title": "हनुमान आरती",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/aarti/hanuman.jpg",
+      "orderIndex": 9,
+      "content": [
+        {
+          "shloka": "आरती कीजे हनुमान लल्लाची |\nदुष्ट दलन रघुनाथ कळाची |\nबाल समय रवी भक्षी लियो |\nताब तीनों लोक में किया || धृ ||",
+          "meaning": "हनुमानाची आरती करा. ते दुष्टांचा नाश करणारे आणि रघुनाथाचे कलाकार आहेत. बालपणी सूर्याला गिळले आणि तिन्ही लोकांमध्ये थरकाप उडवला.",
+          "transliteration": "Aarti Kije Hanuman Lallachi |\nDusht Dalan Raghunath Kalachi |\nBal Samay Ravi Bhakshi Liyo |\nTab Tinon Lok Mein Kiya || Dhru ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अंजनीपुत्रा महाबळा रामदूता |\nसिंधू तरोनी लंकेला गेला |\nदैत्य संहारुनी सीता शोधिला |\nलंका दहन करी रावणा जिंकिला || १ ||",
+          "meaning": "अंजनीपुत्र, महाबलवान, रामदूत. समुद्र ओलांडून लंकेला गेला. दैत्यांचा संहार करून सीतेला शोधले. लंकेला जाळून रावणाला जिंकले.",
+          "transliteration": "Anjaniputra Mahabala Ramduta |\nSindhu Taroni Lankela Gela |\nDaitya Sanharuni Sita Shodhila |\nLanka Dahan Kari Ravana Jinkila || 1 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "लक्ष्मण मूर्छित पडला रणामाजी |\nसंजीवनी आणोनी प्राण वाचविला |\nरामकार्यी सदा तत्पर राहिला |\nभक्तजनांचे संकट दूर केला || २ ||",
+          "meaning": "रणात लक्ष्मण मूर्छित पडला तेव्हा संजीवनी आणून प्राण वाचवला. रामकार्यात सदा तत्पर राहिला आणि भक्तजनांचे संकट दूर केले.",
+          "transliteration": "Lakshman Murchhit Padala Ranamaaji |\nSanjivani Aanoni Pran Vachavila |\nRamkaryi Sada Tatpar Rahila |\nBhaktajananche Sankat Dur Kela || 2 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "पंचमुखी हनुमंत वीरा |\nसंकट मोचन नाम तुझे सोयरा |\nरामदासांचे दैवत तू आधारा |\nपाही प्रभू रामचंद्रा अभिरामा || ३ ||",
+          "meaning": "पंचमुखी वीर हनुमंत, संकटमोचन तुझे नाव. रामदासांचे दैवत, तू आधार. हे प्रभू रामचंद्रा, अभिरामा.",
+          "transliteration": "Panchamukhi Hanumant Vira |\nSankat Mochan Naam Tujhe Soyara |\nRamdasanche Daivat Tu Aadhara |\nPahi Prabhu Ramchandra Abhirama || 3 ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "aarti_datta",
+      "title": "दत्त आरती (त्रिगुणात्मक त्रैमूर्ती)",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/aarti/dattatreya.jpg",
+      "orderIndex": 10,
+      "content": [
+        {
+          "shloka": "त्रिगुणात्मक त्रैमूर्ती दत्त हा जाणा |\nत्रिगुणी अवतार त्रैलोक्य राणा |\nनेती नेती शब्दे न ये अनुमाना |\nसुरवर मुनिजन योगी समाधी न ये ध्याना || १ ||",
+          "meaning": "त्रिगुणात्मक त्रैमूर्ती दत्त असे जाणा. त्रिगुणी अवतार, त्रैलोक्याचा राजा. 'नेती नेती' शब्दानेही त्याचे अनुमान करता येत नाही. देव, मुनी, योगी यांच्या समाधीतही त्याचे ध्यान लागत नाही.",
+          "transliteration": "Trigunatmak Traimurti Datta Ha Jana |\nTriguni Avataar Trailokya Rana |\nNeti Neti Shabde Na Ye Anumana |\nSurvar Munijan Yogi Samadhi Na Ye Dhyana || 1 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जय देव जय देव जय श्रीगुरुदत्ता |\nआरती ओवाळू तुज भावे करुनी आता |\nजय देव जय देव || धृ ||",
+          "meaning": "हे श्रीगुरुदत्ता, तुझा जय असो. भावपूर्वक तुझी आरती ओवाळतो.",
+          "transliteration": "Jay Dev Jay Dev Jay Shri Gurudatta |\nAarti Ovalu Tuj Bhave Karuni Aata |\nJay Dev Jay Dev || Dhru ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सबाह्य अभ्यंतरी तू एक दत्त |\nअभागी नेणती तुझी विभूती विरक्त |\nपराही परतली तेथें कैचा हा हेत |\nजन्ममरणाचा पुरलासे अंत || २ ||",
+          "meaning": "बाह्य आणि आंतरिक सर्वत्र तू एक दत्तच आहेस. अभागी लोक तुझी विरक्त विभूती ओळखत नाहीत. परावाणी जेथे परतते तेथे हेतू कसला? जन्ममरणाचा अंत झाला.",
+          "transliteration": "Sabahya Abhyantari Tu Ek Datta |\nAbhagi Nenati Tujhi Vibhuti Virakta |\nParahi Paratali Tethe Kaicha Ha Het |\nJanmamaranācha Puralase Ant || 2 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जय देव जय देव जय श्रीगुरुदत्ता |\nआरती ओवाळू तुज भावे करुनी आता |\nजय देव जय देव || धृ ||",
+          "meaning": "हे श्रीगुरुदत्ता, तुझा जय असो. भावपूर्वक तुझी आरती ओवाळतो.",
+          "transliteration": "Jay Dev Jay Dev Jay Shri Gurudatta |\nAarti Ovalu Tuj Bhave Karuni Aata |\nJay Dev Jay Dev || Dhru ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "दत्त येउनि ठाकला भक्तांच्या दारा |\nहर्ष द्विगुणित झाला ज्याच्या घरदारा |\nउघडा दारे त्वरित आता बाहेर या |\nक्षणभरी आरती करा सद्गुरुराया || ३ ||",
+          "meaning": "दत्त भक्तांच्या दारी येऊन उभा राहिला. ज्याच्या घरी आला त्याचा हर्ष दुप्पट झाला. दारे उघडा, त्वरित बाहेर या आणि क्षणभर सद्गुरूंची आरती करा.",
+          "transliteration": "Datt Yeuni Thakala Bhaktanchya Dara |\nHarsh Dwigunit Jhala Jyachya Ghardara |\nUghada Dare Tvarit Aata Baher Ya |\nKshanbhari Aarti Kara Sadgururaya || 3 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जय देव जय देव जय श्रीगुरुदत्ता |\nआरती ओवाळू तुज भावे करुनी आता |\nजय देव जय देव || धृ ||",
+          "meaning": "हे श्रीगुरुदत्ता, तुझा जय असो. भावपूर्वक तुझी आरती ओवाळतो.",
+          "transliteration": "Jay Dev Jay Dev Jay Shri Gurudatta |\nAarti Ovalu Tuj Bhave Karuni Aata |\nJay Dev Jay Dev || Dhru ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "दत्त दत्त ऐसे लागले ध्यान |\nहारपले मन झाले उन्मन |\nमी तू पणाची झाली बोळवण |\nएका जनार्दनी श्रीदत्तध्यान || ४ ||",
+          "meaning": "दत्त दत्त असे ध्यान लागले. मन हरपले, उन्मन झाले. मी-तूपणा नाहीसा झाला. एका जनार्दनी श्रीदत्ताचे ध्यान लागले.",
+          "transliteration": "Datta Datta Aise Lagale Dhyan |\nHarapale Man Jhale Unman |\nMi Tu Panachi Jhali Bolavan |\nEka Janardani Shri Dattadhyan || 4 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जय देव जय देव जय श्रीगुरुदत्ता |\nआरती ओवाळू तुज भावे करुनी आता |\nजय देव जय देव || धृ ||",
+          "meaning": "हे श्रीगुरुदत्ता, तुझा जय असो. भावपूर्वक तुझी आरती ओवाळतो.",
+          "transliteration": "Jay Dev Jay Dev Jay Shri Gurudatta |\nAarti Ovalu Tuj Bhave Karuni Aata |\nJay Dev Jay Dev || Dhru ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "aarti_sai",
+      "title": "साई बाबा आरती (आरती साई बाबा)",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/aarti/sai.jpg",
       "orderIndex": 11,
       "content": [
         {
-          "shloka": "ओवाळू आरती मदनगोपाळा | \nश्यामसुंदर गळा वैजयंतीमाळा ||",
-          "meaning": "भगवान श्रीकृष्णाची आरती.",
-          "transliteration": "Ovalu aarti madangopala",
-          "imageUrl": ""
+          "shloka": "आरती साईबाबा सौख्यदातारा जीवा |\nचरणरजातली द्यावा दासां विसावा |\nभक्तां विसावा || धृ ||",
+          "meaning": "साईबाबांची आरती. जीवांना सुख देणारे बाबा, तुमच्या चरणांची धूळ द्या आणि दासांना विसावा द्या.",
+          "transliteration": "Aarti Saibaba Saukhyadatara Jiva |\nCharanrajatali Dyava Dasan Visava |\nBhaktan Visava || Dhru ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जाळूनियां अनंग स्वस्वरूपी राहे दंग |\nमुमुक्षुजनां दावी निजडोळा श्रीरंग |\nडोळ्यां श्रीरंग || १ ||",
+          "meaning": "कामदेवाला जाळून स्वस्वरूपात दंग राहतात. मुमुक्षू जनांना स्वतःच्या डोळ्यांनी श्रीरंग दाखवतात.",
+          "transliteration": "Jaluniya Anang Svasvarupi Rahe Dang |\nMumukshujanan Davi Nijdola Shrirang |\nDolyan Shrirang || 1 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "आरती साईबाबा सौख्यदातारा जीवा |\nचरणरजातली द्यावा दासां विसावा |\nभक्तां विसावा || धृ ||",
+          "meaning": "साईबाबांची आरती. जीवांना सुख देणारे बाबा, तुमच्या चरणांची धूळ द्या आणि दासांना विसावा द्या.",
+          "transliteration": "Aarti Saibaba Saukhyadatara Jiva |\nCharanrajatali Dyava Dasan Visava |\nBhaktan Visava || Dhru ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "रहस्य हृदयी गुह्य निज डोळा |\nपुसोनी संशय तुम्ही सुखे निज डोळा |\nआत्मदर्शनी दावी निज डोळा |\nलावुनि साईबाबा || २ ||",
+          "meaning": "हृदयातील गुह्य रहस्य स्वतःच्या डोळ्यांनी दाखवतात. संशय दूर करून सुखाने स्वतःच्या डोळ्यांनी आत्मदर्शन देतात.",
+          "transliteration": "Rahasya Hrudayi Guhya Nij Dola |\nPusoni Sanshay Tumhi Sukhe Nij Dola |\nAtmadashani Davi Nij Dola |\nLavuni Saibaba || 2 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "आरती साईबाबा सौख्यदातारा जीवा |\nचरणरजातली द्यावा दासां विसावा |\nभक्तां विसावा || धृ ||",
+          "meaning": "साईबाबांची आरती. जीवांना सुख देणारे बाबा, तुमच्या चरणांची धूळ द्या आणि दासांना विसावा द्या.",
+          "transliteration": "Aarti Saibaba Saukhyadatara Jiva |\nCharanrajatali Dyava Dasan Visava |\nBhaktan Visava || Dhru ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सुखसागरा शांतीचिया |\nउदारा बहुत मी कामना |\nसद्गुरु रायाला नमन माझे |\nदासां विश्रामधामा || ३ ||",
+          "meaning": "सुखसागर, शांतीचे उदार, अनेक कामना पूर्ण करणारे सद्गुरुराया, तुम्हाला नमन. दासांच्या विश्रामाचे धाम.",
+          "transliteration": "Sukhsagara Shantichiya |\nUdara Bahut Mi Kamana |\nSadguru Rayala Naman Majhe |\nDasan Vishramadhama || 3 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "आरती साईबाबा सौख्यदातारा जीवा |\nचरणरजातली द्यावा दासां विसावा |\nभक्तां विसावा || धृ ||",
+          "meaning": "साईबाबांची आरती. जीवांना सुख देणारे बाबा, तुमच्या चरणांची धूळ द्या आणि दासांना विसावा द्या.",
+          "transliteration": "Aarti Saibaba Saukhyadatara Jiva |\nCharanrajatali Dyava Dasan Visava |\nBhaktan Visava || Dhru ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "भक्तीचिया पोटी बोध काकड आरती |\nप्रपंची रची नित्य भ्रमती |\nसत्य स्वामी विरक्ती अभय दीक्षा |\nदान करू बाबा शिर्डी राजा || ४ ||",
+          "meaning": "भक्तीच्या पोटी ज्ञानाची काकड आरती. प्रपंचात लोक नित्य भ्रमतात. सत्यस्वामी, विरक्त, अभय दीक्षादान करणारे शिर्डीराजा बाबा.",
+          "transliteration": "Bhaktichiya Poti Bodh Kakad Aarti |\nPrapanchi Rachi Nitya Bhramati |\nSatya Swami Virakti Abhay Diksha |\nDan Karu Baba Shirdi Raja || 4 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "आरती साईबाबा सौख्यदातारा जीवा |\nचरणरजातली द्यावा दासां विसावा |\nभक्तां विसावा || धृ ||",
+          "meaning": "साईबाबांची आरती. जीवांना सुख देणारे बाबा, तुमच्या चरणांची धूळ द्या आणि दासांना विसावा द्या.",
+          "transliteration": "Aarti Saibaba Saukhyadatara Jiva |\nCharanrajatali Dyava Dasan Visava |\nBhaktan Visava || Dhru ||",
+          "imageUrl": null
         }
       ]
     },
     {
-      "id": "aarti_saibaba",
-      "title": "साईबाबा आरती",
+      "id": "aarti_ganesh_vakratunda",
+      "title": "गणेश आरती (वक्रतुण्ड महाकाय)",
       "language": "marathi",
-      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/aarti/saibaba.jpg",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/aarti/ganesh.jpg",
       "orderIndex": 12,
       "content": [
         {
-          "shloka": "आरती साईबाबा | \nसौख्यदातार जीवा ||",
-          "meaning": "भक्तांना सुख देणाऱ्या साईबाबांची आरती.",
-          "transliteration": "Aarti saibaba saukhyadatara jiva",
-          "imageUrl": ""
+          "shloka": "वक्रतुण्ड महाकाय सूर्यकोटी समप्रभ |\nनिर्विघ्नं कुरु मे देव सर्वकार्येषु सर्वदा ||",
+          "meaning": "वाकड्या सोंडेचा, विशाल शरीराचा, कोटी सूर्यांसमान तेजस्वी अशा देवा, माझ्या सर्व कार्यांमधील विघ्ने सदैव दूर कर.",
+          "transliteration": "Vakratunda Mahakaya Suryakoti Samaprabha |\nNirvighnam Kuru Me Deva Sarvakaryeshu Sarvada ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "शेंदुर लाल चढायो अच्छा गजमुखको |\nदोंदिल लाल बिराजे सुत गौरीहरको |\nहाथ लिये गुड लड्डू सायी सुंदर छबिको |\nमहिमा कहे न जाय लागत हूं पदको || १ ||",
+          "meaning": "गजमुखाला शेंदूर छान लावलेला आहे. गौरी-हराचा पुत्र, मोठ्या पोटाचा, लाल शोभतो. हातात गूळ-लाडू, सुंदर छबी. त्याची महिमा सांगता येत नाही, चरणी लागतो.",
+          "transliteration": "Shendur Lal Chadhayo Achchha Gajmukhko |\nDondil Lal Biraje Sut Gauriharko |\nHath Liye Gud Laddu Sayi Sundar Chabiko |\nMahima Kahe Na Jay Lagat Hun Padko || 1 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जय जय जय गणनायक |\nजय जय जय गणराया |\nमंगलमूर्ती मोरया || धृ ||",
+          "meaning": "गणनायकाचा, गणरायाचा जय जय जय असो. मंगलमूर्ती मोरया!",
+          "transliteration": "Jay Jay Jay Gananayak |\nJay Jay Jay Ganaraya |\nMangalmurti Moraya || Dhru ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "एकदंत दयावंत चार भुजाधारी |\nमस्तकपर तिलक शोभे कुंकुमाचा भारी |\nमाशक वाहन सिद्धी चरणी चामर ढळती |\nजय जय गणेशा तारी दीना भक्तांला || २ ||",
+          "meaning": "एकदंत, दयावंत, चार भुजाधारी. मस्तकावर कुंकुमाचा भारी तिलक शोभतो. मूषक वाहन, सिद्धी चरणी चामर ढाळतात. गणेशा, दीन भक्तांना तार.",
+          "transliteration": "Ekdant Dayavant Char Bhujadhāri |\nMastakpar Tilak Shobhe Kunkumacha Bhari |\nMashak Vahan Siddhi Charani Chamar Dhalati |\nJay Jay Ganesha Tari Dina Bhaktanla || 2 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जय जय जय गणनायक |\nजय जय जय गणराया |\nमंगलमूर्ती मोरया || धृ ||",
+          "meaning": "गणनायकाचा, गणरायाचा जय जय जय असो. मंगलमूर्ती मोरया!",
+          "transliteration": "Jay Jay Jay Gananayak |\nJay Jay Jay Ganaraya |\nMangalmurti Moraya || Dhru ||",
+          "imageUrl": null
         }
       ]
     },
     {
-      "id": "aarti_eknath",
-      "title": "एकनाथांची आरती",
+      "id": "aarti_mahalakshmi",
+      "title": "महालक्ष्मी आरती (ऐ महालक्ष्मी)",
       "language": "marathi",
-      "image": "",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/aarti/lakshmi.jpg",
       "orderIndex": 13,
       "content": [
         {
-          "shloka": "आरती एकनाथा | \nमहाराजा समर्था ||",
-          "meaning": "संत एकनाथ महाराजांची आरती.",
-          "transliteration": "Aarti eknatha",
-          "imageUrl": ""
+          "shloka": "जय देवी जय देवी जय महालक्ष्मी |\nवससी व्यापकरूपे तू स्थूलसूक्ष्मी |\nकर्मी भक्ती ज्ञानी तूच मुख्य जनमी |\nनरहरी वरदे तुज नमो नमी || १ ||",
+          "meaning": "हे महालक्ष्मी, तुझा जय असो. तू व्यापक रूपात स्थूल आणि सूक्ष्म सर्वत्र वसतेस. कर्म, भक्ती, ज्ञानात तूच मुख्य. नरहरीच्या वरदे, तुला नमस्कार.",
+          "transliteration": "Jay Devi Jay Devi Jay Mahalakshmi |\nVasasi Vyapakrupe Tu Sthulasukshmi |\nKarmi Bhakti Jnani Tuch Mukhya Janmi |\nNarhari Varde Tuj Namo Nami || 1 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जय देवी जय देवी महालक्ष्मी अंबे |\nजय देवी जय देवी || धृ ||",
+          "meaning": "हे अंबे महालक्ष्मी, तुझा जय असो.",
+          "transliteration": "Jay Devi Jay Devi Mahalakshmi Ambe |\nJay Devi Jay Devi || Dhru ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "चतुर्भुज विशाळे सुवर्ण अलंकार |\nपरी मस्तकी ठेवीयेला हिराजडित हार |\nकासे पीतांबरधारी रक्तवस्त्र शोभे |\nजिव्हे वेदस्वरूप ते गातो गाथा तुझे || २ ||",
+          "meaning": "चार भुजांची, विशाल, सुवर्ण अलंकार, मस्तकी हिरेजडित हार, कमरेस पीतांबर, रक्तवस्त्र शोभते. जिव्हेवर वेदस्वरूप, तुझी गाथा गातो.",
+          "transliteration": "Chaturbhuj Vishale Suvarna Alankar |\nPari Mastaki Theviyela Hirajadita Haar |\nKase Pitambar-Dhari Raktavastra Shobhe |\nJivhe Vedswaroop Te Gato Gatha Tujhe || 2 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जय देवी जय देवी महालक्ष्मी अंबे |\nजय देवी जय देवी || धृ ||",
+          "meaning": "हे अंबे महालक्ष्मी, तुझा जय असो.",
+          "transliteration": "Jay Devi Jay Devi Mahalakshmi Ambe |\nJay Devi Jay Devi || Dhru ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "तू चि सच्चिदानंदरूप तू चि आदिमाया |\nभक्तांलागी तारावया तू सौख्यदाया |\nधर्मार्थ काम मोक्ष देशी दातारा |\nभक्ती मुक्ती वरदायिनी एकवीरा || ३ ||",
+          "meaning": "तू सच्चिदानंदरूप, तू आदिमाया. भक्तांना तारण्यासाठी तू सौख्यदायिनी. धर्म, अर्थ, काम, मोक्ष देणारी दातार. भक्ती-मुक्ती देणारी एकवीरा.",
+          "transliteration": "Tu Chi Sachchidanandroop Tu Chi Aadimaya |\nBhaktanlagi Taravaya Tu Saukhyadaya |\nDharmarth Kaam Moksha Deshi Datara |\nBhakti Mukti Vardayini Ekvira || 3 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जय देवी जय देवी महालक्ष्मी अंबे |\nजय देवी जय देवी || धृ ||",
+          "meaning": "हे अंबे महालक्ष्मी, तुझा जय असो.",
+          "transliteration": "Jay Devi Jay Devi Mahalakshmi Ambe |\nJay Devi Jay Devi || Dhru ||",
+          "imageUrl": null
         }
       ]
     },
     {
-      "id": "aarti_ghalin_lotangan",
-      "title": "घालीन लोटांगण",
+      "id": "aarti_ambabai",
+      "title": "अंबाबाई आरती",
       "language": "marathi",
-      "image": "",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/aarti/durga_devi.jpg",
       "orderIndex": 14,
       "content": [
         {
-          "shloka": "घालीन लोटांगण वंदीन चरण | \nडोळ्यांनी पाहीन रूप तुझें ||",
-          "meaning": "देवाच्या चरणी नतमस्तक होणे.",
-          "transliteration": "Ghalin lotangan vandin charan",
-          "imageUrl": ""
-        }
-      ]
-    },
-    {
-      "id": "mantra_pushpanjali",
-      "title": "मंत्रपुष्पांजली",
-      "language": "sanskrit",
-      "image": "",
-      "orderIndex": 15,
-      "content": [
+          "shloka": "ये ग अंबाबाई तुझा उदो उदो |\nनवरात्रातिल तुझा थाट बघा कसा |\nसजली माहूरगडाची राणी |\nसर्व भक्तांना आनंद देई || १ ||",
+          "meaning": "हे अंबाबाई, तुझा उदो उदो. नवरात्रातील तुझा थाट किती सुंदर आहे बघा. माहूरगडाची राणी सजली आणि सर्व भक्तांना आनंद देत आहे.",
+          "transliteration": "Ye Ga Ambabai Tujha Udo Udo |\nNavratratil Tujha That Bagha Kasa |\nSajali Mahurgadachi Rani |\nSarva Bhaktanna Anand Dei || 1 ||",
+          "imageUrl": null
+        },
         {
-          "shloka": "यज्ञेन यज्ञमयजंत देवास्तानि धर्माणि प्रथमान्यासन् ||",
-          "meaning": "वैदिक मंत्रोच्चारासह पुष्प अर्पण करणे.",
-          "transliteration": "Yagnena yagnamayajanta devas",
-          "imageUrl": ""
-        }
-      ]
-    },
-    {
-      "id": "aarti_shani",
-      "title": "शनिदेवाची आरती",
-      "language": "marathi",
-      "image": "",
-      "orderIndex": 16,
-      "content": [
+          "shloka": "जय देवी जय देवी जय अंबाबाई |\nतू भक्तांची माय तू जगदंबा आई |\nजय देवी जय देवी || धृ ||",
+          "meaning": "हे अंबाबाई, तुझा जय असो. तू भक्तांची माय, तू जगदंबा आई.",
+          "transliteration": "Jay Devi Jay Devi Jay Ambabai |\nTu Bhaktanchi May Tu Jagdamba Aai |\nJay Devi Jay Devi || Dhru ||",
+          "imageUrl": null
+        },
         {
-          "shloka": "जय जय शनिदेवा | \nसूर्यपुत्रा कृपाळू देवा ||",
-          "meaning": "शनिदेवाची कृपा मिळवण्यासाठी प्रार्थना.",
-          "transliteration": "Jai Jai Shanideva",
-          "imageUrl": ""
+          "shloka": "अष्टभुजा धारिणी सिंहवाहिनी |\nखड्ग त्रिशूळ हाती शक्तीदायिनी |\nमहिषासुर मर्दिनी दुष्टदलनी |\nभक्तवत्सले अंबे तू कल्याणदायिनी || २ ||",
+          "meaning": "आठ भुजांची, सिंहावर बसणारी, हातात खड्ग-त्रिशूळ, शक्ती देणारी, महिषासुर मारणारी, दुष्टांचा नाश करणारी, भक्तवत्सल अंबे, तू कल्याणदायिनी.",
+          "transliteration": "Ashtabhuja Dharini Singhavahini |\nKhadga Trishul Hati Shaktidayini |\nMahishasur Mardini Dushtadalani |\nBhaktavatsale Ambe Tu Kalyanadayini || 2 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जय देवी जय देवी जय अंबाबाई |\nतू भक्तांची माय तू जगदंबा आई |\nजय देवी जय देवी || धृ ||",
+          "meaning": "हे अंबाबाई, तुझा जय असो. तू भक्तांची माय, तू जगदंबा आई.",
+          "transliteration": "Jay Devi Jay Devi Jay Ambabai |\nTu Bhaktanchi May Tu Jagdamba Aai |\nJay Devi Jay Devi || Dhru ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कोल्हापूरी वसली महालक्ष्मी माता |\nतुळजापुरी भवानी करवीरनिवासिनी |\nसप्तशृंगी माहूरची रेणुका माता |\nसर्व रूपी तू एक भक्ता तारी आता || ३ ||",
+          "meaning": "कोल्हापुरात महालक्ष्मी, तुळजापुरात भवानी, करवीरात निवास करणारी, सप्तशृंगी, माहूरची रेणुका माता, सर्व रूपांत तू एकच. भक्तांना आता तार.",
+          "transliteration": "Kolhapuri Vasali Mahalakshmi Mata |\nTulajapuri Bhavani Karvirnivasini |\nSaptashrungi Mahurchi Renuka Mata |\nSarva Rupi Tu Ek Bhakta Tari Aata || 3 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जय देवी जय देवी जय अंबाबाई |\nतू भक्तांची माय तू जगदंबा आई |\nजय देवी जय देवी || धृ ||",
+          "meaning": "हे अंबाबाई, तुझा जय असो. तू भक्तांची माय, तू जगदंबा आई.",
+          "transliteration": "Jay Devi Jay Devi Jay Ambabai |\nTu Bhaktanchi May Tu Jagdamba Aai |\nJay Devi Jay Devi || Dhru ||",
+          "imageUrl": null
         }
       ]
     },
     {
       "id": "aarti_khandoba",
-      "title": "खंडोबाची आरती",
+      "title": "खंडोबा आरती",
       "language": "marathi",
-      "image": "",
-      "orderIndex": 17,
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/aarti/khandoba.jpg",
+      "orderIndex": 15,
       "content": [
         {
-          "shloka": "जय देव जय देव जय मल्हारा | \nवाघ्या मुरळी करिती मुजरा ||",
-          "meaning": "जेजुरीच्या खंडेरायाची आरती.",
-          "transliteration": "Jai dev jai dev jai malhara",
-          "imageUrl": ""
-        }
-      ]
-    },
-    {
-      "id": "aarti_santoshimata",
-      "title": "संतोषी माता आरती",
-      "language": "marathi",
-      "image": "",
-      "orderIndex": 18,
-      "content": [
+          "shloka": "जय मल्हारी मार्तंड जय जय मल्हारी |\nजेजुरीच्या गडावर दिव्य झळकारी |\nतू भक्तांचा कैवारी दयेचा सागरी |\nमणि मल्ल दैत्यांचा तू संहारी || १ ||",
+          "meaning": "मल्हारी मार्तंडाचा जय. जेजुरीच्या गडावर दिव्य तेज झळकते. तू भक्तांचा कैवारी, दयेचा सागर. मणी-मल्ल दैत्यांचा तू संहार करणारा.",
+          "transliteration": "Jay Malhari Martand Jay Jay Malhari |\nJejurichya Gadavar Divya Jhalkari |\nTu Bhaktancha Kaivari Dayecha Sagari |\nMani Malla Daityancha Tu Sanhari || 1 ||",
+          "imageUrl": null
+        },
         {
-          "shloka": "जय संतोषी माता | \nआपली कृपा असू द्या आता ||",
-          "meaning": "संतोष देणाऱ्या मातेची आरती.",
-          "transliteration": "Jai santoshi mata",
-          "imageUrl": ""
-        }
-      ]
-    },
-    {
-      "id": "aarti_niranjan",
-      "title": "निरांजन आरती",
-      "language": "marathi",
-      "image": "",
-      "orderIndex": 19,
-      "content": [
+          "shloka": "जय देव जय देव जय श्रीखंडेराया |\nआरती ओवाळू तुज मल्हारीराया |\nजय देव जय देव || धृ ||",
+          "meaning": "हे श्रीखंडेराया, तुझा जय असो. मल्हारीराया, तुझी आरती ओवाळतो.",
+          "transliteration": "Jay Dev Jay Dev Jay Shri Khanderaya |\nAarti Ovalu Tuj Malhariiraya |\nJay Dev Jay Dev || Dhru ||",
+          "imageUrl": null
+        },
         {
-          "shloka": "उजळल्या ज्योती | \nओवाळू मंगलमूर्ती ||",
-          "meaning": "दिव्याची आरती.",
-          "transliteration": "Ujalalya jyoti",
-          "imageUrl": ""
-        }
-      ]
-    },
-    {
-      "id": "pasaydan",
-      "title": "पसायदान",
-      "language": "marathi",
-      "image": "",
-      "orderIndex": 20,
-      "content": [
+          "shloka": "पांढरा अश्व शोभे तुज मल्हारीराया |\nबाणाई म्हाळसा संगे शोभसी राया |\nभंडार उधळिती हेगडी प्रदक्षिणा |\nचंपाषष्ठीला येती भक्त दर्शना || २ ||",
+          "meaning": "पांढरा घोडा तुला शोभतो, हे मल्हारीराया. बाणाई-म्हाळसेसह तू शोभतोस. हेगडीप्रदक्षिणेत भंडारा उधळतात. चंपाषष्ठीला भक्त दर्शनाला येतात.",
+          "transliteration": "Pandhara Ashwa Shobhe Tuj Malhariraya |\nBanai Mhalasa Sange Shobhasi Raya |\nBhandar Udhaliti Hegdi Pradakshina |\nChampa-Shashtila Yeti Bhakt Darshana || 2 ||",
+          "imageUrl": null
+        },
         {
-          "shloka": "आता विश्वात्मके देवे | \nयेणे वाग्यज्ञे तोषावे ||",
-          "meaning": "विश्वकल्याणासाठी केलेली प्रार्थना.",
-          "transliteration": "Aata vishwatmake deve",
-          "imageUrl": ""
+          "shloka": "जय देव जय देव जय श्रीखंडेराया |\nआरती ओवाळू तुज मल्हारीराया |\nजय देव जय देव || धृ ||",
+          "meaning": "हे श्रीखंडेराया, तुझा जय असो. मल्हारीराया, तुझी आरती ओवाळतो.",
+          "transliteration": "Jay Dev Jay Dev Jay Shri Khanderaya |\nAarti Ovalu Tuj Malhariiraya |\nJay Dev Jay Dev || Dhru ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जेजुरी गडावरी सोन्याची जेजुरी |\nकडेकपारी भक्तगण करती ओवाळी |\nघंटा वाजती टाळ मृदंग झणकारी |\nएळकोट देवाची पालखी सोहळा || ३ ||",
+          "meaning": "जेजुरी गडावर सोन्याची जेजुरी. कडेकपारीवर भक्तगण ओवाळी करतात. घंटा-टाळ-मृदंग वाजतात. एळकोट देवाच्या पालखीचा सोहळा होतो.",
+          "transliteration": "Jejuri Gadavari Sonyachi Jejuri |\nKadekapari Bhaktagan Karati Ovali |\nGhanta Vajati Taal Mrudang Jhankari |\nElkot Devachi Palakhi Sohala || 3 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जय देव जय देव जय श्रीखंडेराया |\nआरती ओवाळू तुज मल्हारीराया |\nजय देव जय देव || धृ ||",
+          "meaning": "हे श्रीखंडेराया, तुझा जय असो. मल्हारीराया, तुझी आरती ओवाळतो.",
+          "transliteration": "Jay Dev Jay Dev Jay Shri Khanderaya |\nAarti Ovalu Tuj Malhariiraya |\nJay Dev Jay Dev || Dhru ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "यळकोट यळकोट जय मल्हार |\nतू देवांचा देव तू भक्तांचा आधार |\nसदा सर्वदा तुझे नाम जयजयकार |\nमार्तंडभैरव तुज नमस्कार || ४ ||",
+          "meaning": "यळकोट यळकोट जय मल्हार! तू देवांचा देव, भक्तांचा आधार. सदा सर्वदा तुझ्या नावाचा जयजयकार. मार्तंडभैरवा, तुला नमस्कार.",
+          "transliteration": "Yalakot Yalakot Jay Malhar |\nTu Devancha Dev Tu Bhaktancha Aadhar |\nSada Sarvada Tujhe Naam Jayjaykaar |\nMartand-Bhairav Tuj Namaskar || 4 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जय देव जय देव जय श्रीखंडेराया |\nआरती ओवाळू तुज मल्हारीराया |\nजय देव जय देव || धृ ||",
+          "meaning": "हे श्रीखंडेराया, तुझा जय असो. मल्हारीराया, तुझी आरती ओवाळतो.",
+          "transliteration": "Jay Dev Jay Dev Jay Shri Khanderaya |\nAarti Ovalu Tuj Malhariiraya |\nJay Dev Jay Dev || Dhru ||",
+          "imageUrl": null
         }
       ]
     }

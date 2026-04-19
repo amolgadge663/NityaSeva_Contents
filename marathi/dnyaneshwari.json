@@ -1,0 +1,492 @@
+{
+  "category": "Dnyaneshwari",
+  "version": 1,
+  "items": [
+    {
+      "id": "dnya_ch01",
+      "title": "अध्याय १ - अर्जुनविषादयोग",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/dnyaneshwari/dnyaneshwar.jpg",
+      "orderIndex": 1,
+      "content": [
+        {
+          "shloka": "ॐ नमोजी आद्या | वेदरूपा तुम्ही या ||\nदेवा तूचि गणपती | सकळ मति प्रज्ञा ||",
+          "meaning": "हे आदिदेवा, तुम्ही वेदांचे स्वरूप आहात. हे गणपती देवा, तुम्हीच सर्व बुद्धी आणि प्रज्ञेचे मूळ आहात.",
+          "transliteration": "Om namoji adya | vedarupa tumhi ya ||\nDeva tuchi Ganapati | sakala mati pradnya ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "आरती विधीचे आले | पांडवांचे स्थिती भली ||\nअर्जुना देखी स्वजनां | मना भेटले वेदना ||",
+          "meaning": "महायुद्धाची वेळ आली, पांडव सज्ज होते. परंतु अर्जुनाने रणभूमीवर आपल्या स्वजनांना पाहिले आणि त्याचे मन व्यथेने भरून गेले.",
+          "transliteration": "Arti vidhiche ale | Pandavanche sthiti bhali ||\nArjuna dekhi swajana | mana bhetale vedana ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अर्जुन बोलतसे कृष्णा | मन माझे दुःखी जाणा ||\nस्वजन मारुनी काय मिळवे | पाप आहे हे सर्व गावे ||",
+          "meaning": "अर्जुन कृष्णाला म्हणतो: 'जाणा की माझे मन दुःखाने भरले आहे. स्वजनांना मारून काय मिळवणार? हे तर सर्व पापच आहे.'",
+          "transliteration": "Arjuna bolatse Krishna | mana majhe dukhi jana ||\nSwajana maruni kaya milave | papa ahe he sarva gave ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कुलधर्म असा जाती | कुल नाशी पाप घेती ||\nस्त्रियांचा अशौच होते | वर्णसंकर जन्मते ||",
+          "meaning": "कुलधर्म नष्ट झाला की पाप सर्व कुळाला ग्रासते. स्त्रियांचा अपमान होतो आणि त्या अव्यवस्थेतून वर्णसंकर जन्मतो.",
+          "transliteration": "Kuladharma asa jati | kula nashi papa gheti ||\nStriyancha ashaucha hote | varnasankara janmate ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "धनुष्य त्यागुनी अर्जुन | बसला रथी करुणा ||\nनेत्र भरोनी आसुवां | कृष्णा पाहे दयावा ||",
+          "meaning": "धनुष्य टाकून अर्जुन रथात बसला, करुणेने व्याकुळ. डोळ्यांत अश्रू भरून कृष्णाकडे दयादृष्टीने पाहू लागला.",
+          "transliteration": "Dhanushya tyaguni Arjuna | basala rathi karuna ||\nNetra bharoni asuva | Krishna pahe dayava ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "येथोनी ज्ञानदेव | म्हणे शेवटी हेवा ||\nपहिला अध्याय संपूर्ण | अर्जुन विषाद पूर्ण ||",
+          "meaning": "येथे ज्ञानदेव (संत ज्ञानेश्वर) भक्तीने म्हणतात: पहिला अध्याय संपूर्ण झाला, अर्जुनाचा विषाद पूर्णपणे वर्णन झाला.",
+          "transliteration": "Yethoni Dnyanadeva | mhane shevati heva ||\nPahila adhyaya sampurna | Arjuna vishada purna ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "dnya_ch02",
+      "title": "अध्याय २ - सांख्ययोग",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/dnyaneshwari/dnyaneshwar.jpg",
+      "orderIndex": 2,
+      "content": [
+        {
+          "shloka": "न त्वेवाहं जातु नासं | न त्वं नेमे जनाधिपाः ||\nन चैव न भविष्यामः | सर्वे वयमतः परम् ||",
+          "meaning": "असा कोणताही काळ नव्हता जेव्हा मी नव्हतो, किंवा तू नव्हतास, किंवा हे सर्व राजे नव्हते. भविष्यातही आपल्यापैकी कोणीही नसणार नाही.",
+          "transliteration": "Na tvevaham jatu nasam | na tvam neme janadhipah ||\nNa chaiva na bhavishyamah | sarve vayam atah param ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "वासांसि जीर्णानि यथा विहाय | नवानि गृह्णाति नरोऽपराणि ||\nतथा शरीराणि विहाय जीर्णानि | अन्यानि संयाति नवानि देही ||",
+          "meaning": "जसा माणूस जुने कपडे टाकून नवे कपडे घालतो, तसाच आत्मा जुन्या शरीरांचा त्याग करून नव्या शरीरांत प्रवेश करतो.",
+          "transliteration": "Vasamsi jirnani yatha vihaya | navani grihnati naro'parani ||\nTatha sharirani vihaya jirnani | anyani samyati navani dehi ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "नैनं छिन्दन्ति शस्त्राणि | नैनं दहति पावकः ||\nन चैनं क्लेदयन्त्यापो | न शोषयति मारुतः ||",
+          "meaning": "या आत्म्याला शस्त्रे कापू शकत नाहीत, अग्नी जाळू शकत नाही, पाणी भिजवू शकत नाही आणि वारा सुकवू शकत नाही.",
+          "transliteration": "Nainam chhindanti shastrani | nainam dahati pavakah ||\nNa chainam kledayantyapo | na shoshayati marutah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कर्मण्येवाधिकारस्ते | मा फलेषु कदाचन ||\nमा कर्मफलहेतुर्भूः | मा ते सङ्गोऽस्त्वकर्मणि ||",
+          "meaning": "तुझा अधिकार फक्त कर्म करण्यात आहे, फळात कधीच नाही. कर्मफळाची इच्छा तुझे प्रेरणास्थान नसावे आणि अकर्मातही तुझी आसक्ती नसावी.",
+          "transliteration": "Karmanyevadhikaraste | ma phaleshu kadachana ||\nMa karmaphalaheturbhuh | ma te sango'stvakarmani ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "योगस्थः कुरु कर्माणि | सङ्गं त्यक्त्वा धनञ्जय ||\nसिद्ध्यसिद्ध्योः समो भूत्वा | समत्वं योग उच्यते ||",
+          "meaning": "हे अर्जुना, योगात स्थित राहून कर्म कर, आसक्ती सोडून, यश-अपयशात समभाव ठेवून. हाच समत्व योग म्हणतात.",
+          "transliteration": "Yogasthah kuru karmani | sangam tyaktva Dhananjaya ||\nSiddhyasiddhyoh samo bhutva | samatvam yoga uchyate ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "स्थितप्रज्ञस्य का भाषा | समाधिस्थस्य केशव ||\nस्थितधीः किं प्रभाषेत | किमासीत व्रजेत किम् ||",
+          "meaning": "हे केशवा, समाधीत स्थित स्थितप्रज्ञ पुरुषाचे वर्णन काय? तो कसा बोलतो, कसा बसतो आणि कसा चालतो?",
+          "transliteration": "Sthitaprajnasya ka bhasha | samadhisthasya Keshava ||\nSthitadhih kim prabhasheta | kimasita vrajeta kim ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ज्ञानेश्वर म्हणे येथी | सांख्ययोग विवृत्ती ||\nआत्मा अमर जाणवा | कर्मयोगी फळ त्यागवा ||",
+          "meaning": "ज्ञानेश्वर म्हणतात: येथे सांख्ययोगाचे विवरण आहे. आत्म्याला अमर जाणा आणि कर्मयोगी बनून फळाचा त्याग करा.",
+          "transliteration": "Dnyaneshwar mhane yethi | sankhyayoga vivruti ||\nAtma amar janava | karmayogi phala tyagava ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "dnya_ch03",
+      "title": "अध्याय ३ - कर्मयोग",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/dnyaneshwari/dnyaneshwar.jpg",
+      "orderIndex": 3,
+      "content": [
+        {
+          "shloka": "न कर्मणामनारम्भात् | नैष्कर्म्यं पुरुषोऽश्नुते ||\nन च सन्न्यसनादेव | सिद्धिं समधिगच्छति ||",
+          "meaning": "कर्म न केल्याने माणूस नैष्कर्म्य (कर्मबंधनातून मुक्ती) प्राप्त करत नाही आणि केवळ संन्यासानेच सिद्धी मिळत नाही.",
+          "transliteration": "Na karmanam anarambhat | naishkarmyam purusho'shnute ||\nNa cha sannasanadeva | siddhim samadhigachchhati ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "न हि कश्चित्क्षणमपि | जातु तिष्ठत्यकर्मकृत् ||\nकार्यते ह्यवशः कर्म | सर्वः प्रकृतिजैर्गुणैः ||",
+          "meaning": "कोणताही माणूस एक क्षणभरही कर्म केल्याशिवाय राहू शकत नाही. प्रकृतीच्या गुणांनी सर्वजण विवश होऊन कर्म करतात.",
+          "transliteration": "Na hi kashchit kshanamapi | jatu tishthatyakarmakrit ||\nKaryate hyavashah karma | sarvah prakritijairgunaih ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "यद्यदाचरति श्रेष्ठः | तत्तदेवेतरो जनः ||\nस यत्प्रमाणं कुरुते | लोकस्तदनुवर्तते ||",
+          "meaning": "श्रेष्ठ पुरुष जे जे आचरण करतो, सामान्य लोकही तेच करतात. तो जे प्रमाण स्थापन करतो, लोक त्याचेच अनुसरण करतात.",
+          "transliteration": "Yadyadacharati shreshthah | tattadevetaro janah ||\nSa yat pramanam kurute | lokastadanuvartate ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "श्रेयान्स्वधर्मो विगुणः | परधर्मात्स्वनुष्ठितात् ||\nस्वधर्मे निधनं श्रेयः | परधर्मो भयावहः ||",
+          "meaning": "स्वतःचा अपूर्ण धर्मही दुसऱ्याच्या सुव्यवस्थित धर्मापेक्षा श्रेष्ठ आहे. स्वधर्मात मृत्यूही कल्याणकारी आहे; परधर्म भय उत्पन्न करतो.",
+          "transliteration": "Shreyan svadharmo vigunah | paradharmat svanushtitat ||\nSvadharme nidhanam shreyah | paradharmo bhayavahah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अर्जुन उवाच - अथ केन प्रयुक्तोऽयं | पापं चरति पूरुषः ||\nअनिच्छन्नपि वार्ष्णेय | बलादिव नियोजितः ||",
+          "meaning": "अर्जुनाने विचारले: हे कृष्णा, माणूस नको असतानाही कशाने प्रेरित होऊन पाप करतो, जसे काही बळजबरीने लावले जाते?",
+          "transliteration": "Arjuna uvacha - atha kena prayukto'yam | papam charati purushah ||\nAnichchhannapi Varshneya | baladiva niyojitah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "काम एष क्रोध एष | रजोगुणसमुद्भवः ||\nमहाशनो महापाप्मा | विद्ध्येनमिह वैरिणम् ||",
+          "meaning": "हा काम आहे, हा क्रोध आहे, जो रजोगुणापासून उत्पन्न होतो. हा सर्व काही खाऊन टाकणारा आणि महापापी आहे; याला येथे शत्रू जाण.",
+          "transliteration": "Kama esha krodha esha | rajogunasamudbhavah ||\nMahashano mahapapma | viddhyenamiha vairinam ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "dnya_ch06",
+      "title": "अध्याय ६ - ध्यानयोग",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/dnyaneshwari/dnyaneshwar.jpg",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "अनाश्रितः कर्मफलं | कार्यं कर्म करोति यः ||\nस सन्न्यासी च योगी च | न निरग्निर्न चाक्रियः ||",
+          "meaning": "जो कर्मफळाच्या आसक्तीशिवाय आपले कर्तव्य करतो, तोच खरा संन्यासी आणि योगी आहे, अग्नी किंवा कर्माचा त्याग करणारा नव्हे.",
+          "transliteration": "Anashritah karmaphalam | karyam karma karoti yah ||\nSa sannyasi cha yogi cha | na niragnirna chakriyah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "उद्धरेदात्मनात्मानं | नात्मानमवसादयेत् ||\nआत्मैव ह्यात्मनो बन्धुः | आत्मैव रिपुरात्मनः ||",
+          "meaning": "माणसाने स्वतःला स्वतःच वर उठवावे, स्वतःला पाडू नये. कारण आत्माच आत्म्याचा बंधू आहे आणि आत्माच आत्म्याचा शत्रू आहे.",
+          "transliteration": "Uddharedatmanatmanam | natmanamavasadayet ||\nAtmaiva hyatmano bandhuh | atmaiva ripuratmanah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "योगी युञ्जीत सततम् | आत्मानं रहसि स्थितः ||\nएकाकी यतचित्तात्मा | निराशीरपरिग्रहः ||",
+          "meaning": "योग्याने एकांतात राहून, एकट्याने, मन आणि शरीर ताब्यात ठेवून, इच्छा आणि संग्रहापासून मुक्त होऊन, सतत ध्यानात मग्न असावे.",
+          "transliteration": "Yogi yunjita satatam | atmanam rahasi sthitah ||\nEkaki yatachittatma | nirashir aparigrahah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "शुचौ देशे प्रतिष्ठाप्य | स्थिरमासनमात्मनः ||\nनात्युच्छ्रितं नातिनीचं | चैलाजिनकुशोत्तरम् ||",
+          "meaning": "स्वच्छ ठिकाणी, फार उंच नाही फार सखल नाही, वस्त्र, मृगचर्म आणि कुश यांनी आच्छादलेले स्थिर आसन मांडावे.",
+          "transliteration": "Shuchau deshe pratishthapya | sthiramasanamatmanah ||\nNatyuchchhritam natinichham | chailajinakushottaram ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "यत्रोपरमते चित्तं | निरुद्धं योगसेवया ||\nयत्र चैवात्मनात्मानं | पश्यन्नात्मनि तुष्यति ||",
+          "meaning": "जेथे योगाभ्यासाने निरुद्ध चित्त शांत होते, आणि जेथे आत्म्याद्वारे आत्म्याला पाहून आत्म्यातच समाधान मानतो.",
+          "transliteration": "Yatroparamate chittam | niruddham yogasevaya ||\nYatra chaivatmanatmanam | pashyannatmani tushyati ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "यो मां पश्यति सर्वत्र | सर्वं च मयि पश्यति ||\nतस्याहं न प्रणश्यामि | स च मे न प्रणश्यति ||",
+          "meaning": "जो मला सर्वत्र पाहतो आणि सर्व काही माझ्यात पाहतो, त्याच्यासाठी मी कधी अदृश्य होत नाही आणि तोही माझ्यासाठी कधी अदृश्य होत नाही.",
+          "transliteration": "Yo mam pashyati sarvatra | sarvam cha mayi pashyati ||\nTasyaham na pranashyami | sa cha me na pranashyati ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ज्ञानेश्वर म्हणे ध्यान | जोडिता मार्ग पूर्ण जाणा ||\nआत्मा ईश्वर एक पाहा | योग मार्गी मुक्ती लाभा ||",
+          "meaning": "ज्ञानेश्वर म्हणतात: ध्यानाद्वारे संपूर्ण मार्ग जाणा. आत्मा आणि ईश्वर एकच पाहा; योगमार्गावर मुक्ती मिळते.",
+          "transliteration": "Dnyaneshwar mhane dhyana | jodita marga purna jana ||\nAtma Ishwara eka paha | yoga margi mukti labha ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "dnya_ch09",
+      "title": "अध्याय ९ - राजविद्या राजगुह्ययोग",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/dnyaneshwari/dnyaneshwar.jpg",
+      "orderIndex": 5,
+      "content": [
+        {
+          "shloka": "इदं तु ते गुह्यतमं | प्रवक्ष्याम्यनसूयवे ||\nज्ञानं विज्ञानसहितं | यज्ज्ञात्वा मोक्ष्यसेऽशुभात् ||",
+          "meaning": "आता मी तुला, जो मत्सरहीन आहेस, हे परम गोपनीय ज्ञान विज्ञानासहित सांगतो, जे जाणल्यावर तू अशुभापासून मुक्त होशील.",
+          "transliteration": "Idam tu te guhyatamam | pravakshyamyanasuyave ||\nJnanam vijnana sahitam | yajjnatva mokshyase'shubhat ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "राजविद्या राजगुह्यं | पवित्रमिदमुत्तमम् ||\nप्रत्यक्षावगमं धर्म्यं | सुसुखं कर्तुमव्ययम् ||",
+          "meaning": "हे सर्व विद्यांचा राजा, सर्व रहस्यांचा राजा, परम पवित्र, उत्तम, प्रत्यक्ष अनुभवाने जाणता येणारे, धर्मयुक्त, सुखाने करता येणारे आणि अविनाशी आहे.",
+          "transliteration": "Rajavidya rajaguhyam | pavitramidamuttamam ||\nPratyakshavagamam dharmyam | susukham kartumavyayam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "मया ततमिदं सर्वं | जगदव्यक्तमूर्तिना ||\nमत्स्थानि सर्वभूतानि | न चाहं तेष्ववस्थितः ||",
+          "meaning": "माझ्या अव्यक्त स्वरूपाने हे संपूर्ण जगत व्यापलेले आहे. सर्व प्राणी माझ्यात स्थित आहेत, परंतु मी त्यांत स्थित नाही.",
+          "transliteration": "Maya tatamidam sarvam | jagadavyaktamurtina ||\nMatsthani sarvabhutani | na chaham teshvavasthitah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "पत्रं पुष्पं फलं तोयं | यो मे भक्त्या प्रयच्छति ||\nतदहं भक्त्युपहृतम् | अश्नामि प्रयतात्मनः ||",
+          "meaning": "जो कोणी भक्तीने मला पान, फूल, फळ किंवा पाणी अर्पण करतो, त्या शुद्ध हृदयाचे ते प्रेमपूर्वक अर्पण मी स्वीकारतो.",
+          "transliteration": "Patram pushpam phalam toyam | yo me bhaktya prayachchhati ||\nTadaham bhaktyupahritam | ashnami prayatatmanah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "यत्करोषि यदश्नासि | यज्जुहोषि ददासि यत् ||\nयत्तपस्यसि कौन्तेय | तत्कुरुष्व मदर्पणम् ||",
+          "meaning": "हे कुंतीपुत्रा, तू जे काही करतोस, जे खातोस, जे हवन करतोस, जे दान देतोस, जे तप करतोस -- ते सर्व मला अर्पण कर.",
+          "transliteration": "Yatkaroshi yadashnasi | yajjuhoshi dadasi yat ||\nYat tapasyasi Kaunteya | tat kurushva madarpanam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "समोऽहं सर्वभूतेषु | न मे द्वेष्योऽस्ति न प्रियः ||\nये भजन्ति तु मां भक्त्या | मयि ते तेषु चाप्यहम् ||",
+          "meaning": "मी सर्व प्राण्यांत समान आहे. कोणीही मला अप्रिय नाही, कोणी प्रिय नाही. परंतु जे भक्तीने माझे भजन करतात, ते माझ्यात आहेत आणि मी त्यांत आहे.",
+          "transliteration": "Samoham sarvabhuteshu | na me dveshyo'sti na priyah ||\nYe bhajanti tu mam bhaktya | mayi te teshu chapyaham ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "dnya_ch11",
+      "title": "अध्याय ११ - विश्वरूपदर्शनयोग",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/dnyaneshwari/dnyaneshwar.jpg",
+      "orderIndex": 6,
+      "content": [
+        {
+          "shloka": "अर्जुन उवाच - मदनुग्रहाय परमं | गुह्यमध्यात्मसंज्ञितम् ||\nयत्त्वयोक्तं वचस्तेन | मोहोऽयं विगतो मम ||",
+          "meaning": "अर्जुन म्हणाला: आपण कृपापूर्वक मला आत्मतत्त्वाचे जे परम रहस्य सांगितले, त्याने माझा हा मोह नष्ट झाला आहे.",
+          "transliteration": "Arjuna uvacha - madanugrahaya paramam | guhyamadhyatmasamjnitam ||\nYattvayoktam vachastena | moho'yam vigato mama ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "पश्य मे पार्थ रूपाणि | शतशोऽथ सहस्रशः ||\nनानाविधानि दिव्यानि | नानावर्णाकृतीनि च ||",
+          "meaning": "हे पार्था, माझी शेकडो-हजारो रूपे पाहा -- विविध प्रकारची, दिव्य, अनेक रंग आणि आकृतींची.",
+          "transliteration": "Pashya me Partha rupani | shatasho'tha sahasrashah ||\nNanavidhani divyani | nanavarnaakritini cha ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "इहैकस्थं जगत्कृत्स्नं | पश्याद्य सचराचरम् ||\nमम देहे गुडाकेश | यच्चान्यद्द्रष्टुमिच्छसि ||",
+          "meaning": "हे अर्जुना, आता माझ्या शरीरात संपूर्ण जगत -- चर आणि अचर सहित -- एकत्र पाहा, आणि जे काही अजून पाहायचे ते पाहा.",
+          "transliteration": "Ihaika stham jagat kritsnam | pashyadya sacharacharam ||\nMama dehe Gudakesha | yachchanyad drashtumichhasi ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "दिव्यं ददामि ते चक्षुः | पश्य मे योगमैश्वरम् ||\nन तु मां शक्यसे द्रष्टुम् | अनेनैव स्वचक्षुषा ||",
+          "meaning": "मी तुला दिव्य दृष्टी देतो. माझी ईश्वरी योगशक्ती पाहा. तुझ्या साध्या डोळ्यांनी तू मला पाहू शकत नाहीस.",
+          "transliteration": "Divyam dadami te chakshuh | pashya me yogamaishvaram ||\nNa tu mam shakyase drashtum | anenaiva svachakshusha ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कालोऽस्मि लोकक्षयकृत्प्रवृद्धो | लोकान्समाहर्तुमिह प्रवृत्तः ||\nऋतेऽपि त्वां न भविष्यन्ति सर्वे | येऽवस्थिताः प्रत्यनीकेषु योधाः ||",
+          "meaning": "मी काळ आहे, लोकांचा विनाश करणारा, येथे सर्व लोकांचा संहार करण्यास प्रवृत्त. तुझ्याशिवायही विरुद्ध सेनेतील सर्व योद्धे जगणार नाहीत.",
+          "transliteration": "Kalo'smi lokakshayakrit pravriddho | lokan samahartumiha pravrittah ||\nRite'pi tvam na bhavishyanti sarve | ye'vasthitah pratyanikeshu yodhah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ज्ञानेश्वर म्हणे विश्वरूप | दर्शिली कृष्णें आपा ||\nअनवरत जगत तया देही | सकळ स्थिती हरीमाझी ||",
+          "meaning": "ज्ञानेश्वर म्हणतात: कृष्णाने विश्वरूप दाखवले. संपूर्ण जगत त्याच्या शरीरात सतत विद्यमान आहे; सर्व अस्तित्व हरीमध्ये आहे.",
+          "transliteration": "Dnyaneshwar mhane vishwarupa | darshili Krishne apa ||\nAnavarat jagat taya dehi | sakala sthiti Harimajhi ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "dnya_ch12",
+      "title": "अध्याय १२ - भक्तियोग",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/dnyaneshwari/dnyaneshwar.jpg",
+      "orderIndex": 7,
+      "content": [
+        {
+          "shloka": "अर्जुन उवाच - एवं सततयुक्ता ये | भक्तास्त्वां पर्युपासते ||\nये चाप्यक्षरमव्यक्तं | तेषां के योगवित्तमाः ||",
+          "meaning": "अर्जुनाने विचारले: जे भक्त सदा आपल्या उपासनेत लीन असतात आणि जे अविनाशी अव्यक्ताची उपासना करतात -- त्यांपैकी योगात श्रेष्ठ कोण?",
+          "transliteration": "Arjuna uvacha - evam satatayukta ye | bhaktastvam paryupasate ||\nYe chapyaksharamavyaktam | tesham ke yogavittamah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "श्री भगवानुवाच - मय्यावेश्य मनो ये मां | नित्ययुक्ता उपासते ||\nश्रद्धया परयोपेताः | ते मे युक्ततमा मताः ||",
+          "meaning": "श्री भगवान म्हणाले: जे माझ्यात मन लावून, सदा माझी उपासना करतात, परम श्रद्धेने युक्त -- त्यांना मी योगात सर्वश्रेष्ठ मानतो.",
+          "transliteration": "Shri Bhagavanuvaacha - mayyaveshya mano ye mam | nityayukta upasate ||\nShraddhaya parayopetah | te me yuktatama matah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "मय्येव मन आधत्स्व | मयि बुद्धिं निवेशय ||\nनिवसिष्यसि मय्येव | अत ऊर्ध्वं न संशयः ||",
+          "meaning": "आपले मन माझ्यातच स्थिर करा, बुद्धी माझ्यातच लावा. त्यानंतर तुम्ही माझ्यातच निवास कराल, यात शंका नाही.",
+          "transliteration": "Mayyeva mana adhatsva | mayi buddhim niveshaya ||\nNivasishhyasi mayyeva | ata urdhvam na samshayah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अद्वेष्टा सर्वभूतानां | मैत्रः करुण एव च ||\nनिर्ममो निरहंकारः | समदुःखसुखः क्षमी ||",
+          "meaning": "जो सर्व प्राण्यांशी द्वेषरहित, मैत्रीपूर्ण आणि करुणाशील आहे, ममता आणि अहंकारापासून मुक्त, सुख-दुःखात सम आणि क्षमाशील आहे.",
+          "transliteration": "Adveshta sarvabhutanam | maitrah karuna eva cha ||\nNirmamo nirahankarah | samaduhkhasukhah kshami ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सन्तुष्टः सततं योगी | यतात्मा दृढनिश्चयः ||\nमय्यर्पितमनोबुद्धिः | यो मद्भक्तः स मे प्रियः ||",
+          "meaning": "सदा संतुष्ट, ध्यानात स्थिर, आत्मसंयमी, दृढ निश्चयाचा, माझ्यात मन आणि बुद्धी अर्पण करणारा -- असा माझा भक्त मला प्रिय आहे.",
+          "transliteration": "Santushtah satatam yogi | yatatma dridhanishchayah ||\nMayyarpitamanobuddhih | yo madbhaktah sa me priyah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ये तु धर्म्यामृतमिदं | यथोक्तं पर्युपासते ||\nश्रद्दधाना मत्परमा | भक्तास्तेऽतीव मे प्रियाः ||",
+          "meaning": "परंतु जे या अमृतमय धर्माचे यथावत सेवन करतात, श्रद्धायुक्त, मलाच परम लक्ष्य मानणारे -- असे भक्त मला अत्यंत प्रिय आहेत.",
+          "transliteration": "Ye tu dharmyamritamidam | yathoktam paryupasate ||\nShraddhadhana matparama | bhaktaste'tiva me priyah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ज्ञानेश्वर म्हणे भक्ती | हरी पावती मागुती ||\nसर्व धर्म तया पथी | भक्त प्रिय हरी चित्ती ||",
+          "meaning": "ज्ञानेश्वर म्हणतात: भक्तीने वारंवार हरी प्राप्त होतात. सर्व धर्म त्याच मार्गावर आहे; भक्त सदा हरीच्या हृदयात प्रिय आहे.",
+          "transliteration": "Dnyaneshwar mhane bhakti | Hari pavati maguti ||\nSarva dharma taya pathi | bhakta priya Hari chitti ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "dnya_ch15",
+      "title": "अध्याय १५ - पुरुषोत्तमयोग",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/dnyaneshwari/dnyaneshwar.jpg",
+      "orderIndex": 8,
+      "content": [
+        {
+          "shloka": "श्री भगवानुवाच - ऊर्ध्वमूलमधःशाखम् | अश्वत्थं प्राहुरव्ययम् ||\nछन्दांसि यस्य पर्णानि | यस्तं वेद स वेदवित् ||",
+          "meaning": "श्री भगवान म्हणाले: ज्याची मुळे वर आणि शाखा खाली आहेत, असा अविनाशी अश्वत्थ वृक्ष, ज्याची पाने वेदमंत्र आहेत. जो याला जाणतो, तो वेदज्ञ आहे.",
+          "transliteration": "Shri Bhagavanuvaacha - urdhvamulam adhahshakham | ashvattham prahuravyayam ||\nChhandamsi yasya parnani | yastam veda sa vedavit ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अधश्चोर्ध्वं प्रसृतास्तस्य शाखाः | गुणप्रवृद्धा विषयप्रवालाः ||\nअधश्च मूलान्यनुसन्ततानि | कर्मानुबन्धीनि मनुष्यलोके ||",
+          "meaning": "याच्या शाखा खाली आणि वर पसरलेल्या आहेत, गुणांनी पोषित, विषय याच्या कोंपळा आहेत. मनुष्यलोकात कर्मबंधनरूपी मुळे खालपर्यंत पसरली आहेत.",
+          "transliteration": "Adhashchordhvam prasritastasya shakhah | gunapravriddhaa vishayapravalah ||\nAdhashcha mulanyanusamtatani | karmanubandhinni manushyaloke ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "न रूपमस्येह तथोपलभ्यते | नान्तो न चादिर्न च सम्प्रतिष्ठा ||\nअश्वत्थमेनं सुविरूढमूलम् | असङ्गशस्त्रेण दृढेन छित्त्वा ||",
+          "meaning": "या वृक्षाचे स्वरूप येथे तसे दिसत नाही -- ना याचा अंत, ना आदी, ना आधार. या सुदृढ मुळांच्या अश्वत्थाला वैराग्याच्या दृढ शस्त्राने कापून.",
+          "transliteration": "Na rupamasyeha tathopalabhyate | nanto na chaadirna cha sampratishtha ||\nAshvattham enam suvirudhamulam | asangashastrena dridhena chhittva ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ममैवांशो जीवलोके | जीवभूतः सनातनः ||\nमनःषष्ठानीन्द्रियाणि | प्रकृतिस्थानि कर्षति ||",
+          "meaning": "माझाच सनातन अंश जीवलोकात जीवभूत होऊन प्रकृतीत स्थित पाच इंद्रिये आणि मनाला आकर्षित करतो.",
+          "transliteration": "Mamaivamsho jivaloke | jivabhutah sanatanah ||\nManah-shashthanindriyani | prakritisthani karshati ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "द्वाविमौ पुरुषौ लोके | क्षरश्चाक्षर एव च ||\nक्षरः सर्वाणि भूतानि | कूटस्थोऽक्षर उच्यते ||",
+          "meaning": "या लोकात दोन प्रकारचे पुरुष आहेत -- क्षर (नाशवान) आणि अक्षर (अविनाशी). सर्व भौतिक प्राणी क्षर आहेत आणि अपरिवर्तनशील अक्षर म्हटला जातो.",
+          "transliteration": "Dvavimau purushau loke | ksharashchakshara eva cha ||\nKsharah sarvani bhutani | kutastho'kshara uchyate ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "उत्तमः पुरुषस्त्वन्यः | परमात्मेत्युदाहृतः ||\nयो लोकत्रयमाविश्य | बिभर्त्यव्यय ईश्वरः ||",
+          "meaning": "परंतु यांहून भिन्न एक उत्तम पुरुष आहे, जो परमात्मा म्हटला जातो, तो अविनाशी ईश्वर तिन्ही लोकांत प्रवेश करून त्यांचे भरणपोषण करतो.",
+          "transliteration": "Uttamah purushastvannyah | paramatmetyudahritah ||\nYo lokatrayamavishya | bibhartyavyaya Ishvarah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "इति गुह्यतमं शास्त्रम् | इदमुक्तं मयानघ ||\nएतद्बुद्ध्वा बुद्धिमान्स्यात् | कृतकृत्यश्च भारत ||",
+          "meaning": "अशा प्रकारे हे अत्यंत गोपनीय शास्त्र मी सांगितले, हे निष्पापा. हे समजल्यावर माणूस बुद्धिमान होतो आणि कृतकृत्य होतो, हे भारता.",
+          "transliteration": "Iti guhyatamam shastram | idamuktam mayanagha ||\nEtad buddhva buddhiman syat | kritakrittyashcha Bharata ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "dnya_ch18",
+      "title": "अध्याय १८ - मोक्षसन्न्यासयोग",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/dnyaneshwari/dnyaneshwar.jpg",
+      "orderIndex": 9,
+      "content": [
+        {
+          "shloka": "अर्जुन उवाच - सन्न्यासस्य महाबाहो | तत्त्वमिच्छामि वेदितुम् ||\nत्यागस्य च हृषीकेश | पृथक्केशिनिषूदन ||",
+          "meaning": "अर्जुन म्हणाला: हे महाबाहो, मला संन्यास आणि त्याग यांचे तत्त्व वेगवेगळे जाणायचे आहे, हे हृषीकेशा, हे केशिनिषूदना.",
+          "transliteration": "Arjuna uvacha - sannyasasya mahabaho | tattvamichhami veditum ||\nTyagasya cha Hrishikesha | prithakkeshinishudana ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "नियतस्य तु सन्न्यासः | कर्मणो नोपपद्यते ||\nमोहात्तस्य परित्यागः | तामसः परिकीर्तितः ||",
+          "meaning": "नियत (अनिवार्य) कर्माचा संन्यास योग्य नाही. मोहामुळे त्याचा त्याग तामसिक म्हणून सांगितला आहे.",
+          "transliteration": "Niyatasya tu sannyasah | karmano nopapadyate ||\nMohattasya parityagas | tamasah parikirtitah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ईश्वरः सर्वभूतानां | हृद्देशेऽर्जुन तिष्ठति ||\nभ्रामयन्सर्वभूतानि | यन्त्रारूढानि मायया ||",
+          "meaning": "हे अर्जुना, ईश्वर सर्व प्राण्यांच्या हृदयात निवास करतो आणि आपल्या मायेने सर्व प्राण्यांना, जणू यंत्रावर बसवलेले, फिरवत राहतो.",
+          "transliteration": "Ishvarah sarvabhutanam | hriddeshe'rjuna tishthati ||\nBhramayan sarvabhutani | yantrarudhani mayaya ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "तमेव शरणं गच्छ | सर्वभावेन भारत ||\nतत्प्रसादात्परां शान्तिं | स्थानं प्राप्स्यसि शाश्वतम् ||",
+          "meaning": "हे भारता, संपूर्ण भावाने त्यांनाच शरण जा. त्यांच्या कृपेने तू परम शांती आणि शाश्वत धाम प्राप्त करशील.",
+          "transliteration": "Tameva sharanam gachchha | sarvabhavena Bharata ||\nTatprasadat param shantim | sthanam prapsyasi shashvatam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सर्वधर्मान्परित्यज्य | मामेकं शरणं व्रज ||\nअहं त्वा सर्वपापेभ्यो | मोक्षयिष्यामि मा शुचः ||",
+          "meaning": "सर्व धर्मांचा त्याग करून केवळ माझ्या शरणी ये. मी तुला सर्व पापांतून मुक्त करीन; शोक करू नकोस.",
+          "transliteration": "Sarvadharman parityajya | mamekam sharanam vraja ||\nAham tva sarvapapebhyo | mokshayishyami ma shuchah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "यत्र योगेश्वरः कृष्णो | यत्र पार्थो धनुर्धरः ||\nतत्र श्रीर्विजयो भूतिः | ध्रुवा नीतिर्मतिर्मम ||",
+          "meaning": "जेथे योगेश्वर कृष्ण आहेत आणि जेथे धनुर्धारी अर्जुन आहे, तेथे ऐश्वर्य, विजय, समृद्धी आणि अचल नीती निश्चित आहे -- हा माझा मत आहे.",
+          "transliteration": "Yatra Yogeshvarah Krishno | yatra Partho dhanurdharah ||\nTatra shrirvijayo bhutih | dhruva nitirmatirmama ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ज्ञानेश्वर म्हणे ही गीता | पूर्ण झाली परमार्थिता ||\nमोक्ष मार्ग प्रकाशिला | सर्व जीव उद्धरिला ||",
+          "meaning": "ज्ञानेश्वर म्हणतात: ही गीता आपल्या आध्यात्मिक सत्यात पूर्ण झाली. मोक्षाचा मार्ग प्रकाशित झाला आणि सर्व जीवांचा उद्धार झाला.",
+          "transliteration": "Dnyaneshwar mhane hi Gita | purna zali paramarthita ||\nMoksha marga prakashila | sarva jiva uddharila ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "dnya_pasaydan",
+      "title": "पसायदान",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/dnyaneshwari/dnyaneshwar.jpg",
+      "orderIndex": 10,
+      "content": [
+        {
+          "shloka": "आता विश्वात्मके देवे | येणे वाग्यज्ञे तोषावे ||\nतोषोनि मज द्यावे | पसायदान हे ||",
+          "meaning": "आता विश्वात्मा देव या वाणी-यज्ञाने प्रसन्न होवोत. प्रसन्न होऊन मला हे वरदान द्यावे.",
+          "transliteration": "Ata Vishwatmake Deve | yene vagyajne toshave ||\nToshoni maja dyave | pasaydan he ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जे खळांची व्यंकटी सांडो | तया सत्कर्मी राती वाढो ||\nभूतां परस्परे पडो | मैत्री जीवांची ||",
+          "meaning": "दुष्टांची दुष्टता दूर होवो, त्यांची सत्कर्मात रुची वाढो. सर्व प्राण्यांत परस्पर मैत्री आणि प्रेम वाढो.",
+          "transliteration": "Je khalanchi vyankati sando | taya satkarmi rati vadho ||\nBhuta paraspare pado | maitri jivanche ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "दुर्गमी पंथे सरळे | स्खलने न पडो बळे ||\nभेटे सविता जाले | सकळांचे ||",
+          "meaning": "कठीण मार्ग सरळ होवोत, कोणीही अडखळून पडू नये. सर्वांना ज्ञानाचा सूर्य भेटो.",
+          "transliteration": "Durgami panthe sarale | skalane na pado bale ||\nBhete savita jale | sakalanche ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "किंकर विषयांचे | मराळां स्नेहांचा रासी ||\nझाल्या आत्मपूर्णेष्टी | आनंदाचे ||",
+          "meaning": "विषयांची दासता तुटो, शुद्ध प्रेमाचा भंडार वाहो. आत्मपूर्तीचा यज्ञ पूर्ण होवो आणि परम आनंदाची प्राप्ती होवो.",
+          "transliteration": "Kinkara vishayanche | marala snehancha rasi ||\nJhalya atmapoorneshti | anandache ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जो जे वांछील तो ते लाहो | प्राणिजात ||\nनिरंतर भेटतू भूतां | भगवंत ||",
+          "meaning": "जो कोणी जे काही इच्छिल ते सर्व प्राणिमात्रांना लाभो. सर्व प्राण्यांना निरंतर भगवंतांचे दर्शन होवो.",
+          "transliteration": "Jo je vanchil to te laho | pranijata ||\nNirantar bhetatu bhuta | Bhagavanta ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "चाला कल्याणाचे ओतू | विश्वी धर्मसूर्या भेटू ||\nजो जे वांछील तो ते लाहो | प्राणिजात ||",
+          "meaning": "कल्याणाची विणकाम सुरू होवो, विश्वात धर्माचा सूर्य उदय होवो. जो कोणी जे काही इच्छिल ते सर्व प्राणिमात्रांना प्राप्त होवो.",
+          "transliteration": "Chala kalyanache otu | vishwi dharmasurya bhetu ||\nJo je vanchil to te laho | pranijata ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ऐसे हे पसायदान | देवाधि देव श्री विश्वेश्वराय ||\nज्ञानदेव संगे निवृत्ती | सोपानदेव म्हणे ||",
+          "meaning": "असे हे पसायदान, देवाधिदेव श्री विश्वेश्वरांना अर्पित आहे. ज्ञानदेव निवृत्तिनाथांसोबत सांगतात, सोपानदेव बोलतात.",
+          "transliteration": "Aise he pasaydan | Devadhi Deva Shri Vishweshwaraya ||\nDnyanadeva sange Nivritti | Sopandeva mhane ||",
+          "imageUrl": null
+        }
+      ]
+    }
+  ]
+}

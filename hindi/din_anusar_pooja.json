@@ -1,0 +1,285 @@
+{
+  "category": "Din Ke Anusar Pooja",
+  "version": 1,
+  "items": [
+    {
+      "id": "din_somvar",
+      "title": "सोमवार - शिव पूजा",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/din_pooja/shiv.jpg",
+      "orderIndex": 1,
+      "content": [
+        {
+          "shloka": "ॐ नमः शिवाय\nॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम्\nउर्वारुकमिव बन्धनान् मृत्योर्मुक्षीय मामृतात्",
+          "meaning": "हम तीन नेत्रों वाले भगवान शिव की पूजा करते हैं जो सुगंधित हैं और सभी प्राणियों का पोषण करते हैं। जैसे ककड़ी अपनी बेल से मुक्त होती है, वैसे ही हमें मृत्यु के बंधन से मुक्त करें और अमरत्व प्रदान करें।",
+          "transliteration": "Oṃ namaḥ śivāya\nOṃ tryambakaṃ yajāmahe sugandhiṃ puṣṭivardhanam\nUrvārukamiva bandhanān mṛtyormukṣīya māmṛtāt",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कर्पूरगौरं करुणावतारं\nसंसारसारं भुजगेन्द्रहारम्\nसदा वसन्तं हृदयारविन्दे\nभवं भवानीसहितं नमामि",
+          "meaning": "कपूर के समान गोरे, करुणा के अवतार, संसार के सार, नागराज को हार के रूप में धारण करने वाले, सदा हृदय कमल में निवास करने वाले भगवान शिव को भवानी सहित मैं नमन करता हूँ।",
+          "transliteration": "Karpūragauraṃ karuṇāvatāraṃ\nSaṃsārasāraṃ bhujagendrahāram\nSadā vasantaṃ hṛdayāravinde\nBhavaṃ bhavānīsahitaṃ namāmi",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सोमवार व्रत पूजा विधि:\n१. प्रातः काल उठकर स्नान करें और स्वच्छ श्वेत वस्त्र धारण करें।\n२. शिवलिंग या भगवान शिव की प्रतिमा को स्वच्छ वेदी पर स्थापित करें।\n३. बिल्वपत्र, श्वेत पुष्प और धतूरा अर्पित करें।\n४. दूध, जल, मधु, दही और घी से अभिषेक करें।\n५. घी का दीपक और धूप जलाएँ।\n६. रुद्राक्ष माला से 'ॐ नमः शिवाय' का १०८ बार जप करें।\n७. पंचामृत का नैवेद्य अर्पित करें।\n८. शिव आरती और प्रदक्षिणा के साथ पूजा संपन्न करें।",
+          "meaning": "सोमवार व्रत पूजा की संपूर्ण विधि यहाँ दी गई है। भक्त पूरे दिन उपवास रखते हैं और पूजा के बाद फल या एक समय का भोजन करते हैं। श्रावण मास में सोमवार का व्रत विशेष फलदायी होता है।",
+          "transliteration": "Somavāra vrata pūjā vidhi:\n1. prātaḥ kāla uṭhakara snāna kareṃ aura svaccha śveta vastra dhāraṇa kareṃ|\n2. śivaliṃga yā bhagavāna śiva kī pratimā ko svaccha vedī para sthāpita kareṃ|\n3. bilvapatra, śveta puṣpa aura dhatūrā arpita kareṃ|\n4. dūdha, jala, madhu, dahī aura ghī se abhiṣeka kareṃ|\n5. ghī kā dīpaka aura dhūpa jalāe~|\n6. rudrākṣa mālā se 'oṃ namaḥ śivāya' kā 108 bāra japa kareṃ|\n7. paṃcāmṛta kā naivedya arpita kareṃ|\n8. śiva āratī aura pradakṣiṇā ke sātha pūjā saṃpanna kareṃ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "शिवाष्टकम्:\nप्रभुं देवदेवं नीलकण्ठदेवं\nगङ्गाधरदेवं गौरीशंकरदेवम्\nचन्द्रमौलिदेवं त्रिनेत्रदेवं\nनागेन्द्रहारं नमामि शिवम्",
+          "meaning": "मैं भगवान शिव को नमन करता हूँ — देवों के देव, नीलकण्ठ, गंगाधर, गौरीशंकर, चन्द्रमौलि, त्रिनेत्र और नागराज को माला के रूप में धारण करने वाले।",
+          "transliteration": "Śivāṣṭakam:\nPrabhuṃ devadevaṃ nīlakaṇṭhadevaṃ\nGaṅgādharadevaṃ gaurīśaṃkaradevam\nCandramaulidevaṃ trinetradevaṃ\nNāgendrahāraṃ namāmi śivam",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सोमवार व्रत कथा (सारांश):\nएक बार एक व्यापारी और उसकी पत्नी ने बड़ी श्रद्धा से सोमवार का व्रत किया। भगवान शिव उनकी भक्ति से प्रसन्न हुए और उन्हें समृद्धि तथा सुपुत्र का वरदान दिया। उनकी पड़ोसन ने उनका भाग्य देखकर व्रत शुरू किया, परन्तु बिना सच्ची श्रद्धा के। उसे कोई वरदान नहीं मिला। यह कथा सिखाती है कि सोमवार को महादेव की सच्ची भक्ति ही सभी मनोकामनाएँ पूर्ण करती है।",
+          "meaning": "सोमवार व्रत कथा यह शिक्षा देती है कि भगवान शिव की पूजा केवल कर्मकाण्ड से नहीं, बल्कि सच्ची श्रद्धा और समर्पण से की जानी चाहिए। सच्ची भक्ति ही महादेव को प्रसन्न करती है।",
+          "transliteration": "Somavāra vrata kathā (sārāṃśa):\nEka bāra eka vyāpārī aura usakī patnī ne bar̤ī śraddhā se somavāra kā vrata kiyā| bhagavāna śiva unakī bhakti se prasanna hue aura unheṃ samṛddhi tathā suputra kā varadāna diyā| unakī par̤osana ne unakā bhāgya dekhakara vrata śurū kiyā, parantu binā saccī śraddhā ke| use koī varadāna nahīṃ milā| yaha kathā sikhātī hai ki somavāra ko mahādeva kī saccī bhakti hī sabhī manokāmanāe~ pūrṇa karatī hai|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "शिव पञ्चाक्षरी स्तोत्रम्:\nनागेन्द्रहाराय त्रिलोचनाय\nभस्माङ्गरागाय महेश्वराय\nनित्याय शुद्धाय दिगम्बराय\nतस्मै नकाराय नमः शिवाय",
+          "meaning": "नागराज को हार के रूप में धारण करने वाले, तीन नेत्रों वाले, भस्म लगाने वाले, महेश्वर, नित्य, शुद्ध, दिगम्बर — ऐसे 'न' कार से प्रतिनिधित शिव को नमस्कार।",
+          "transliteration": "Śiva pañcākṣarī stotram:\nNāgendrahārāya trilocanāya\nBhasmāṅgarāgāya maheśvarāya\nNityāya śuddhāya digambarāya\nTasmai nakārāya namaḥ śivāya",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "din_mangalvar",
+      "title": "मंगलवार - हनुमान पूजा",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/din_pooja/hanuman.jpg",
+      "orderIndex": 2,
+      "content": [
+        {
+          "shloka": "ॐ हनुमते नमः\nमनोजवं मारुततुल्यवेगं\nजितेन्द्रियं बुद्धिमतां वरिष्ठम्\nवातात्मजं वानरयूथमुख्यं\nश्रीरामदूतं शरणं प्रपद्ये",
+          "meaning": "मैं श्री राम के दूत हनुमान जी की शरण लेता हूँ, जो मन के समान वेगवान, पवन के समान तीव्र, इन्द्रियों को जीतने वाले, बुद्धिमानों में श्रेष्ठ, पवनपुत्र और वानर सेना के प्रमुख हैं।",
+          "transliteration": "Oṃ hanumate namaḥ\nManojavaṃ mārutatulyavegaṃ\nJitendriyaṃ buddhimatāṃ variṣṭham\nVātātmajaṃ vānarayūthamukhyaṃ\nŚrīrāmadūtaṃ śaraṇaṃ prapadye",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अतुलितबलधामं हेमशैलाभदेहं\nदनुजवनकृशानुं ज्ञानिनामग्रगण्यम्\nसकलगुणनिधानं वानराणामधीशं\nरघुपतिप्रियभक्तं वातजातं नमामि",
+          "meaning": "अतुलनीय बल के धाम, सुवर्ण पर्वत के समान देह वाले, दानवों के वन को जलाने वाले अग्नि समान, ज्ञानियों में अग्रगण्य, समस्त गुणों के निधान, वानरों के अधीश्वर, रघुपति के प्रिय भक्त, पवनपुत्र हनुमान को मैं नमन करता हूँ।",
+          "transliteration": "Atulitabaladhāmaṃ hemaśailābhadehaṃ\nDanujavanakṛśānuṃ jñānināmagragaṇyam\nSakalaguṇanidhānaṃ vānarāṇāmadhīśaṃ\nRaghupatipriyabhaktaṃ vātajātaṃ namāmi",
+          "imageUrl": null
+        },
+        {
+          "shloka": "मंगलवार पूजा विधि:\n१. सूर्योदय से पहले उठें, स्नान करें और लाल या केसरिया वस्त्र पहनें।\n२. हनुमान जी की मूर्ति या चित्र वेदी पर स्थापित करें।\n३. मूर्ति पर सिन्दूर लगाएँ।\n४. लाल पुष्प, पान के पत्ते और चमेली की माला चढ़ाएँ।\n५. तिल का तेल या घी का दीपक जलाएँ।\n६. हनुमान चालीसा का पाठ करें, फिर 'ॐ हनुमते नमः' का १०८ बार जप करें।\n७. लड्डू, बूंदी या गुड़ का नैवेद्य अर्पित करें।\n८. रामायण के सुन्दरकाण्ड का पाठ करें या सुनें।\n९. हनुमान आरती और प्रदक्षिणा के साथ पूजा समाप्त करें।",
+          "meaning": "मंगलवार को हनुमान जी की पूजा की संपूर्ण विधि। मंगलवार का व्रत रखने वाले भक्तों को साहस, शक्ति और बुराई से सुरक्षा प्राप्त होती है। लगातार २१ मंगलवार व्रत रखने से विशेष फल मिलता है।",
+          "transliteration": "Maṃgalavāra pūjā vidhi:\n1. sūryodaya se pahale uṭheṃ, snāna kareṃ aura lāla yā kesariyā vastra pahaneṃ|\n2. hanumāna jī kī mūrti yā citra vedī para sthāpita kareṃ|\n3. mūrti para sindūra lagāe~|\n4. lāla puṣpa, pāna ke patte aura camelī kī mālā car̤hāe~|\n5. tila kā tela yā ghī kā dīpaka jalāe~|\n6. hanumāna cālīsā kā pāṭha kareṃ, phira 'oṃ hanumate namaḥ' kā 108 bāra japa kareṃ|\n7. laḍḍū, būṃdī yā gur̤a kā naivedya arpita kareṃ|\n8. rāmāyaṇa ke sundarakāṇḍa kā pāṭha kareṃ yā suneṃ|\n9. hanumāna āratī aura pradakṣiṇā ke sātha pūjā samāpta kareṃ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "बजरंग बाण (आरम्भिक छंद):\nनिश्चय प्रेम प्रतीति ते विनय करै सन्मान\nते फल पावै सवधि जब पढ़ै बजरंग बाण\nजय हनुमन्त सन्त हितकारी\nसुना लीजे प्रभु अरज हमारी",
+          "meaning": "जो निश्चय, प्रेम और विश्वास के साथ विनय पूर्वक बजरंग बाण का पाठ करते हैं, उन्हें निश्चित रूप से फल प्राप्त होता है। संतों के हितकारी हनुमान जी की जय हो। हे प्रभु, हमारी विनती सुनिए।",
+          "transliteration": "Bajaraṃga bāṇa (ārambhika chaṃda):\nNiścaya prema pratīti te vinaya karai sanmāna\nTe phala pāvai savadhi jaba par̤hai bajaraṃga bāṇa\nJaya hanumanta santa hitakārī\nSunā līje prabhu araja hamārī",
+          "imageUrl": null
+        },
+        {
+          "shloka": "मंगलवार व्रत कथा (सारांश):\nएक गरीब ब्राह्मण ऋण और कष्टों से परेशान था। एक संत ने उसे प्रत्येक मंगलवार हनुमान जी की सच्ची भक्ति करने की सलाह दी। ब्राह्मण ने सिन्दूर चढ़ाया, हनुमान चालीसा का पाठ किया और २१ मंगलवार व्रत रखा। हनुमान जी उसकी भक्ति से प्रसन्न हुए, सभी विघ्न दूर किए, धन दिया और निर्भयता प्रदान की। यह कथा बताती है कि मंगलवार को हनुमान की पूजा सभी भय और बाधाओं को नष्ट करती है।",
+          "meaning": "मंगलवार व्रत कथा यह शिक्षा देती है कि हनुमान जी की निरन्तर और हृदयपूर्वक भक्ति करने से जीवन की सभी बाधाएँ, ऋण और भय दूर होते हैं। हनुमान जी भक्तों के रक्षक हैं।",
+          "transliteration": "Maṃgalavāra vrata kathā (sārāṃśa):\nEka garība brāhmaṇa ṛṇa aura kaṣṭoṃ se pareśāna thā| eka saṃta ne use pratyeka maṃgalavāra hanumāna jī kī saccī bhakti karane kī salāha dī| brāhmaṇa ne sindūra car̤hāyā, hanumāna cālīsā kā pāṭha kiyā aura 21 maṃgalavāra vrata rakhā| hanumāna jī usakī bhakti se prasanna hue, sabhī vighna dūra kie, dhana diyā aura nirbhayatā pradāna kī| yaha kathā batātī hai ki maṃgalavāra ko hanumāna kī pūjā sabhī bhaya aura bādhāoṃ ko naṣṭa karatī hai|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "din_budhvar",
+      "title": "बुधवार - गणेश/विठ्ठल पूजा",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/din_pooja/ganesh.jpg",
+      "orderIndex": 3,
+      "content": [
+        {
+          "shloka": "ॐ गं गणपतये नमः\nवक्रतुण्ड महाकाय सूर्यकोटि समप्रभ\nनिर्विघ्नं कुरु मे देव सर्वकार्येषु सर्वदा",
+          "meaning": "वक्र सूंड वाले, विशाल शरीर वाले, करोड़ सूर्यों के समान तेजस्वी हे गणेश देव, मेरे सभी कार्यों में सदा विघ्नों को दूर करें।",
+          "transliteration": "Oṃ gaṃ gaṇapataye namaḥ\nVakratuṇḍa mahākāya sūryakoṭi samaprabha\nNirvighnaṃ kuru me deva sarvakāryeṣu sarvadā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "गजाननं भूतगणादिसेवितं\nकपित्थजम्बूफलसारभक्षितम्\nउमासुतं शोकविनाशकारणं\nनमामि विघ्नेश्वरपादपङ्कजम्",
+          "meaning": "गज के मुख वाले, भूतगणों से सेवित, कैथ और जामुन फल खाने वाले, उमा (पार्वती) के पुत्र, शोक का नाश करने वाले विघ्नेश्वर के चरण कमलों को मैं नमन करता हूँ।",
+          "transliteration": "Gajānanaṃ bhūtagaṇādisevitaṃ\nKapitthajambūphalasārabhakṣitam\nUmāsutaṃ śokavināśakāraṇaṃ\nNamāmi vighneśvarapādapaṅkajam",
+          "imageUrl": null
+        },
+        {
+          "shloka": "विठ्ठल प्रार्थना:\nपुण्डलीक वरदा हरि विठ्ठल\nश्री ज्ञानदेव तुकाराम\nपंढरीनाथ महाराज की जय\nविठ्ठल विठ्ठल विठ्ठल",
+          "meaning": "पुण्डलीक को वर देने वाले हरि विठ्ठल की जय, सन्त ज्ञानदेव और तुकाराम की जय, पंढरीनाथ महाराज की जय। विठ्ठल विठ्ठल विठ्ठल!",
+          "transliteration": "Viṭhṭhala prārthanā:\nPuṇḍalīka varadā hari viṭhṭhala\nŚrī jñānadeva tukārāma\nPaṃḍharīnātha mahārāja kī jaya\nViṭhṭhala viṭhṭhala viṭhṭhala",
+          "imageUrl": null
+        },
+        {
+          "shloka": "बुधवार पूजा विधि:\n१. प्रातः काल उठें, स्नान करें और हरे या पीले वस्त्र धारण करें।\n२. गणेश मूर्ति और/या विठ्ठल चित्र वेदी पर रखें।\n३. गणेश जी को दूर्वा (२१ तिनके), लाल पुष्प और मोदक अर्पित करें।\n४. विठ्ठल पूजा के लिए तुलसी पत्र और श्वेत पुष्प अर्पित करें।\n५. घी का दीपक और अगरबत्ती जलाएँ।\n६. 'ॐ गं गणपतये नमः' का १०८ बार जप करें।\n७. गणपति अथर्वशीर्ष का पाठ करें।\n८. मोदक या लड्डू का नैवेद्य अर्पित करें।\n९. गणेश आरती या विठ्ठल आरती और प्रदक्षिणा से पूजा समाप्त करें।",
+          "meaning": "बुधवार भगवान गणेश और विठ्ठल (विष्णु का स्वरूप) को समर्पित है। गणेश जी की पूजा विघ्न निवारण, विद्या और नए कार्यों में सफलता के लिए की जाती है। महाराष्ट्र में बुधवार को विठ्ठल पूजा भी होती है।",
+          "transliteration": "Budhavāra pūjā vidhi:\n1. prātaḥ kāla uṭheṃ, snāna kareṃ aura hare yā pīle vastra dhāraṇa kareṃ|\n2. gaṇeśa mūrti aura/yā viṭhṭhala citra vedī para rakheṃ|\n3. gaṇeśa jī ko dūrvā (21 tinake), lāla puṣpa aura modaka arpita kareṃ|\n4. viṭhṭhala pūjā ke lie tulasī patra aura śveta puṣpa arpita kareṃ|\n5. ghī kā dīpaka aura agarabattī jalāe~|\n6. 'oṃ gaṃ gaṇapataye namaḥ' kā 108 bāra japa kareṃ|\n7. gaṇapati atharvaśīrṣa kā pāṭha kareṃ|\n8. modaka yā laḍḍū kā naivedya arpita kareṃ|\n9. gaṇeśa āratī yā viṭhṭhala āratī aura pradakṣiṇā se pūjā samāpta kareṃ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "गणेश अथर्वशीर्ष (आरम्भ):\nॐ नमस्ते गणपतये\nत्वमेव प्रत्यक्षं तत्त्वमसि\nत्वमेव केवलं कर्तासि\nत्वमेव केवलं धर्तासि\nत्वमेव केवलं हर्तासि\nत्वमेव सर्वं खल्विदं ब्रह्मासि\nत्वं साक्षादात्मासि नित्यम्",
+          "meaning": "ॐ, गणपति को नमस्कार। आप ही प्रत्यक्ष तत्त्व हैं। आप ही एकमात्र सृष्टिकर्ता हैं, आप ही धारणकर्ता हैं, आप ही संहारकर्ता हैं। आप ही यह सम्पूर्ण ब्रह्म हैं। आप साक्षात् नित्य आत्मा हैं।",
+          "transliteration": "Gaṇeśa atharvaśīrṣa (ārambha):\nOṃ namaste gaṇapataye\nTvameva pratyakṣaṃ tattvamasi\nTvameva kevalaṃ kartāsi\nTvameva kevalaṃ dhartāsi\nTvameva kevalaṃ hartāsi\nTvameva sarvaṃ khalvidaṃ brahmāsi\nTvaṃ sākṣādātmāsi nityam",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "din_guruvar",
+      "title": "गुरुवार - विष्णु/साई पूजा",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/din_pooja/vishnu.jpg",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "ॐ नमो भगवते वासुदेवाय\nशान्ताकारं भुजगशयनं पद्मनाभं सुरेशं\nविश्वाधारं गगनसदृशं मेघवर्णं शुभाङ्गम्\nलक्ष्मीकान्तं कमलनयनं योगिभिर्ध्यानगम्यं\nवन्दे विष्णुं भवभयहरं सर्वलोकैकनाथम्",
+          "meaning": "मैं भगवान विष्णु को नमन करता हूँ जो शान्त स्वरूप हैं, शेषनाग पर शयन करते हैं, जिनकी नाभि से कमल प्रकट होता है, जो देवों के ईश्वर हैं, ब्रह्माण्ड के आधार हैं, आकाश के समान विस्तृत हैं, मेघ वर्ण हैं, शुभ अंगों वाले हैं, लक्ष्मी के पति हैं, कमल नेत्र हैं, योगियों द्वारा ध्यान से प्राप्त होने वाले हैं, भवभय को हरने वाले और सभी लोकों के एकमात्र स्वामी हैं।",
+          "transliteration": "Oṃ namo bhagavate vāsudevāya\nŚāntākāraṃ bhujagaśayanaṃ padmanābhaṃ sureśaṃ\nViśvādhāraṃ gaganasadṛśaṃ meghavarṇaṃ śubhāṅgam\nLakṣmīkāntaṃ kamalanayanaṃ yogibhirdhyānagamyaṃ\nVande viṣṇuṃ bhavabhayaharaṃ sarvalokaikanātham",
+          "imageUrl": null
+        },
+        {
+          "shloka": "साई बाबा प्रार्थना:\nशिरडी वाले साई बाबा आया है तेरे द्वार\nसाईनाथ तेरे हजारों हाथ\nसबका मालिक एक\nश्रद्धा और सबूरी",
+          "meaning": "हे शिरडी के साई बाबा, मैं आपके द्वार पर आया हूँ। साईनाथ, आपके सहायता के हजारों हाथ हैं। सबका मालिक एक है। श्रद्धा और सबूरी (धैर्य) — यही साई बाबा की शिक्षा के दो स्तम्भ हैं।",
+          "transliteration": "Sāī bābā prārthanā:\nŚiraḍī vāle sāī bābā āyā hai tere dvāra\nSāīnātha tere hajāroṃ hātha\nSabakā mālika eka\nŚraddhā aura sabūrī",
+          "imageUrl": null
+        },
+        {
+          "shloka": "गुरुवार पूजा विधि:\n१. प्रातःकाल उठें, स्नान करें और पीले वस्त्र धारण करें।\n२. भगवान विष्णु और/या साई बाबा की प्रतिमा वेदी पर स्थापित करें।\n३. पीले पुष्प, तुलसी पत्र और केला अर्पित करें।\n४. पीली बत्ती वाला घी का दीपक और अगरबत्ती जलाएँ।\n५. 'ॐ नमो भगवते वासुदेवाय' का १०८ बार जप करें।\n६. साई भक्तों के लिए साई सत्चरित्र का एक अध्याय पढ़ें।\n७. केला, चने की दाल या पीले मिष्ठान का नैवेद्य अर्पित करें।\n८. विष्णु सहस्रनाम या साई बाबा आरती करें।\n९. आरती और प्रदक्षिणा से पूजा समाप्त करें।",
+          "meaning": "गुरुवार भगवान विष्णु और बृहस्पति को समर्पित है। शिरडी साई बाबा के भक्तों के लिए भी यह पवित्र दिन है। पीला रंग इस दिन का शुभ रंग है। गुरुवार व्रत से ज्ञान, समृद्धि और आध्यात्मिक उन्नति होती है।",
+          "transliteration": "Guruvāra pūjā vidhi:\n1. prātaḥkāla uṭheṃ, snāna kareṃ aura pīle vastra dhāraṇa kareṃ|\n2. bhagavāna viṣṇu aura/yā sāī bābā kī pratimā vedī para sthāpita kareṃ|\n3. pīle puṣpa, tulasī patra aura kelā arpita kareṃ|\n4. pīlī battī vālā ghī kā dīpaka aura agarabattī jalāe~|\n5. 'oṃ namo bhagavate vāsudevāya' kā 108 bāra japa kareṃ|\n6. sāī bhaktoṃ ke lie sāī satcaritra kā eka adhyāya par̤heṃ|\n7. kelā, cane kī dāla yā pīle miṣṭhāna kā naivedya arpita kareṃ|\n8. viṣṇu sahasranāma yā sāī bābā āratī kareṃ|\n9. āratī aura pradakṣiṇā se pūjā samāpta kareṃ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "विष्णु गायत्री:\nॐ नारायणाय विद्महे\nवासुदेवाय धीमहि\nतन्नो विष्णुः प्रचोदयात्",
+          "meaning": "ॐ, हम भगवान नारायण का ध्यान करते हैं। हम वासुदेव का चिन्तन करते हैं। वह विष्णु हमारी बुद्धि को प्रकाशित और प्रेरित करें।",
+          "transliteration": "Viṣṇu gāyatrī:\nOṃ nārāyaṇāya vidmahe\nVāsudevāya dhīmahi\nTanno viṣṇuḥ pracodayāt",
+          "imageUrl": null
+        },
+        {
+          "shloka": "गुरुवार व्रत कथा (सारांश):\nएक लकड़हारा गरीबी के बावजूद गुरुवार का व्रत श्रद्धा से रखता था, पीले पुष्प और चना भगवान विष्णु को अर्पित करता था। उसके पड़ोसी धनी व्यापारी ने उसका मजाक उड़ाया। भगवान विष्णु ने दोनों की परीक्षा ली — व्यापारी ने अपना धन खो दिया जबकि लकड़हारा समृद्ध हो गया। जब व्यापारी ने विनम्रता से व्रत आरम्भ किया तो उसका भाग्य लौट आया। यह कथा सिखाती है कि गुरुवार को सच्ची भक्ति दैवीय कृपा लाती है।",
+          "meaning": "गुरुवार व्रत कथा यह शिक्षा देती है कि भगवान विष्णु गुरुवार को सच्ची भक्ति का फल देते हैं, चाहे व्यक्ति की सामाजिक स्थिति कुछ भी हो। अहंकार से पतन होता है और विनम्रता से आशीर्वाद मिलता है।",
+          "transliteration": "Guruvāra vrata kathā (sārāṃśa):\nEka lakar̤ahārā garībī ke bāvajūda guruvāra kā vrata śraddhā se rakhatā thā, pīle puṣpa aura canā bhagavāna viṣṇu ko arpita karatā thā| usake par̤osī dhanī vyāpārī ne usakā majāka ur̤āyā| bhagavāna viṣṇu ne donoṃ kī parīkṣā lī — vyāpārī ne apanā dhana kho diyā jabaki lakar̤ahārā samṛddha ho gayā| jaba vyāpārī ne vinamratā se vrata ārambha kiyā to usakā bhāgya lauṭa āyā| yaha kathā sikhātī hai ki guruvāra ko saccī bhakti daivīya kṛpā lātī hai|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "din_shukravar",
+      "title": "शुक्रवार - देवी/लक्ष्मी पूजा",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/din_pooja/lakshmi.jpg",
+      "orderIndex": 5,
+      "content": [
+        {
+          "shloka": "ॐ श्रीं महालक्ष्म्यै नमः\nसर्वमङ्गलमाङ्गल्ये शिवे सर्वार्थसाधिके\nशरण्ये त्र्यम्बके गौरि नारायणि नमोऽस्तुते",
+          "meaning": "हे सभी मंगलों में मंगलकारी, शिवे, सभी उद्देश्यों को सिद्ध करने वाली, शरण देने वाली, त्रिनेत्री गौरी, हे नारायणी, आपको नमस्कार।",
+          "transliteration": "Oṃ śrīṃ mahālakṣmyai namaḥ\nSarvamaṅgalamāṅgalye śive sarvārthasādhike\nŚaraṇye tryambake gauri nārāyaṇi namo'stute",
+          "imageUrl": null
+        },
+        {
+          "shloka": "महालक्ष्मी अष्टकम् (श्लोक १):\nनमस्तेऽस्तु महामाये श्रीपीठे सुरपूजिते\nशङ्खचक्रगदाहस्ते महालक्ष्मि नमोऽस्तुते",
+          "meaning": "हे महामाया, श्री के आसन पर विराजमान, देवताओं द्वारा पूजित, शंख, चक्र और गदा धारण करने वाली महालक्ष्मी, आपको नमस्कार।",
+          "transliteration": "Mahālakṣmī aṣṭakam (śloka 1):\nNamaste'stu mahāmāye śrīpīṭhe surapūjite\nŚaṅkhacakragadāhaste mahālakṣmi namo'stute",
+          "imageUrl": null
+        },
+        {
+          "shloka": "शुक्रवार पूजा विधि:\n१. प्रातःकाल उठें, स्नान करें और श्वेत या गुलाबी वस्त्र पहनें।\n२. देवी लक्ष्मी और माता की प्रतिमा वेदी पर स्थापित करें।\n३. घर और द्वार को स्वच्छ रखें — लक्ष्मी स्वच्छ गृह में निवास करती हैं।\n४. लाल और श्वेत कमल, कुमकुम और हल्दी अर्पित करें।\n५. देवी के समक्ष घी का दीपक और अगरबत्ती जलाएँ।\n६. 'ॐ श्रीं महालक्ष्म्यै नमः' का १०८ बार जप करें।\n७. श्री सूक्तम् या लक्ष्मी अष्टोत्तर शतनामावली का पाठ करें।\n८. खीर, फल या मिश्री का नैवेद्य अर्पित करें।\n९. लक्ष्मी आरती और प्रदक्षिणा से पूजा समाप्त करें।",
+          "meaning": "शुक्रवार देवी लक्ष्मी और दिव्य माता को समर्पित है। भक्त श्वेत या गुलाबी वस्त्र पहनते हैं, घर स्वच्छ रखते हैं और धन, समृद्धि तथा पारिवारिक सौहार्द के लिए देवी की पूजा करते हैं। मार्गशीर्ष मास में यह व्रत विशेष प्रभावकारी है।",
+          "transliteration": "Śukravāra pūjā vidhi:\n1. prātaḥkāla uṭheṃ, snāna kareṃ aura śveta yā gulābī vastra pahaneṃ|\n2. devī lakṣmī aura mātā kī pratimā vedī para sthāpita kareṃ|\n3. ghara aura dvāra ko svaccha rakheṃ — lakṣmī svaccha gṛha meṃ nivāsa karatī haiṃ|\n4. lāla aura śveta kamala, kumakuma aura haldī arpita kareṃ|\n5. devī ke samakṣa ghī kā dīpaka aura agarabattī jalāe~|\n6. 'oṃ śrīṃ mahālakṣmyai namaḥ' kā 108 bāra japa kareṃ|\n7. śrī sūktam yā lakṣmī aṣṭottara śatanāmāvalī kā pāṭha kareṃ|\n8. khīra, phala yā miśrī kā naivedya arpita kareṃ|\n9. lakṣmī āratī aura pradakṣiṇā se pūjā samāpta kareṃ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "श्री सूक्तम् (आरम्भ):\nहिरण्यवर्णां हरिणीं सुवर्णरजतस्रजाम्\nचन्द्रां हिरण्मयीं लक्ष्मीं जातवेदो म आवह",
+          "meaning": "हे अग्निदेव, मेरे लिए उन लक्ष्मी का आवाहन करें जो सुवर्ण वर्ण हैं, हिरणी के समान सुन्दर हैं, स्वर्ण और रजत मालाओं से सुसज्जित हैं, चन्द्रमा के समान दीप्तिमान हैं और सुवर्णमयी हैं।",
+          "transliteration": "Śrī sūktam (ārambha):\nHiraṇyavarṇāṃ hariṇīṃ suvarṇarajatasrajām\nCandrāṃ hiraṇmayīṃ lakṣmīṃ jātavedo ma āvaha",
+          "imageUrl": null
+        },
+        {
+          "shloka": "शुक्रवार व्रत कथा (सारांश):\nएक रानी जो नियमित रूप से शुक्रवार को देवी लक्ष्मी की पूजा करती थी, उसे अपार समृद्धि प्राप्त हुई। एक बार अहंकार के कारण उसने व्रत की उपेक्षा की और उसका सारा धन लुप्त हो गया। विनम्र और पश्चाताप करते हुए उसने नई श्रद्धा से शुक्रवार की पूजा पुनः आरम्भ की। लक्ष्मी देवी उसकी ईमानदारी से प्रसन्न हुईं और उसका भाग्य कई गुना बढ़ाकर लौटाया। कथा सिखाती है कि धन देवी की कृपा से आता है और कृतज्ञता से ग्रहण करना चाहिए।",
+          "meaning": "शुक्रवार व्रत कथा बताती है कि देवी लक्ष्मी भक्त और विनम्र उपासकों को समृद्धि प्रदान करती हैं, और अहंकार तथा पूजा की उपेक्षा से लक्ष्मी (धन और भाग्य) का प्रस्थान होता है।",
+          "transliteration": "Śukravāra vrata kathā (sārāṃśa):\nEka rānī jo niyamita rūpa se śukravāra ko devī lakṣmī kī pūjā karatī thī, use apāra samṛddhi prāpta huī| eka bāra ahaṃkāra ke kāraṇa usane vrata kī upekṣā kī aura usakā sārā dhana lupta ho gayā| vinamra aura paścātāpa karate hue usane naī śraddhā se śukravāra kī pūjā punaḥ ārambha kī| lakṣmī devī usakī īmānadārī se prasanna huīṃ aura usakā bhāgya kaī gunā bar̤hākara lauṭāyā| kathā sikhātī hai ki dhana devī kī kṛpā se ātā hai aura kṛtajñatā se grahaṇa karanā cāhie|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "din_shanivar",
+      "title": "शनिवार - शनि/हनुमान पूजा",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/din_pooja/shani.jpg",
+      "orderIndex": 6,
+      "content": [
+        {
+          "shloka": "ॐ शं शनैश्चराय नमः\nनीलाञ्जनसमाभासं रविपुत्रं यमाग्रजम्\nछायामार्तण्डसम्भूतं तं नमामि शनैश्चरम्",
+          "meaning": "काजल के समान नीले वर्ण वाले, सूर्यपुत्र, यम के अग्रज, छाया और सूर्य से उत्पन्न शनैश्चर को मैं नमस्कार करता हूँ।",
+          "transliteration": "Oṃ śaṃ śanaiścarāya namaḥ\nNīlāñjanasamābhāsaṃ raviputraṃ yamāgrajam\nChāyāmārtaṇḍasambhūtaṃ taṃ namāmi śanaiścaram",
+          "imageUrl": null
+        },
+        {
+          "shloka": "शनि गायत्री:\nॐ शनैश्चराय विद्महे\nसूर्यपुत्राय धीमहि\nतन्नो मन्दः प्रचोदयात्",
+          "meaning": "ॐ, हम शनिदेव का ध्यान करते हैं। हम सूर्यपुत्र का चिन्तन करते हैं। वह मन्दगति ग्रह हमारी बुद्धि को प्रकाशित और प्रेरित करें।",
+          "transliteration": "Śani gāyatrī:\nOṃ śanaiścarāya vidmahe\nSūryaputrāya dhīmahi\nTanno mandaḥ pracodayāt",
+          "imageUrl": null
+        },
+        {
+          "shloka": "शनिवार पूजा विधि:\n१. सूर्योदय से पहले उठें, स्नान करें और काले या गहरे नीले वस्त्र पहनें।\n२. शनि देव या हनुमान जी की प्रतिमा वेदी पर स्थापित करें।\n३. काले तिल, काली उड़द दाल और सरसों का तेल अर्पित करें।\n४. शनि देव के समक्ष तिल के तेल का दीपक जलाएँ।\n५. 'ॐ शं शनैश्चराय नमः' का १०८ बार जप करें।\n६. शनि स्तोत्र या हनुमान चालीसा का पाठ करें।\n७. काली वस्तुएँ — तिल, उड़द दाल, लोहा — दान करें।\n८. उड़द दाल वड़ा या काले तिल के लड्डू नैवेद्य अर्पित करें।\n९. शनि आरती या हनुमान आरती से पूजा समाप्त करें।",
+          "meaning": "शनिवार शनि देव और हनुमान जी को समर्पित है। माना जाता है कि हनुमान जी भक्तों को शनि के अशुभ प्रभावों से रक्षा करते हैं। भक्त गहरे वस्त्र पहनते हैं, काली वस्तुएँ दान करते हैं और शनि साढ़ेसाती तथा शनि ढैय्या के प्रभाव को कम करने के लिए पूजा करते हैं।",
+          "transliteration": "Śanivāra pūjā vidhi:\n1. sūryodaya se pahale uṭheṃ, snāna kareṃ aura kāle yā gahare nīle vastra pahaneṃ|\n2. śani deva yā hanumāna jī kī pratimā vedī para sthāpita kareṃ|\n3. kāle tila, kālī ur̤ada dāla aura sarasoṃ kā tela arpita kareṃ|\n4. śani deva ke samakṣa tila ke tela kā dīpaka jalāe~|\n5. 'oṃ śaṃ śanaiścarāya namaḥ' kā 108 bāra japa kareṃ|\n6. śani stotra yā hanumāna cālīsā kā pāṭha kareṃ|\n7. kālī vastue~ — tila, ur̤ada dāla, lohā — dāna kareṃ|\n8. ur̤ada dāla var̤ā yā kāle tila ke laḍḍū naivedya arpita kareṃ|\n9. śani āratī yā hanumāna āratī se pūjā samāpta kareṃ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "दशरथ कृत शनि स्तोत्रम् (श्लोक १):\nजयन्ती मंगला काली भद्रकाली कपालिनी\nदुर्गा क्षमा शिवा धात्री स्वाहा स्वधा नमोऽस्तुते",
+          "meaning": "जयन्ती, मंगला, काली, भद्रकाली, कपालिनी, दुर्गा, क्षमा, शिवा, धात्री को स्वाहा और स्वधा द्वारा नमस्कार।",
+          "transliteration": "Daśaratha kṛta śani stotram (śloka 1):\nJayantī maṃgalā kālī bhadrakālī kapālinī\nDurgā kṣamā śivā dhātrī svāhā svadhā namo'stute",
+          "imageUrl": null
+        },
+        {
+          "shloka": "शनिवार व्रत कथा (सारांश):\nराजा विक्रमादित्य, सबसे महान राजा होते हुए भी, शनि की साढ़ेसाती से पीड़ित हुए। उन्होंने राज्य खोया, झूठा आरोप लगा और उनके हाथ काट दिए गए। इन सबके बावजूद उन्होंने अपने धर्म और भक्ति को बनाए रखा। साढ़ेसाती समाप्त होने पर शनि देव स्वयं प्रकट हुए और सब कुछ पुनः स्थापित किया। राजा ने तब सभी के कल्याण के लिए शनि पूजा की स्थापना की। यह सिखाता है कि शनि की परीक्षा आत्मा को शुद्ध करती है और भक्ति कठिन समय में सहारा देती है।",
+          "meaning": "शनिवार व्रत कथा राजा विक्रमादित्य की कहानी बताती है कि शनि के प्रभाव से कोई नहीं बच सकता, परन्तु जो धर्म और भक्ति बनाए रखते हैं वे कठिनाइयों से गुजरकर और अधिक शक्तिशाली बनते हैं।",
+          "transliteration": "Śanivāra vrata kathā (sārāṃśa):\nRājā vikramāditya, sabase mahāna rājā hote hue bhī, śani kī sār̤hesātī se pīr̤ita hue| unhoṃne rājya khoyā, jhūṭhā āropa lagā aura unake hātha kāṭa die gae| ina sabake bāvajūda unhoṃne apane dharma aura bhakti ko banāe rakhā| sār̤hesātī samāpta hone para śani deva svayaṃ prakaṭa hue aura saba kucha punaḥ sthāpita kiyā| rājā ne taba sabhī ke kalyāṇa ke lie śani pūjā kī sthāpanā kī| yaha sikhātā hai ki śani kī parīkṣā ātmā ko śuddha karatī hai aura bhakti kaṭhina samaya meṃ sahārā detī hai|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "din_ravivar",
+      "title": "रविवार - सूर्य/राम पूजा",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/din_pooja/surya.jpg",
+      "orderIndex": 7,
+      "content": [
+        {
+          "shloka": "ॐ सूर्याय नमः\nजबाकुसुमसंकाशं काश्यपेयं महाद्युतिम्\nतमोऽरिं सर्वपापघ्नं प्रणतोऽस्मि दिवाकरम्",
+          "meaning": "जबा (गुड़हल) के पुष्प के समान कान्तिमान, कश्यप के पुत्र, महान तेज वाले, अन्धकार के शत्रु, सभी पापों का नाश करने वाले सूर्य देव (दिवाकर) को मैं नमन करता हूँ।",
+          "transliteration": "Oṃ sūryāya namaḥ\nJabākusumasaṃkāśaṃ kāśyapeyaṃ mahādyutim\nTamo'riṃ sarvapāpaghnaṃ praṇato'smi divākaram",
+          "imageUrl": null
+        },
+        {
+          "shloka": "श्री राम स्तुति:\nश्रीरामचन्द्र कृपालु भजमन\nहरण भवभय दारुणम्\nनवकंज लोचन कंज मुख\nकर कंज पद कंजारुणम्",
+          "meaning": "मन में कृपालु श्रीरामचन्द्र का भजन करो, जो भवभय के भयंकर दुःख को हरते हैं, जिनके नेत्र नवीन कमल के समान हैं, मुख कमल सम है, हाथ कमल सम हैं और चरण लालिमायुक्त कमल के समान हैं।",
+          "transliteration": "Śrī rāma stuti:\nŚrīrāmacandra kṛpālu bhajamana\nHaraṇa bhavabhaya dāruṇam\nNavakaṃja locana kaṃja mukha\nKara kaṃja pada kaṃjāruṇam",
+          "imageUrl": null
+        },
+        {
+          "shloka": "रविवार पूजा विधि:\n१. सूर्योदय से पहले उठें और स्नान करें।\n२. लाल या केसरिया वस्त्र पहनें।\n३. उदीयमान सूर्य की ओर मुख करके लाल पुष्प और कुमकुम के साथ अर्घ्य (जल) अर्पित करें।\n४. सूर्य देव और/या भगवान राम की प्रतिमा वेदी पर स्थापित करें।\n५. आदित्य हृदयम् या सूर्य नमस्कार मन्त्रों का पाठ करें।\n६. 'ॐ सूर्याय नमः' का १०८ बार जप करें।\n७. गुड़, गेहूँ और लाल पुष्प अर्पित करें।\n८. राम पूजा के लिए राम रक्षा स्तोत्र का पाठ करें।\n९. खीर या गुड़-रोटी का नैवेद्य अर्पित करें।\n१०. सूर्य आरती या राम आरती और प्रदक्षिणा से समाप्त करें।",
+          "meaning": "रविवार सूर्य देव और भगवान राम को समर्पित है। भक्त उदीयमान सूर्य की ओर मुख करके जल अर्पित करते हैं। इस पूजा से नेत्र रोग, त्वचा रोग दूर होते हैं और स्वास्थ्य, आत्मविश्वास एवं सफलता प्राप्त होती है।",
+          "transliteration": "Ravivāra pūjā vidhi:\n1. sūryodaya se pahale uṭheṃ aura snāna kareṃ|\n2. lāla yā kesariyā vastra pahaneṃ|\n3. udīyamāna sūrya kī ora mukha karake lāla puṣpa aura kumakuma ke sātha arghya (jala) arpita kareṃ|\n4. sūrya deva aura/yā bhagavāna rāma kī pratimā vedī para sthāpita kareṃ|\n5. āditya hṛdayam yā sūrya namaskāra mantroṃ kā pāṭha kareṃ|\n6. 'oṃ sūryāya namaḥ' kā 108 bāra japa kareṃ|\n7. gur̤a, gehū~ aura lāla puṣpa arpita kareṃ|\n8. rāma pūjā ke lie rāma rakṣā stotra kā pāṭha kareṃ|\n9. khīra yā gur̤a-roṭī kā naivedya arpita kareṃ|\n10. sūrya āratī yā rāma āratī aura pradakṣiṇā se samāpta kareṃ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "आदित्य हृदयम् (श्लोक १-२):\nततो युद्धपरिश्रान्तं समरे चिन्तया स्थितम्\nरावणं चाग्रतो दृष्ट्वा युद्धाय समुपस्थितम्\nदैवतैश्च समागम्य द्रष्टुमभ्यागतो रणम्\nउपगम्याब्रवीद्रामम् अगस्त्यो भगवान् ऋषिः",
+          "meaning": "तब, रणभूमि में थके और चिन्तित राम को देखकर, सामने रावण युद्ध के लिए तैयार खड़ा था, देवता युद्ध देखने आए थे, तब भगवान ऋषि अगस्त्य राम के पास आए और बोले।",
+          "transliteration": "Āditya hṛdayam (śloka 1-2):\nTato yuddhapariśrāntaṃ samare cintayā sthitam\nRāvaṇaṃ cāgrato dṛṣṭvā yuddhāya samupasthitam\nDaivataiśca samāgamya draṣṭumabhyāgato raṇam\nUpagamyābravīdrāmam agastyo bhagavān ṛṣiḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "रविवार व्रत कथा (सारांश):\nएक वृद्ध महिला श्रद्धा से रविवार का व्रत रखती थी, अपना घर गोबर से लीपती और सूर्य देव की पूजा करती थी। उसकी समृद्ध पड़ोसन ने उसका मजाक उड़ाया कि सूर्यदेव साधारण घरों में नहीं आते। जब पड़ोसन ने गोबर देने से इनकार किया, तो बुढ़िया ने सच्चे हृदय से प्रार्थना की। सूर्य देव उसकी भक्ति से प्रभावित हुए और उसका घर सोने का बना दिया। पड़ोसन पश्चाताप करके स्वयं व्रत रखने लगी। यह सिखाता है कि सूर्य देव सच्ची भक्ति का प्रतिफल देते हैं।",
+          "meaning": "रविवार व्रत कथा बताती है कि सूर्य देव रविवार को सच्ची श्रद्धा और भक्ति रखने वालों को आशीर्वाद देते हैं, चाहे उनकी आर्थिक या सामाजिक स्थिति कुछ भी हो।",
+          "transliteration": "Ravivāra vrata kathā (sārāṃśa):\nEka vṛddha mahilā śraddhā se ravivāra kā vrata rakhatī thī, apanā ghara gobara se līpatī aura sūrya deva kī pūjā karatī thī| usakī samṛddha par̤osana ne usakā majāka ur̤āyā ki sūryadeva sādhāraṇa gharoṃ meṃ nahīṃ āte| jaba par̤osana ne gobara dene se inakāra kiyā, to bur̤hiyā ne sacce hṛdaya se prārthanā kī| sūrya deva usakī bhakti se prabhāvita hue aura usakā ghara sone kā banā diyā| par̤osana paścātāpa karake svayaṃ vrata rakhane lagī| yaha sikhātā hai ki sūrya deva saccī bhakti kā pratiphala dete haiṃ|",
+          "imageUrl": null
+        }
+      ]
+    }
+  ]
+}

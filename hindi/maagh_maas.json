@@ -1,0 +1,204 @@
+{
+  "category": "Maagh Maas Mahatmya",
+  "version": 1,
+  "items": [
+    {
+      "id": "maagh_mahatmya",
+      "title": "माघ मास माहात्म्य",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/maagh/surya.jpg",
+      "orderIndex": 1,
+      "content": [
+        {
+          "shloka": "माघे मासि गमिष्यन्ति गङ्गा यमुना सङ्गमे\nगवां शत सहस्रस्य सम्यग् दत्तस्य यत् फलम्",
+          "meaning": "जो माघ मास में गंगा-यमुना के संगम पर स्नान करते हैं, उन्हें एक लाख गाय दान करने के बराबर पुण्य मिलता है।",
+          "transliteration": "Māghe māsi gamiṣyanti gaṅgā yamunā saṅgame\nGavāṃ śata sahasrasya samyag dattasya yat phalam",
+          "imageUrl": null
+        },
+        {
+          "shloka": "माघ स्नानं महापुण्यं सर्व पाप प्रनाशनम्\nविष्णु प्रीतिकरं नित्यं मोक्षदं पुण्य वर्धनम्",
+          "meaning": "माघ स्नान महापुण्यदायक है, सभी पापों का नाश करने वाला है, सदैव भगवान विष्णु को प्रसन्न करता है, मोक्ष प्रदान करता है और पुण्य बढ़ाता है।",
+          "transliteration": "Māgha snānaṃ mahāpuṇyaṃ sarva pāpa pranāśanam\nViṣṇu prītikaraṃ nityaṃ mokṣadaṃ puṇya vardhanam",
+          "imageUrl": null
+        },
+        {
+          "shloka": "माघ मासे महादेवो यथा तुष्यति शङ्करः\nतथा न तुष्यते मासो अन्यः कश्चन भूतले",
+          "meaning": "माघ मास में जैसे महादेव शंकर प्रसन्न होते हैं, वैसे पृथ्वी पर किसी अन्य मास में वे उतने प्रसन्न नहीं होते।",
+          "transliteration": "Māgha māse mahādevo yathā tuṣyati śaṅkaraḥ\nTathā na tuṣyate māso anyaḥ kaścana bhūtale",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सर्व तीर्थेषु यत् पुण्यं सर्व यज्ञेषु यत् फलम्\nतत् फलं कोटि गुणितं माघ स्नाने प्रजायते",
+          "meaning": "सभी तीर्थों में जो पुण्य है, सभी यज्ञों में जो फल है — वह फल करोड़ गुना होकर माघ स्नान से उत्पन्न होता है।",
+          "transliteration": "Sarva tīrtheṣu yat puṇyaṃ sarva yajñeṣu yat phalam\nTat phalaṃ koṭi guṇitaṃ māgha snāne prajāyate",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "maagh_snan_vidhi",
+      "title": "माघ स्नान विधि",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/maagh/surya.jpg",
+      "orderIndex": 2,
+      "content": [
+        {
+          "shloka": "प्रातः काले समुत्थाय स्नानं कुर्यात् नरो बुधः\nसूर्य उदये जपं कुर्यात् माघ मास विधानतः",
+          "meaning": "बुद्धिमान व्यक्ति को प्रातःकाल उठकर स्नान करना चाहिए, फिर सूर्योदय के समय माघ मास की विधि के अनुसार जप करना चाहिए।",
+          "transliteration": "Prātaḥ kāle samutthāya snānaṃ kuryāt naro budhaḥ\nSūrya udaye japaṃ kuryāt māgha māsa vidhānataḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "गङ्गा यमुनयोः स्नानं माघे मासि विशेषतः\nप्रयाग राज तीर्थे वा अन्यत्र नदी तटे",
+          "meaning": "माघ मास में गंगा-यमुना में स्नान विशेष फलदायक है, प्रयागराज तीर्थ में या अन्य किसी पवित्र नदी के तट पर।",
+          "transliteration": "Gaṅgā yamunayoḥ snānaṃ māghe māsi viśeṣataḥ\nPrayāga rāja tīrthe vā anyatra nadī taṭe",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ गङ्गे च यमुने चैव गोदावरी सरस्वती\nनर्मदे सिन्धु कावेरी जलेस्मिन् सन्निधिं कुरु",
+          "meaning": "हे गंगा, यमुना, गोदावरी, सरस्वती, नर्मदा, सिन्धु और कावेरी — इस जल में अपनी उपस्थिति प्रदान करो।",
+          "transliteration": "Oṃ gaṅge ca yamune caiva godāvarī sarasvatī\nNarmade sindhu kāverī jalesmin sannidhiṃ kuru",
+          "imageUrl": null
+        },
+        {
+          "shloka": "स्नान सङ्कल्प: मम समस्त पाप क्षयार्थं\nश्री विष्णु प्रीत्यर्थं माघ मास स्नानम् अहं करिष्ये",
+          "meaning": "स्नान संकल्प: मेरे समस्त पापों के क्षय और श्री विष्णु की प्रसन्नता के लिए मैं माघ मास का स्नान करूँगा।",
+          "transliteration": "Snāna saṅkalpa: mama samasta pāpa kṣayārthaṃ\nŚrī viṣṇu prītyarthaṃ māgha māsa snānam ahaṃ kariṣye",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "maagh_vrat_katha",
+      "title": "माघ व्रत कथा",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/maagh/vishnu.jpg",
+      "orderIndex": 3,
+      "content": [
+        {
+          "shloka": "श्री कृष्ण उवाच:\nशृणु धर्मराज वीर माघ मास महाफलम्\nयेन विज्ञात मात्रेण सर्वपापैः प्रमुच्यते",
+          "meaning": "श्री कृष्ण ने कहा: हे वीर धर्मराज, माघ मास के महान फल को सुनो। इसके महत्व को जानने मात्र से मनुष्य सभी पापों से मुक्त हो जाता है।",
+          "transliteration": "Śrī kṛṣṇa uvāca:\nŚṛṇu dharmarāja vīra māgha māsa mahāphalam\nYena vijñāta mātreṇa sarvapāpaiḥ pramucyate",
+          "imageUrl": null
+        },
+        {
+          "shloka": "पुरा दिलीप नाम्ना वै राजा आसीत् महीपतिः\nमाघ स्नान परो नित्यं धर्मिष्ठः सत्यवाक् शुचिः",
+          "meaning": "प्राचीन काल में दिलीप नामक एक राजा थे जो नित्य माघ स्नान के परम भक्त, धर्मिष्ठ, सत्यवादी और पवित्र थे।",
+          "transliteration": "Purā dilīpa nāmnā vai rājā āsīt mahīpatiḥ\nMāgha snāna paro nityaṃ dharmiṣṭhaḥ satyavāk śuciḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "तस्य पुण्य प्रभावेन स्वर्ग लोक समाप्तवान्\nविष्णु सायुज्यम् आप्नोति माघ स्नानस्य वै फलम्",
+          "meaning": "अपने पुण्य के प्रभाव से उन्होंने स्वर्गलोक प्राप्त किया। माघ स्नान का फल भगवान विष्णु की सायुज्य मुक्ति है।",
+          "transliteration": "Tasya puṇya prabhāvena svarga loka samāptavān\nViṣṇu sāyujyam āpnoti māgha snānasya vai phalam",
+          "imageUrl": null
+        },
+        {
+          "shloka": "तस्मात् सर्व प्रयत्नेन माघे स्नानं समाचरेत्\nव्रत कथा श्रवणात् पुण्यं सर्व काम फलप्रदम्",
+          "meaning": "इसलिए पूर्ण प्रयत्न से माघ में स्नान करना चाहिए। व्रत कथा सुनने से पुण्य मिलता है जो सभी मनोकामनाएँ पूर्ण करता है।",
+          "transliteration": "Tasmāt sarva prayatnena māghe snānaṃ samācaret\nVrata kathā śravaṇāt puṇyaṃ sarva kāma phalapradam",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "maagh_daan_mahatmya",
+      "title": "माघ दान माहात्म्य",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/maagh/vishnu.jpg",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "माघे मासि महादानं तिलदानं विशेषतः\nघृत धान्यं च वस्त्राणि दानं मोक्ष फलप्रदम्",
+          "meaning": "माघ मास में महादान का विधान है, विशेषकर तिल दान का। घी, अन्न और वस्त्रों का दान मोक्ष का फल देता है।",
+          "transliteration": "Māghe māsi mahādānaṃ tiladānaṃ viśeṣataḥ\nGhṛta dhānyaṃ ca vastrāṇi dānaṃ mokṣa phalapradam",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अन्न दानं परं दानं विद्या दानं ततः परम्\nमाघे दत्तं च यद्दानं तत् सर्वं अक्षयं भवेत्",
+          "meaning": "अन्न दान श्रेष्ठ दान है और विद्या दान उससे भी श्रेष्ठ है। माघ में जो भी दान दिया जाता है वह सब अक्षय हो जाता है।",
+          "transliteration": "Anna dānaṃ paraṃ dānaṃ vidyā dānaṃ tataḥ param\nMāghe dattaṃ ca yaddānaṃ tat sarvaṃ akṣayaṃ bhavet",
+          "imageUrl": null
+        },
+        {
+          "shloka": "तिल दाने विशेषेण माघे यत् क्रियते नरैः\nतत् सर्वम् अक्षयं प्रोक्तं श्री विष्णोः वचनात् मुने",
+          "meaning": "विशेषकर माघ में मनुष्यों द्वारा किया गया तिल दान — यह सब भगवान विष्णु के वचनानुसार अक्षय कहा गया है, हे मुनि।",
+          "transliteration": "Tila dāne viśeṣeṇa māghe yat kriyate naraiḥ\nTat sarvam akṣayaṃ proktaṃ śrī viṣṇoḥ vacanāt mune",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कुर्वीत दानं विप्राय गावो भूमि सुवर्णकम्\nमाघ दान फलं दिव्यं स्वर्ग मोक्ष प्रदायकम्",
+          "meaning": "ब्राह्मणों को गाय, भूमि और स्वर्ण का दान करना चाहिए। माघ दान का दिव्य फल स्वर्ग और मोक्ष प्रदान करने वाला है।",
+          "transliteration": "Kurvīta dānaṃ viprāya gāvo bhūmi suvarṇakam\nMāgha dāna phalaṃ divyaṃ svarga mokṣa pradāyakam",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "maagh_ekadashi",
+      "title": "माघ एकादशी व्रत",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/maagh/vishnu.jpg",
+      "orderIndex": 5,
+      "content": [
+        {
+          "shloka": "माघ शुक्ल एकादशी जया नाम महाव्रतम्\nविष्णु प्रीतिकरं पुण्यं सर्व पाप विनाशनम्",
+          "meaning": "माघ शुक्ल एकादशी जिसे जया एकादशी कहते हैं, यह महान व्रत है जो विष्णु को प्रसन्न करता है, पुण्यदायक है और सभी पापों का नाश करता है।",
+          "transliteration": "Māgha śukla ekādaśī jayā nāma mahāvratam\nViṣṇu prītikaraṃ puṇyaṃ sarva pāpa vināśanam",
+          "imageUrl": null
+        },
+        {
+          "shloka": "उपवासं नरः कुर्यात् एकादश्यां जितेन्द्रियः\nविष्णु पूजां प्रकुर्वीत तुलसी दल संयुतम्",
+          "meaning": "जितेन्द्रिय मनुष्य को एकादशी पर उपवास करना चाहिए और तुलसी दल सहित भगवान विष्णु की पूजा करनी चाहिए।",
+          "transliteration": "Upavāsaṃ naraḥ kuryāt ekādaśyāṃ jitendriyaḥ\nViṣṇu pūjāṃ prakurvīta tulasī dala saṃyutam",
+          "imageUrl": null
+        },
+        {
+          "shloka": "द्वादश्यां पारणं कुर्यात् ब्राह्मणान् भोजयेद् बुधः\nमाघ कृष्ण एकादशी षट्तिला नाम विश्रुता",
+          "meaning": "द्वादशी पर व्रत का पारण करें और बुद्धिमान व्यक्ति ब्राह्मणों को भोजन कराए। माघ कृष्ण एकादशी षट्तिला एकादशी के नाम से प्रसिद्ध है।",
+          "transliteration": "Dvādaśyāṃ pāraṇaṃ kuryāt brāhmaṇān bhojayed budhaḥ\nMāgha kṛṣṇa ekādaśī ṣaṭtilā nāma viśrutā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "षट् तिलाः षड् विधैः सेव्याः स्नाने दाने तथा जपे\nहवने भोजने चैव लेपने षट् तिला स्मृताः",
+          "meaning": "छह प्रकार से तिल का उपयोग विहित है: स्नान में, दान में, जप में, हवन में, भोजन में और शरीर पर लेपन में — यही षट्तिला का विधान है।",
+          "transliteration": "Ṣaṭ tilāḥ ṣaḍ vidhaiḥ sevyāḥ snāne dāne tathā jape\nHavane bhojane caiva lepane ṣaṭ tilā smṛtāḥ",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "maagh_mantra",
+      "title": "माघ मास मंत्र",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/maagh/surya.jpg",
+      "orderIndex": 6,
+      "content": [
+        {
+          "shloka": "ॐ नमो भगवते वासुदेवाय\nमाघ मास अधिष्ठान देवताभ्यो नमः",
+          "meaning": "ॐ भगवान वासुदेव को नमस्कार। माघ मास के अधिष्ठान देवताओं को नमस्कार।",
+          "transliteration": "Oṃ namo bhagavate vāsudevāya\nMāgha māsa adhiṣṭhāna devatābhyo namaḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ ह्रीं श्रीं क्लीं माधवाय नमः\nमाघ पूर्णिमायां विष्णुं सम्पूज्य फलं अश्नुते",
+          "meaning": "ॐ ह्रीं श्रीं क्लीं माधव को नमस्कार। माघ पूर्णिमा पर विष्णु की पूजा करके फल प्राप्त होता है।",
+          "transliteration": "Oṃ hrīṃ śrīṃ klīṃ mādhavāya namaḥ\nMāgha pūrṇimāyāṃ viṣṇuṃ sampūjya phalaṃ aśnute",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ सूर्याय नमः ॐ विष्णवे नमः\nमाघ मासे जपेन्नित्यं सूर्य मन्त्रं विमुक्तये",
+          "meaning": "ॐ सूर्य को नमस्कार। ॐ विष्णु को नमस्कार। माघ मास में मुक्ति के लिए नित्य सूर्य मन्त्र का जप करें।",
+          "transliteration": "Oṃ sūryāya namaḥ oṃ viṣṇave namaḥ\nMāgha māse japennityaṃ sūrya mantraṃ vimuktaye",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि\nधियो यो नः प्रचोदयात्\nगायत्री जप विधानं माघे विशेषतः",
+          "meaning": "ॐ, हम उस श्रेष्ठ दिव्य सूर्य के तेज का ध्यान करें। वह हमारी बुद्धि को प्रेरित करें। माघ में गायत्री जप का विशेष विधान है।",
+          "transliteration": "Oṃ tatsaviturvareṇyaṃ bhargo devasya dhīmahi\nDhiyo yo naḥ pracodayāt\nGāyatrī japa vidhānaṃ māghe viśeṣataḥ",
+          "imageUrl": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,474 @@
+{
+  "category": "Stuti Sangrah",
+  "version": 1,
+  "items": [
+    {
+      "id": "stuti_ganesh",
+      "title": "Ganesh Stuti",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/stuti/ganesh.jpg",
+      "orderIndex": 1,
+      "content": [
+        {
+          "shloka": "Vakratunda Mahaakaaya Suryakoti Samaprabha\nNirvighnam Kuru Me Deva Sarva Kaaryeshu Sarvadaa",
+          "meaning": "O Lord with a curved trunk, large body, and the brilliance of a million suns, please remove all obstacles from my endeavors, always.",
+          "transliteration": "Vakratu\u1e47\u1e0da Mah\u0101k\u0101ya S\u016bryako\u1e6di Samaprabha\nNirvighna\u1e43 Kuru Me Deva Sarva K\u0101rye\u1e63u Sarvad\u0101",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Agajaanana Padmaarkam Gajaananam Aharnisham\nAnekadantam Bhaktaanaam Ekadantam Upaasmahe",
+          "meaning": "We meditate upon the one-tusked Lord, who is the lotus-like son of Goddess Parvati, who has an elephant face, and who is worshipped by devotees day and night.",
+          "transliteration": "Agaj\u0101nana Padm\u0101rka\u1e43 Gaj\u0101nana\u1e43 Aharnisham\nAnekadanta\u1e43 Bhakt\u0101n\u0101\u1e43 Ekadanta\u1e43 Up\u0101smahe",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Gajaananam Bhootaganaadisevitam\nKapittha Jamboo Phalasaara Bhakshitam\nUmaasutam Shokavanaashakaaranam\nNamaami Vighneshvara Paadapankajam",
+          "meaning": "I bow to the lotus feet of Vighneshvara, the elephant-faced one, served by the host of beings, who eats the essence of kapittha and jambu fruits, the son of Uma, the destroyer of sorrows.",
+          "transliteration": "Gaj\u0101nana\u1e43 Bh\u016btaga\u1e47\u0101disevita\u1e43\nKapittha Jamb\u016b Phalas\u0101ra Bhak\u1e63ita\u1e43\nUm\u0101suta\u1e43 \u015aokavan\u0101\u015bak\u0101ra\u1e47a\u1e43\nNam\u0101mi Vighne\u015bvara P\u0101dapa\u1e45kajam",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Pranamya Shirasa Devam Gauriputram Vinaayakam\nBhaktaavaasam Smare Nityam Aayuh Kaamaarthasiddhaye",
+          "meaning": "Bowing my head to Lord Vinayaka, the son of Gauri, I remember Him daily, who dwells in the hearts of devotees, for the fulfillment of longevity, desires, and prosperity.",
+          "transliteration": "Pra\u1e47amya \u015airas\u0101 Deva\u1e43 Gaur\u012bputra\u1e43 Vin\u0101yakam\nBhakt\u0101v\u0101sa\u1e43 Smare Nitya\u1e43 \u0100yu\u1e25 K\u0101m\u0101rthasiddhaye",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ekadantam Mahaakaayam Taptakaanchana Sannibham\nLambodaram Vishaalaaksham Vandeham Ganapatimsadaa",
+          "meaning": "I forever salute Ganapati, the one-tusked, great-bodied one, shining like molten gold, with a large belly and broad eyes.",
+          "transliteration": "Ekadanta\u1e43 Mah\u0101k\u0101ya\u1e43 Taptak\u0101\u00f1cana Sannibham\nLambodara\u1e43 Vi\u015b\u0101l\u0101k\u1e63a\u1e43 Vandeha\u1e43 Ga\u1e47apati\u1e43 Sad\u0101",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "stuti_shiva",
+      "title": "Shiva Stuti",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/stuti/shiv.jpg",
+      "orderIndex": 2,
+      "content": [
+        {
+          "shloka": "Prabhum Praananatham Vibhum Vishvanatham\nJagannatha Natham Sadaananda Bhaajam\nBhavadbhavya Bhooteshvaram Bhootanatham\nShivam Shankaram Shambhu Meeshaanamide",
+          "meaning": "I praise Shiva, the Lord of all, the master of life-breath, the all-pervading Lord of the universe, the Lord of the world, ever blissful, the Lord of all beings past and future, Shankara, Shambhu, the supreme ruler.",
+          "transliteration": "Prabhu\u1e43 Pr\u0101\u1e47an\u0101tha\u1e43 Vibhu\u1e43 Vi\u015bvan\u0101tha\u1e43\nJagann\u0101tha N\u0101tha\u1e43 Sad\u0101nanda Bh\u0101jam\nBhavadbhavya Bh\u016bte\u015bvara\u1e43 Bh\u016btan\u0101tha\u1e43\n\u015aiva\u1e43 \u015aa\u1e45kara\u1e43 \u015aambhu M\u012b\u015b\u0101nam\u012b\u1e0de",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Vande Deva Umaapatim Suraguru Vande Jagatkaaranam\nVande Pannaga Bhooshanam Mrigadharam Vande Pashoonaam Patim\nVande Soorya Shashanka Vahni Nayanam Vande Mukundapriyam\nVande Bhakta Janaashrayam Cha Varadam Vande Shivam Shankaram",
+          "meaning": "I salute the Lord, consort of Uma, the guru of gods, the cause of the world. I salute the one adorned with serpents, who holds a deer, the Lord of creatures. I salute the one whose eyes are the sun, moon, and fire, dear to Mukunda. I salute the refuge of devotees, the bestower of boons, Shiva Shankara.",
+          "transliteration": "Vande Deva Um\u0101pati\u1e43 Suraguru\u1e43 Vande Jagatk\u0101ra\u1e47a\u1e43\nVande Pannaga Bh\u016b\u1e63a\u1e47a\u1e43 M\u1e5bgadhara\u1e43 Vande Pa\u015b\u016bn\u0101\u1e43 Patim\nVande S\u016brya \u015aa\u015b\u0101\u1e45ka Vahni Nayana\u1e43 Vande Mukundapriya\u1e43\nVande Bhakta Jan\u0101\u015braya\u1e43 Ca Varada\u1e43 Vande \u015aiva\u1e43 \u015aa\u1e45karam",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Namo Bhootanatham Namo Devadevm\nNamo Kaala Kaalam Namo Divyatejaah\nNamo Kaamakaalam Namo Shoolapaanim\nNamasthe Namaste Namaste Namaste",
+          "meaning": "Salutations to the Lord of beings, salutations to the God of gods. Salutations to the destroyer of time, salutations to the one of divine radiance. Salutations to the one who transcends desire and time, to the wielder of the trident. Salutations to You, again and again.",
+          "transliteration": "Namo Bh\u016btan\u0101tha\u1e43 Namo Devadeva\u1e43\nNamo K\u0101la K\u0101la\u1e43 Namo Divyatej\u0101\u1e25\nNamo K\u0101mak\u0101la\u1e43 Namo \u015a\u016blap\u0101\u1e47im\nNamaste Namaste Namaste Namaste",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Karpoora Gauram Karunaa Avataaram\nSamsaara Saaram Bhujagendra Haaram\nSadaa Vasantam Hridayaaravinde\nBhavam Bhavaanee Sahitam Namaami",
+          "meaning": "I bow to the one who is white as camphor, the incarnation of compassion, the essence of worldly existence, who wears the king of serpents as a garland, who always dwells in the lotus of the heart, along with Goddess Bhavani.",
+          "transliteration": "Karp\u016bra Gaura\u1e43 Karu\u1e47\u0101 Avat\u0101ra\u1e43\nSa\u1e43s\u0101ra S\u0101ra\u1e43 Bhujagendra H\u0101ra\u1e43\nSad\u0101 Vasanta\u1e43 H\u1e5bday\u0101ravinde\nBhava\u1e43 Bhav\u0101n\u012b Sahita\u1e43 Nam\u0101mi",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Shivaaya Gauri Vadanaabja Vrinda\nSuryaaya Dakshadhvara Naashkaaya\nShree Neelakanthaaya Vrisha Dhwajaaya\nTasmai Shi Karaaya Namo Namah",
+          "meaning": "Salutations to Shiva, who is the sun to the lotus face of Gauri, the destroyer of Daksha's sacrifice, the blue-throated one, whose banner bears the bull. Salutations to that auspicious Shankara.",
+          "transliteration": "\u015aiv\u0101ya Gaur\u012b Vadan\u0101bja V\u1e5bnda\nS\u016bry\u0101ya Dak\u1e63\u0101dhvara N\u0101\u015bak\u0101ya\n\u015ar\u012b N\u012blaka\u1e47\u1e6dh\u0101ya V\u1e5b\u1e63a Dhvaj\u0101ya\nTasmai \u015a\u012b Kar\u0101ya Namo Nama\u1e25",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "stuti_vishnu",
+      "title": "Vishnu Stuti",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/stuti/vishnu.jpg",
+      "orderIndex": 3,
+      "content": [
+        {
+          "shloka": "Shaantaakaaram Bhujagashayanam Padmanaabham Suresham\nVishvaadhaaram Gaganasadrisham Meghavarnam Shubhaangam\nLakshmikaantam Kamalanayanam Yogibhir Dhyaanagamyam\nVande Vishnum Bhavabhayaharam Sarvalokaika Naatham",
+          "meaning": "I salute Lord Vishnu, who has a peaceful form, who reclines on the serpent, who has a lotus at his navel, the Lord of gods, the support of the universe, vast as the sky, dark as clouds, with beautiful limbs, the beloved of Lakshmi, lotus-eyed, attainable through meditation by yogis, the remover of the fear of worldly existence, the sole Lord of all worlds.",
+          "transliteration": "\u015a\u0101nt\u0101k\u0101ra\u1e43 Bhujaga\u015bayana\u1e43 Padman\u0101bha\u1e43 Sure\u015ba\u1e43\nVi\u015bv\u0101dh\u0101ra\u1e43 Gaganasad\u1e5b\u015ba\u1e43 Meghavar\u1e47a\u1e43 \u015aubh\u0101\u1e45gam\nLak\u1e63m\u012bk\u0101nta\u1e43 Kamalanayana\u1e43 Yogibhir Dhy\u0101nagamya\u1e43\nVande Vi\u1e63\u1e47u\u1e43 Bhavabhayahara\u1e43 Sarvalokaikana\u0101tham",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Megha Shyaamam Peetakausheya Vaasam\nShreevatsa Ankam Kaustubhod Bhaasitaangam\nPundareekayata Chaarunetram\nVishnum Vande Sarva Lokaika Naatham",
+          "meaning": "I salute Vishnu, the Lord of all worlds, who is dark as a cloud, dressed in yellow silk, marked with Shreevatsa, whose body shines with the Kaustubha gem, with beautiful lotus-like eyes.",
+          "transliteration": "Megha \u015ay\u0101ma\u1e43 P\u012btakau\u015beya V\u0101sam\n\u015ar\u012bvatsa A\u1e45ka\u1e43 Kaustubhod Bh\u0101sit\u0101\u1e45gam\nPu\u1e47\u1e0dar\u012bk\u0101yata C\u0101runetra\u1e43\nVi\u1e63\u1e47u\u1e43 Vande Sarva Lokaika N\u0101tham",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Namaah Samastaabhootaanaam Aadibhootaaya Bhoobhrite\nAneka Roopa Roopaaya Vishnave Prabha Vishnave",
+          "meaning": "Salutations to Vishnu, the primal being of all creatures, the supporter of the earth, who has innumerable forms, the radiant Vishnu.",
+          "transliteration": "Nama\u1e25 Samast\u0101bh\u016bt\u0101n\u0101\u1e43 \u0100dibh\u016bt\u0101ya Bh\u016bbh\u1e5bte\nAneka R\u016bpa R\u016bp\u0101ya Vi\u1e63\u1e47ave Prabha Vi\u1e63\u1e47ave",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Tvameva Maataa Cha Pitaa Tvameva\nTvameva Bandhuscha Sakhaa Tvameva\nTvameva Vidyaa Dravinam Tvameva\nTvameva Sarvam Mama Deva Deva",
+          "meaning": "You alone are my mother and father, You alone are my relative and friend, You alone are my knowledge and wealth, You alone are everything to me, O God of gods.",
+          "transliteration": "Tvameva M\u0101t\u0101 Ca Pit\u0101 Tvameva\nTvameva Bandhu\u015bca Sakh\u0101 Tvameva\nTvameva Vidy\u0101 Dravi\u1e47a\u1e43 Tvameva\nTvameva Sarva\u1e43 Mama Deva Deva",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kayena Vaacha Manasendriyairvaa\nBuddhyaatmanaa Vaa Prakriteh Svabhaavaat\nKaromi Yadyat Sakalam Parasmai\nNaaraayanaayeti Samarpayaami",
+          "meaning": "Whatever I do with my body, speech, mind, senses, intellect, soul, or by the force of nature, I dedicate all of it to Lord Narayana.",
+          "transliteration": "K\u0101yena V\u0101c\u0101 Manasendriayairv\u0101\nBudhy\u0101tman\u0101 V\u0101 Prak\u1e5bte\u1e25 Svabh\u0101v\u0101t\nKaromi Yadyat Sakala\u1e43 Parasmai\nN\u0101r\u0101ya\u1e47\u0101yeti Samarpay\u0101mi",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "stuti_durga",
+      "title": "Durga Stuti",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/stuti/durga.jpg",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "Sarva Mangala Maangalye Shive Sarvaartha Saadhike\nSharanye Trayambake Gauri Naaraayani Namostute",
+          "meaning": "Salutations to Narayani, the most auspicious one, the consort of Shiva, the fulfiller of all objectives, the refuge of all, the three-eyed Gauri.",
+          "transliteration": "Sarva Ma\u1e45gala M\u0101\u1e45galye \u015aive Sarv\u0101rtha S\u0101dhike\n\u015aara\u1e47ye Tray\u0101mbake Gauri N\u0101r\u0101ya\u1e47i Namostute",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Yaa Devi Sarvabhooteshu Shakti Roopena Samsthitaa\nNamastasyai Namastasyai Namastasyai Namo Namah",
+          "meaning": "Salutations again and again to the Goddess who abides in all beings in the form of power (Shakti).",
+          "transliteration": "Y\u0101 Dev\u012b Sarvabh\u016bte\u1e63u \u015aakti R\u016bpe\u1e47a Sa\u1e43sthit\u0101\nNamastasyai Namastasyai Namastasyai Namo Nama\u1e25",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Yaa Devi Sarvabhooteshu Buddhi Roopena Samsthitaa\nNamastasyai Namastasyai Namastasyai Namo Namah",
+          "meaning": "Salutations again and again to the Goddess who abides in all beings in the form of intelligence (Buddhi).",
+          "transliteration": "Y\u0101 Dev\u012b Sarvabh\u016bte\u1e63u Buddhi R\u016bpe\u1e47a Sa\u1e43sthit\u0101\nNamastasyai Namastasyai Namastasyai Namo Nama\u1e25",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Yaa Devi Sarvabhooteshu Kshudha Roopena Samsthitaa\nNamastasyai Namastasyai Namastasyai Namo Namah",
+          "meaning": "Salutations again and again to the Goddess who abides in all beings in the form of hunger.",
+          "transliteration": "Y\u0101 Dev\u012b Sarvabh\u016bte\u1e63u K\u1e63udh\u0101 R\u016bpe\u1e47a Sa\u1e43sthit\u0101\nNamastasyai Namastasyai Namastasyai Namo Nama\u1e25",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Yaa Devi Sarvabhooteshu Lakshmee Roopena Samsthitaa\nNamastasyai Namastasyai Namastasyai Namo Namah",
+          "meaning": "Salutations again and again to the Goddess who abides in all beings in the form of Lakshmi (prosperity).",
+          "transliteration": "Y\u0101 Dev\u012b Sarvabh\u016bte\u1e63u Lak\u1e63m\u012b R\u016bpe\u1e47a Sa\u1e43sthit\u0101\nNamastasyai Namastasyai Namastasyai Namo Nama\u1e25",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Srishti Sthiti Vinaashaanaam Shakti Bhoote Sanaatani\nGunashraye Gunmaiye Naaraayani Namostute",
+          "meaning": "Salutations to Narayani, the eternal power behind creation, preservation, and destruction, the abode of the three gunas, who is the embodiment of all gunas.",
+          "transliteration": "S\u1e5b\u1e63\u1e6di Sthiti Vin\u0101\u015b\u0101n\u0101\u1e43 \u015aakti Bh\u016bte San\u0101tani\nGu\u1e47\u0101\u015braye Gu\u1e47amaye N\u0101r\u0101ya\u1e47i Namostute",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "stuti_lakshmi",
+      "title": "Lakshmi Stuti",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/stuti/lakshmi.jpg",
+      "orderIndex": 5,
+      "content": [
+        {
+          "shloka": "Namastestu Mahamaye Shreepithe Sura Poojite\nShankha Chakra Gada Haste Mahalakshmi Namostute",
+          "meaning": "Salutations to You, O Mahamaya, seated on the sacred throne, worshipped by the gods. O Mahalakshmi, who holds the conch, discus, and mace, I bow to You.",
+          "transliteration": "Namastestu Mah\u0101m\u0101ye \u015ar\u012bp\u012b\u1e6dhe Sura P\u016bjite\n\u015aa\u1e45kha Cakra Gad\u0101 Haste Mah\u0101lak\u1e63mi Namostute",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sarvajna Sarva Varade Sarva Dushta Bhayankari\nSarva Duhkha Hare Devi Mahalakshmi Namostute",
+          "meaning": "O all-knowing one, bestower of all boons, terrifying to all the wicked, remover of all sorrows, O Goddess Mahalakshmi, I bow to You.",
+          "transliteration": "Sarvaj\u00f1a Sarva Varade Sarva Du\u1e63\u1e6da Bhaya\u1e45kari\nSarva Du\u1e25kha Hare Devi Mah\u0101lak\u1e63mi Namostute",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Siddhi Buddhi Prade Devi Bhukti Mukti Pradaayini\nMantra Moorte Sadaa Devi Mahalakshmi Namostute",
+          "meaning": "O Goddess who bestows accomplishment and wisdom, who grants worldly enjoyment and liberation, who is the embodiment of sacred mantras, O Mahalakshmi, I bow to You.",
+          "transliteration": "Siddhi Buddhi Prade Devi Bhukti Mukti Prad\u0101yini\nMantra M\u016brte Sad\u0101 Devi Mah\u0101lak\u1e63mi Namostute",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Padmaasana Sthite Devi Parabrahma Svaroopini\nParameshi Jagan Maatar Mahalakshmi Namostute",
+          "meaning": "O Goddess seated in the lotus posture, who is the form of the Supreme Brahman, the supreme ruler, the mother of the universe, O Mahalakshmi, I bow to You.",
+          "transliteration": "Padm\u0101sana Sthite Devi Parabrahma Svar\u016bpi\u1e47i\nParame\u015bi Jagan M\u0101tar Mah\u0101lak\u1e63mi Namostute",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Shvetaambaradhare Devi Naanaalankaara Bhooshite\nJagatsthite Jagan Maatar Mahalakshmi Namostute",
+          "meaning": "O Goddess clad in white garments, adorned with various ornaments, who pervades the world, the mother of the universe, O Mahalakshmi, I bow to You.",
+          "transliteration": "\u015avet\u0101mbaradhare Devi N\u0101n\u0101la\u1e45k\u0101ra Bh\u016b\u1e63ite\nJagatsthite Jagan M\u0101tar Mah\u0101lak\u1e63mi Namostute",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "stuti_saraswati",
+      "title": "Saraswati Stuti",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/stuti/saraswati.jpg",
+      "orderIndex": 6,
+      "content": [
+        {
+          "shloka": "Yaa Kundendu Tushaara Haaradhavalaa Yaa Shubhravastraavritaa\nYaa Veenaa Varadanda Manditakaraa Yaa Shvetapadmaasanaa\nYaa Brahmaachyuta Shankaraprabhritibhir Devaisadaa Vandita\nSaa Maam Paatu Saraswati Bhagavati Nihsheshajaadyaapahaa",
+          "meaning": "May Goddess Saraswati protect me - she who is white as a jasmine flower, the moon, and a garland of snow, who is dressed in pure white garments, whose hands are adorned with the veena and the gesture of blessing, who is seated on a white lotus, who is always worshipped by Brahma, Vishnu, Shankara, and other gods, and who removes all traces of ignorance.",
+          "transliteration": "Y\u0101 Kundendu Tu\u1e63\u0101ra H\u0101radhaval\u0101 Y\u0101 \u015aubhravastr\u0101v\u1e5bt\u0101\nY\u0101 V\u012b\u1e47\u0101 Varada\u1e47\u1e0da Ma\u1e47\u1e0ditakar\u0101 Y\u0101 \u015avetapadm\u0101san\u0101\nY\u0101 Brahm\u0101cyuta \u015aa\u1e45karaprabh\u1e5btibhir Devaisad\u0101 Vandit\u0101\nS\u0101 M\u0101\u1e43 P\u0101tu Sarasvat\u012b Bhagavat\u012b Ni\u1e25\u015be\u1e63aj\u0101\u1e0dy\u0101pah\u0101",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Saraswati Namastubhyam Varade Kaamaroopini\nVidyaarambham Karishyaami Siddhirbhavatu Me Sadaa",
+          "meaning": "Salutations to you, O Saraswati, the bestower of boons, the fulfiller of desires. I am beginning my studies; may I always attain success.",
+          "transliteration": "Sarasvat\u012b Namastubhya\u1e43 Varade K\u0101mar\u016bpi\u1e47i\nVidy\u0101rambha\u1e43 Kari\u1e63y\u0101mi Siddhirbhavatu Me Sad\u0101",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Shuklaam Brahmavichaara Saaraparamaam Aadyaam Jagadvyaapineem\nVeena Pustaka Dhaarineem Abhayadaam Jaadyaandhakaraapahaam\nHaste Sphaatika Maalikaam Vidadhateem Padmaasane Samsthitaam\nVande Taam Parameshwareem Bhagavateem Buddhipradaam Shaaradaam",
+          "meaning": "I salute Goddess Sharada, who is white, who is the supreme essence of Brahma-knowledge, the first, who pervades the universe, who holds the veena and book, who grants fearlessness, who removes the darkness of ignorance, who holds a crystal rosary in her hand, who is seated on a lotus, the supreme Goddess who bestows wisdom.",
+          "transliteration": "\u015aukl\u0101\u1e43 Brahmavic\u0101ra S\u0101raparam\u0101\u1e43 \u0100dy\u0101\u1e43 Jagadvy\u0101pin\u012b\u1e43\nV\u012b\u1e47\u0101 Pustaka Dh\u0101ri\u1e47\u012b\u1e43 Abhayad\u0101\u1e43 J\u0101\u1e0dy\u0101ndhak\u0101r\u0101pah\u0101m\nHaste Sph\u0101\u1e6dika M\u0101lik\u0101\u1e43 Vidadhat\u012b\u1e43 Padm\u0101sane Sa\u1e43sthit\u0101m\nVande T\u0101\u1e43 Parame\u015bvar\u012b\u1e43 Bhagavat\u012b\u1e43 Buddhiprad\u0101\u1e43 \u015a\u0101rad\u0101m",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Padma Patra Vishaalaakshi Padma Kesara Varnini\nNityam Padmaalayaam Devim Saa Maam Paatu Sarasvatim",
+          "meaning": "May Goddess Saraswati, whose eyes are broad like lotus petals, whose complexion is like the filaments of a lotus, who always resides in the lotus, protect me.",
+          "transliteration": "Padma Patra Vi\u015b\u0101l\u0101k\u1e63i Padma Kesara Var\u1e47ini\nNitya\u1e43 Padm\u0101lay\u0101\u1e43 Dev\u012b\u1e43 S\u0101 M\u0101\u1e43 P\u0101tu Sarasvat\u012bm",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "stuti_ram",
+      "title": "Ram Stuti",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/stuti/ram.jpg",
+      "orderIndex": 7,
+      "content": [
+        {
+          "shloka": "Shree Raamachandra Kripalu Bhaju Mana\nHarana Bhavabhaya Daarunam\nNavakanja Lochana Kanja Mukha\nKara Kanja Pada Kanjarunam",
+          "meaning": "O my mind, worship the compassionate Lord Ramachandra, who removes the terrible fear of worldly existence. His eyes are like fresh lotuses, his face is lotus-like, his hands and lotus-feet are rosy-red.",
+          "transliteration": "\u015ar\u012b R\u0101macandra K\u1e5bp\u0101lu Bhaju Mana\nHara\u1e47a Bhavabhaya D\u0101ru\u1e47am\nNavaka\u00f1ja Locana Ka\u00f1ja Mukha\nKara Ka\u00f1ja Pada Ka\u00f1j\u0101ru\u1e47am",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kandarpa Aganita Amita Chhabi\nNava Neela Neeraja Sundaram\nPatapiita Maanahu Tadita Ruchi\nShuachi Nomi Janakatanayaavaram",
+          "meaning": "His beauty surpasses that of countless Kamadevas, he is beautiful like a fresh blue lotus. His yellow garments shine like lightning. I bow to the blessed groom of Janaka's daughter.",
+          "transliteration": "Kandarpa Aganita Amita Chabi\nNava N\u012bla N\u012braja Sundaram\nPa\u1e6dap\u012bta M\u0101nahu Ta\u1e0dita Ruci\n\u015auci Nomi Janakatanay\u0101varam",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Bhaju Deena Bandhu Dinesh Daanava\nDaitya Vansha Nikandanam\nRaghunanda Aananda Kanda Koshala\nChanda Dasharatha Nandanam",
+          "meaning": "Worship the friend of the meek, the Lord of the day, the destroyer of the demon and daitya clans, Raghunanda, the root of bliss, the delight of Koshala, the son of King Dasharatha.",
+          "transliteration": "Bhaju D\u012bna Bandhu Dine\u015ba D\u0101nava\nDaitya Va\u1e43\u015ba Nika\u1e47\u1e0danam\nRaghunanda \u0100nanda Kanda Ko\u015bala\nCanda Da\u015baratha Nandanam",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sira Mukuta Kundala Tilaka Chaaru\nUdaaru Anga Vibhooshanam\nAajaanu Bhuja Shara Chaapa Dhara\nSangrama Jita Kharadooshanam",
+          "meaning": "He has a crown on his head, beautiful earrings, a tilak mark, and splendid ornaments on his noble limbs. His arms reach his knees, he holds arrows and a bow, and he conquered Khara and Dushana in battle.",
+          "transliteration": "Sira Muku\u1e6da Ku\u1e47\u1e0dala Tilaka C\u0101ru\nUd\u0101ru A\u1e45ga Vibh\u016b\u1e63a\u1e47am\n\u0100j\u0101nu Bhuja \u015aara C\u0101pa Dhara\nSa\u1e45gr\u0101ma Jita Kharad\u016b\u1e63a\u1e47am",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Mana Jaahi Rachho Avguna Chhaadana\nJasu Veda Brajaan Aviraama\nRaamaa Rameshu Maheshu Vaani\nSheshu Sahasa Guna Gaavai",
+          "meaning": "O mind, abandon deceit and take refuge in Him whose glory the Vedas ceaselessly sing, whom Rama (Lakshmi), Ramesh (Vishnu), Mahesh (Shiva), Vani (Saraswati), and Shesha praise with thousand attributes.",
+          "transliteration": "Mana J\u0101hi Raccho Avagu\u1e47a Ch\u0101dana\nJasu Veda Braj\u0101n Avir\u0101ma\nR\u0101m\u0101 Rame\u015bu Mahe\u015bu V\u0101\u1e47\u012b\n\u015ae\u1e63u Sahasa Gu\u1e47a G\u0101vai",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "stuti_krishna",
+      "title": "Krishna Stuti",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/stuti/krishna.jpg",
+      "orderIndex": 8,
+      "content": [
+        {
+          "shloka": "Vasudeva Sutam Devam Kamsa Chaanoora Mardanam\nDevaki Paramanandam Krishnam Vande Jagadgurum",
+          "meaning": "I salute Lord Krishna, the son of Vasudeva, the destroyer of Kamsa and Chanura, the supreme bliss of Devaki, the guru of the universe.",
+          "transliteration": "V\u0101sudeva Suta\u1e43 Deva\u1e43 Ka\u1e43sa C\u0101\u1e47\u016bra Mardanam\nDevak\u012b Param\u0101nanda\u1e43 K\u1e5b\u1e63\u1e47a\u1e43 Vande Jagadgurum",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Krishnaaya Vaasudevaaya Devaki Nandanaaya Cha\nNandagopa Kumaaraaya Govindaaya Namo Namah",
+          "meaning": "Salutations to Krishna, the son of Vasudeva, the delight of Devaki, the young son of Nandagopa, to Govinda, repeated salutations.",
+          "transliteration": "K\u1e5b\u1e63\u1e47\u0101ya V\u0101sudev\u0101ya Devak\u012b Nandan\u0101ya Ca\nNandagopa Kum\u0101r\u0101ya Govind\u0101ya Namo Nama\u1e25",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Aadhaarambujamadhyagam Nayanayoraadhaaram Aadhou Sthitam\nAalokyam Madhuradrisundara Tanum Gopaanganaaveshtitam\nKundendupratigaatri Dantavalitam Peetaambaraanvitam\nGovindam Kalavenum Aashrita Padam Divyam Namaami Shriyam",
+          "meaning": "I salute the divine Govinda, who stands at the center like the base of a lotus, who is the foundation for the eyes, who is beautiful like the mountain of sweetness, surrounded by gopis, whose teeth outshine jasmine and moonlight, who wears yellow garments, who holds the divine flute, and who is the refuge of all.",
+          "transliteration": "\u0100dh\u0101rambujamadyaga\u1e43 Nayanayoradh\u0101ra\u1e43 \u0100dhou Sthita\u1e43\n\u0100lokya\u1e43 Madhur\u0101drisundara Tanu\u1e43 Gop\u0101\u1e45gan\u0101ve\u1e63\u1e6ditam\nKundendupratig\u0101tri Dantavalita\u1e43 P\u012bt\u0101mbar\u0101nvitam\nGovinda\u1e43 Kalave\u1e47u\u1e43 \u0100\u015brita Pada\u1e43 Divya\u1e43 Nam\u0101mi \u015ariyam",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Mandaarakrita Sundaram Parivritam Govardhanoddhaarakam\nGopi Cheta Haramdaram Kucha Kutirm Shreevatsa Chitram Mahah\nShaaradenduvadanaaravindam Ajitam Kamsaaredarpaapaham\nSreekrishnam Smaraami Sadaa Hridikayam Vande Jagadmohanamdyam",
+          "meaning": "I always remember Sri Krishna, beautiful with mandara flowers, who lifted Govardhana, who steals the hearts of the gopis, who bears the Shreevatsa mark, whose lotus face is like the autumn moon, the unconquered one who destroyed the pride of Kamsa, the enchanter of the universe.",
+          "transliteration": "Mand\u0101rak\u1e5bta Sundara\u1e43 Pariv\u1e5bta\u1e43 Govardhanodh\u0101raka\u1e43\nGop\u012b Ceta Haramdara\u1e43 Kuca Ku\u1e6dira\u1e43 \u015ar\u012bvatsa Citra\u1e43 Maha\u1e25\n\u015a\u0101radenduvadan\u0101ravinda\u1e43 Ajita\u1e43 Ka\u1e43s\u0101redarp\u0101paha\u1e43\n\u015ar\u012bk\u1e5b\u1e63\u1e47a\u1e43 Smar\u0101mi Sad\u0101 H\u1e5bdikaya\u1e43 Vande Jagadmohanam",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Achyutam Keshavam Raamanaaraayanam\nKrishna Daamodaram Vaasudevam Harim\nShreedharam Maadhavam Gopikaavallabham\nJaanaki Naayakam Raamachandram Bhaje",
+          "meaning": "I worship Achyuta, Keshava, Rama, Narayana, Krishna, Damodara, Vasudeva, Hari, Shreedhara, Madhava, the beloved of the gopis, the lord of Janaki, Ramachandra.",
+          "transliteration": "Acyuta\u1e43 Ke\u015bava\u1e43 R\u0101man\u0101r\u0101ya\u1e47a\u1e43\nK\u1e5b\u1e63\u1e47a D\u0101modara\u1e43 V\u0101sudeva\u1e43 Harim\n\u015ar\u012bdhara\u1e43 M\u0101dhava\u1e43 Gopik\u0101vallabha\u1e43\nJ\u0101nak\u012b N\u0101yaka\u1e43 R\u0101macandra\u1e43 Bhaje",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "stuti_hanuman",
+      "title": "Hanuman Stuti",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/stuti/hanuman.jpg",
+      "orderIndex": 9,
+      "content": [
+        {
+          "shloka": "Manojavam Maarutatulya Vegam\nJitendriyam Buddhimataam Varishtham\nVaataatmajam Vaanarayoothmukhyam\nShreeraama Dootam Sharanam Prapadye",
+          "meaning": "I take refuge in Sri Rama's messenger, who is swift as the mind, equal in speed to the wind, master of the senses, foremost among the intelligent, the son of the Wind God, the chief of the monkey army.",
+          "transliteration": "Manojava\u1e43 M\u0101rutatulya Vega\u1e43\nJitendriya\u1e43 Buddhimat\u0101\u1e43 Vari\u1e63\u1e6dham\nV\u0101t\u0101tmaja\u1e43 V\u0101naray\u016bthamukhya\u1e43\n\u015ar\u012br\u0101ma D\u016bta\u1e43 \u015aara\u1e47a\u1e43 Prapadye",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Buddhir Balam Yasho Dhairyam Nirbhayatvam Arogata\nAjaadyam Vaak Patutvancha Hanumat Smaranaat Bhavet",
+          "meaning": "By remembering Hanuman, one attains wisdom, strength, fame, courage, fearlessness, good health, freedom from laziness, and eloquence of speech.",
+          "transliteration": "Buddhir Bala\u1e43 Ya\u015bo Dhairya\u1e43 Nirbhayatva\u1e43 Arogat\u0101\nAj\u0101\u1e0dya\u1e43 V\u0101k Pa\u1e6dutvanca Hanumat Smara\u1e47\u0101t Bhavet",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Atulit Bala Dhaamam Hemashailaabha Deham\nDanuja Vana Krishaanum Jnaanina Magraganyam\nSakala Guna Nidhaanam Vaanaraanaam Adhisham\nRaghupati Priya Bhaktam Vaata Jaatam Namaami",
+          "meaning": "I bow to Hanuman, the son of the wind, who has incomparable strength, whose body shines like a golden mountain, who is a fire to the forest of demons, foremost among the wise, the treasure of all virtues, the king of monkeys, and the beloved devotee of Lord Rama.",
+          "transliteration": "Atulita Bala Dh\u0101ma\u1e43 Hema\u015bail\u0101bha Deha\u1e43\nDanuja Vana K\u1e5b\u015b\u0101nu\u1e43 J\u00f1\u0101nin\u0101\u1e43 Agraga\u1e47yam\nSakala Gu\u1e47a Nidh\u0101na\u1e43 V\u0101nar\u0101\u1e47\u0101\u1e43 Adhi\u015bam\nRaghupati Priya Bhakta\u1e43 V\u0101ta J\u0101ta\u1e43 Nam\u0101mi",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Anjana Nandanam Veeram Jaanaki Shoka Naashanam\nKapeesham Akshahankaaram Vande Lanka Bhayankaram",
+          "meaning": "I salute the heroic son of Anjana, the destroyer of Sita's sorrow, the lord of monkeys, the slayer of Akshakumara, the one who is fearsome to Lanka.",
+          "transliteration": "A\u00f1jan\u0101 Nandana\u1e43 V\u012bra\u1e43 J\u0101nak\u012b \u015aoka N\u0101\u015banam\nKap\u012b\u015ba\u1e43 Ak\u1e63ahank\u0101ra\u1e43 Vande La\u1e45k\u0101 Bhaya\u1e45karam",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ullanghya Sindhoh Salilam Saleelam\nYah Shoka Vahnim Janakaat Majaayaah\nAadaaya Tenaiva Dadaaha Lankaam\nNamaami Tam Praanjali Raanjaneeyam",
+          "meaning": "He who effortlessly leaped across the ocean, who extinguished the fire of sorrow of Sita, the daughter of Janaka, and with that very fire set Lanka ablaze - I bow with folded hands to that son of Anjana.",
+          "transliteration": "Ulla\u1e45ghya Sindho\u1e25 Salila\u1e43 Sal\u012bla\u1e43\nYa\u1e25 \u015aoka Vahni\u1e43 Janak\u0101tmaj\u0101y\u0101\u1e25\n\u0100d\u0101ya Tenaiva Dad\u0101ha La\u1e45k\u0101m\nNam\u0101mi Ta\u1e43 Pr\u0101\u00f1jali R\u0101\u00f1jan\u012byam",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "stuti_surya",
+      "title": "Surya Stuti",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/stuti/surya.jpg",
+      "orderIndex": 10,
+      "content": [
+        {
+          "shloka": "Japaakusuma Sankaasham Kashyapeyam Mahaadyutim\nTamorim Sarva Paapghnam Pranatosmi Divaakaram",
+          "meaning": "I bow to the Sun God, Divakara, who shines like a hibiscus flower, the son of Kashyapa, of great brilliance, the enemy of darkness, the destroyer of all sins.",
+          "transliteration": "Jap\u0101kusuma Sa\u1e45k\u0101\u015ba\u1e43 K\u0101\u015byapeya\u1e43 Mah\u0101dyutim\nTamorim Sarva P\u0101paghna\u1e43 Pra\u1e47atosmi Div\u0101karam",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Udayaadri Mani Shreshtham Udayaam Bhaskaram Jagatah\nDeepaaya Tasmai Sooryaaya Pranatosmi Divaakaram",
+          "meaning": "I prostrate before the Sun, the supreme jewel rising from the eastern mountain, Bhaskara who illuminates the whole world, the lamp of the universe.",
+          "transliteration": "Uday\u0101dri Ma\u1e47i \u015are\u1e63\u1e6dha\u1e43 Uday\u0101\u1e43 Bh\u0101skara\u1e43 Jagata\u1e25\nD\u012bp\u0101ya Tasmai S\u016bry\u0101ya Pra\u1e47atosmi Div\u0101karam",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Aadityasya Namaskaaran Ye Kurvanti Dine Dine\nAayuh Prajnaa Balam Veeryam Tejasteshah Cha Jaayate",
+          "meaning": "Those who offer salutations to the Sun daily gain longevity, wisdom, strength, valor, and radiance.",
+          "transliteration": "\u0100dityasya Namask\u0101r\u0101n Ye Kurvanti Dine Dine\n\u0100yu\u1e25 Praj\u00f1\u0101 Bala\u1e43 V\u012brya\u1e43 Tejaste\u1e63\u0101\u1e43 Ca J\u0101yate",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Bhaanu Bhaaskara Maartaanda Chanda Rashmi Divaakar\nAayuh Aarogyam Aishwaryam Vidyaam Dehi Divaakara",
+          "meaning": "O Bhanu, Bhaskara, Martanda, fierce-rayed Divakara - grant me longevity, health, prosperity, and knowledge, O Sun God.",
+          "transliteration": "Bh\u0101nu Bh\u0101skara M\u0101rt\u0101\u1e47\u1e0da Ca\u1e47\u1e0da Ra\u015bmi Div\u0101kara\n\u0100yu\u1e25 \u0100rogya\u1e43 Ai\u015bvarya\u1e43 Vidy\u0101\u1e43 Dehi Div\u0101kara",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Dhyeyah Sadaa Savitri Mandala Madhyavarti\nNaaraayanaah Sarasijaa Sana Sannivishthah\nKeyooravaan Makarakundalavaan Kiritee\nHaaree Hiranya Mava Vapuh Dhrita Shankha Chakrah",
+          "meaning": "One should always meditate on Lord Narayana who resides in the center of the solar orb, seated on a lotus, wearing armlets, makara-shaped earrings, a crown, a golden garland, with a golden body, holding the conch and discus.",
+          "transliteration": "Dhyeya\u1e25 Sad\u0101 Savit\u1e5b Ma\u1e47\u1e0dala Madhyavart\u012b\nN\u0101r\u0101ya\u1e47a\u1e25 Sarasij\u0101 Sana Sannivi\u1e63\u1e6dha\u1e25\nKey\u016brav\u0101n Makaraku\u1e47\u1e0dalav\u0101n Kir\u012b\u1e6d\u012b\nH\u0101r\u012b Hira\u1e47ya Maya Vapu\u1e25 Dh\u1e5bta \u015aa\u1e45kha Cakra\u1e25",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "stuti_devi_aparadh",
+      "title": "Devi Aparadha Kshamapana",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/stuti/durga.jpg",
+      "orderIndex": 11,
+      "content": [
+        {
+          "shloka": "Na Mantram No Yantram Tadapi Cha Na Jaane Stuti Maho\nNa Chaahvaanam Dhyaanam Tadapi Cha Na Jaane Stutikathah\nNa Jaane Mudraaste Tadapi Cha Na Jaane Vilapanam\nParam Jaane Maatastvad Anusaranam Kleshahranam",
+          "meaning": "I know no mantra, no yantra, nor do I know any hymn of praise. I know not invocation, nor meditation, nor do I know any stories of Your praise. I know no mudras, nor do I know how to cry to You. But this I know, O Mother, that to follow You is to remove all suffering.",
+          "transliteration": "Na Mantra\u1e43 No Yantra\u1e43 Tadapi Ca Na J\u0101ne Stuti Maho\nNa C\u0101hv\u0101na\u1e43 Dhy\u0101na\u1e43 Tadapi Ca Na J\u0101ne Stutikath\u0101\u1e25\nNa J\u0101ne Mudr\u0101ste Tadapi Ca Na J\u0101ne Vilapana\u1e43\nPara\u1e43 J\u0101ne M\u0101tastvad Anusara\u1e47a\u1e43 Kle\u015bahara\u1e47am",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Vidheragnaanena Dravinavirahena Aalasatayaa\nVidheyaashkyatvat Tava Charanayoh Yaa Chyuti Rabhoot\nTadethath Kshanthavyam Janani Sakalopaadhikarunaah\nVipadhreva Nityam Tvadeeya Charanau Eva Sharanam",
+          "meaning": "Due to ignorance of rules, due to poverty, due to laziness, due to incapacity, whatever lapses have occurred at Your feet - O Mother, may You forgive all of these, You who are compassionate to all. In times of calamity, Your feet alone are my constant refuge.",
+          "transliteration": "Vidher\u0101gn\u0101nena Dravi\u1e47avirhe\u1e47a \u0100lasatay\u0101\nVidhey\u0101\u015bakyatv\u0101t Tava Cara\u1e47ayo\u1e25 Y\u0101 Cyuti Rabh\u016bt\nTadethat K\u1e63anthavya\u1e43 Janani Sakalop\u0101dhikaru\u1e47\u0101\u1e25\nVipadhrev\u0101 Nitya\u1e43 Tvad\u012bya Cara\u1e47au Eva \u015aara\u1e47am",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Aparaadha Sahasraani Kriyanteharniisham Mayaa\nDaaso Yamiti Maam Maatva Kshamasva Parameshvari",
+          "meaning": "Thousands of offenses are committed by me day and night. Considering me as Your servant, please forgive me, O Supreme Goddess.",
+          "transliteration": "Apar\u0101dha Sahasr\u0101\u1e47i Kriyanteharnisam May\u0101\nD\u0101so Yamiti M\u0101\u1e43 M\u0101tv\u0101 K\u1e63amasva Parame\u015bvari",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Prithivyaam Putraaste Janani Bahavah Santi Saralah\nParam Teshaam Madhye Viralavataro Haam Tava Sutah\nMadeeyo Yamaparaadho Yadvaa Ambaa Agareeyo\nTadetath Kshanthavyam Janani Tava Dasyah Sharanaagata",
+          "meaning": "O Mother, You have many dutiful children on this earth. But among them, I am a rare wayward son. Whatever offense of mine, O Mother, however great it may be, please forgive it. Your servant has come to take refuge.",
+          "transliteration": "P\u1e5bthivy\u0101\u1e43 Putraste Janani Bahava\u1e25 Santi Saral\u0101\u1e25\nPara\u1e43 Te\u1e63\u0101\u1e43 Madhye Viral\u0101vat\u0101ro H\u0101\u1e43 Tava Suta\u1e25\nMad\u012byo Y\u0101mapar\u0101dho Yadv\u0101 Amb\u0101 Agar\u012byo\nTadethat K\u1e63anthavya\u1e43 Janani Tava D\u0101sya\u1e25 \u015aara\u1e47\u0101gata",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kuputo Jaayeta Kvachidapi Kumaataa Na Bhavati\nTasmaattva Maulah Kulajalanidhe Sarvajagataah\nGatiste Me Naanyaa Tvadapi Janani Kshantih Abhayam\nSamaalochhya Amba Tvamapi Nitaraam Nohi Paratah",
+          "meaning": "A bad son may sometimes be born, but a bad mother never exists. Therefore, O ocean of the family lineage of the world, I have no other refuge but You. O Mother, considering this, grant me forgiveness and fearlessness; there is no one else beyond You.",
+          "transliteration": "Kuputo J\u0101yeta Kvacidapi Kum\u0101t\u0101 Na Bhavati\nTasm\u0101ttva\u1e43 Maula\u1e25 Kulajalanidhe Sarvajagat\u0101\u1e25\nGatiste Me N\u0101ny\u0101 Tvadapi Janani K\u1e63\u0101nti\u1e25 Abhayam\nSam\u0101locya Amba Tvamapi Nitar\u0101\u1e43 Nohi Parata\u1e25",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "stuti_shiv_aparadh",
+      "title": "Shiva Aparadha Kshamapana",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/stuti/shiv.jpg",
+      "orderIndex": 12,
+      "content": [
+        {
+          "shloka": "Aadau Karmaprasangaat Kalayati Kalashan Jaathare Sthitah\nVindhyan Janturvipannoh Jaatharajatharena Pratyaham Jaatabodhah\nTaatoojjhaatvaa Namoham Bhavati Bhava Bhavodhbhava Kleshapaatram\nTasmaatpraachyaam Praseeda Prabhu Mama Parahimsaamaamaraadhi Maheshaat",
+          "meaning": "From the beginning, due to the force of past karma, the being suffers in the womb. After birth, distressed by the fire of worldly existence, forgetting You due to delusion, one becomes a vessel of suffering. Therefore, O Lord Mahesha, be gracious to me and protect me from the cycle of worldly existence.",
+          "transliteration": "\u0100dau Karmaprasang\u0101t Kalayati Kala\u015ban J\u0101thare Sthita\u1e25\nVindhyan Jantuvipanno\u1e25 J\u0101thara Ja\u1e6dhare\u1e47a Pratyaha\u1e43 J\u0101tabodha\u1e25\nT\u0101tojjh\u0101tv\u0101 Namoha\u1e43 Bhavati Bhava Bhavodbhava Kle\u015bap\u0101tra\u1e43\nTasm\u0101tpr\u0101cy\u0101\u1e43 Pras\u012bda Prabhu Mama Parahi\u1e43s\u0101m\u0101mar\u0101dhi Mahe\u015b\u0101t",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Balyaath Kriidaasakthah Tarunatarayoh Kaamini Vashah\nVriddhastvyaadhi Grastaah Paramithihithah Kenachidapi\nPraneta Bhaktih Shraddha Shiva Shiva Shiveti Parivanchanashiva\nTatstaamaatpraachyam Praseeda Bhava Maamevamakhilam",
+          "meaning": "In childhood, absorbed in play; in youth, enslaved by desire; in old age, afflicted by disease - at no time was I able to worship You. Never did devotion arise, never the faith to chant 'Shiva Shiva.' Therefore, O Lord, be gracious to me despite all this.",
+          "transliteration": "B\u0101ly\u0101t Kr\u012b\u1e0d\u0101sakta\u1e25 Taru\u1e47atarayo\u1e25 K\u0101mini Va\u015ba\u1e25\nV\u1e5bddhastvyy\u0101dhi Grast\u0101\u1e25 Paramithihita\u1e25 Kenacidapi\nPra\u1e47et\u0101 Bhakti\u1e25 \u015araddh\u0101 \u015aiva \u015aiva \u015aiveti Pariva\u00f1cana\u015biva\nTatst\u0101m\u0101tpr\u0101cy\u0101\u1e43 Pras\u012bda Bhava M\u0101mevamakhilam",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Na Poojayaami Te Devam Na Cha Archayaami Sarvadaa\nNa Vandaami Mahaadeva Kshamasva Parameshvara",
+          "meaning": "I have not worshipped You, O Lord, nor have I ever offered You homage. I have not bowed to You, O Mahadeva. Please forgive me, O Supreme Lord.",
+          "transliteration": "Na P\u016bjay\u0101mi Te Deva\u1e43 Na Ca Arcay\u0101mi Sarvad\u0101\nNa Vand\u0101mi Mah\u0101deva K\u1e63amasva Parame\u015bvara",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Gaatrampanke Pranamyaasi Jalamapyaacharanaan Manah\nPushhpam Naivopahaaraya Na Dhupam Na Cha Deepakam\nKshamasva Nanu Daivya Sadaashiva Sarvam Aparaadham",
+          "meaning": "My body has not prostrated in mud, nor has my mind drawn water for worship. I have offered no flowers, no incense, no lamp. O divine Sadashiva, please forgive all my offenses.",
+          "transliteration": "G\u0101trampanke Pra\u1e47amy\u0101si Jalamapyy\u0101car\u0101\u1e47\u0101n Mana\u1e25\nPu\u1e63pa\u1e43 Naivopah\u0101r\u0101ya Na Dh\u016bpa\u1e43 Na Ca D\u012bpakam\nK\u1e63amasva Nanu Daivya Sad\u0101\u015biva Sarva\u1e43 Apar\u0101dham",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Aavaahanaath Na Jaanaami Visarjanaath Na Jaanaami\nPoojaam Chaiva Na Jaanaami Kshamyataam Parameshvara\nMantra Heenam Kriyaa Heenam Bhakti Heenam Maheshvara\nYatpoojitam Mayaa Deva Paripoornam Tadastu Me",
+          "meaning": "I know not how to invoke You, nor how to bid You farewell. I know not how to worship You properly. Forgive me, O Supreme Lord. My worship has been devoid of mantras, devoid of rituals, devoid of devotion. O Mahadeva, whatever worship I have offered, may You accept it as complete.",
+          "transliteration": "\u0100v\u0101han\u0101t Na J\u0101n\u0101mi Visarjan\u0101t Na J\u0101n\u0101mi\nP\u016bj\u0101\u1e43 Caiva Na J\u0101n\u0101mi K\u1e63amyat\u0101\u1e43 Parame\u015bvara\nMantra H\u012bna\u1e43 Kriy\u0101 H\u012bna\u1e43 Bhakti H\u012bna\u1e43 Mahe\u015bvara\nYatp\u016bjita\u1e43 May\u0101 Deva Parip\u016br\u1e47a\u1e43 Tadastu Me",
+          "imageUrl": null
+        }
+      ]
+    }
+  ]
+}

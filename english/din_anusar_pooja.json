@@ -1,0 +1,285 @@
+{
+  "category": "Din Ke Anusar Pooja",
+  "version": 1,
+  "items": [
+    {
+      "id": "din_somvar",
+      "title": "Monday (Somvar) - Shiva Puja",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/din_pooja/shiv.jpg",
+      "orderIndex": 1,
+      "content": [
+        {
+          "shloka": "Om Namah Shivaaya\nOm Tryambakam Yajaamahe Sugandhim Pushtivardhanam\nUrvaarukamiva Bandhanaan Mrityormuksheeya Maamritaat",
+          "meaning": "We worship the three-eyed Lord Shiva who is fragrant and nourishes all beings. May He liberate us from the bondage of death, just as a ripe cucumber is freed from its vine, and grant us immortality.",
+          "transliteration": "Om Namaḥ Śivāya\nOṁ Tryambakaṁ Yajāmahe Sugandhiṁ Puṣṭivardhanam\nUrvārukamiva Bandhanān Mṛtyormukṣīya Māmṛtāt",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Karpur Gauram Karunaavataaram\nSansaara Saaram Bhujagendra Haaram\nSadaa Vasantam Hridayaaravinde\nBhavam Bhavaani Sahitam Namaami",
+          "meaning": "I bow to Lord Shiva who is white as camphor, the incarnation of compassion, the essence of the world, who wears the king of serpents as a garland, who always dwells in the lotus of the heart. I bow to that Lord along with Goddess Bhavani.",
+          "transliteration": "Karpūra Gauraṁ Karuṇāvatāraṁ\nSaṁsāra Sāraṁ Bhujagendra Hāraṁ\nSadā Vasantaṁ Hṛdayāravinde\nBhavaṁ Bhavānī Sahitaṁ Namāmi",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Somvar Vrat Puja Vidhi:\n1. Wake early, bathe and wear clean white clothes.\n2. Place a Shivalinga or image of Lord Shiva on a clean altar.\n3. Offer Bilva (Bael) leaves, white flowers, and dhatura.\n4. Perform Abhisheka with milk, water, honey, curd, and ghee.\n5. Light a ghee lamp and incense.\n6. Chant 'Om Namah Shivaaya' 108 times using a Rudraksha mala.\n7. Offer Panchamrit as Naivedya (sacred food).\n8. Conclude with Shiva Aarti and Pradakshina.",
+          "meaning": "Monday Fasting Worship Method: This is the step-by-step procedure for performing Shiva Puja on Monday. Devotees observe a fast throughout the day, eating only fruits or a single meal after the puja. The Somvar Vrat is especially auspicious during the month of Shravan.",
+          "transliteration": "Somvar Vrat Puja Vidhi:\n1. Wake early, bathe and wear clean white clothes.\n2. Place a Shivalinga or image of Lord Shiva on a clean altar.\n3. Offer Bilva (Bael) leaves, white flowers, and dhatura.\n4. Perform Abhisheka with milk, water, honey, curd, and ghee.\n5. Light a ghee lamp and incense.\n6. Chant 'Om Namah Shivaaya' 108 times using a Rudraksha mala.\n7. Offer Panchamrit as Naivedya (sacred food).\n8. Conclude with Shiva Aarti and Pradakshina.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Shivashtakam:\nPrabhu Deva Devam Neelakanth Devam\nGangaadhar Devam Gauri Shankar Devam\nChandra Mouli Devam Trinetram Devam\nNaagendra Haaram Namaami Shivam",
+          "meaning": "I bow to Lord Shiva, the supreme deity, the blue-throated one, the bearer of the Ganga, the lord of Gauri, the one adorned with the crescent moon, the three-eyed deity, the one who wears the serpent king as a garland.",
+          "transliteration": "Prabhu Deva Devaṁ Nīlakaṇṭha Devaṁ\nGaṅgādhara Devaṁ Gaurī Śaṅkara Devaṁ\nCandra Mauli Devaṁ Trinetraṁ Devaṁ\nNāgendra Hāraṁ Namāmi Śivaṁ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Somvar Vrat Katha (Summary):\nOnce a merchant and his wife observed the Somvar Vrat with great devotion. Lord Shiva, pleased by their dedication, blessed them with prosperity and a virtuous son. Their neighbor, seeing their fortune, also began the vrat but without true faith. She received no blessings. The story teaches that sincere devotion on Mondays to Mahadeva brings fulfillment of all desires and liberation from worldly suffering.",
+          "meaning": "Monday Fast Story: This traditional story illustrates the importance of performing the Monday fast with genuine devotion to Lord Shiva rather than merely going through the rituals. True faith and dedication are rewarded by Mahadeva.",
+          "transliteration": "Somvar Vrat Katha (Summary):\nOnce a merchant and his wife observed the Somvar Vrat with great devotion. Lord Shiva, pleased by their dedication, blessed them with prosperity and a virtuous son. Their neighbor, seeing their fortune, also began the vrat but without true faith. She received no blessings. The story teaches that sincere devotion on Mondays to Mahadeva brings fulfillment of all desires and liberation from worldly suffering.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Shiva Panchakshari Stotram:\nNaagendraharaaya Trilochanaya\nBhasmanga Raagaaya Maheshvaraaya\nNityaaya Shuddhaaya Digambaraaya\nTasmai Nakaaraaya Namah Shivaaya",
+          "meaning": "Salutations to Lord Shiva who wears the king of serpents as a garland, who has three eyes, whose body is smeared with sacred ash, who is the great lord, eternal, pure, and unclad (infinite). I bow to that Shiva represented by the letter 'Na'.",
+          "transliteration": "Nāgendrahārāya Trilocanāya\nBhasmāṅga Rāgāya Maheśvarāya\nNityāya Śuddhāya Digambarāya\nTasmai Nakārāya Namaḥ Śivāya",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "din_mangalvar",
+      "title": "Tuesday (Mangalvar) - Hanuman Puja",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/din_pooja/hanuman.jpg",
+      "orderIndex": 2,
+      "content": [
+        {
+          "shloka": "Om Hanumate Namah\nManojavam Maarut Tulyavegam\nJitendriyam Buddhimataam Varishtham\nVaataatmajam Vaanara Yooth Mukhyam\nShri Raam Dootam Sharanam Prapadye",
+          "meaning": "I surrender to Lord Hanuman, the messenger of Shri Rama, who is swift as the mind, fast as the wind, master of the senses, foremost among the wise, son of the Wind God, and chief of the monkey army.",
+          "transliteration": "Oṁ Hanumate Namaḥ\nManojavaṁ Māruta Tulyavegaṁ\nJitendriyaṁ Buddhimatāṁ Variṣṭhaṁ\nVātātmajaṁ Vānara Yūtha Mukhyaṁ\nŚrī Rāma Dūtaṁ Śaraṇaṁ Prapadye",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Atulitabaladhaaman Hemashailaabhadehaam\nDanujavan Krishaanum Gyaanina Amagraganyam\nSakalaguna Nidhaanam Vaanaraanaa Madhisham\nRaghupati Priya Bhaktam Vaatajaatam Namaami",
+          "meaning": "I bow to Hanuman, the son of the Wind God, who possesses incomparable strength, whose body shines like a golden mountain, who is the destroyer of demons, foremost among the wise, treasure-house of all virtues, lord of the monkeys, and the beloved devotee of Lord Rama.",
+          "transliteration": "Atulitabaladāmaṁ Hemaśailābhadehaṁ\nDanujavana Kṛśānuṁ Jñāninā Magragaṇyaṁ\nSakalaguṇa Nidhānaṁ Vānarāṇā Madhīśaṁ\nRaghupati Priya Bhaktaṁ Vātajātaṁ Namāmi",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Mangalvar Puja Vidhi:\n1. Wake before sunrise, bathe and wear red or orange clothes.\n2. Place an image or murti of Lord Hanuman on the altar.\n3. Apply sindoor (vermilion) to the murti.\n4. Offer red flowers, betel leaves, and jasmine garland.\n5. Light a sesame oil or ghee lamp.\n6. Chant Hanuman Chalisa followed by 'Om Hanumate Namah' 108 times.\n7. Offer laddoo, boondi, or jaggery as Naivedya.\n8. Read or listen to Sundara Kanda from Ramayana.\n9. Conclude with Hanuman Aarti and Pradakshina.",
+          "meaning": "Tuesday Worship Method: This is the complete procedure for worshipping Lord Hanuman on Tuesday. Devotees who observe the Tuesday vrat gain courage, strength, and protection from evil forces. The vrat is especially powerful when observed for 21 consecutive Tuesdays.",
+          "transliteration": "Mangalvar Puja Vidhi:\n1. Wake before sunrise, bathe and wear red or orange clothes.\n2. Place an image or murti of Lord Hanuman on the altar.\n3. Apply sindoor (vermilion) to the murti.\n4. Offer red flowers, betel leaves, and jasmine garland.\n5. Light a sesame oil or ghee lamp.\n6. Chant Hanuman Chalisa followed by 'Om Hanumate Namah' 108 times.\n7. Offer laddoo, boondi, or jaggery as Naivedya.\n8. Read or listen to Sundara Kanda from Ramayana.\n9. Conclude with Hanuman Aarti and Pradakshina.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Bajrang Baan (Opening Verses):\nNishchay Prem Pratiti Te Vinay Karei Sanmaan\nTe Phal Paavai Savadhi Jab Padhey Bajrang Baan\nJay Hanumanta Santa Hitakaari\nSuna Leeje Prabhu Arj Hamaari",
+          "meaning": "Those who recite the Bajrang Baan with unwavering love, faith, and humility shall certainly attain its fruits. Glory to Hanuman, the benefactor of saints. O Lord, please hear our humble prayer.",
+          "transliteration": "Niścaya Prema Pratīti Te Vinaya Karei Sanmāna\nTe Phala Pāvai Savadhi Jaba Paḍhey Bajraṅga Bāṇa\nJaya Hanumanta Santa Hitakārī\nSunā Līje Prabhu Arja Hamārī",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Mangalvar Vrat Katha (Summary):\nA poor Brahmin, troubled by debts and suffering, was advised by a sage to worship Hanuman every Tuesday with sincere devotion. The Brahmin offered sindoor, recited the Hanuman Chalisa, and fasted for 21 Tuesdays. Pleased with his devotion, Hanumanji removed all his obstacles, blessed him with wealth, and granted fearlessness. The story teaches that Tuesday worship of Hanuman destroys all fears and brings divine protection.",
+          "meaning": "Tuesday Fast Story: This story highlights that consistent and heartfelt devotion to Lord Hanuman on Tuesdays removes obstacles, debts, and fears from a devotee's life. Hanuman is the protector of the devoted.",
+          "transliteration": "Mangalvar Vrat Katha (Summary):\nA poor Brahmin, troubled by debts and suffering, was advised by a sage to worship Hanuman every Tuesday with sincere devotion. The Brahmin offered sindoor, recited the Hanuman Chalisa, and fasted for 21 Tuesdays. Pleased with his devotion, Hanumanji removed all his obstacles, blessed him with wealth, and granted fearlessness. The story teaches that Tuesday worship of Hanuman destroys all fears and brings divine protection.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "din_budhvar",
+      "title": "Wednesday (Budhvar) - Ganesh/Vithal Puja",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/din_pooja/ganesh.jpg",
+      "orderIndex": 3,
+      "content": [
+        {
+          "shloka": "Om Gam Ganapataye Namah\nVakratunda Mahaakaya Surya Koti Samaprabha\nNirvighnam Kuru Me Deva Sarva Kaaryeshu Sarvadaa",
+          "meaning": "O Lord Ganesha of the curved trunk and massive body, whose brilliance equals a billion suns, please remove all obstacles from my endeavors, always and in every task.",
+          "transliteration": "Oṁ Gaṁ Gaṇapataye Namaḥ\nVakratuṇḍa Mahākāya Sūrya Koṭi Samaprabha\nNirvighnaṁ Kuru Me Deva Sarva Kāryeṣu Sarvadā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Gajaananam Bhoot Ganaadi Sevitam\nKapitha Jamboo Phal Saara Bhakshitam\nUmaasutam Shok Vinaash Kaaranam\nNamaami Vighneshwar Paadpankajam",
+          "meaning": "I bow at the lotus feet of Lord Vighneshwara (remover of obstacles), who has an elephant face, who is served by the celestial beings, who eats the essence of Kapitha and Jambu fruits, who is the son of Uma (Parvati), and who is the destroyer of sorrow.",
+          "transliteration": "Gajānanaṁ Bhūta Gaṇādi Sevitaṁ\nKapittha Jambū Phala Sāra Bhakṣitaṁ\nUmāsutaṁ Śoka Vināśa Kāraṇaṁ\nNamāmi Vighneśvara Pādapaṅkajaṁ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Vithal Prarthana:\nPundalik Varada Hari Vithal\nShri Gyaandev Tukaram\nPandhari Nath Maharaj Ki Jay\nVithal Vithal Vithal",
+          "meaning": "Glory to Lord Vithal (Vishnu), the boon-giver of Pundalik, along with saints Dnyaneshwar and Tukaram. Victory to the Lord of Pandharpur. Vithal Vithal Vithal!",
+          "transliteration": "Puṇḍalīka Varada Hari Viṭhala\nŚrī Jñānadeva Tukārāma\nPaṇḍharī Nātha Mahārāja Kī Jaya\nViṭhala Viṭhala Viṭhala",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Budhvar Puja Vidhi:\n1. Wake early, bathe and wear green or yellow clothes.\n2. Place a Ganesh murti and/or Vithal image on the altar.\n3. Offer durva grass (21 blades), red flowers, and modak to Ganesh.\n4. For Vithal puja, offer tulsi leaves and white flowers.\n5. Light a ghee lamp and incense.\n6. Chant 'Om Gam Ganapataye Namah' 108 times.\n7. Recite Ganapati Atharvashirsha.\n8. Offer modak or laddoo as Naivedya.\n9. Conclude with Ganesh Aarti or Vithal Aarti and Pradakshina.",
+          "meaning": "Wednesday Worship Method: Wednesday is sacred to Lord Ganesha and Lord Vithal (a form of Vishnu). Devotees worship Ganesha for the removal of obstacles and success in studies and new ventures. In Maharashtra, Vithal puja is also performed on Wednesdays.",
+          "transliteration": "Budhvar Puja Vidhi:\n1. Wake early, bathe and wear green or yellow clothes.\n2. Place a Ganesh murti and/or Vithal image on the altar.\n3. Offer durva grass (21 blades), red flowers, and modak to Ganesh.\n4. For Vithal puja, offer tulsi leaves and white flowers.\n5. Light a ghee lamp and incense.\n6. Chant 'Om Gam Ganapataye Namah' 108 times.\n7. Recite Ganapati Atharvashirsha.\n8. Offer modak or laddoo as Naivedya.\n9. Conclude with Ganesh Aarti or Vithal Aarti and Pradakshina.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ganesh Atharvashirsha (Opening):\nOm Namaste Ganapataye\nTvameva Pratyaksham Tattvamasi\nTvameva Kevalam Kartaasi\nTvameva Kevalam Dhartaasi\nTvameva Kevalam Hartaasi\nTvameva Sarvam Khalvidam Brahmaasi\nTvam Saakshaadaatmaasi Nityam",
+          "meaning": "Om, salutations to Lord Ganapati. You alone are the visible manifestation of the Essence of the Supreme Reality. You alone are the Creator, the Sustainer, and the Destroyer. You alone are all this Brahman. You are indeed the eternal Self.",
+          "transliteration": "Oṁ Namaste Gaṇapataye\nTvameva Pratyakṣaṁ Tattvamasi\nTvameva Kevalaṁ Kartāsi\nTvameva Kevalaṁ Dhartāsi\nTvameva Kevalaṁ Hartāsi\nTvameva Sarvaṁ Khalvidaṁ Brahmāsi\nTvaṁ Sākṣādātmāsi Nityam",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "din_guruvar",
+      "title": "Thursday (Guruvar) - Vishnu/Sai Puja",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/din_pooja/vishnu.jpg",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "Om Namo Bhagavate Vaasudevaaya\nShaantaakaaram Bhujagashayanam Padmanaabham Suresham\nVishvaadhaarama Gagansadrisham Meghavarnam Shubhaangam\nLakshmikaantam Kamalnyanam Yogibhirdhyaanagamyam\nVande Vishnum Bhavabhayaharam Sarvalokaika Naatham",
+          "meaning": "I bow to Lord Vishnu who has a peaceful form, who reclines on the cosmic serpent Shesha, from whose navel springs the lotus, who is the lord of the devas, the support of the universe, vast as the sky, dark as clouds, with auspicious limbs, the beloved of Lakshmi, with lotus-like eyes, who is attainable through meditation by yogis, who removes the fear of worldly existence, and who is the sole lord of all worlds.",
+          "transliteration": "Oṁ Namo Bhagavate Vāsudevāya\nŚāntākāraṁ Bhujagaśayanaṁ Padmanābhaṁ Sureśaṁ\nViśvādhāraṁ Gaganasadṛśaṁ Meghavarṇaṁ Śubhāṅgaṁ\nLakṣmīkāntaṁ Kamalanayanaṁ Yogibhirdhyānagamyaṁ\nVande Viṣṇuṁ Bhavabhayaharaṁ Sarvalokaika Nāthaṁ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sai Baba Prarthana:\nShirdi Waale Sai Baba Aaya Hai Tere Dwar\nSai Nath Tere Hazaron Haath\nSabka Maalik Ek\nShraddha Aur Saburi",
+          "meaning": "O Sai Baba of Shirdi, I have come to your doorstep. Sainath, you have a thousand hands to help. There is one God who is master of all. Faith and patience are the two pillars of Sai's teaching.",
+          "transliteration": "Śirdī Vāle Sāī Bābā Āyā Hai Tere Dvāra\nSāī Nātha Tere Hazāroṅ Hātha\nSabakā Mālika Eka\nŚraddhā Aura Saburī",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Guruvar Puja Vidhi:\n1. Wake early, bathe and wear yellow clothes.\n2. Place images of Lord Vishnu and/or Sai Baba on the altar.\n3. Offer yellow flowers, tulsi leaves, and banana.\n4. Light a ghee lamp with a yellow wick and incense.\n5. Chant 'Om Namo Bhagavate Vaasudevaaya' 108 times.\n6. For Sai devotees, read Sai Satcharitra chapter.\n7. Offer banana, chana dal, or yellow sweets as Naivedya.\n8. Perform Vishnu Sahasranaam or Sai Baba Aarti.\n9. Conclude with Aarti and Pradakshina.",
+          "meaning": "Thursday Worship Method: Thursday is dedicated to Lord Vishnu and Brihaspati (Jupiter). It is also a sacred day for Shirdi Sai Baba devotees. Yellow is the auspicious color for this day. Observing the Guruvar vrat brings wisdom, prosperity, and spiritual growth.",
+          "transliteration": "Guruvar Puja Vidhi:\n1. Wake early, bathe and wear yellow clothes.\n2. Place images of Lord Vishnu and/or Sai Baba on the altar.\n3. Offer yellow flowers, tulsi leaves, and banana.\n4. Light a ghee lamp with a yellow wick and incense.\n5. Chant 'Om Namo Bhagavate Vaasudevaaya' 108 times.\n6. For Sai devotees, read Sai Satcharitra chapter.\n7. Offer banana, chana dal, or yellow sweets as Naivedya.\n8. Perform Vishnu Sahasranaam or Sai Baba Aarti.\n9. Conclude with Aarti and Pradakshina.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Vishnu Gayatri:\nOm Narayanaaya Vidmahe\nVaasudevaaya Dheemahi\nTanno Vishnuh Prachodayaat",
+          "meaning": "Om, we meditate upon Lord Narayana. We contemplate Lord Vasudeva. May Lord Vishnu illuminate and inspire our intellect.",
+          "transliteration": "Oṁ Nārāyaṇāya Vidmahe\nVāsudevāya Dhīmahi\nTanno Viṣṇuḥ Pracodayāt",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Guruvar Vrat Katha (Summary):\nA woodcutter, despite his poverty, observed the Thursday vrat with devotion, offering yellow flowers and chana to Lord Vishnu. His neighbor, a wealthy merchant, mocked him. Lord Vishnu tested both — the merchant lost his wealth while the woodcutter prospered. When the merchant began observing the vrat with humility, his fortunes returned. This story teaches that Guruvar worship with true devotion brings divine grace regardless of one's material status.",
+          "meaning": "Thursday Fast Story: This story illustrates that Lord Vishnu rewards sincere devotion on Thursdays, irrespective of a person's social standing, and that arrogance leads to downfall while humility brings blessings.",
+          "transliteration": "Guruvar Vrat Katha (Summary):\nA woodcutter, despite his poverty, observed the Thursday vrat with devotion, offering yellow flowers and chana to Lord Vishnu. His neighbor, a wealthy merchant, mocked him. Lord Vishnu tested both — the merchant lost his wealth while the woodcutter prospered. When the merchant began observing the vrat with humility, his fortunes returned. This story teaches that Guruvar worship with true devotion brings divine grace regardless of one's material status.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "din_shukravar",
+      "title": "Friday (Shukravar) - Devi/Lakshmi Puja",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/din_pooja/lakshmi.jpg",
+      "orderIndex": 5,
+      "content": [
+        {
+          "shloka": "Om Shreem Mahalakshmyai Namah\nSarva Mangala Maangalye Shive Sarvaartha Saadhike\nSharenye Tryambake Gauri Naaraayani Namostute",
+          "meaning": "O auspicious one who bestows auspiciousness, who fulfills all purposes, who is the refuge of all, the three-eyed Gauri, O Narayani, I bow to you.",
+          "transliteration": "Oṁ Śrīṁ Mahālakṣmyai Namaḥ\nSarva Maṅgala Māṅgalye Śive Sarvārtha Sādhike\nŚaraṇye Tryambake Gaurī Nārāyaṇī Namostute",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Mahalakshmi Ashtakam (Verse 1):\nNamasteastu Mahamaye Shreepithe Surapujite\nShankha Chakra Gadaahaste Mahalakshmi Namostute",
+          "meaning": "Salutations to the great illusory power, who resides in the seat of wealth, who is worshipped by the gods, who holds the conch, discus, and mace. O Mahalakshmi, I bow to you.",
+          "transliteration": "Namastestu Mahāmāye Śrīpīṭhe Surapūjite\nŚaṅkha Cakra Gadāhaste Mahālakṣmi Namostute",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Shukravar Puja Vidhi:\n1. Wake early, bathe and wear white or pink clothes.\n2. Place images of Goddess Lakshmi and Devi on the altar.\n3. Clean the house and entrance — Lakshmi resides in clean homes.\n4. Offer red and white lotus flowers, kumkum, and turmeric.\n5. Light a ghee lamp and incense before the Goddess.\n6. Chant 'Om Shreem Mahalakshmyai Namah' 108 times.\n7. Recite Shri Suktam or Lakshmi Ashtottara Shatanamavali.\n8. Offer kheer, fruits, or mishri as Naivedya.\n9. Conclude with Lakshmi Aarti and Pradakshina.",
+          "meaning": "Friday Worship Method: Friday is dedicated to Goddess Lakshmi and the Divine Mother. Devotees wear white or pink, keep the house clean, and worship the Goddess for wealth, prosperity, and harmony in the family. The vrat is especially effective during the month of Margashirsha.",
+          "transliteration": "Shukravar Puja Vidhi:\n1. Wake early, bathe and wear white or pink clothes.\n2. Place images of Goddess Lakshmi and Devi on the altar.\n3. Clean the house and entrance — Lakshmi resides in clean homes.\n4. Offer red and white lotus flowers, kumkum, and turmeric.\n5. Light a ghee lamp and incense before the Goddess.\n6. Chant 'Om Shreem Mahalakshmyai Namah' 108 times.\n7. Recite Shri Suktam or Lakshmi Ashtottara Shatanamavali.\n8. Offer kheer, fruits, or mishri as Naivedya.\n9. Conclude with Lakshmi Aarti and Pradakshina.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Shri Suktam (Opening):\nHiranyavarnaam Harineem Suvarnarajatasrajaam\nChandraam Hiranmayeem Lakshmeem Jaatavedo Ma Aavaha",
+          "meaning": "O Fire God, invoke for me that Lakshmi who is golden-hued, beautiful as a deer, adorned with gold and silver garlands, radiant as the moon, and resplendent with gold.",
+          "transliteration": "Hiraṇyavarṇāṁ Hariṇīṁ Suvarṇarajatasrajāṁ\nCandrāṁ Hiraṇmayīṁ Lakṣmīṁ Jātavedo Ma Āvaha",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Shukravar Vrat Katha (Summary):\nA queen who regularly worshipped Goddess Lakshmi on Fridays was blessed with immense prosperity. Once she neglected the vrat due to pride, and all her wealth vanished. Humbled and repentant, she resumed her Friday worship with renewed devotion. Lakshmi Devi, pleased with her sincerity, restored her fortune manifold. The story teaches that wealth comes from the grace of the Goddess and must be received with gratitude, not arrogance.",
+          "meaning": "Friday Fast Story: This story emphasizes that Goddess Lakshmi bestows prosperity upon devoted and humble worshippers, and that pride and neglect of worship can lead to the departure of Lakshmi (wealth and fortune).",
+          "transliteration": "Shukravar Vrat Katha (Summary):\nA queen who regularly worshipped Goddess Lakshmi on Fridays was blessed with immense prosperity. Once she neglected the vrat due to pride, and all her wealth vanished. Humbled and repentant, she resumed her Friday worship with renewed devotion. Lakshmi Devi, pleased with her sincerity, restored her fortune manifold. The story teaches that wealth comes from the grace of the Goddess and must be received with gratitude, not arrogance.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "din_shanivar",
+      "title": "Saturday (Shanivar) - Shani/Hanuman Puja",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/din_pooja/shani.jpg",
+      "orderIndex": 6,
+      "content": [
+        {
+          "shloka": "Om Sham Shanaischaraaya Namah\nNilanjana Samaabhaasam Ravi Putram Yamaagrajam\nChaaya Maartanda Sambhutam Tam Namaami Shanaischaraam",
+          "meaning": "I bow to Lord Shani (Saturn), who is dark blue in complexion like collyrium, who is the son of Surya (Sun God), the elder brother of Yama (lord of death), born of Chhaya and Surya.",
+          "transliteration": "Oṁ Śaṁ Śanaiścarāya Namaḥ\nNīlāñjana Samābhāsaṁ Ravi Putraṁ Yamāgrajaṁ\nChāyā Mārtaṇḍa Saṁbhūtaṁ Taṁ Namāmi Śanaiścaraṁ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Shani Gayatri:\nOm Sanaischaraaya Vidmahe\nSooryaputraaya Dheemahi\nTanno Mandah Prachodayaat",
+          "meaning": "Om, we meditate on Shani Dev. We contemplate the son of Surya. May that slow-moving planet illuminate and inspire our intellect.",
+          "transliteration": "Oṁ Śanaiścarāya Vidmahe\nSūryaputrāya Dhīmahi\nTanno Mandaḥ Pracodayāt",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Shanivar Puja Vidhi:\n1. Wake before sunrise, bathe and wear black or dark blue clothes.\n2. Place an image of Lord Shani Dev or Hanuman on the altar.\n3. Offer black til (sesame seeds), black urad dal, and mustard oil.\n4. Light a sesame oil lamp before Shani Dev.\n5. Chant 'Om Sham Shanaischaraaya Namah' 108 times.\n6. Recite Shani Stotra or Hanuman Chalisa.\n7. Donate black items — sesame, urad dal, iron — to the needy.\n8. Offer urad dal vada or black til laddoo as Naivedya.\n9. Conclude with Shani Aarti or Hanuman Aarti.",
+          "meaning": "Saturday Worship Method: Saturday is dedicated to Shani Dev (Saturn) and also to Lord Hanuman, who is believed to protect devotees from the malefic effects of Saturn. Devotees wear dark clothing, donate black items, and worship to reduce the adverse effects of Shani Sade Sati and Shani Dhaiyya.",
+          "transliteration": "Shanivar Puja Vidhi:\n1. Wake before sunrise, bathe and wear black or dark blue clothes.\n2. Place an image of Lord Shani Dev or Hanuman on the altar.\n3. Offer black til (sesame seeds), black urad dal, and mustard oil.\n4. Light a sesame oil lamp before Shani Dev.\n5. Chant 'Om Sham Shanaischaraaya Namah' 108 times.\n6. Recite Shani Stotra or Hanuman Chalisa.\n7. Donate black items — sesame, urad dal, iron — to the needy.\n8. Offer urad dal vada or black til laddoo as Naivedya.\n9. Conclude with Shani Aarti or Hanuman Aarti.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Dashrath Krit Shani Stotram (Verse 1):\nJayanti Mangalaa Kaalee Bhadrakaalee Kapaalinee\nDurgaa Kshamaa Shivaa Dhaatree Swaahaa Svadhaa Namostute",
+          "meaning": "Victory to the auspicious Kali, Bhadrakali, Kapalini, Durga, who is forbearing, auspicious, the sustainer. Salutations through Swaha and Swadha offerings.",
+          "transliteration": "Jayantī Maṅgalā Kālī Bhadrakālī Kapālinī\nDurgā Kṣamā Śivā Dhātrī Svāhā Svadhā Namostute",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Shanivar Vrat Katha (Summary):\nKing Vikramaditya, despite being the greatest king, was afflicted by Shani's Sade Sati. He lost his kingdom, was falsely accused, and his hands were cut off. Through it all, he maintained his dharma and devotion. When the Sade Sati period ended, Shani Dev himself appeared and restored everything. The king then established Shani worship for the welfare of all. This teaches that Saturn's trials purify the soul, and devotion helps endure the period with grace.",
+          "meaning": "Saturday Fast Story: This story of King Vikramaditya illustrates that even the greatest cannot escape Saturn's influence, but those who maintain dharma and devotion through hardship emerge stronger and are ultimately blessed.",
+          "transliteration": "Shanivar Vrat Katha (Summary):\nKing Vikramaditya, despite being the greatest king, was afflicted by Shani's Sade Sati. He lost his kingdom, was falsely accused, and his hands were cut off. Through it all, he maintained his dharma and devotion. When the Sade Sati period ended, Shani Dev himself appeared and restored everything. The king then established Shani worship for the welfare of all. This teaches that Saturn's trials purify the soul, and devotion helps endure the period with grace.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "din_ravivar",
+      "title": "Sunday (Ravivar) - Surya/Ram Puja",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/din_pooja/surya.jpg",
+      "orderIndex": 7,
+      "content": [
+        {
+          "shloka": "Om Suryaaya Namah\nJabaa Kusum Sankaasham Kaashyapeyam Mahadyutim\nTamorim Sarvapaapghnam Pranatosmi Divaakaram",
+          "meaning": "I bow to the Sun God (Divakara), who is radiant like the hibiscus flower, who is the son of Kashyapa, who has great brilliance, who is the destroyer of darkness and remover of all sins.",
+          "transliteration": "Oṁ Sūryāya Namaḥ\nJabā Kusuma Saṅkāśaṁ Kāśyapeyaṁ Mahādyutiṁ\nTamoariṁ Sarvapāpaghnaṁ Praṇatosmi Divākaram",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Shri Rama Stuti:\nShri Raamchandra Kripalu Bhajamana\nHarana Bhavabhaya Daarunam\nNavakanja Lochana Kanja Mukha\nKara Kanja Pada Kanjarunam",
+          "meaning": "Worship the compassionate Lord Ramachandra in your mind, who removes the terrible fear of worldly existence, whose eyes are like fresh lotuses, whose face is like a lotus, whose hands are like lotuses, and whose feet are like reddish lotuses.",
+          "transliteration": "Śrī Rāmacandra Kṛpālu Bhajamana\nHaraṇa Bhavabhaya Dāruṇam\nNavakañja Locana Kañja Mukha\nKara Kañja Pada Kañjāruṇam",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ravivar Puja Vidhi:\n1. Wake before sunrise and bathe.\n2. Wear red or saffron-colored clothes.\n3. Face the rising sun and offer Arghya (water) with red flowers and kumkum.\n4. Place images of Surya Dev and/or Lord Rama on the altar.\n5. Chant Aditya Hridayam or Surya Namaskar mantras.\n6. Recite 'Om Suryaaya Namah' 108 times.\n7. Offer gur (jaggery), wheat, and red flowers.\n8. For Rama puja, recite Rama Raksha Stotra.\n9. Offer kheer or gur-roti as Naivedya.\n10. Conclude with Surya Aarti or Ram Aarti and Pradakshina.",
+          "meaning": "Sunday Worship Method: Sunday is dedicated to Surya Dev (the Sun God) and Lord Rama. Devotees face the rising sun and offer water. This worship is believed to cure eye diseases, skin ailments, and bestow health, confidence, and success.",
+          "transliteration": "Ravivar Puja Vidhi:\n1. Wake before sunrise and bathe.\n2. Wear red or saffron-colored clothes.\n3. Face the rising sun and offer Arghya (water) with red flowers and kumkum.\n4. Place images of Surya Dev and/or Lord Rama on the altar.\n5. Chant Aditya Hridayam or Surya Namaskar mantras.\n6. Recite 'Om Suryaaya Namah' 108 times.\n7. Offer gur (jaggery), wheat, and red flowers.\n8. For Rama puja, recite Rama Raksha Stotra.\n9. Offer kheer or gur-roti as Naivedya.\n10. Conclude with Surya Aarti or Ram Aarti and Pradakshina.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Aditya Hridayam (Verses 1-2):\nTatah Yuddhaprishramam Samare Chintayaa Sthitam\nRaavanam Chaagrato Drishtva Yuddhaaya Samupasthitam\nDaivataishcha Samaagamya Drashtumaabhyaagato Ranam\nUpagamyaabraveed Raamam Agastyo Bhagavaan Rishih",
+          "meaning": "Then, seeing Rama standing exhausted and worried on the battlefield, with Ravana ready for combat before him, and the gods having assembled to witness the battle, the blessed sage Agastya approached Rama and spoke.",
+          "transliteration": "Tataḥ Yuddhaparisrāntaṁ Samare Cintayā Sthitaṁ\nRāvaṇaṁ Cāgrato Dṛṣṭvā Yuddhāya Samupasthitaṁ\nDaivataiśca Samāgamya Draṣṭumābhyāgato Raṇaṁ\nUpagamyābravīd Rāmaṁ Agastyo Bhagavān Ṛṣiḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ravivar Vrat Katha (Summary):\nAn old woman observed the Sunday vrat faithfully, cleaning her house with cow dung and worshipping Surya Dev. Her prosperous neighbor mocked her, saying the Sun God does not visit common houses. When the neighbor refused to give cow dung, the old woman prayed sincerely. Surya Dev, moved by her devotion, turned her house into gold. The neighbor repented and began observing the vrat herself. This teaches that the Sun God rewards sincere devotion regardless of material wealth.",
+          "meaning": "Sunday Fast Story: This story highlights that Surya Dev blesses those with genuine faith and devotion on Sundays, regardless of their social or economic status. Mockery of devotion leads to downfall, while sincere worship brings divine grace.",
+          "transliteration": "Ravivar Vrat Katha (Summary):\nAn old woman observed the Sunday vrat faithfully, cleaning her house with cow dung and worshipping Surya Dev. Her prosperous neighbor mocked her, saying the Sun God does not visit common houses. When the neighbor refused to give cow dung, the old woman prayed sincerely. Surya Dev, moved by her devotion, turned her house into gold. The neighbor repented and began observing the vrat herself. This teaches that the Sun God rewards sincere devotion regardless of material wealth.",
+          "imageUrl": null
+        }
+      ]
+    }
+  ]
+}

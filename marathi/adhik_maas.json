@@ -1,0 +1,228 @@
+{
+  "category": "Adhik Maas (Purushottam Maas)",
+  "version": 1,
+  "items": [
+    {
+      "id": "adhik_mahatmya",
+      "title": "अधिक मास माहात्म्य",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/adhik_maas/vishnu.jpg",
+      "orderIndex": 1,
+      "content": [
+        {
+          "shloka": "पुरुषोत्तमो मासो यः सर्वपापप्रणाशनः |\nयस्मिन्सम्पूजितो विष्णुः सर्वान्कामान्प्रयच्छति ||",
+          "meaning": "पुरुषोत्तम मास (अधिक मास) सर्व पापांचा नाश करणारा आहे. या मासात जेव्हा भगवान विष्णूंची विधीवत पूजा केली जाते, तेव्हा ते सर्व मनोकामना पूर्ण करतात.",
+          "transliteration": "Purushottamo maaso yah sarva-paapa-pranaashanah | Yasmin sampuujito vishnuh sarvaan kaamaan prayachhati ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अधिक मास, ज्याला पुरुषोत्तम मास किंवा मलमास असेही म्हणतात, हा हिंदू चांद्र पंचांगात साधारणपणे प्रत्येक ३२.५ महिन्यांनी येणारा अतिरिक्त मास आहे. चांद्र कॅलेंडर (३५४ दिवस) आणि सौर कॅलेंडर (३६५ दिवस) यांमध्ये समन्वय साधण्यासाठी तो जोडला जातो.",
+          "meaning": "कथा अशी आहे की हा अतिरिक्त मास सुरुवातीला अशुभ मानला जात होता (मलमास = अशुद्ध मास) आणि कोणत्याही देवतेला त्याची अध्यक्षता करायची नव्हती. भगवान विष्णूंनी (पुरुषोत्तम) कृपापूर्वक त्याचा स्वीकार केला आणि घोषित केले की या मासात केलेली पूजा अनंत पुण्य प्रदान करते.",
+          "transliteration": "Adhik Maas, jyaalaa Purushottam Maas kinvaa Malamaas asehi mhanatat, haa Hindu chaandra panchaangaat saadhaaranapane pratyeka 32.5 mahinyaanni yenaaraa atirikt maas aahe. Chaandra calendar (354 divas) aani saur calendar (365 divas) yaanmadhye samanvay saadhanyaasaathee to jodlaa jaato.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अधिक मासे तु यत्पुण्यं तत्पुण्यं नान्यमासके |\nतस्मादधिकमासे विष्णुमर्चयेद्भक्तिमान्नरः ||",
+          "meaning": "अधिक मासात जे पुण्य अर्जित होते, ते इतर कोणत्याही मासात अर्जित होऊ शकत नाही. म्हणून भक्तिमान व्यक्तीने अधिक मासात भगवान विष्णूंची पूजा करावी.",
+          "transliteration": "Adhik maase tu yat punyam tat punyam naanyamaasake | Tasmaad adhik maase vishnum archayet bhaktimaan narah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अधिक मासात कोणतेही नवीन शुभ कार्य (विवाह, गृहप्रवेश, मुंज इत्यादी) सुरू केले जात नाही. परंतु हा आध्यात्मिक साधनेसाठी सर्वाधिक पवित्र काळ आहे — जप, दान, व्रत, पूजा, कथाश्रवण आणि भागवत सप्ताह.",
+          "meaning": "सांसारिक विधी वर्ज्य असले तरी, अधिक मास आध्यात्मिक उन्नतीची सुवर्ण संधी मानला जातो. या मासात केलेले प्रत्येक भक्तिकर्म भगवान पुरुषोत्तमांच्या कृपेने अनेकपट होते.",
+          "transliteration": "Adhik Maasaat konatehee naveen shubh kaarya (vivaah, grihapravesh, munj ityaadee) suru kele jaat naahee. Parantu haa aadhyaatmik saadhanesaathee sarvaadhik pavitra kaal aahe — jap, daan, vrat, poojaa, kathaashravan aani Bhaagavat saptaah.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "एकादशं तु यद्दानमधिकमासे प्रदीयते |\nकोटिगुणं फलं तस्य भगवान्पुरुषोत्तमः ||",
+          "meaning": "अधिक मासात दिलेले दान भगवान पुरुषोत्तमांच्या कृपेने कोटीपट फळ देते.",
+          "transliteration": "Ekaadasham tu yad daanam adhikamaase pradiiyate | Koti-gunam phalam tasya bhagavaan purushottamah ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "adhik_vrat_katha",
+      "title": "अधिक मास व्रत कथा",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/adhik_maas/vishnu.jpg",
+      "orderIndex": 2,
+      "content": [
+        {
+          "shloka": "एके काळी बारा महिने बारा देवतांना सोपवले गेले. परंतु तेराव्या महिन्याचा (अधिक मास) कोणताही अधिष्ठाता देवता नव्हता. दुःखी आणि अपमानित अतिरिक्त मास वैकुंठात भगवान विष्णूंकडे गेला.",
+          "meaning": "मास म्हणाला: 'हे प्रभू, मला मलमास (अशुद्ध मास) म्हणतात. माझ्या काळात कोणीही शुभ कार्य करत नाही. सर्व मला तुच्छ मानतात. कृपया माझे रक्षक व्हा.' भगवान विष्णू करुणेने द्रवित होऊन म्हणाले...",
+          "transliteration": "Eke kaalee baaraa mahine baaraa devataannaa sopavale gele. Parantu teraavyaa mahinyaachaa (Adhik Maas) konataahee adhishthaataa devataa navhataa. Duhkhee aani apamаanit atirikt maas Vaikunthaat Bhagavaan Vishnunkade gelaa.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "श्री भगवान् उवाच: मा शुचः अधिकमास, त्वं मम प्रियतमः सदा |\nमम नाम्ना तु विख्यातो भविष्यसि जगत्त्रये ||",
+          "meaning": "भगवान विष्णू म्हणाले: 'शोक करू नकोस, हे अधिक मास. तू मला सदैव प्रिय आहेस. तू तिन्ही लोकांत माझ्या नावाने — पुरुषोत्तम मास — ओळखला जाशील.'",
+          "transliteration": "Shri Bhagavaan uvacha: Maa shuchah adhikamaasa, tvam mama priyatamah sadaa | Mama naamnaa tu vikhyaato bhavishyasi jagattraye ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "'जो कोणी तुझ्या काळात व्रत करेल, पूजा करेल, दान देईल किंवा पवित्र कथा ऐकेल, तो वैकुंठाला जाईल. तुझ्या मासात अर्जित पुण्य इतर सर्व मासांच्या एकत्रित पुण्यापेक्षा अधिक असेल.'",
+          "meaning": "भगवान विष्णूंनी अधिक मासाला आणखी आशीर्वाद दिला: 'जो तुझ्या मासात श्रीमद्भागवत वाचेल, तो जन्म-मृत्यूच्या चक्रातून मुक्त होईल. जो पवित्र नद्यांमध्ये स्नान करून तुळशीने माझी पूजा करेल, तो माझ्या शाश्वत धामाला प्राप्त होईल.'",
+          "transliteration": "'Jo konee tujhyaa kaalaat vrat karel, poojaa karel, daan deil kinvaa pavitra kathaa aikel, to Vaikunthaalaa jaail. Tujhyaa maasaat arjit punya itar sarva maasaanchyaa ekatrit punyaapekshaa adhik asel.'",
+          "imageUrl": null
+        },
+        {
+          "shloka": "दृढधन्वा नावाचा एक राजा होता जो न्यायप्रिय पण निपुत्रिक होता. नारदमुनींनी त्याला अधिक मासात भगवान पुरुषोत्तमांच्या प्रती पूर्ण भक्तीने कठोर व्रत पालन करण्याचा सल्ला दिला.",
+          "meaning": "राजाने उपवास केला, तुळशीसह दररोज पूजा केली, भागवत पुराण वाचले आणि ब्राह्मणांना उदारपणे दान दिले. त्याच्या भक्तीने प्रसन्न होऊन भगवान विष्णू प्रकट झाले आणि त्यांनी त्याला सद्गुणी पुत्र तसेच मृत्यूनंतर वैकुंठाचा वर दिला.",
+          "transliteration": "Dridhadhanvaa naavaachaa ek raajaa hotaa jo nyaayapriya pan niputrik hotaa. Naaradmuneennee tyaalaa Adhik Maasaat Bhagavaan Purushottamaanchyaa pratee poorna bhaktine kathor vrat paalan karanyaachaa sallaa dilaa.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "इति अधिक-मास-व्रत-कथायां पुरुषोत्तम-मास-माहात्म्यं सम्पूर्णम् ||",
+          "meaning": "अशा प्रकारे पुरुषोत्तम मासाच्या महिम्याचे वर्णन करणारी अधिक मास व्रत कथा संपूर्ण झाली. जो ही कथा भक्तिपूर्वक वाचतो किंवा ऐकतो, त्याला भगवान विष्णूंचा आशीर्वाद प्राप्त होतो.",
+          "transliteration": "Iti adhik-maas-vrat-kathaayaam purushottama-maasa-mahaatmyam sampoornam ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "adhik_puja_vidhi",
+      "title": "अधिक मास पूजा विधी",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/adhik_maas/vishnu.jpg",
+      "orderIndex": 3,
+      "content": [
+        {
+          "shloka": "ॐ नमो भगवते वासुदेवाय |\nॐ नमो नारायणाय |\nॐ पुरुषोत्तमाय नमः ||",
+          "meaning": "भगवान वासुदेवांना नमस्कार. भगवान नारायणांना नमस्कार. भगवान पुरुषोत्तमांना नमस्कार. हे तीन मंत्र अधिक मास पूजेचा पाया आहेत.",
+          "transliteration": "Om Namo Bhagavate Vaasudevaaya | Om Namo Naaraayanaaya | Om Purushottamaaya Namah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अधिक मासाची दैनिक पूजा विधी:\n१) सूर्योदयापूर्वी उठावे आणि स्नान करावे.\n२) भगवान विष्णूंच्या मूर्तीसह किंवा शालिग्राम शिलेसह पूजा वेदी मांडावी.\n३) तुळशी, फुले, चंदन लेप आणि नैवेद्य अर्पण करावा.\n४) तुपाचा दिवा लावावा — हा संपूर्ण मासभर जळत राहावा.\n५) विष्णू सहस्रनाम किंवा पुरुषोत्तम स्तोत्राचे पठण करावे.",
+          "meaning": "पूजा संपूर्ण मासभर दररोज एकाच वेळी करावी. विस्तृत विधींपेक्षा सातत्य आणि भक्ती अधिक महत्त्वाची आहे. भगवान विष्णूंना तुळशी आणि पाणी यांचे साधे अर्पणही अपार पुण्य प्रदान करते.",
+          "transliteration": "Adhik Maasaachee dainik poojaa vidhee:\n1) Sooryodayааpoorvee uthaave aani snaan karaave.\n2) Bhagavaan Vishnunchyaa moortisah kinvaa Shaaligraam Shileshee poojaa vedee maandaavee.\n3) Tulashee, phule, chandan lep aani naivedya arpan karaavaa.\n4) Tupaachaa divaa laavaavaa — haa sampoorna maasabhar jalat rааhaavaa.\n5) Vishnu Sahasranaam kinvaa Purushottam Stotraache pathan karaave.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ श्री विष्णवे नमः | ॐ गोविंदाय नमः |\nॐ माधवाय नमः | ॐ त्रिविक्रमाय नमः |",
+          "meaning": "हे भगवान विष्णूंचे द्वादश नाम आहेत, प्रत्येक एका मासाशी संबंधित. अधिक मासात सर्व १२ नावांचे पठण विशेष महत्त्व ठेवते.",
+          "transliteration": "Om Shri Vishnave Namah | Om Govindaaya Namah | Om Madhavaaya Namah | Om Trivikramaaya Namah |",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कायेन वाचा मनसेन्द्रियैर्वा बुद्ध्यात्मना वा प्रकृतेः स्वभावात् |\nकरोमि यद्यत्सकलं परस्मै नारायणायेति समर्पयामि ||",
+          "meaning": "मी माझ्या शरीर, वाणी, मन, इंद्रिये, बुद्धी किंवा आत्म्याने — स्वभावाने असो की संकल्पाने — जे काही करतो, ते सर्व भगवान नारायणांना समर्पित करतो. ही समापन प्रार्थना प्रत्येक अधिक मास पूजेनंतर केली जाते.",
+          "transliteration": "Kaayena Vaachaa Manasendriyair Vaa Buddhyaatmanaa Vaa Prakriteh Svabhaavaat | Karomi Yad Yat Sakalam Parasmai Naaraayanaayeti Samarpayaami ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "adhik_daan_vidhi",
+      "title": "अधिक मास दान विधी",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/adhik_maas/vishnu.jpg",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "दानेन तपसा चैव शौचेनातिथ्य-पूजनैः |\nअधिक-मास-व्रतं सम्यक्कुर्वन्नाप्नोति तत्फलम् ||",
+          "meaning": "दान, तप, शुचिता आणि अतिथीपूजन यांद्वारे जो अधिक मास व्रताचे यथाविधी पालन करतो, त्याला पूर्ण फळ प्राप्त होते.",
+          "transliteration": "Daanena tapasaa chaiva shauchenaaatithya-poojanaih | Adhik-maasa-vratam samyak kurvann aapnoti tat phalam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अधिक मासात शिफारस केलेले दान:\n१. अन्नदान — भुकेल्यांना भोजन (सर्वश्रेष्ठ दान)\n२. वस्त्रदान — गरजूंना कपडे\n३. गोदान — गाय दान (किंवा गोशाळा सहाय्य)\n४. जलदान — पिण्याच्या पाण्याची व्यवस्था\n५. दीपदान — मंदिरांमध्ये तेलाचे दिवे\n६. शय्यादान — गरिबांना अंथरूण\n७. घटदान — पाण्याने भरलेले तांब्याचे पात्र, कापडाने झाकलेले, वर नारळ ठेवलेले",
+          "meaning": "अधिक मासातील दान इतर कोणत्याही मासापेक्षा अनंतपट अधिक पुण्यदायी मानले जाते. दात्याने विनम्रतेने आणि प्रतिदानाच्या अपेक्षेशिवाय दान द्यावे. घटदान हा अधिक मासाचा सर्वात विशिष्ट दानप्रकार आहे.",
+          "transliteration": "Adhik Maasaat shiphaaras kelele daan:\n1. Annadaan — bhukelyaannaa bhojan (sarvashreshtha daan)\n2. Vastradaan — garajoonnaa kapade\n3. Godaan — gaay daan (kinvaa goshaalaa sahaayya)\n4. Jaladaan — pinyaachyaa paanyaachee vyavasthaa\n5. Deepadaan — mandiraanmadhye telaache dive\n6. Shayyaadaan — garibaannaa antharun\n7. Ghatadaan — paanyaane bharalele taanbyaache paatra, kapadaane zhaakalele, var naaral thevalele",
+          "imageUrl": null
+        },
+        {
+          "shloka": "घटदान विधी:\nएक स्वच्छ तांब्याचे किंवा पितळेचे पात्र घ्यावे. त्यात पाणी भरावे. आत विड्याचे पान आणि नाणे ठेवावे. नव्या कापडाने झाकावे. वर नारळ ठेवावा. हळद आणि कुंकवाने सजवावे. अधिक मासाच्या पौर्णिमेला ब्राह्मणाला किंवा मंदिराला दान करावे.",
+          "meaning": "घट (पात्र) ब्रह्मांडाचे प्रतीक आहे. पाणी अस्तित्वाच्या सागराचे प्रतिनिधित्व करते. नारळ जीवात्म्याचे प्रतीक आहे. ते दान करून व्यक्ती प्रतीकात्मकरित्या स्वतःला देवाला अर्पण करतो आणि कर्मबंधनातून मुक्त होतो.",
+          "transliteration": "Ghatadaan vidhee:\nEk svachchh taanbyaache kinvaa pitaleche paatra ghyaave. Tyaat paanee bharaave. Aat vidyaache paan aani naane thevaave. Navyaa kapadaane zhааkaave. Var naaral thevaavaa. Halad aani kunkavaane sajaavaave. Adhik Maasaachyaa Paurnimeelaa Braahmanaalaa kinvaa mandiraalaa daan karaave.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अन्नदानं परं दानं विद्यादानं ततः परम् |\nअन्नेन क्षणिकाः तृप्तिः यावज्जीवं च विद्यया ||",
+          "meaning": "अन्नदान श्रेष्ठ दान आहे आणि विद्यादान त्यापेक्षाही श्रेष्ठ आहे. अन्नाने क्षणिक तृप्ती होते पण विद्येने आजन्म तृप्ती मिळते.",
+          "transliteration": "Annadaanam param daanam vidyaadaanam tatah param | Annena kshanikaah triptih yaavajjeevam cha vidyayaa ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "adhik_mantra",
+      "title": "अधिक मास मंत्र संग्रह",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/adhik_maas/vishnu.jpg",
+      "orderIndex": 5,
+      "content": [
+        {
+          "shloka": "ॐ नमो भगवते वासुदेवाय ||",
+          "meaning": "बारा अक्षरांचा द्वादशाक्षरी मंत्र — सर्वात पवित्र विष्णू मंत्र. अधिक मासात दररोज १०८ वेळा जप केल्याने मोक्ष प्राप्त होतो.",
+          "transliteration": "Om Namo Bhagavate Vaasudevaaya ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ नमो नारायणाय ||",
+          "meaning": "आठ अक्षरांचा अष्टाक्षरी मंत्र — भगवान नारायणांचा मंत्र. हा संपूर्ण वैदिक ज्ञानाचे सार मानला जातो आणि पुरुषोत्तम मासात विशेष शक्तिशाली आहे.",
+          "transliteration": "Om Namo Naaraayanaaya ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ पुरुषोत्तमाय विद्महे श्री पद्मनाभाय धीमहि |\nतन्नो विष्णुः प्रचोदयात् ||",
+          "meaning": "आम्ही भगवान पुरुषोत्तम (सर्वोच्च पुरुष) ला जाणतो, श्री पद्मनाभ (ज्यांच्या नाभीतून कमळ प्रकट झाले) यांचे ध्यान करतो. भगवान विष्णू आम्हांला प्रेरणा देवोत आणि मार्गदर्शन करोत. हा पुरुषोत्तम गायत्री मंत्र आहे.",
+          "transliteration": "Om Purushottamaaya Vidmahe Shri Padmanaabhaaya Dheemahi | Tanno Vishnuh Prachodayaat ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "शान्ताकारं भुजगशयनं पद्मनाभं सुरेशं\nविश्वाधारं गगनसदृशं मेघवर्णं शुभाङ्गम् |\nलक्ष्मीकान्तं कमलनयनं योगिभिर्ध्यानगम्यं\nवन्दे विष्णुं भवभयहरं सर्वलोकैकनाथम् ||",
+          "meaning": "शांत स्वरूपाचे, शेषनागावर शयन करणारे, पद्मनाभ, देवांचे ईश्वर, विश्वाधार, आकाशासमान, मेघवर्णी, शुभांग, लक्ष्मीप्रिय, कमलनयन, योग्यांच्या ध्यानाने प्राप्य, भवभयहर, सर्वलोकैकनाथ विष्णूंना मी वंदन करतो.",
+          "transliteration": "Shantaakaaram Bhujagashayanam Padmanaabham Suresham | Vishvaadhaarama Gaganasadrisham Meghavarnam Shubhaangam | Lakshmikaantam Kamalanayanam Yogibhir Dhyaanagamyam | Vande Vishnum Bhavabhayaharam Sarvalokaaikanaatham ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "मंगलं भगवान्विष्णुः मंगलं गरुडध्वजः |\nमंगलं पुण्डरीकाक्षः मंगलायतनो हरिः ||",
+          "meaning": "भगवान विष्णू मंगलमय आहेत, गरुड ध्वजधारी मंगलमय आहेत, पुंडरीकाक्ष (कमलनयन) मंगलमय आहेत, हरी संपूर्ण मंगलाचे आश्रयस्थान आहेत. हा मंगल श्लोक प्रत्येक अधिक मास पूजेच्या समाप्तीला म्हटला जातो.",
+          "transliteration": "Mangalam Bhagavaan Vishnuh Mangalam Garudadhvajah | Mangalam Pundareekakshah Mangalaaytanoh Harih ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "adhik_aarti",
+      "title": "पुरुषोत्तम मास आरती",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/adhik_maas/vishnu.jpg",
+      "orderIndex": 6,
+      "content": [
+        {
+          "shloka": "ॐ जय जगदीश हरे, स्वामी जय जगदीश हरे |\nभक्त जनों के संकट, दास जनों के संकट,\nक्षण में दूर करे | ॐ जय जगदीश हरे ||",
+          "meaning": "जगाच्या स्वामीचा जयजयकार. भक्तांचे आणि सेवकांचे संकट क्षणात दूर होतात. जगाच्या स्वामीचा जयजयकार.",
+          "transliteration": "Om Jai Jagadish Hare, Svami Jai Jagadish Hare | Bhakta-jano ke sankat, daas-jano ke sankat, kshan men door kare | Om Jai Jagadish Hare ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जो ध्यावे फल पावे, दुख बिनसे मन का |\nसुख सम्पति घर आवे, कष्ट मिटे तन का |\nॐ जय जगदीश हरे ||",
+          "meaning": "जो ध्यान करतो तो फळ पावतो, मनाचे दुःख नष्ट होते. घरी सुख-संपत्ती येते आणि शारीरिक कष्ट दूर होतात.",
+          "transliteration": "Jo dhyaave phal paave, dukh binase man kaa | Sukh sampati ghar aave, kashta mite tan kaa | Om Jai Jagadish Hare ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "मात पिता तुम मेरे, शरण गहूँ मैं किसकी |\nतुम बिन और न दूजा, आस करूँ मैं जिसकी |\nॐ जय जगदीश हरे ||",
+          "meaning": "तुम्ही माझे आईवडील आहात. मी कुणाचा आश्रय घेऊ? तुमच्याशिवाय दुसरे कोणीही नाही ज्यावर मी आशा ठेवू शकतो.",
+          "transliteration": "Maat pitaa tum mere, sharan gahun main kiski | Tum bin aur na doojaa, aas karun main jiski | Om Jai Jagadish Hare ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "तुम पूरण परमात्मा, तुम अन्तर्यामी |\nपार-ब्रह्म परमेश्वर, तुम सब के स्वामी |\nॐ जय जगदीश हरे ||",
+          "meaning": "तुम्ही पूर्ण परमात्मा आहात, तुम्ही अंतर्यामी आहात. तुम्ही पारब्रह्म परमेश्वर आहात, तुम्ही सर्वांचे स्वामी आहात.",
+          "transliteration": "Tum pooran paramaatmaa, tum antaryaamii | Paar-Brahma Parameshwar, tum sab ke svaamii | Om Jai Jagadish Hare ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "विषय-विकार मिटाओ, पाप हरो देवा |\nश्रद्धा भक्ति बढ़ाओ, सन्तन की सेवा |\nॐ जय जगदीश हरे ||\n\nॐ जय जगदीश हरे, स्वामी जय जगदीश हरे |\nभक्त जनों के संकट, क्षण में दूर करे |\nॐ जय जगदीश हरे ||",
+          "meaning": "विषय-विकार दूर करा, पापे हरा हे देवा. श्रद्धा-भक्ती वाढवा आणि संतांची सेवा करा. ही आरती अधिक मासात दररोज संध्याकाळी पूजेच्या वेळी गायली जाते.",
+          "transliteration": "Vishay-vikar mitaao, paap haro devaa | Shraddha bhakti badhaao, santan ki sevaa | Om Jai Jagadish Hare ||",
+          "imageUrl": null
+        }
+      ]
+    }
+  ]
+}

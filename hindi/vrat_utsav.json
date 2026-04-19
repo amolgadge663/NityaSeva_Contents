@@ -1,0 +1,501 @@
+{
+  "category": "Vrat aur Utsav",
+  "version": 1,
+  "items": [
+    {
+      "id": "vrat_ekadashi",
+      "title": "एकादशी व्रत",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/vrat_utsav/ekadashi.jpg",
+      "orderIndex": 1,
+      "content": [
+        {
+          "shloka": "ॐ नमो भगवते वासुदेवाय\nएकादश्यां न भुञ्जेत पक्षयोः उभयोरपि\nविष्णु लोकं अवाप्नोति भुक्त्वापि पुण्यकर्मभिः",
+          "meaning": "जो दोनों पक्षों की एकादशी को उपवास रखता है, वह पुण्य कर्मों से भगवान विष्णु के लोक को प्राप्त करता है।",
+          "transliteration": "Oṃ namo bhagavate vāsudevāya\nEkādaśyāṃ na bhuñjeta pakṣayoḥ ubhayorapi\nViṣṇu lokaṃ avāpnoti bhuktvāpi puṇyakarmabhiḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "एकादशी व्रत विधि:\n१. दशमी (दसवें दिन) की संध्या को सात्विक भोजन करें।\n२. एकादशी को सूर्योदय से पहले उठें और स्नान करें।\n३. भगवान विष्णु की प्रतिमा तुलसी पत्रों सहित वेदी पर रखें।\n४. पीले पुष्प, फल और पंचामृत अर्पित करें।\n५. 'ॐ नमो भगवते वासुदेवाय' का १०८ बार जप करें।\n६. विष्णु सहस्रनाम या भगवद् गीता का एक अध्याय पढ़ें।\n७. पूर्ण उपवास रखें या केवल फल, दूध और जल ग्रहण करें।\n८. रात्रि जागरण करें यदि संभव हो।\n९. द्वादशी को निर्धारित समय पर पारण (उपवास तोड़ें)।",
+          "meaning": "एकादशी व्रत विधि: एकादशी मास में दो बार आती है — शुक्ल और कृष्ण पक्ष की ग्यारहवीं तिथि को। यह भगवान विष्णु को समर्पित सबसे पवित्र व्रत है। एकादशी का उपवास शरीर, मन और आत्मा को शुद्ध करता है।",
+          "transliteration": "Ekādaśī vrata vidhi:\n1. daśamī (dasaveṃ dina) kī saṃdhyā ko sātvika bhojana kareṃ|\n2. ekādaśī ko sūryodaya se pahale uṭheṃ aura snāna kareṃ|\n3. bhagavāna viṣṇu kī pratimā tulasī patroṃ sahita vedī para rakheṃ|\n4. pīle puṣpa, phala aura paṃcāmṛta arpita kareṃ|\n5. 'oṃ namo bhagavate vāsudevāya' kā 108 bāra japa kareṃ|\n6. viṣṇu sahasranāma yā bhagavad gītā kā eka adhyāya par̤heṃ|\n7. pūrṇa upavāsa rakheṃ yā kevala phala, dūdha aura jala grahaṇa kareṃ|\n8. rātri jāgaraṇa kareṃ yadi saṃbhava ho|\n9. dvādaśī ko nirdhārita samaya para pāraṇa (upavāsa tor̤eṃ)|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "एकादशी माहात्म्य:\nएकादशी की महिमा पद्म पुराण, विष्णु पुराण और भागवत पुराण में वर्णित है। वर्ष में २४ एकादशियाँ होती हैं, प्रत्येक का अपना नाम और कथा है — निर्जला, कामदा, पापांकुशा, देवशयनी, देवउत्थानी आदि। एकादशी व्रत का पुण्य सभी तीर्थों और यज्ञों के संयुक्त पुण्य से भी अधिक माना जाता है।",
+          "meaning": "एकादशी की महानता अनेक पुराणों में वर्णित है। प्रत्येक एकादशी की अपनी कथा और विशेष आशीर्वाद हैं। सबसे कठिन निर्जला एकादशी है जो वर्ष में एक बार आती है और सभी २४ एकादशियों का पुण्य प्रदान करती है।",
+          "transliteration": "Ekādaśī māhātmya:\nEkādaśī kī mahimā padma purāṇa, viṣṇu purāṇa aura bhāgavata purāṇa meṃ varṇita hai| varṣa meṃ 24 ekādaśiyā~ hotī haiṃ, pratyeka kā apanā nāma aura kathā hai — nirjalā, kāmadā, pāpāṃkuśā, devaśayanī, devautthānī ādi| ekādaśī vrata kā puṇya sabhī tīrthoṃ aura yajñoṃ ke saṃyukta puṇya se bhī adhika mānā jātā hai|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "एकादशी कथा (सारांश):\nएक बार मुर नामक दैत्य ने देवताओं को आतंकित किया। भगवान विष्णु ने उससे सहस्र वर्षों तक युद्ध किया। जब विष्णु विश्राम कर रहे थे, उनके शरीर से एक दिव्य शक्ति प्रकट हुई जिसने दैत्य का वध किया। विष्णु ने उसका नाम 'एकादशी' रखा और वरदान दिया कि जो इस दिन उपवास करेगा वह सभी पापों से मुक्त होगा। इस प्रकार एकादशी वैष्णवों का सबसे पवित्र व्रत बनी।",
+          "meaning": "पद्म पुराण की यह कथा बताती है कि एकादशी देवी ने मुर दैत्य का वध किया, जिससे इस दिन को पवित्रता और भक्तों को दिव्य सुरक्षा प्राप्त हुई।",
+          "transliteration": "Ekādaśī kathā (sārāṃśa):\nEka bāra mura nāmaka daitya ne devatāoṃ ko ātaṃkita kiyā| bhagavāna viṣṇu ne usase sahasra varṣoṃ taka yuddha kiyā| jaba viṣṇu viśrāma kara rahe the, unake śarīra se eka divya śakti prakaṭa huī jisane daitya kā vadha kiyā| viṣṇu ne usakā nāma 'ekādaśī' rakhā aura varadāna diyā ki jo isa dina upavāsa karegā vaha sabhī pāpoṃ se mukta hogā| isa prakāra ekādaśī vaiṣṇavoṃ kā sabase pavitra vrata banī|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "vrat_pradosh",
+      "title": "प्रदोष व्रत",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/vrat_utsav/pradosh.jpg",
+      "orderIndex": 2,
+      "content": [
+        {
+          "shloka": "ॐ नमः शिवाय\nप्रदोषे दीपदं दृष्ट्वा महापातकनाशनम्\nशिवं सम्पूजयेद् भक्त्या सर्वान् कामान् अवाप्नुयात्",
+          "meaning": "प्रदोष काल में दीपक देखकर और भगवान शिव की भक्तिपूर्वक पूजा करने से महापाप नष्ट होते हैं और सभी मनोकामनाएँ पूर्ण होती हैं।",
+          "transliteration": "Oṃ namaḥ śivāya\nPradoṣe dīpadaṃ dṛṣṭvā mahāpātakanāśanam\nŚivaṃ sampūjayed bhaktyā sarvān kāmān avāpnuyāt",
+          "imageUrl": null
+        },
+        {
+          "shloka": "प्रदोष व्रत विधि:\n१. त्रयोदशी (तेरहवीं तिथि) को सूर्योदय से उपवास रखें।\n२. संध्या को प्रदोष काल (सूर्यास्त के लगभग डेढ़ घंटे बाद) में स्नान करें।\n३. शिवलिंग या शिव प्रतिमा वेदी पर स्थापित करें।\n४. दूध, जल और मधु से अभिषेक करें।\n५. बिल्वपत्र, श्वेत पुष्प और धतूरा अर्पित करें।\n६. घी का दीपक और धूप जलाएँ।\n७. महामृत्युंजय मन्त्र और शिव पंचाक्षरी का जप करें।\n८. शिव तांडव स्तोत्र या शिव महिम्न स्तोत्र का पाठ करें।\n९. पूजा के बाद सादा भोजन करके उपवास तोड़ें।",
+          "meaning": "प्रदोष व्रत विधि: प्रदोष प्रत्येक पक्ष की त्रयोदशी को आता है। पूजा विशेष रूप से प्रदोष काल (गोधूलि) में की जाती है। सोमवार (सोम प्रदोष) और शनिवार (शनि प्रदोष) का प्रदोष विशेष शक्तिशाली माना जाता है।",
+          "transliteration": "Pradoṣa vrata vidhi:\n1. trayodaśī (terahavīṃ tithi) ko sūryodaya se upavāsa rakheṃ|\n2. saṃdhyā ko pradoṣa kāla (sūryāsta ke lagabhaga ḍer̤ha ghaṃṭe bāda) meṃ snāna kareṃ|\n3. śivaliṃga yā śiva pratimā vedī para sthāpita kareṃ|\n4. dūdha, jala aura madhu se abhiṣeka kareṃ|\n5. bilvapatra, śveta puṣpa aura dhatūrā arpita kareṃ|\n6. ghī kā dīpaka aura dhūpa jalāe~|\n7. mahāmṛtyuṃjaya mantra aura śiva paṃcākṣarī kā japa kareṃ|\n8. śiva tāṃḍava stotra yā śiva mahimna stotra kā pāṭha kareṃ|\n9. pūjā ke bāda sādā bhojana karake upavāsa tor̤eṃ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "प्रदोष कथा (सारांश):\nसमुद्र मन्थन के समय प्रदोष काल में भयंकर हालाहल विष प्रकट हुआ। भगवान शिव ने सृष्टि की रक्षा के लिए विष पी लिया और अपने कण्ठ में धारण किया, जिससे उनका कण्ठ नीला हो गया। देवी पार्वती ने विष को फैलने से रोकने के लिए उनका कण्ठ दबाया। तब से प्रदोष काल शिव पूजा के लिए पवित्र हो गया।",
+          "meaning": "स्कन्द पुराण की प्रदोष कथा बताती है कि भगवान शिव ने गोधूलि बेला में हालाहल विष पीकर ब्रह्माण्ड की रक्षा की। इस ब्रह्माण्डीय बलिदान ने प्रदोष काल को शिव भक्तों के लिए सदा के लिए पवित्र बना दिया।",
+          "transliteration": "Pradoṣa kathā (sārāṃśa):\nSamudra manthana ke samaya pradoṣa kāla meṃ bhayaṃkara hālāhala viṣa prakaṭa huā| bhagavāna śiva ne sṛṣṭi kī rakṣā ke lie viṣa pī liyā aura apane kaṇṭha meṃ dhāraṇa kiyā, jisase unakā kaṇṭha nīlā ho gayā| devī pārvatī ne viṣa ko phailane se rokane ke lie unakā kaṇṭha dabāyā| taba se pradoṣa kāla śiva pūjā ke lie pavitra ho gayā|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "शिव तांडव स्तोत्रम् (श्लोक १):\nजटाटवीगलज्जलप्रवाहपावितस्थले\nगलेऽवलम्ब्य लम्बितां भुजङ्गतुङ्गमालिकाम्\nडमड्डमड्डमड्डमन्निनादवड्डमर्वयं\nचकार चण्डताण्डवं तनोतु नः शिवः शिवम्",
+          "meaning": "जिनकी जटाओं से गिरती गंगा की धारा शरीर को पवित्र करती है, गले में विशाल सर्प माला लटकती है, डमरू की डम-डम ध्वनि के साथ जो प्रचण्ड ताण्डव करते हैं — वे शिव हमारा कल्याण करें।",
+          "transliteration": "Śiva tāṃḍava stotram (śloka 1):\nJaṭāṭavīgalajjalapravāhapāvitasthale\nGale'valambya lambitāṃ bhujaṅgatuṅgamālikām\nḌamaḍḍamaḍḍamaḍḍamanninādavaḍḍamarvayaṃ\nCakāra caṇḍatāṇḍavaṃ tanotu naḥ śivaḥ śivam",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "vrat_satyanarayan",
+      "title": "सत्यनारायण व्रत / पूजा",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/vrat_utsav/satyanarayan.jpg",
+      "orderIndex": 3,
+      "content": [
+        {
+          "shloka": "ॐ नमो भगवते वासुदेवाय\nसत्यं सत्यं पुनः सत्यम् उद्धृत्य भुजमुच्यते\nवेदाच्छास्त्रं परं नास्ति न दैवं केशवात् परम्",
+          "meaning": "सत्य, सत्य, फिर सत्य — मैं भुजा उठाकर कहता हूँ: वेदों से बढ़कर कोई शास्त्र नहीं और केशव (विष्णु) से बढ़कर कोई देवता नहीं।",
+          "transliteration": "Oṃ namo bhagavate vāsudevāya\nSatyaṃ satyaṃ punaḥ satyam uddhṛtya bhujamucyate\nVedācchāstraṃ paraṃ nāsti na daivaṃ keśavāt param",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सत्यनारायण पूजा विधि:\n१. शुभ दिन चुनें — पूर्णिमा सबसे उत्तम है।\n२. पूजा स्थान स्वच्छ करें और भगवान विष्णु की प्रतिमा स्थापित करें।\n३. जल, आम के पत्ते और नारियल से भरा कलश स्थापित करें।\n४. ब्राह्मण पुजारी को आमन्त्रित करें या स्वयं पूजा करें।\n५. गणेश पूजा और कलश स्थापना से प्रारम्भ करें।\n६. 'ॐ नमो भगवते वासुदेवाय' का जप करें।\n७. सत्यनारायण कथा के पाँचों अध्यायों का पाठ करें।\n८. शीरा (सूजी का हलवा) और केला प्रसाद के रूप में तैयार करें।\n९. प्रसाद और चरणामृत सभी उपस्थितों में बाँटें।",
+          "meaning": "सत्यनारायण पूजा विधि: यह पूजा पूर्णिमा या शुभ अवसरों — गृह प्रवेश, नया व्यापार, विवाह वर्षगाँठ या मनोकामना पूर्ति पर की जाती है। यह सबसे लोकप्रिय वैष्णव पूजाओं में से एक है।",
+          "transliteration": "Satyanārāyaṇa pūjā vidhi:\n1. śubha dina cuneṃ — pūrṇimā sabase uttama hai|\n2. pūjā sthāna svaccha kareṃ aura bhagavāna viṣṇu kī pratimā sthāpita kareṃ|\n3. jala, āma ke patte aura nāriyala se bharā kalaśa sthāpita kareṃ|\n4. brāhmaṇa pujārī ko āmantrita kareṃ yā svayaṃ pūjā kareṃ|\n5. gaṇeśa pūjā aura kalaśa sthāpanā se prārambha kareṃ|\n6. 'oṃ namo bhagavate vāsudevāya' kā japa kareṃ|\n7. satyanārāyaṇa kathā ke pā~coṃ adhyāyoṃ kā pāṭha kareṃ|\n8. śīrā (sūjī kā halavā) aura kelā prasāda ke rūpa meṃ taiyāra kareṃ|\n9. prasāda aura caraṇāmṛta sabhī upasthitoṃ meṃ bā~ṭeṃ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सत्यनारायण कथा (अध्याय १ सारांश):\nएक बार नैमिषारण्य में ऋषियों ने सूत मुनि से सुख प्राप्ति का सरलतम मार्ग पूछा। सूत ने विष्णु और नारद के संवाद का वर्णन किया, जहाँ विष्णु ने बताया कि सत्यनारायण व्रत श्रद्धापूर्वक करने से सभी मनोकामनाएँ पूर्ण होती हैं और सभी दुःख दूर होते हैं।",
+          "meaning": "प्रथम अध्याय स्थापित करता है कि यह व्रत सार्वभौमिक है। भगवान विष्णु ने स्वयं नारद मुनि को बताया कि सच्ची श्रद्धा से की गई यह सरल पूजा सभी मनोकामनाएँ पूर्ण करने और आत्मा को मुक्त करने में सक्षम है।",
+          "transliteration": "Satyanārāyaṇa kathā (adhyāya 1 sārāṃśa):\nEka bāra naimiṣāraṇya meṃ ṛṣiyoṃ ne sūta muni se sukha prāpti kā saralatama mārga pūchā| sūta ne viṣṇu aura nārada ke saṃvāda kā varṇana kiyā, jahā~ viṣṇu ne batāyā ki satyanārāyaṇa vrata śraddhāpūrvaka karane se sabhī manokāmanāe~ pūrṇa hotī haiṃ aura sabhī duḥkha dūra hote haiṃ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सत्यनारायण कथा (अध्याय ५ सारांश):\nसाधु नामक व्यापारी ने व्यापार से अपार धन अर्जित करने पर सत्यनारायण पूजा की। उसकी पुत्री कलावती और दामाद ने पूजा के बाद प्रसाद लेना भूल गए। फलस्वरूप दामाद को राजा ने झूठे आरोप में बन्दी बना लिया और उनका जहाज खो गया। जब उन्होंने पश्चाताप किया और श्रद्धा से प्रसाद ग्रहण किया, सब कुछ वापस मिल गया।",
+          "meaning": "अन्तिम अध्याय सिखाता है कि सत्यनारायण पूजा पूर्णतया सम्पन्न होनी चाहिए और प्रसाद श्रद्धापूर्वक ग्रहण करना चाहिए। प्रसाद की उपेक्षा से अस्थायी दुर्भाग्य आता है, परन्तु सच्चे पश्चाताप से दैवी कृपा पुनः प्राप्त होती है।",
+          "transliteration": "Satyanārāyaṇa kathā (adhyāya 5 sārāṃśa):\nSādhu nāmaka vyāpārī ne vyāpāra se apāra dhana arjita karane para satyanārāyaṇa pūjā kī| usakī putrī kalāvatī aura dāmāda ne pūjā ke bāda prasāda lenā bhūla gae| phalasvarūpa dāmāda ko rājā ne jhūṭhe āropa meṃ bandī banā liyā aura unakā jahāja kho gayā| jaba unhoṃne paścātāpa kiyā aura śraddhā se prasāda grahaṇa kiyā, saba kucha vāpasa mila gayā|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "vrat_somvar",
+      "title": "सोलह सोमवार व्रत",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/vrat_utsav/somvar_vrat.jpg",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "ॐ नमः शिवाय\nषोडशे सोमवारेषु व्रतं यः कुरुते नरः\nसर्वपापात् प्रमुच्येत शिवलोकं स गच्छति",
+          "meaning": "जो व्यक्ति सोलह सोमवार व्रत करता है वह सभी पापों से मुक्त होता है और शिवलोक को प्राप्त करता है।",
+          "transliteration": "Oṃ namaḥ śivāya\nṢoḍaśe somavāreṣu vrataṃ yaḥ kurute naraḥ\nSarvapāpāt pramucyeta śivalokaṃ sa gacchati",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सोलह सोमवार व्रत विधि:\n१. श्रावण मास के प्रथम सोमवार से आरम्भ करें।\n२. प्रातःकाल उठें, स्नान करें और श्वेत वस्त्र धारण करें।\n३. शिव मन्दिर जाएँ या घर पर पूजा करें।\n४. दूध, जल और बिल्वपत्रों से शिव अभिषेक करें।\n५. 'ॐ नमः शिवाय' का १०८ बार जप करें।\n६. उपवास रखें — सात्विक भोजन का एक समय भोजन करें।\n७. सोलह सोमवार व्रत कथा पढ़ें।\n८. लगातार १६ सोमवार तक जारी रखें।\n९. १७वें सोमवार को उद्यापन (समापन संस्कार) भोज के साथ करें।",
+          "meaning": "सोलह सोमवार व्रत विधि: यह व्रत विशेषतः अविवाहित कन्याओं में अच्छे पति की प्राप्ति के लिए और विवाहित स्त्रियों में पति की दीर्घायु के लिए लोकप्रिय है। पुरुष भी समृद्धि के लिए यह व्रत करते हैं। श्रावण में प्रारम्भ करना सर्वोत्तम है।",
+          "transliteration": "Solaha somavāra vrata vidhi:\n1. śrāvaṇa māsa ke prathama somavāra se ārambha kareṃ|\n2. prātaḥkāla uṭheṃ, snāna kareṃ aura śveta vastra dhāraṇa kareṃ|\n3. śiva mandira jāe~ yā ghara para pūjā kareṃ|\n4. dūdha, jala aura bilvapatroṃ se śiva abhiṣeka kareṃ|\n5. 'oṃ namaḥ śivāya' kā 108 bāra japa kareṃ|\n6. upavāsa rakheṃ — sātvika bhojana kā eka samaya bhojana kareṃ|\n7. solaha somavāra vrata kathā par̤heṃ|\n8. lagātāra 16 somavāra taka jārī rakheṃ|\n9. 17veṃ somavāra ko udyāpana (samāpana saṃskāra) bhoja ke sātha kareṃ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सोलह सोमवार कथा (सारांश):\nएक बार पार्वती ने शिव से पूछा कि सोमवार पवित्र क्यों हैं। शिव ने बताया: अमरावती के एक ब्राह्मण ने १६ सोमवार व्रत किए। उसकी भक्ति से प्रसन्न होकर शिव ने उसे अपार सौभाग्य और सुन्दर परिवार का आशीर्वाद दिया। एक राजकुमारी ने भी यह व्रत किया और राजकुमार से विवाह हुआ। परन्तु जब राजकुमार ने व्रत की उपेक्षा की, सब कुछ खो बैठा। पुनः व्रत आरम्भ करने पर शिव ने सब लौटा दिया।",
+          "meaning": "सोलह सोमवार कथा बताती है कि इन १६ सोमवार व्रतों के निरन्तर पालन से विवाह, समृद्धि और सुख प्राप्त होता है, जबकि व्रत का बीच में त्याग दुर्भाग्य लाता है।",
+          "transliteration": "Solaha somavāra kathā (sārāṃśa):\nEka bāra pārvatī ne śiva se pūchā ki somavāra pavitra kyoṃ haiṃ| śiva ne batāyā: amarāvatī ke eka brāhmaṇa ne 16 somavāra vrata kie| usakī bhakti se prasanna hokara śiva ne use apāra saubhāgya aura sundara parivāra kā āśīrvāda diyā| eka rājakumārī ne bhī yaha vrata kiyā aura rājakumāra se vivāha huā| parantu jaba rājakumāra ne vrata kī upekṣā kī, saba kucha kho baiṭhā| punaḥ vrata ārambha karane para śiva ne saba lauṭā diyā|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "शिव ध्यान मन्त्र:\nध्यायेत् नित्यं महेशं रजतगिरिनिभं चारुचांगं\nरत्नाकल्पोद्भासितं परशुमृगवराभीतिहस्तं प्रसन्नम्\nपद्मासीनं समन्तात् स्तुतममरगणैः व्याघ्राकृतिं वसानं\nविश्वाद्यं विश्ववन्द्यं निखिलभयहरं पञ्चवक्त्रं त्रिनेत्रम्",
+          "meaning": "सदा महेश्वर का ध्यान करें जो रजत पर्वत सम चमकते हैं, सुन्दर अंगों वाले, रत्नों से अलंकृत, परशु, मृग, वर और अभय मुद्रा वाले, प्रसन्न, पद्मासन में बैठे, देवगणों द्वारा स्तुत, व्याघ्र चर्म धारण करने वाले, विश्व के आदि, सर्ववन्द्य, समस्त भय हरने वाले, पाँच मुख और तीन नेत्र वाले हैं।",
+          "transliteration": "Śiva dhyāna mantra:\nDhyāyet nityaṃ maheśaṃ rajatagirinibhaṃ cārucāṃgaṃ\nRatnākalpodbhāsitaṃ paraśumṛgavarābhītihastaṃ prasannam\nPadmāsīnaṃ samantāt stutamamaragaṇaiḥ vyāghrākṛtiṃ vasānaṃ\nViśvādyaṃ viśvavandyaṃ nikhilabhayaharaṃ pañcavaktraṃ trinetram",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "vrat_mangala_gauri",
+      "title": "मंगला गौरी व्रत",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/vrat_utsav/mangala_gauri.jpg",
+      "orderIndex": 5,
+      "content": [
+        {
+          "shloka": "ॐ गौर्यै नमः\nसर्वमङ्गलमाङ्गल्ये शिवे सर्वार्थसाधिके\nशरण्ये त्र्यम्बके गौरि नारायणि नमोऽस्तुते",
+          "meaning": "हे मंगलकारी गौरी, जो सभी शुभता प्रदान करती हैं, जो सभी उद्देश्य सिद्ध करती हैं, जो शरण देती हैं, तीन नेत्रों वाली, हे नारायणी, आपको नमस्कार।",
+          "transliteration": "Oṃ gauryai namaḥ\nSarvamaṅgalamāṅgalye śive sarvārthasādhike\nŚaraṇye tryambake gauri nārāyaṇi namo'stute",
+          "imageUrl": null
+        },
+        {
+          "shloka": "मंगला गौरी व्रत विधि:\n१. श्रावण मास के सभी मंगलवार (प्रायः ४-५ मंगलवार) को मनाया जाता है।\n२. नवविवाहित स्त्रियाँ विवाह के प्रथम ५ वर्ष यह व्रत करती हैं।\n३. प्रातः उठें, स्नान करें और हरी साड़ी या शुभ वस्त्र पहनें।\n४. गौरी (पार्वती) की मूर्ति स्थापित करें और पुष्पों से सजाएँ।\n५. षोडशोपचार पूजा करें — हल्दी, कुमकुम, चूड़ियाँ अर्पित करें।\n६. मंगला गौरी कथा पढ़ें।\n७. सौभाग्यवती स्त्रियाँ पवित्र धागा बाँधें और आशीर्वाद लें।\n८. गौरी आरती के साथ पूजा समाप्त करें और प्रसाद बाँटें।",
+          "meaning": "मंगला गौरी व्रत विधि: यह व्रत मुख्यतः महाराष्ट्र में नवविवाहित स्त्रियों द्वारा पति के कल्याण, समृद्धि और दीर्घायु के लिए किया जाता है। यह श्रावण के मंगलवार को पड़ता है।",
+          "transliteration": "Maṃgalā gaurī vrata vidhi:\n1. śrāvaṇa māsa ke sabhī maṃgalavāra (prāyaḥ 4-5 maṃgalavāra) ko manāyā jātā hai|\n2. navavivāhita striyā~ vivāha ke prathama 5 varṣa yaha vrata karatī haiṃ|\n3. prātaḥ uṭheṃ, snāna kareṃ aura harī sār̤ī yā śubha vastra pahaneṃ|\n4. gaurī (pārvatī) kī mūrti sthāpita kareṃ aura puṣpoṃ se sajāe~|\n5. ṣoḍaśopacāra pūjā kareṃ — haldī, kumakuma, cūr̤iyā~ arpita kareṃ|\n6. maṃgalā gaurī kathā par̤heṃ|\n7. saubhāgyavatī striyā~ pavitra dhāgā bā~dheṃ aura āśīrvāda leṃ|\n8. gaurī āratī ke sātha pūjā samāpta kareṃ aura prasāda bā~ṭeṃ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "मंगला गौरी कथा (सारांश):\nसुशीला नामक ब्राह्मण पत्नी देवी गौरी की भक्त थी। उसने प्रत्येक श्रावण में मंगला गौरी व्रत बड़ी श्रद्धा से किया। उसका पति गम्भीर रूप से बीमार हो गया और कोई उपचार काम नहीं आया। गौरी देवी सुशीला की भक्ति से प्रसन्न होकर स्वप्न में प्रकट हुईं और उपचार बताया। पति स्वस्थ हो गया और दम्पति को दीर्घायु और समृद्धि का वरदान मिला।",
+          "meaning": "मंगला गौरी कथा बताती है कि देवी भक्त विवाहित स्त्रियों की रक्षा करती हैं और उनके पतियों को स्वास्थ्य और दीर्घायु प्रदान करती हैं। श्रावण में इस व्रत का सच्चा पालन सुखी वैवाहिक जीवन सुनिश्चित करता है।",
+          "transliteration": "Maṃgalā gaurī kathā (sārāṃśa):\nSuśīlā nāmaka brāhmaṇa patnī devī gaurī kī bhakta thī| usane pratyeka śrāvaṇa meṃ maṃgalā gaurī vrata bar̤ī śraddhā se kiyā| usakā pati gambhīra rūpa se bīmāra ho gayā aura koī upacāra kāma nahīṃ āyā| gaurī devī suśīlā kī bhakti se prasanna hokara svapna meṃ prakaṭa huīṃ aura upacāra batāyā| pati svastha ho gayā aura dampati ko dīrghāyu aura samṛddhi kā varadāna milā|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "गौरी अष्टोत्तर (चयनित नाम):\nॐ गौर्यै नमः | ॐ उमायै नमः | ॐ शक्त्यै नमः\nॐ पार्वत्यै नमः | ॐ दुर्गायै नमः | ॐ अम्बिकायै नमः\nॐ मातङ्ग्यै नमः | ॐ भवान्यै नमः | ॐ चण्डिकायै नमः",
+          "meaning": "देवी गौरी के १०८ नामों में से चयनित नाम: गौरी (गोरी), उमा (प्रकाश), शक्ति (शक्ति), पार्वती (पर्वत पुत्री), दुर्गा (अजेय), अम्बिका (माता), मातंगी (वाक्-शक्ति), भवानी (जीवनदायिनी), चण्डिका (उग्र)।",
+          "transliteration": "Gaurī aṣṭottara (cayanita nāma):\nOṃ gauryai namaḥ | oṃ umāyai namaḥ | oṃ śaktyai namaḥ\nOṃ pārvatyai namaḥ | oṃ durgāyai namaḥ | oṃ ambikāyai namaḥ\nOṃ mātaṅgyai namaḥ | oṃ bhavānyai namaḥ | oṃ caṇḍikāyai namaḥ",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "vrat_karva_chauth",
+      "title": "करवा चौथ व्रत",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/vrat_utsav/karva_chauth.jpg",
+      "orderIndex": 6,
+      "content": [
+        {
+          "shloka": "ॐ जय शिव-पार्वती, ॐ जय शिव-पार्वती\nकरवा चौथ का व्रत है, सौभाग्यवती\nचन्द्रमा की किरणों से तेरी आरती",
+          "meaning": "शिव और पार्वती की जय हो। यह सौभाग्यवती स्त्रियों का करवा चौथ का व्रत है। चन्द्रमा की किरणों से आपकी आरती करती हूँ।",
+          "transliteration": "Oṃ jaya śiva-pārvatī, oṃ jaya śiva-pārvatī\nKaravā cautha kā vrata hai, saubhāgyavatī\nCandramā kī kiraṇoṃ se terī āratī",
+          "imageUrl": null
+        },
+        {
+          "shloka": "करवा चौथ व्रत विधि:\n१. सूर्योदय से पहले सरगी (सास द्वारा तैयार भोजन) खाएँ।\n२. पूरे दिन निर्जला (जलरहित) उपवास रखें।\n३. संध्या को विवाह का श्रृंगार करें — मेहंदी लगाएँ, चूड़ियाँ पहनें।\n४. अन्य विवाहित स्त्रियों के साथ सामूहिक पूजा में शामिल हों।\n५. करवा (मिट्टी का बर्तन), गेहूँ और गौरी मूर्ति स्थापित करें।\n६. करवा चौथ की कथा सुनें।\n७. पूजा की थाली सभी स्त्रियों में घुमाएँ।\n८. चन्द्रोदय की प्रतीक्षा करें और छलनी से चन्द्रमा देखें।\n९. छलनी से पति का मुख देखें, फिर पति के हाथ से जल पीकर व्रत तोड़ें।",
+          "meaning": "करवा चौथ व्रत विधि: यह व्रत कार्तिक कृष्ण चतुर्थी को पड़ता है। विवाहित हिन्दू स्त्रियाँ सूर्योदय से चन्द्रोदय तक पति की दीर्घायु और कुशलता के लिए उपवास रखती हैं। यह उत्तर भारत का सबसे लोकप्रिय विवाह व्रत है।",
+          "transliteration": "Karavā cautha vrata vidhi:\n1. sūryodaya se pahale saragī (sāsa dvārā taiyāra bhojana) khāe~|\n2. pūre dina nirjalā (jalarahita) upavāsa rakheṃ|\n3. saṃdhyā ko vivāha kā śrṛṃgāra kareṃ — mehaṃdī lagāe~, cūr̤iyā~ pahaneṃ|\n4. anya vivāhita striyoṃ ke sātha sāmūhika pūjā meṃ śāmila hoṃ|\n5. karavā (miṭṭī kā bartana), gehū~ aura gaurī mūrti sthāpita kareṃ|\n6. karavā cautha kī kathā suneṃ|\n7. pūjā kī thālī sabhī striyoṃ meṃ ghumāe~|\n8. candrodaya kī pratīkṣā kareṃ aura chalanī se candramā dekheṃ|\n9. chalanī se pati kā mukha dekheṃ, phira pati ke hātha se jala pīkara vrata tor̤eṃ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "करवा चौथ कथा (सारांश):\nरानी वीरवती सात भाइयों की सबसे छोटी बहन थी। उसने करवा चौथ का व्रत रखा। भूख सहन न कर पाने पर भाइयों ने दर्पण में आग जलाकर चन्द्रोदय का भ्रम पैदा किया। उसने समय से पहले व्रत तोड़ दिया और उसका पति मर गया। विचलित होकर उसने एक वर्ष तपस्या और भक्ति की। देवी पार्वती ने प्रसन्न होकर उसके पति को जीवित कर दिया।",
+          "meaning": "करवा चौथ कथा चेतावनी देती है कि वास्तविक चन्द्रोदय से पहले व्रत नहीं तोड़ना चाहिए और पत्नी की भक्ति और तपस्या की शक्ति पर बल देती है। देवी पार्वती सच्चे पालन का पुरस्कार पति की दीर्घायु से देती हैं।",
+          "transliteration": "Karavā cautha kathā (sārāṃśa):\nRānī vīravatī sāta bhāiyoṃ kī sabase choṭī bahana thī| usane karavā cautha kā vrata rakhā| bhūkha sahana na kara pāne para bhāiyoṃ ne darpaṇa meṃ āga jalākara candrodaya kā bhrama paidā kiyā| usane samaya se pahale vrata tor̤a diyā aura usakā pati mara gayā| vicalita hokara usane eka varṣa tapasyā aura bhakti kī| devī pārvatī ne prasanna hokara usake pati ko jīvita kara diyā|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "करवा चौथ चन्द्र प्रार्थना:\nचन्द्रमा जी नमस्कार, मेरी आरती स्वीकार करो\nमेरे पति को दीर्घायु करो, मेरे सौभाग्य की रक्षा करो\nजैसे चन्द्रमा पूर्णिमा को पूर्ण होता है\nवैसे मेरा सुहाग सदा पूर्ण रहे",
+          "meaning": "हे चन्द्रदेव, मेरा नमस्कार और प्रार्थना स्वीकार करें। मेरे पति को दीर्घायु प्रदान करें, मेरे सौभाग्य की रक्षा करें। जैसे चन्द्रमा पूर्णिमा को सम्पूर्ण होता है, वैसे मेरा वैवाहिक जीवन सदा सम्पूर्ण रहे।",
+          "transliteration": "Karavā cautha candra prārthanā:\nCandramā jī namaskāra, merī āratī svīkāra karo\nMere pati ko dīrghāyu karo, mere saubhāgya kī rakṣā karo\nJaise candramā pūrṇimā ko pūrṇa hotā hai\nVaise merā suhāga sadā pūrṇa rahe",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "utsav_ganesh_chaturthi",
+      "title": "गणेश चतुर्थी",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/vrat_utsav/ganesh_chaturthi.jpg",
+      "orderIndex": 7,
+      "content": [
+        {
+          "shloka": "ॐ गं गणपतये नमः\nवक्रतुण्ड महाकाय सूर्यकोटि समप्रभ\nनिर्विघ्नं कुरु मे देव सर्वकार्येषु सर्वदा\nगणपति बाप्पा मोरया, मंगल मूर्ति मोरया",
+          "meaning": "वक्र सूंड वाले, विशाल काय, कोटि सूर्य सम तेजस्वी हे गणेश देव, मेरे सभी कार्यों में सदा विघ्न दूर करें। गणपति बाप्पा मोरया! मंगल मूर्ति मोरया!",
+          "transliteration": "Oṃ gaṃ gaṇapataye namaḥ\nVakratuṇḍa mahākāya sūryakoṭi samaprabha\nNirvighnaṃ kuru me deva sarvakāryeṣu sarvadā\nGaṇapati bāppā morayā, maṃgala mūrti morayā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "गणेश चतुर्थी पूजा विधि:\n१. भाद्रपद शुक्ल चतुर्थी (अगस्त-सितम्बर) को मनाया जाता है।\n२. गणेश मूर्ति (पर्यावरण हेतु मिट्टी की मूर्ति उत्तम) घर लाएँ।\n३. मन्त्रों से प्राण प्रतिष्ठा करें।\n४. २१ दूर्वा, लाल पुष्प, मोदक और फल अर्पित करें।\n५. गणपति अथर्वशीर्ष और गणेश स्तोत्र का पाठ करें।\n६. दैनिक पूजा डेढ़, ३, ५, ७ या १० दिन करें।\n७. प्रतिदिन मोदक — गणेश जी का प्रिय मिष्ठान — नैवेद्य अर्पित करें।\n८. अन्तिम दिन उत्तरपूजा (विदाई पूजा) करें।\n९. संगीत के साथ शोभायात्रा निकालकर मूर्ति का विसर्जन करें।",
+          "meaning": "गणेश चतुर्थी उत्सव विधि: यह महाराष्ट्र का सबसे बड़ा त्योहार है और पूरे भारत में मनाया जाता है। लोकमान्य तिलक ने १८९३ में सामाजिक एकता के लिए सार्वजनिक उत्सव की शुरुआत की। उत्सव १ से १० दिनों तक चलता है।",
+          "transliteration": "Gaṇeśa caturthī pūjā vidhi:\n1. bhādrapada śukla caturthī (agasta-sitambara) ko manāyā jātā hai|\n2. gaṇeśa mūrti (paryāvaraṇa hetu miṭṭī kī mūrti uttama) ghara lāe~|\n3. mantroṃ se prāṇa pratiṣṭhā kareṃ|\n4. 21 dūrvā, lāla puṣpa, modaka aura phala arpita kareṃ|\n5. gaṇapati atharvaśīrṣa aura gaṇeśa stotra kā pāṭha kareṃ|\n6. dainika pūjā ḍer̤ha, 3, 5, 7 yā 10 dina kareṃ|\n7. pratidina modaka — gaṇeśa jī kā priya miṣṭhāna — naivedya arpita kareṃ|\n8. antima dina uttarapūjā (vidāī pūjā) kareṃ|\n9. saṃgīta ke sātha śobhāyātrā nikālakara mūrti kā visarjana kareṃ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "गणपति अथर्वशीर्ष (मुख्य श्लोक):\nत्वं ब्रह्मा त्वं विष्णुस्त्वं रुद्रस्त्वम्\nइन्द्रस्त्वं अग्निस्त्वं वायुस्त्वम्\nसूर्यस्त्वं चन्द्रमास्त्वम्\nब्रह्म भूर्भुवः स्वरोम्",
+          "meaning": "तू ब्रह्मा है, तू विष्णु है, तू रुद्र है, तू इन्द्र है, तू अग्नि है, तू वायु है, तू सूर्य है, तू चन्द्रमा है। तू तीनों लोकों में व्याप्त ब्रह्म है — भूः, भुवः, स्वः, ॐ।",
+          "transliteration": "Gaṇapati atharvaśīrṣa (mukhya śloka):\nTvaṃ brahmā tvaṃ viṣṇustvaṃ rudrastvam\nIndrastvaṃ agnistvaṃ vāyustvam\nSūryastvaṃ candramāstvam\nBrahma bhūrbhuvaḥ svarom",
+          "imageUrl": null
+        },
+        {
+          "shloka": "गणेश विसर्जन प्रार्थना:\nयान्तु देव गणाः सर्वे पूजामादाय मामकीम्\nइष्टकामसमृद्ध्यर्थं पुनरागमनाय च\nगणपति बाप्पा मोरया, पुढच्या वर्षी लवकर या!",
+          "meaning": "सभी देवगण मेरी पूजा स्वीकार कर प्रस्थान करें, मेरी मनोकामनाओं की पूर्ति के लिए और पुनः आगमन के लिए। गणपति बाप्पा मोरया — अगले वर्ष जल्दी आना!",
+          "transliteration": "Gaṇeśa visarjana prārthanā:\nYāntu deva gaṇāḥ sarve pūjāmādāya māmakīm\nIṣṭakāmasamṛddhyarthaṃ punarāgamanāya ca\nGaṇapati bāppā morayā, puḍhacyā varṣī lavakara yā!",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "utsav_diwali",
+      "title": "दीवाली (दीपावली)",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/vrat_utsav/diwali.jpg",
+      "orderIndex": 8,
+      "content": [
+        {
+          "shloka": "ॐ श्रीं महालक्ष्म्यै नमः\nशुभं करोति कल्याणम् आरोग्यं धनसम्पदा\nशत्रुबुद्धि विनाशाय दीपज्योतिर्नमोऽस्तुते",
+          "meaning": "दीपक की ज्योति को नमस्कार जो शुभता, कल्याण, आरोग्य और धन-सम्पदा लाती है तथा शत्रु (अज्ञान) की बुद्धि का नाश करती है।",
+          "transliteration": "Oṃ śrīṃ mahālakṣmyai namaḥ\nŚubhaṃ karoti kalyāṇam ārogyaṃ dhanasampadā\nŚatrubuddhi vināśāya dīpajyotirnamo'stute",
+          "imageUrl": null
+        },
+        {
+          "shloka": "दीवाली पूजा विधि (अमावस्या लक्ष्मी पूजा):\n१. सम्पूर्ण घर को स्वच्छ और सजाएँ। द्वार पर रंगोली बनाएँ।\n२. प्रत्येक कमरे और द्वार पर दीये जलाएँ।\n३. लक्ष्मी, गणेश और सरस्वती की प्रतिमाएँ वेदी पर स्थापित करें।\n४. कलश, नई बहीखाते, सिक्के और व्यापार उपकरण रखें।\n५. लाल पुष्प, कुमकुम, मिठाई और फल अर्पित करें।\n६. 'ॐ श्रीं महालक्ष्म्यै नमः' का १०८ बार जप करें।\n७. श्री सूक्तम् और लक्ष्मी स्तोत्र का पाठ करें।\n८. जलते दीये से आरती करें।\n९. परिवार और पड़ोसियों में मिठाई और प्रसाद बाँटें।",
+          "meaning": "दीवाली पूजा विधि: दीवाली, प्रकाश का त्योहार, पाँच दिवसीय उत्सव है। मुख्य लक्ष्मी पूजा अमावस्या की रात्रि को होती है। यह अन्धकार पर प्रकाश, अज्ञान पर ज्ञान और बुराई पर अच्छाई की विजय का प्रतीक है। यह भगवान राम की १४ वर्ष के वनवास के बाद अयोध्या वापसी का स्मरण कराता है।",
+          "transliteration": "Dīvālī pūjā vidhi (amāvasyā lakṣmī pūjā):\n1. sampūrṇa ghara ko svaccha aura sajāe~| dvāra para raṃgolī banāe~|\n2. pratyeka kamare aura dvāra para dīye jalāe~|\n3. lakṣmī, gaṇeśa aura sarasvatī kī pratimāe~ vedī para sthāpita kareṃ|\n4. kalaśa, naī bahīkhāte, sikke aura vyāpāra upakaraṇa rakheṃ|\n5. lāla puṣpa, kumakuma, miṭhāī aura phala arpita kareṃ|\n6. 'oṃ śrīṃ mahālakṣmyai namaḥ' kā 108 bāra japa kareṃ|\n7. śrī sūktam aura lakṣmī stotra kā pāṭha kareṃ|\n8. jalate dīye se āratī kareṃ|\n9. parivāra aura par̤osiyoṃ meṃ miṭhāī aura prasāda bā~ṭeṃ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "दीवाली के पाँच दिन:\nदिन १: धनतेरस — धन्वन्तरि और लक्ष्मी पूजा, सोना/बर्तन खरीदना।\nदिन २: नरक चतुर्दशी (छोटी दीवाली) — कृष्ण द्वारा नरकासुर का वध।\nदिन ३: दीवाली अमावस्या — मुख्य लक्ष्मी पूजा, दीये जलाना।\nदिन ४: गोवर्धन पूजा / पड़वा — कृष्ण का गोवर्धन उठाना, पति-पत्नी उत्सव।\nदिन ५: भैया दूज — बहन द्वारा भाई की कुशलता की प्रार्थना।",
+          "meaning": "दीवाली पाँच दिनों तक मनाई जाती है, प्रत्येक का अपना महत्व है। यह त्योहार स्वास्थ्य (धनतेरस), बुराई पर विजय (नरक चतुर्दशी), धन और प्रकाश (लक्ष्मी पूजा), प्रेम और भक्ति (गोवर्धन/पड़वा) और पारिवारिक बन्धन (भैया दूज) को जोड़ता है।",
+          "transliteration": "Dīvālī ke pā~ca dina:\nDina 1: dhanaterasa — dhanvantari aura lakṣmī pūjā, sonā/bartana kharīdanā|\nDina 2: naraka caturdaśī (choṭī dīvālī) — kṛṣṇa dvārā narakāsura kā vadha|\nDina 3: dīvālī amāvasyā — mukhya lakṣmī pūjā, dīye jalānā|\nDina 4: govardhana pūjā / par̤avā — kṛṣṇa kā govardhana uṭhānā, pati-patnī utsava|\nDina 5: bhaiyā dūja — bahana dvārā bhāī kī kuśalatā kī prārthanā|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "दीप प्रार्थना:\nदीपज्योतिः परब्रह्म दीपज्योतिर्जनार्दनः\nदीपो मे हरतु पापं दीपज्योतिर्नमोऽस्तुते\nशुभ दीपावली",
+          "meaning": "दीपक की ज्योति परब्रह्म है, दीपक की ज्योति जनार्दन (विष्णु) है। दीपक मेरे पापों को हरे। दीपक की ज्योति को नमस्कार। शुभ दीपावली!",
+          "transliteration": "Dīpa prārthanā:\nDīpajyotiḥ parabrahma dīpajyotirjanārdanaḥ\nDīpo me haratu pāpaṃ dīpajyotirnamo'stute\nŚubha dīpāvalī",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "utsav_holi",
+      "title": "होली",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/vrat_utsav/holi.jpg",
+      "orderIndex": 9,
+      "content": [
+        {
+          "shloka": "ॐ नमो भगवते नारसिंहाय\nहोलिका दहनं धन्यं प्रह्लादस्यानुकम्पया\nसदा कल्याणम् आप्नोति सर्वदेवनमस्कृतः",
+          "meaning": "प्रह्लाद पर दिखाई करुणा से होलिका दहन धन्य है। सभी देवताओं को नमन करने से सदा कल्याण प्राप्त होता है।",
+          "transliteration": "Oṃ namo bhagavate nārasiṃhāya\nHolikā dahanaṃ dhanyaṃ prahlādasyānukampayā\nSadā kalyāṇam āpnoti sarvadevanamaskṛtaḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "होलिका दहन विधि:\n१. फाल्गुन पूर्णिमा (फरवरी-मार्च) को मनाया जाता है।\n२. लकड़ी, गोबर के उपले और सूखे पत्ते होलिका के लिए एकत्र करें।\n३. केन्द्र में एक लकड़ी का स्तम्भ रखें जो प्रह्लाद की भक्ति का प्रतीक है।\n४. संध्या को शुभ मुहूर्त पर होलिका में अग्नि प्रज्वलित करें।\n५. अग्नि की परिक्रमा करें।\n६. नारियल, लावा और नवान्न अग्नि में अर्पित करें।\n७. होलिका की भस्म का तिलक माथे पर लगाएँ।\n८. 'ॐ नमो भगवते नारसिंहाय' का जप करें।\n९. अगले दिन धुलंडी — रंगों, पानी और संगीत के साथ मनाएँ।",
+          "meaning": "होली उत्सव विधि: होली बुराई पर अच्छाई की विजय का दो दिवसीय त्योहार है। पहली रात होलिका दहन राक्षसी होलिका के जलने और भक्त प्रह्लाद की रक्षा का प्रतीक है। अगले दिन धुलंडी (रंगवाली होली) में लोग रंगों से खेलते हैं।",
+          "transliteration": "Holikā dahana vidhi:\n1. phālguna pūrṇimā (pharavarī-mārca) ko manāyā jātā hai|\n2. lakar̤ī, gobara ke upale aura sūkhe patte holikā ke lie ekatra kareṃ|\n3. kendra meṃ eka lakar̤ī kā stambha rakheṃ jo prahlāda kī bhakti kā pratīka hai|\n4. saṃdhyā ko śubha muhūrta para holikā meṃ agni prajvalita kareṃ|\n5. agni kī parikramā kareṃ|\n6. nāriyala, lāvā aura navānna agni meṃ arpita kareṃ|\n7. holikā kī bhasma kā tilaka māthe para lagāe~|\n8. 'oṃ namo bhagavate nārasiṃhāya' kā japa kareṃ|\n9. agale dina dhulaṃḍī — raṃgoṃ, pānī aura saṃgīta ke sātha manāe~|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "होली कथा — प्रह्लाद और होलिका:\nदैत्यराज हिरण्यकशिपु ने विष्णु की पूजा वर्जित कर दी, परन्तु उसका पुत्र प्रह्लाद अडिग भक्त बना रहा। हिरण्यकशिपु ने प्रह्लाद को मारने के अनेक प्रयास किए पर असफल रहा। अन्ततः उसकी बहन होलिका, जिसे अग्नि से अमरता का वरदान था, प्रह्लाद को लेकर अग्नि में बैठी। विष्णु की कृपा से प्रह्लाद सुरक्षित बच गया जबकि होलिका जलकर भस्म हो गई। तब भगवान नरसिंह प्रकट हुए और हिरण्यकशिपु का वध किया।",
+          "meaning": "प्रह्लाद और होलिका की कथा सिखाती है कि सच्चे भक्त को दैवी सुरक्षा सदा प्राप्त होती है। कोई भी शक्ति, चाहे कितनी भी महान हो, भगवान के भक्त को हानि नहीं पहुँचा सकती। होलिका दहन बुराई के विनाश और श्रद्धा की विजय का प्रतीक है।",
+          "transliteration": "Holī kathā — prahlāda aura holikā:\nDaityarāja hiraṇyakaśipu ne viṣṇu kī pūjā varjita kara dī, parantu usakā putra prahlāda aḍiga bhakta banā rahā| hiraṇyakaśipu ne prahlāda ko mārane ke aneka prayāsa kie para asaphala rahā| antataḥ usakī bahana holikā, jise agni se amaratā kā varadāna thā, prahlāda ko lekara agni meṃ baiṭhī| viṣṇu kī kṛpā se prahlāda surakṣita baca gayā jabaki holikā jalakara bhasma ho gaī| taba bhagavāna narasiṃha prakaṭa hue aura hiraṇyakaśipu kā vadha kiyā|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "होली प्रार्थना:\nफाल्गुन मास की पूर्णिमा, होली का त्योहार\nबुराई पर अच्छाई की जीत, प्रेम का अधिकार\nरंगों से सजा संसार, खुशियों का भण्डार\nहोली की शुभकामनाएँ, सबको प्यार अपार",
+          "meaning": "फाल्गुन मास की पूर्णिमा को होली का त्योहार आता है। यह बुराई पर अच्छाई की जीत और प्रेम का उत्सव है। रंगों से सजा संसार, खुशियों का भण्डार। सभी को होली की शुभकामनाएँ और अपार प्रेम।",
+          "transliteration": "Holī prārthanā:\nPhālguna māsa kī pūrṇimā, holī kā tyohāra\nBurāī para acchāī kī jīta, prema kā adhikāra\nRaṃgoṃ se sajā saṃsāra, khuśiyoṃ kā bhaṇḍāra\nHolī kī śubhakāmanāe~, sabako pyāra apāra",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "utsav_makar_sankranti",
+      "title": "मकर संक्रान्ति",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/vrat_utsav/makar_sankranti.jpg",
+      "orderIndex": 10,
+      "content": [
+        {
+          "shloka": "ॐ सूर्याय नमः\nमकरे संक्रमणे सूर्ये स्नानं दानं तपः क्रियाः\nसर्वपापप्रमुक्तस्य सूर्य लोकं स गच्छति",
+          "meaning": "जब सूर्य मकर राशि में प्रवेश करता है, उस दिन किया गया स्नान, दान और तपस्या सभी पापों से मुक्त करता है और सूर्य लोक की प्राप्ति कराता है।",
+          "transliteration": "Oṃ sūryāya namaḥ\nMakare saṃkramaṇe sūrye snānaṃ dānaṃ tapaḥ kriyāḥ\nSarvapāpapramuktasya sūrya lokaṃ sa gacchati",
+          "imageUrl": null
+        },
+        {
+          "shloka": "मकर संक्रान्ति विधि:\n१. प्रत्येक वर्ष १४ या १५ जनवरी को मनाया जाता है।\n२. सूर्योदय से पहले उठें, पवित्र नदी या घर पर स्नान करें।\n३. सूर्य को तिल और लाल पुष्पों से अर्घ्य (जल) अर्पित करें।\n४. सूर्य मन्त्र और गायत्री मन्त्र का जप करें।\n५. तिल-गुड़, कम्बल और भोजन गरीबों को दान करें।\n६. तिल-गुड़ की मिठाई बाँटें — 'तिल गुड़ घ्या, गोड गोड बोला' (मराठी परम्परा)।\n७. पतंग उड़ाएँ (गुजरात और राजस्थान की परम्परा)।\n८. तिल लड्डू, पूरनपोळी और खिचड़ी बनाएँ और खाएँ।\n९. मन्दिर जाएँ और सूर्य पूजा करें।",
+          "meaning": "मकर संक्रान्ति सूर्य के मकर राशि में प्रवेश का पर्व है, जो शीतकालीन संक्रान्ति के अन्त और दिनों के लम्बे होने (उत्तरायण) का संकेत है। इसे भारत भर में विभिन्न नामों से मनाया जाता है — पोंगल (तमिलनाडु), लोहड़ी (पंजाब), बिहू (असम), संक्रान्ति (महाराष्ट्र/कर्नाटक)।",
+          "transliteration": "Makara saṃkrānti vidhi:\n1. pratyeka varṣa 14 yā 15 janavarī ko manāyā jātā hai|\n2. sūryodaya se pahale uṭheṃ, pavitra nadī yā ghara para snāna kareṃ|\n3. sūrya ko tila aura lāla puṣpoṃ se arghya (jala) arpita kareṃ|\n4. sūrya mantra aura gāyatrī mantra kā japa kareṃ|\n5. tila-gur̤a, kambala aura bhojana garīboṃ ko dāna kareṃ|\n6. tila-gur̤a kī miṭhāī bā~ṭeṃ — 'tila gur̤a ghyā, goḍa goḍa bolā' (marāṭhī paramparā)|\n7. pataṃga ur̤āe~ (gujarāta aura rājasthāna kī paramparā)|\n8. tila laḍḍū, pūranapoḻī aura khicar̤ī banāe~ aura khāe~|\n9. mandira jāe~ aura sūrya pūjā kareṃ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "संक्रान्ति महत्व:\nभीष्म पितामह ने उत्तरायण के समय देह त्याग किया क्योंकि उनका विश्वास था कि इस काल में आत्मा मुक्ति प्राप्त करती है। महाभारत और भगवद् गीता दोनों में उत्तरायण की श्रेष्ठता वर्णित है। मकर संक्रान्ति इस पवित्र छह मासीय काल का आरम्भ है और इसलिए दान और साधना के लिए सर्वश्रेष्ठ दिन माना जाता है।",
+          "meaning": "मकर संक्रान्ति का आध्यात्मिक महत्व वैदिक और पौराणिक ग्रन्थों में निहित है। सूर्य की उत्तर दिशा की यात्रा (उत्तरायण) प्रकाश, ज्ञान और मुक्ति से जुड़ी है। भीष्म पितामह ने शरशय्या पर उत्तरायण तक प्रतीक्षा की।",
+          "transliteration": "Saṃkrānti mahatva:\nBhīṣma pitāmaha ne uttarāyaṇa ke samaya deha tyāga kiyā kyoṃki unakā viśvāsa thā ki isa kāla meṃ ātmā mukti prāpta karatī hai| mahābhārata aura bhagavad gītā donoṃ meṃ uttarāyaṇa kī śreṣṭhatā varṇita hai| makara saṃkrānti isa pavitra chaha māsīya kāla kā ārambha hai aura isalie dāna aura sādhanā ke lie sarvaśreṣṭha dina mānā jātā hai|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "तिल गुड़ प्रार्थना:\nतिलानां सर्सपानां च यथा स्नेहो न जायते\nतथा वैरस्य नाशाय तिल गुलं ददामि ते\nतिल गुड़ घ्या, गोड गोड बोला!",
+          "meaning": "जैसे तिल और गुड़ में मिठास स्वाभाविक है, वैसे ही सब वैर नष्ट हों। मैं आपको तिल-गुड़ देता/देती हूँ। तिल-गुड़ लो और मीठा-मीठा बोलो!",
+          "transliteration": "Tila gur̤a prārthanā:\nTilānāṃ sarsapānāṃ ca yathā sneho na jāyate\nTathā vairasya nāśāya tila gulaṃ dadāmi te\nTila gur̤a ghyā, goḍa goḍa bolā!",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "utsav_ram_navami",
+      "title": "राम नवमी",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/vrat_utsav/ram_navami.jpg",
+      "orderIndex": 11,
+      "content": [
+        {
+          "shloka": "श्री राम जय राम जय जय राम\nरामाय रामभद्राय रामचन्द्राय वेधसे\nरघुनाथाय नाथाय सीतायाः पतये नमः",
+          "meaning": "भगवान राम, रामभद्र, रामचन्द्र, सर्वज्ञ, रघुवंश के स्वामी, सभी के नाथ और सीता के पति को नमस्कार।",
+          "transliteration": "Śrī rāma jaya rāma jaya jaya rāma\nRāmāya rāmabhadrāya rāmacandrāya vedhase\nRaghunāthāya nāthāya sītāyāḥ pataye namaḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "राम नवमी पूजा विधि:\n१. चैत्र शुक्ल नवमी (चैत्र मास के शुक्ल पक्ष की नवमी) को मनाया जाता है।\n२. प्रातः उठें, स्नान करें और नये पीले या केसरिया वस्त्र पहनें।\n३. राम, सीता, लक्ष्मण और हनुमान की प्रतिमाएँ वेदी पर स्थापित करें।\n४. पुष्पों और आम के पत्तों से सजाएँ।\n५. दोपहर (जन्म समय) पर राम की प्रतिमा का अभिषेक करें।\n६. राम रक्षा स्तोत्र और हनुमान चालीसा का पाठ करें।\n७. रामचरितमानस (बालकाण्ड — जन्म प्रसंग) पढ़ें या सुनें।\n८. फल, पंचामृत और पनकम् (गुड़-जल पेय) नैवेद्य अर्पित करें।\n९. प्रसाद बाँटें और राम आरती करें।",
+          "meaning": "राम नवमी विधि: यह त्योहार भगवान राम के जन्म का उत्सव मनाता है — विष्णु के सातवें अवतार, जिनका जन्म दोपहर में अयोध्या में राजा दशरथ और रानी कौशल्या के पुत्र के रूप में हुआ। यह नौ दिवसीय चैत्र नवरात्रि का समापन दिवस है।",
+          "transliteration": "Rāma navamī pūjā vidhi:\n1. caitra śukla navamī (caitra māsa ke śukla pakṣa kī navamī) ko manāyā jātā hai|\n2. prātaḥ uṭheṃ, snāna kareṃ aura naye pīle yā kesariyā vastra pahaneṃ|\n3. rāma, sītā, lakṣmaṇa aura hanumāna kī pratimāe~ vedī para sthāpita kareṃ|\n4. puṣpoṃ aura āma ke pattoṃ se sajāe~|\n5. dopahara (janma samaya) para rāma kī pratimā kā abhiṣeka kareṃ|\n6. rāma rakṣā stotra aura hanumāna cālīsā kā pāṭha kareṃ|\n7. rāmacaritamānasa (bālakāṇḍa — janma prasaṃga) par̤heṃ yā suneṃ|\n8. phala, paṃcāmṛta aura panakam (gur̤a-jala peya) naivedya arpita kareṃ|\n9. prasāda bā~ṭeṃ aura rāma āratī kareṃ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "राम जन्म कथा (सारांश):\nअयोध्या के राजा दशरथ ने पुत्र प्राप्ति के लिए पुत्रकामेष्टि यज्ञ किया। अग्निदेव प्रकट हुए और पवित्र खीर दी। रानी कौशल्या, कैकेयी और सुमित्रा ने उसका सेवन किया। चैत्र शुक्ल नवमी को दोपहर के समय भगवान राम का जन्म कौशल्या से ज्येष्ठ राजकुमार के रूप में हुआ। उनके भाई भरत, लक्ष्मण और शत्रुघ्न का भी जन्म हुआ। सम्पूर्ण अयोध्या ने हर्षोल्लास से उत्सव मनाया।",
+          "meaning": "भगवान राम का जन्म, वाल्मीकि रामायण और तुलसीदास के रामचरितमानस में वर्णित, राम नवमी की केन्द्रीय घटना है। उनका जन्म रावण के वध और पृथ्वी पर धर्म की स्थापना के दिव्य उद्देश्य को पूर्ण करने के लिए हुआ।",
+          "transliteration": "Rāma janma kathā (sārāṃśa):\nAyodhyā ke rājā daśaratha ne putra prāpti ke lie putrakāmeṣṭi yajña kiyā| agnideva prakaṭa hue aura pavitra khīra dī| rānī kauśalyā, kaikeyī aura sumitrā ne usakā sevana kiyā| caitra śukla navamī ko dopahara ke samaya bhagavāna rāma kā janma kauśalyā se jyeṣṭha rājakumāra ke rūpa meṃ huā| unake bhāī bharata, lakṣmaṇa aura śatrughna kā bhī janma huā| sampūrṇa ayodhyā ne harṣollāsa se utsava manāyā|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "राम स्तुति:\nरामं दशरथं विधि रामं कौशलेयानन्दनम्\nरामं दीनानुकम्पं च रामं धर्मपथं गतम्\nरामं सत्यं प्रियं धीरं रामं सर्वगुणोत्तमम्",
+          "meaning": "दशरथ के पुत्र, कौशल्या के आनन्द, दीनों पर करुणा करने वाले, धर्म के पथ पर चलने वाले, सत्यवादी, प्रिय, धीर और सभी श्रेष्ठ गुणों से सम्पन्न राम को जानो।",
+          "transliteration": "Rāma stuti:\nRāmaṃ daśarathaṃ vidhi rāmaṃ kauśaleyānandanam\nRāmaṃ dīnānukampaṃ ca rāmaṃ dharmapathaṃ gatam\nRāmaṃ satyaṃ priyaṃ dhīraṃ rāmaṃ sarvaguṇottamam",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "utsav_krishna_janmashtami",
+      "title": "कृष्ण जन्माष्टमी",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/vrat_utsav/janmashtami.jpg",
+      "orderIndex": 12,
+      "content": [
+        {
+          "shloka": "ॐ क्लीं कृष्णाय नमः\nवसुदेवसुतं देवं कंसचाणूरमर्दनम्\nदेवकीपरमानन्दं कृष्णं वन्दे जगद्गुरुम्",
+          "meaning": "मैं भगवान कृष्ण को नमन करता हूँ — वसुदेव के पुत्र, कंस और चाणूर के मर्दन करने वाले, देवकी के परमानन्द और समस्त जगत के गुरु।",
+          "transliteration": "Oṃ klīṃ kṛṣṇāya namaḥ\nVasudevasutaṃ devaṃ kaṃsacāṇūramardanam\nDevakīparamānandaṃ kṛṣṇaṃ vande jagadgurum",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जन्माष्टमी पूजा विधि:\n१. भाद्रपद कृष्ण अष्टमी (कृष्ण पक्ष की आठवीं तिथि) को मनाया जाता है।\n२. पूरे दिन कठोर उपवास रखें।\n३. बालकृष्ण के लिए झूला (पालना) सजाएँ।\n४. छोटी कृष्ण मूर्ति झूले पर माखन सहित रखें।\n५. मध्यरात्रि (कृष्ण जन्म समय) पर पंचामृत से अभिषेक करें।\n६. 'हरे कृष्ण हरे कृष्ण, कृष्ण कृष्ण हरे हरे' का जप करें।\n७. भागवत पुराण से कृष्ण जन्म कथा पढ़ें।\n८. माखन-मिश्री, फल और मिठाई अर्पित करें।\n९. मध्यरात्रि पूजा के बाद उपवास तोड़ें।\n१०. अगले दिन दही हण्डी (गोपालकाला) मनाएँ।",
+          "meaning": "जन्माष्टमी विधि: यह त्योहार मथुरा के कारागार में मध्यरात्रि को भगवान कृष्ण के जन्म का उत्सव मनाता है। इसमें उपवास, रात्रि जागरण, भक्ति गायन, रासलीला नाटक और दही हण्डी उत्सव शामिल हैं।",
+          "transliteration": "Janmāṣṭamī pūjā vidhi:\n1. bhādrapada kṛṣṇa aṣṭamī (kṛṣṇa pakṣa kī āṭhavīṃ tithi) ko manāyā jātā hai|\n2. pūre dina kaṭhora upavāsa rakheṃ|\n3. bālakṛṣṇa ke lie jhūlā (pālanā) sajāe~|\n4. choṭī kṛṣṇa mūrti jhūle para mākhana sahita rakheṃ|\n5. madhyarātri (kṛṣṇa janma samaya) para paṃcāmṛta se abhiṣeka kareṃ|\n6. 'hare kṛṣṇa hare kṛṣṇa, kṛṣṇa kṛṣṇa hare hare' kā japa kareṃ|\n7. bhāgavata purāṇa se kṛṣṇa janma kathā par̤heṃ|\n8. mākhana-miśrī, phala aura miṭhāī arpita kareṃ|\n9. madhyarātri pūjā ke bāda upavāsa tor̤eṃ|\n10. agale dina dahī haṇḍī (gopālakālā) manāe~|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कृष्ण जन्म कथा (सारांश):\nअत्याचारी कंस ने भविष्यवाणी सुनकर अपनी बहन देवकी और पति वसुदेव को कारागार में डाल दिया कि देवकी का आठवाँ पुत्र उसका वध करेगा। जब कृष्ण का जन्म अष्टमी की मध्यरात्रि को हुआ, दिव्य घटनाएँ घटीं — कारागार के द्वार खुल गए, प्रहरी सो गए और वसुदेव नवजात को उफनती यमुना पार कर गोकुल ले गए। वहाँ उन्होंने कृष्ण को यशोदा की पुत्री से बदल दिया। कृष्ण वृन्दावन में बड़े हुए और अन्ततः लौटकर कंस का वध किया।",
+          "meaning": "भागवत पुराण में वर्णित भगवान कृष्ण का चमत्कारिक जन्म धर्म की रक्षा के लिए दिव्य हस्तक्षेप प्रदर्शित करता है। कहानी का प्रत्येक तत्व दर्शाता है कि ईश्वर की योजना को कोई भी पार्थिव शक्ति विफल नहीं कर सकती।",
+          "transliteration": "Kṛṣṇa janma kathā (sārāṃśa):\nAtyācārī kaṃsa ne bhaviṣyavāṇī sunakara apanī bahana devakī aura pati vasudeva ko kārāgāra meṃ ḍāla diyā ki devakī kā āṭhavā~ putra usakā vadha karegā| jaba kṛṣṇa kā janma aṣṭamī kī madhyarātri ko huā, divya ghaṭanāe~ ghaṭīṃ — kārāgāra ke dvāra khula gae, praharī so gae aura vasudeva navajāta ko uphanatī yamunā pāra kara gokula le gae| vahā~ unhoṃne kṛṣṇa ko yaśodā kī putrī se badala diyā| kṛṣṇa vṛndāvana meṃ bar̤e hue aura antataḥ lauṭakara kaṃsa kā vadha kiyā|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "भगवद् गीता (अध्याय ४, श्लोक ७-८):\nयदा यदा हि धर्मस्य ग्लानिर्भवति भारत\nअभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम्\nपरित्राणाय साधूनां विनाशाय च दुष्कृताम्\nधर्मसंस्थापनार्थाय सम्भवामि युगे युगे",
+          "meaning": "हे अर्जुन, जब-जब धर्म की हानि और अधर्म का उत्थान होता है, तब-तब मैं स्वयं को प्रकट करता हूँ। साधुओं की रक्षा, दुष्टों के विनाश और धर्म की स्थापना के लिए मैं युग-युग में अवतार लेता हूँ।",
+          "transliteration": "Bhagavad gītā (adhyāya 4, śloka 7-8):\nYadā yadā hi dharmasya glānirbhavati bhārata\nAbhyutthānamadharmasya tadātmānaṃ sṛjāmyaham\nParitrāṇāya sādhūnāṃ vināśāya ca duṣkṛtām\nDharmasaṃsthāpanārthāya sambhavāmi yuge yuge",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "utsav_mahashivratri",
+      "title": "महाशिवरात्रि",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/vrat_utsav/mahashivratri.jpg",
+      "orderIndex": 13,
+      "content": [
+        {
+          "shloka": "ॐ नमः शिवाय\nमहाशिवरात्रि व्रतस्य माहात्म्यं सर्वकामदम्\nशिवं सम्पूजयेद् भक्त्या चतुःप्रहरमुपासकः",
+          "meaning": "महाशिवरात्रि व्रत की महिमा सभी कामनाओं को पूर्ण करने वाली है। भक्त को रात्रि के चारों प्रहरों में भक्तिपूर्वक शिव की पूजा करनी चाहिए।",
+          "transliteration": "Oṃ namaḥ śivāya\nMahāśivarātri vratasya māhātmyaṃ sarvakāmadam\nŚivaṃ sampūjayed bhaktyā catuḥpraharamupāsakaḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "महाशिवरात्रि पूजा विधि:\n१. फाल्गुन कृष्ण चतुर्दशी (फरवरी-मार्च) को मनाया जाता है।\n२. निर्जला या केवल फलों से कठोर उपवास रखें।\n३. शिव मन्दिर जाएँ या घर पर पूजा करें।\n४. रात्रि के चार प्रहरों में पूजा करें:\n   - प्रथम प्रहर: दूध से अभिषेक, शिव पंचाक्षरी जप।\n   - द्वितीय प्रहर: दही से अभिषेक, रुद्रम् पाठ।\n   - तृतीय प्रहर: घी से अभिषेक, महामृत्युंजय जप।\n   - चतुर्थ प्रहर: मधु से अभिषेक, शिव तांडव पाठ।\n५. बिल्वपत्र, धतूरा और श्वेत पुष्प अर्पित करें।\n६. भजन और जप के साथ रात्रि जागरण करें।\n७. अगले प्रातः अन्तिम पूजा के बाद उपवास तोड़ें।",
+          "meaning": "महाशिवरात्रि पूजा विधि: शिव की महान रात्रि सभी शिवरात्रियों में सबसे पवित्र मानी जाती है। फाल्गुन कृष्ण चतुर्दशी की रात्रि को चार प्रहरों में पूजा इस त्योहार की विशेषता है। माना जाता है कि इस रात्रि स्वयं शिव ब्रह्माण्डीय तांडव नृत्य करते हैं।",
+          "transliteration": "Mahāśivarātri pūjā vidhi:\n1. phālguna kṛṣṇa caturdaśī (pharavarī-mārca) ko manāyā jātā hai|\n2. nirjalā yā kevala phaloṃ se kaṭhora upavāsa rakheṃ|\n3. śiva mandira jāe~ yā ghara para pūjā kareṃ|\n4. rātri ke cāra praharoṃ meṃ pūjā kareṃ:\n   - prathama prahara: dūdha se abhiṣeka, śiva paṃcākṣarī japa|\n   - dvitīya prahara: dahī se abhiṣeka, rudram pāṭha|\n   - tṛtīya prahara: ghī se abhiṣeka, mahāmṛtyuṃjaya japa|\n   - caturtha prahara: madhu se abhiṣeka, śiva tāṃḍava pāṭha|\n5. bilvapatra, dhatūrā aura śveta puṣpa arpita kareṃ|\n6. bhajana aura japa ke sātha rātri jāgaraṇa kareṃ|\n7. agale prātaḥ antima pūjā ke bāda upavāsa tor̤eṃ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "महाशिवरात्रि कथा (सारांश):\nएक शिकारी वन में भटककर रात में सुरक्षा के लिए बिल्व वृक्ष पर चढ़ गया। अनजाने में वह रातभर जागता रहा, और ओस की बूँदें तथा बिल्वपत्र नीचे शिवलिंग पर गिरते रहे। बिना जाने उसने रातभर बिल्वपत्र और जल से शिव पूजा कर ली। जब मृत्यु के समय यम के दूत आए, शिव के गण प्रकट हुए और उसे कैलाश ले गए। महाशिवरात्रि पर अनायास की गई पूजा भी अपार पुण्य देती है।",
+          "meaning": "शिव पुराण की यह लोकप्रिय कथा सिखाती है कि भगवान शिव अत्यन्त करुणामय हैं — इस पवित्र रात्रि पर अनजाने में की गई पूजा भी मुक्ति प्रदान करती है। यदि अनायास पूजा इतनी शक्तिशाली है, तो सचेत भक्तिपूर्ण पूजा का पुण्य कितना अपार होगा।",
+          "transliteration": "Mahāśivarātri kathā (sārāṃśa):\nEka śikārī vana meṃ bhaṭakakara rāta meṃ surakṣā ke lie bilva vṛkṣa para car̤ha gayā| anajāne meṃ vaha rātabhara jāgatā rahā, aura osa kī bū~deṃ tathā bilvapatra nīce śivaliṃga para girate rahe| binā jāne usane rātabhara bilvapatra aura jala se śiva pūjā kara lī| jaba mṛtyu ke samaya yama ke dūta āe, śiva ke gaṇa prakaṭa hue aura use kailāśa le gae| mahāśivarātri para anāyāsa kī gaī pūjā bhī apāra puṇya detī hai|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "लिंगाष्टकम् (श्लोक १):\nब्रह्ममुरारिसुरार्चितलिंगं\nनिर्मलभासितशोभितलिंगम्\nजन्मजदुःखविनाशकलिंगं\nतत् प्रणमामि सदाशिवलिंगम्",
+          "meaning": "ब्रह्मा, विष्णु और देवताओं द्वारा पूजित, निर्मल और सुशोभित, जन्म के दुःखों का नाश करने वाले उस सदाशिव लिंग को मैं सदा नमन करता हूँ।",
+          "transliteration": "Liṃgāṣṭakam (śloka 1):\nBrahmamurārisurārcitaliṃgaṃ\nNirmalabhāsitaśobhitaliṃgam\nJanmajaduḥkhavināśakaliṃgaṃ\nTat praṇamāmi sadāśivaliṃgam",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "vrat_santoshi_mata",
+      "title": "संतोषी माता व्रत (शुक्रवार)",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/vrat_utsav/santoshi_mata.jpg",
+      "orderIndex": 14,
+      "content": [
+        {
+          "shloka": "ॐ सन्तोषिण्यै नमः\nजय सन्तोषी माता, जय सन्तोषी माता\nअपर्णापार महिमा सब विधिवत गाता",
+          "meaning": "संतोषी माता को नमस्कार। जय संतोषी माता! आपकी असीम महिमा सभी विधिवत गाते हैं।",
+          "transliteration": "Oṃ santoṣiṇyai namaḥ\nJaya santoṣī mātā, jaya santoṣī mātā\nAparṇāpāra mahimā saba vidhivata gātā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "संतोषी माता व्रत विधि:\n१. लगातार १६ शुक्रवार व्रत रखें।\n२. प्रातःकाल उठें, स्नान करें और स्वच्छ वस्त्र पहनें।\n३. संतोषी माता की प्रतिमा वेदी पर स्थापित करें।\n४. गुड़-चने का प्रसाद अर्पित करें।\n५. घी का दीपक और अगरबत्ती जलाएँ।\n६. 'ॐ सन्तोषिण्यै नमः' का जप करें और आरती करें।\n७. संतोषी माता व्रत कथा पढ़ें।\n८. सादा भोजन करें — व्रत काल में कोई भी खट्टा पदार्थ वर्जित है।\n९. १७वें शुक्रवार को उद्यापन भोज करें (खट्टा भोजन वर्जित)।",
+          "meaning": "संतोषी माता व्रत विधि: यह व्रत भगवान गणेश की पुत्री संतोषी देवी को समर्पित है। यह १६ शुक्रवार तक किया जाता है। सबसे महत्वपूर्ण नियम है कि व्रत काल में कोई भी खट्टा (अम्ल) पदार्थ न खाएँ। इसकी सरलता और सुगमता ने इसे अत्यन्त लोकप्रिय बनाया है।",
+          "transliteration": "Saṃtoṣī mātā vrata vidhi:\n1. lagātāra 16 śukravāra vrata rakheṃ|\n2. prātaḥkāla uṭheṃ, snāna kareṃ aura svaccha vastra pahaneṃ|\n3. saṃtoṣī mātā kī pratimā vedī para sthāpita kareṃ|\n4. gur̤a-cane kā prasāda arpita kareṃ|\n5. ghī kā dīpaka aura agarabattī jalāe~|\n6. 'oṃ santoṣiṇyai namaḥ' kā japa kareṃ aura āratī kareṃ|\n7. saṃtoṣī mātā vrata kathā par̤heṃ|\n8. sādā bhojana kareṃ — vrata kāla meṃ koī bhī khaṭṭā padārtha varjita hai|\n9. 17veṃ śukravāra ko udyāpana bhoja kareṃ (khaṭṭā bhojana varjita)|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "संतोषी माता कथा (सारांश):\nसत्यवती नामक एक गरीब स्त्री ने एक वृद्ध महिला के मार्गदर्शन में १६ शुक्रवार संतोषी माता का व्रत किया। उसने श्रद्धापूर्वक गुड़-चने अर्पित किए और खट्टे भोजन से बचती रही। संतोषी माता प्रसन्न हुईं और उसके पति के भाग्य को बदल दिया — वह विदेश से अपार धन लेकर लौटा। परन्तु ईर्ष्यालु सम्बन्धियों ने सत्यवती को उद्यापन के समय खट्टा भोजन खिला दिया, जिससे देवी कुपित हुईं। पश्चाताप कर उद्यापन दोबारा करने पर संतोषी माता ने सभी आशीर्वाद पुनः प्रदान किए।",
+          "meaning": "संतोषी माता कथा सिखाती है कि व्रत का पालन नियमों के अनुसार करना आवश्यक है, विशेषतः खट्टे भोजन से बचना। देवी विश्वासी भक्तों को समृद्धि और सन्तोष प्रदान करती हैं।",
+          "transliteration": "Saṃtoṣī mātā kathā (sārāṃśa):\nSatyavatī nāmaka eka garība strī ne eka vṛddha mahilā ke mārgadarśana meṃ 16 śukravāra saṃtoṣī mātā kā vrata kiyā| usane śraddhāpūrvaka gur̤a-cane arpita kie aura khaṭṭe bhojana se bacatī rahī| saṃtoṣī mātā prasanna huīṃ aura usake pati ke bhāgya ko badala diyā — vaha videśa se apāra dhana lekara lauṭā| parantu īrṣyālu sambandhiyoṃ ne satyavatī ko udyāpana ke samaya khaṭṭā bhojana khilā diyā, jisase devī kupita huīṃ| paścātāpa kara udyāpana dobārā karane para saṃtoṣī mātā ne sabhī āśīrvāda punaḥ pradāna kie|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "संतोषी माता आरती:\nजय संतोषी माता मैया जय संतोषी माता\nअपर्णापार महिमा सब विधिवत गाता\nगुड़ चने का भोग लगाऊँ और कुछ नहीं चाहिए\nमाता तेरे भक्तों को कभी दुःख नहीं साहिए",
+          "meaning": "जय संतोषी माता मैया! आपकी असीम महिमा सभी गाते हैं। मैं गुड़-चने का भोग लगाता/लगाती हूँ — और कुछ नहीं चाहिए। हे माता, आपके भक्तों को कभी दुःख नहीं सहना चाहिए।",
+          "transliteration": "Saṃtoṣī mātā āratī:\nJaya saṃtoṣī mātā maiyā jaya saṃtoṣī mātā\nAparṇāpāra mahimā saba vidhivata gātā\nGur̤a cane kā bhoga lagāū~ aura kucha nahīṃ cāhie\nMātā tere bhaktoṃ ko kabhī duḥkha nahīṃ sāhie",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "utsav_guru_purnima",
+      "title": "गुरु पूर्णिमा",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/vrat_utsav/guru_purnima.jpg",
+      "orderIndex": 15,
+      "content": [
+        {
+          "shloka": "गुरुर्ब्रह्मा गुरुर्विष्णुः गुरुर्देवो महेश्वरः\nगुरुः साक्षात् परब्रह्म तस्मै श्री गुरवे नमः",
+          "meaning": "गुरु ब्रह्मा (सृष्टिकर्ता) हैं, गुरु विष्णु (पालनकर्ता) हैं, गुरु महेश्वर (संहारकर्ता) हैं। गुरु साक्षात् परब्रह्म हैं। उन श्री गुरु को नमस्कार।",
+          "transliteration": "Gururbrahmā gururviṣṇuḥ gururdevo maheśvaraḥ\nGuruḥ sākṣāt parabrahma tasmai śrī gurave namaḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "गुरु पूर्णिमा विधि:\n१. आषाढ़ पूर्णिमा (आषाढ़ मास की पूर्णिमा, जुलाई) को मनाया जाता है।\n२. प्रातःकाल उठें, स्नान करें और स्वच्छ वस्त्र पहनें।\n३. अपने गुरु के दर्शन करें या गुरु की प्रतिमा/चित्र वेदी पर रखें।\n४. गुरु को पुष्प, फल और मिठाई अर्पित करें।\n५. गुरु के चरण धोएँ (पादपूजा) या प्रतीकात्मक रूप से प्रतिमा धोएँ।\n६. गुरु स्तोत्रम् का पाठ करें और प्रार्थना करें।\n७. गुरु की शिक्षाओं पर चिन्तन करें।\n८. गुरु के नाम पर दान-पुण्य करें।\n९. गुरु का आशीर्वाद लें और ज्ञान के मार्ग पर चलने का संकल्प करें।",
+          "meaning": "गुरु पूर्णिमा विधि: यह दिन महर्षि व्यास को सम्मानित करता है जिन्होंने वेदों का संकलन, महाभारत की रचना और पुराणों की रचना की। इसे व्यास पूर्णिमा भी कहते हैं। शिष्य अपने आध्यात्मिक और शैक्षणिक गुरुओं का सम्मान करते हैं।",
+          "transliteration": "Guru pūrṇimā vidhi:\n1. āṣār̤ha pūrṇimā (āṣār̤ha māsa kī pūrṇimā, julāī) ko manāyā jātā hai|\n2. prātaḥkāla uṭheṃ, snāna kareṃ aura svaccha vastra pahaneṃ|\n3. apane guru ke darśana kareṃ yā guru kī pratimā/citra vedī para rakheṃ|\n4. guru ko puṣpa, phala aura miṭhāī arpita kareṃ|\n5. guru ke caraṇa dhoe~ (pādapūjā) yā pratīkātmaka rūpa se pratimā dhoe~|\n6. guru stotram kā pāṭha kareṃ aura prārthanā kareṃ|\n7. guru kī śikṣāoṃ para cintana kareṃ|\n8. guru ke nāma para dāna-puṇya kareṃ|\n9. guru kā āśīrvāda leṃ aura jñāna ke mārga para calane kā saṃkalpa kareṃ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "गुरु गीता (चयनित श्लोक):\nअखण्डमण्डलाकारं व्याप्तं येन चराचरम्\nतत्पदं दर्शितं येन तस्मै श्री गुरवे नमः\nअज्ञानतिमिरान्धस्य ज्ञानाञ्जनशलाकया\nचक्षुरुन्मीलितं येन तस्मै श्री गुरवे नमः",
+          "meaning": "जिन्होंने उस शाश्वत सत्य को प्रकट किया जो चराचर सम्पूर्ण विश्व में व्याप्त है, उन श्री गुरु को नमस्कार। जिन्होंने अज्ञान के अन्धकार से अन्धे की आँखें ज्ञान के अंजन की शलाका से खोलीं, उन श्री गुरु को नमस्कार।",
+          "transliteration": "Guru gītā (cayanita śloka):\nAkhaṇḍamaṇḍalākāraṃ vyāptaṃ yena carācaram\nTatpadaṃ darśitaṃ yena tasmai śrī gurave namaḥ\nAjñānatimirāndhasya jñānāñjanaśalākayā\nCakṣurunmīlitaṃ yena tasmai śrī gurave namaḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "व्यास स्तुति:\nनमोऽस्तुते व्यास विशालबुद्धे फुल्लारविन्दायतपत्रनेत्र\nयेन त्वया भारततैलपूर्णः प्रज्वालितो ज्ञानमयः प्रदीपः",
+          "meaning": "विशाल बुद्धि वाले व्यास को नमस्कार, जिनके नेत्र पूर्ण रूप से विकसित कमल की पंखुड़ियों के समान हैं। आपने महाभारत रूपी तेल से भरा ज्ञानमय दीपक प्रज्वलित किया।",
+          "transliteration": "Vyāsa stuti:\nNamo'stute vyāsa viśālabuddhe phullāravindāyatapatranetra\nYena tvayā bhāratatailapūrṇaḥ prajvālito jñānamayaḥ pradīpaḥ",
+          "imageUrl": null
+        }
+      ]
+    }
+  ]
+}

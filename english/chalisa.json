@@ -1,5 +1,5 @@
 {
-  "category": "Chalisa",
+  "category": "Chalisa Sangrah",
   "version": 1,
   "items": [
     {
@@ -10,14 +10,277 @@
       "orderIndex": 1,
       "content": [
         {
-          "shloka": "Shri Guru Charan Saroj Raj",
-          "transliteration": "Śrī guru charan saroja raja",
-          "meaning": "With the dust of my Guru’s lotus feet, I cleanse the mirror of my mind."
+          "shloka": "Shri Guru charan saroj raj, nij manu mukuru sudhari.\nBaranau Raghubar bimal yash, jo dayaku phal chari.",
+          "meaning": "After cleansing the mirror of my mind with the dust of the lotus feet of Shri Guru, I describe the pure glory of Shri Rama, who bestows the four fruits of life.",
+          "transliteration": "Śrī Guru caraṇa saroja raja, nija manu mukuru sudhāri.\nBaranau Raghubar bimala yaśa, jo dāyaku phala cāri.",
+          "imageUrl": null
         },
         {
-          "shloka": "Budhi Heen Tanu Janike",
-          "transliteration": "Buddhi hīn tanu jānike",
-          "meaning": "Knowing my intellect to be weak, I remember Hanuman to grant me strength."
+          "shloka": "Buddhiheen tanu janike, sumirau Pavan Kumar.\nBal buddhi vidya dehu mohi, harahu kalesh bikaar.",
+          "meaning": "Knowing myself to be ignorant, I remember Hanuman, the son of the wind god. Grant me strength, wisdom, and knowledge, and remove all my afflictions and impurities.",
+          "transliteration": "Buddhihīna tanu jānike, sumirau Pavana Kumāra.\nBala buddhi vidyā dehu mohi, harahu kaleśa bikāra.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Jai Hanuman gyan gun sagar,\nJai Kapis tihun lok ujagar.\nRam doot atulit bal dhama,\nAnjani putra Pavan sut nama.",
+          "meaning": "Victory to Hanuman, the ocean of wisdom and virtue. Victory to the lord of monkeys, who illumines the three worlds. You are the messenger of Rama, the abode of immeasurable strength, son of Anjani, known as the son of the wind.",
+          "transliteration": "Jaya Hanumāna jñāna guṇa sāgara,\nJaya Kapīśa tihun loka ujāgara.\nRāma dūta atulita bala dhāmā,\nAñjanī putra Pavana suta nāmā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Mahabir bikram Bajrangi,\nKumati nivar sumati ke sangi.\nKanchan baran biraj subesa,\nKanan kundal kunchit kesa.",
+          "meaning": "O great hero of tremendous valor with a body strong as a thunderbolt, you are the dispeller of evil thoughts and the companion of good wisdom. Your complexion is golden and your attire magnificent, with earrings in your ears and curly hair.",
+          "transliteration": "Mahābīra bikrama Bajaraṅgī,\nKumati nivāra sumati ke saṅgī.\nKañcana barana birāja subesā,\nKānana kuṇḍala kuñcita keśā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Hath bajra au dhvaja biraje,\nKandhe moonj janeu saaje.\nShankar suvan Kesari Nandan,\nTej pratap maha jag bandan.",
+          "meaning": "In your hands shine the mace and the banner, and a sacred thread of munja grass adorns your shoulder. You are an incarnation of Shiva and the son of Kesari, your radiance and glory are revered throughout the world.",
+          "transliteration": "Hātha bajra au dhvajā birājai,\nKāndhe mūnja janeū sājai.\nŚaṅkara suvana Kesarī Nandana,\nTeja pratāpa mahā jaga bandana.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Vidyavan guni ati chatur,\nRam kaj karibe ko aatur.\nPrabhu charitra sunibe ko rasiya,\nRam Lakhan Sita man basiya.",
+          "meaning": "You are learned, virtuous, and very clever, ever eager to serve the cause of Rama. You delight in hearing the stories of the Lord, and Rama, Lakshmana, and Sita dwell in your heart.",
+          "transliteration": "Vidyāvāna guṇī ati cātura,\nRāma kāja karibe ko ātura.\nPrabhu caritra sunibe ko rasiyā,\nRāma Lakhaṇa Sītā mana basiyā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sukshma roop dhari Siyahi dikhava,\nBikat roop dhari Lanka jarava.\nBhim roop dhari asur sanhare,\nRamchandra ke kaj sanvare.",
+          "meaning": "You appeared before Sita in a tiny form, and in a terrifying form you set Lanka ablaze. In a mighty form you destroyed the demons and accomplished all of Rama's missions.",
+          "transliteration": "Sūkṣma rūpa dhari Siyahi dikhāvā,\nBikaṭa rūpa dhari Laṅkā jarāvā.\nBhīma rūpa dhari asura saṃhāre,\nRāmacandra ke kāja saṃvāre.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Laye Sanjivan Lakhan jiyaye,\nShri Raghubir harashi ur laye.\nRaghupati kinhi bahut badai,\nTum mam priy Bharat-hi sam bhai.",
+          "meaning": "You brought the Sanjivani herb and revived Lakshmana. Shri Rama embraced you with great joy. Rama praised you greatly, saying you are as dear to him as his brother Bharata.",
+          "transliteration": "Lāye Sañjīvana Lakhana jiyāye,\nŚrī Raghubīra haraṣi ura lāye.\nRaghupati kinhī bahuta baḍāī,\nTuma mama priya Bharata-hi sama bhāī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sahas badan tumharo yash gaave,\nAs kahi Shripati kanth lagave.\nSankadhik Brahmaadi Muneesa,\nNarad Sharad sahit Aheesa.",
+          "meaning": "The thousand-headed Shesha sings your glory, and saying this, Lord Vishnu embraced you. Brahma, sages like Sanaka, Narada, Sharada, and the serpent king all praise you.",
+          "transliteration": "Sahasa badana tumharo yaśa gāvai,\nAsa kahi Śrīpati kaṇṭha lagāvai.\nSanakādika Brahmādi Munīśā,\nNārada Śārada sahita Ahīśā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Jam Kuber Digpal jahan te,\nKabi kobid kahi sake kahan te.\nTum upkar Sugrivahin keenha,\nRam milaye rajpad deenha.",
+          "meaning": "Yama, Kubera, and the guardians of the directions, poets and scholars -- none can fully describe your glory. You helped Sugriva by introducing him to Rama, who restored his kingdom.",
+          "transliteration": "Yama Kubera Digapāla jahān te,\nKabi kobida kahi sake kahān te.\nTuma upakāra Sugrīvahi kīnhā,\nRāma milāye rājapada dīnhā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Tumharo mantra Vibhishan mana,\nLankeshwar bhaye sab jag jana.\nYug sahasra yojan par Bhanu,\nLeelyo tahi madhur phal janu.",
+          "meaning": "Your counsel was taken to heart by Vibhishana, and through you he became the king of Lanka, as the whole world knows. You swallowed the sun, thousands of miles away, mistaking it for a sweet fruit.",
+          "transliteration": "Tumharo mantra Vibhīṣaṇa mānā,\nLaṅkeśvara bhaye saba jaga jānā.\nYuga sahasra yojana para Bhānu,\nLīlyo tāhi madhura phala jānū.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Prabhu mudrika meli mukh mahee,\nJaladhi langhi gaye achraj nahee.\nDurgam kaj jagat ke jete,\nSugam anugraha tumhre tete.",
+          "meaning": "Carrying the Lord's ring in your mouth, it was no surprise that you leaped across the ocean. All the difficult tasks in this world become easy with your grace.",
+          "transliteration": "Prabhu mudrikā meli mukha māhī,\nJaladhi lāṅghi gaye acaraja nāhī.\nDurgama kāja jagata ke jete,\nSugama anugraha tumhare tete.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ram duare tum rakhvare,\nHot na agya binu paisare.\nSab sukh lahai tumhari sarna,\nTum rakshak kahu ko darna.",
+          "meaning": "You are the guardian at the door of Rama; none can enter without your permission. All happiness is found in your refuge; those under your protection need fear nothing.",
+          "transliteration": "Rāma duāre tuma rakhavāre,\nHota na ājñā binu paisāre.\nSaba sukha lahai tumhārī śaranā,\nTuma rakṣaka kāhū ko ḍaranā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Aapan tej samharo aapai,\nTeenon lok hank te kanpai.\nBhut pisach nikat nahin aavai,\nMahabir jab naam sunavai.",
+          "meaning": "Only you can control your own splendor; the three worlds tremble at your roar. Ghosts and evil spirits dare not come near when one utters the name of Mahabir.",
+          "transliteration": "Āpana teja samhāro āpai,\nTīnon loka hāṅka te kāṅpai.\nBhūta piśāca nikaṭa nahi āvai,\nMahābīra jaba nāma sunāvai.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Naasai rog harai sab peera,\nJapat nirantar Hanumat beera.\nSankat te Hanuman chhudavai,\nMan kram bachan dhyan jo lavai.",
+          "meaning": "All diseases and pains are destroyed by constantly chanting the name of brave Hanuman. Hanuman rescues from all calamities those who remember him in thought, deed, and word.",
+          "transliteration": "Nāsai roga harai saba pīrā,\nJapata nirantara Hanumata bīrā.\nSaṅkaṭa te Hanumāna chuḍāvai,\nMana krama bacana dhyāna jo lāvai.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sab par Ram tapasvi Raja,\nTin ke kaj sakal tum saja.\nAur manorath jo koi lavai,\nSoi amit jivan phal pavai.",
+          "meaning": "Rama reigns as the supreme ascetic king, and you accomplish all his work. Whoever comes to you with any desire obtains the imperishable fruit of life.",
+          "transliteration": "Saba para Rāma tapasvi Rājā,\nTina ke kāja sakala tuma sājā.\nAura manoratha jo koī lāvai,\nSoī amita jīvana phala pāvai.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Charon yug partap tumhara,\nHai parsiddh jagat ujiyara.\nSadhu sant ke tum rakhvare,\nAsur nikandan Ram dulare.",
+          "meaning": "Your glory spreads across all four ages and is renowned throughout the world. You are the protector of saints and sages, the destroyer of demons, and the beloved of Rama.",
+          "transliteration": "Cāron yuga paratāpa tumhārā,\nHai parasiddha jagata ujiyārā.\nSādhu santa ke tuma rakhavāre,\nAsura nikandana Rāma dulāre.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ashta siddhi nav nidhi ke data,\nAs bar deen Janaki Mata.\nRam rasayan tumhare pasa,\nSada raho Raghupati ke dasa.",
+          "meaning": "Mother Janaki (Sita) granted you the boon of bestowing the eight supernatural powers and nine treasures. You hold the elixir of devotion to Rama; may you ever remain the servant of Raghupati.",
+          "transliteration": "Aṣṭa siddhi nava nidhi ke dātā,\nAsa bara dīna Jānakī Mātā.\nRāma rasāyana tumhare pāsā,\nSadā raho Raghupati ke dāsā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Tumhare bhajan Ram ko pavai,\nJanam janam ke dukh bisravai.\nAnta kaal Raghubar pur jai,\nJahan janam Hari-Bhakt kahai.",
+          "meaning": "Through your worship, one attains Rama and forgets the sorrows of many lifetimes. At the end of life, one reaches the abode of Rama, and wherever one is born, one is known as a devotee of Hari.",
+          "transliteration": "Tumhare bhajana Rāma ko pāvai,\nJanama janama ke dukha bisarāvai.\nAnta kāla Raghubara pura jāī,\nJahān janama Hari-Bhakta kahāī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Aur devta chitt na dharai,\nHanumat sei sarb sukh karai.\nSankat katai mitai sab peera,\nJo sumirai Hanumat Balbeera.",
+          "meaning": "Even if one does not worship any other deity, Hanuman alone bestows all happiness. All afflictions are removed and all pains vanish for those who remember the mighty Hanuman.",
+          "transliteration": "Aura devatā citta na dharaī,\nHanumata sei sarba sukha karaī.\nSaṅkaṭa kaṭai miṭai saba pīrā,\nJo sumire Hanumata Balabīrā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Jai Jai Jai Hanuman Gosai,\nKripa karahu Gurudev ki nai.\nJo sat bar path kare koi,\nChhuthi bandhi maha sukh hoi.",
+          "meaning": "Victory, victory, victory to Lord Hanuman! Bestow your grace upon me as my Guru. Whoever recites this a hundred times is freed from bondage and attains supreme bliss.",
+          "transliteration": "Jaya Jaya Jaya Hanumāna Gosāī,\nKṛpā karahu Gurudeva kī nāī.\nJo śata bāra pāṭha kare koī,\nChūṭahi bandhi mahā sukha hoī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Jo yah padhe Hanuman Chalisa,\nHoy siddhi sakhi Gaurisa.\nTulsidas sada Hari chera,\nKeejai Nath hriday mah dera.",
+          "meaning": "Whoever reads this Hanuman Chalisa attains spiritual fulfillment, as Lord Shiva is witness. Tulsidas, always a servant of Hari, prays: O Lord, make my heart your abode.",
+          "transliteration": "Jo yaha paḍhai Hanumāna Cālīsā,\nHoya siddhi sākhī Gaurīśā.\nTulasīdāsa sadā Hari cerā,\nKījai Nātha hṛdaya maha ḍerā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Pavan Tanay sankat haran, Mangal murati roop.\nRam Lakhan Sita sahit, Hriday basahu sur bhoop.",
+          "meaning": "O son of the wind, remover of calamities, embodiment of auspiciousness, dwell in my heart along with Rama, Lakshmana, and Sita, O king among the gods.",
+          "transliteration": "Pavana Tanaya saṅkaṭa harana, Maṅgala mūrati rūpa.\nRāma Lakhana Sītā sahita, Hṛdaya basahu sura bhūpa.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "chalisa_ganesh",
+      "title": "Ganesh Chalisa",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/chalisa/ganesh.jpg",
+      "orderIndex": 2,
+      "content": [
+        {
+          "shloka": "Jai Ganpati Sadgun Sadan,\nKavivar Badan Kripaal.\nVighna Haran Mangal Karan,\nJai Jai Girijaalaal.",
+          "meaning": "Victory to Ganapati, the abode of virtues, with a beautiful face and compassionate nature. Remover of obstacles and bestower of auspiciousness, victory to the son of Girija (Parvati).",
+          "transliteration": "Jaya Gaṇapati Sadguṇa Sadana,\nKavivara Badana Kṛpāla.\nVighna Haraṇa Maṅgala Karaṇa,\nJaya Jaya Girijālāla.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Jai Jai Jai Ganpati Ganraju,\nMangal bharan karan shubh kaju.\nJai Gajbadan Sadan Sukhdaata,\nVishwa Vinaayak Buddhi Vidhaata.",
+          "meaning": "Victory to Ganapati, the king of the ganas, who fills all auspicious tasks with blessings. Victory to the elephant-faced one, the bestower of happiness, the lord of the universe, and the giver of wisdom.",
+          "transliteration": "Jaya Jaya Jaya Gaṇapati Gaṇarāju,\nMaṅgala bharaṇa karaṇa śubha kāju.\nJaya Gajabadana Sadana Sukhadātā,\nViśva Vināyaka Buddhi Vidhātā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Vakra Tund Shund Suviraajit,\nShobhit Sindur Tilak Samaajit.\nRakta Vasan Nav Nirmal Gaata,\nJhilmil Jhilmil Lochan Suhata.",
+          "meaning": "Your curved trunk is magnificently adorned, decorated with a beautiful vermilion mark. You wear red garments on your divine body, and your twinkling eyes are enchanting.",
+          "transliteration": "Vakra Tuṇḍa Śuṇḍa Suvirājita,\nŚobhita Sindūra Tilaka Samājita.\nRakta Vasana Nava Nirmala Gātā,\nJhilamila Jhilamila Locana Suhātā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Gaj Baini Bhaganhaari Suhaai,\nNeelkamalbimal Nen Suhavani.\nKankan Kundal Uditaang Raajit,\nHar Kesh Muktahaar Saajit.",
+          "meaning": "Your elephant brow is beautiful and captivating, and your eyes are pure like blue lotuses. Bracelets and earrings shine on your radiant body, and your hair is adorned with a pearl necklace.",
+          "transliteration": "Gaja Bainī Bhaganaharī Suhāī,\nNīlakamala bimala Nena Suhāvanī.\nKaṅkana Kuṇḍala Uditāṅga Rājita,\nHāra Keśa Muktāhāra Sājita.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Modak Priy Mudmangalkari,\nVidya Varidhi Buddhi Ujaari.\nMaangat Tulasidas Kar Jore,\nBasahu Hriday Kripaa Drishti More.",
+          "meaning": "You love modak sweets and bestow joy and auspiciousness. You are the ocean of learning and the illuminator of intelligence. Tulsidas begs with folded hands: dwell in my heart and cast your gracious glance upon me.",
+          "transliteration": "Modaka Priya Mudamaṅgalakārī,\nVidyā Vāridhi Buddhi Ujārī.\nMāṅgata Tulasīdāsa Kara Jore,\nBasahu Hṛdaya Kṛpā Dṛṣṭi More.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sindhoor Laal Charchaavat Gaata,\nShubh Drishti Tumhari Man Bhaata.\nKar Mein Modak Loddoo Saaje,\nHar Chhand Vilambito Suhavane Gaaje.",
+          "meaning": "Your body is smeared with red vermilion, and your auspicious gaze captivates the mind. In your hands are decorated modaks and laddoos, and your beautiful melodies resound in every verse.",
+          "transliteration": "Sindūra Lāla Carcāvata Gātā,\nŚubha Dṛṣṭi Tumhārī Mana Bhātā.\nKara Meṃ Modaka Loḍḍū Sāje,\nHara Chanda Vilambito Suhāvane Gāje.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Bhaal Tilak Darshan Paripaavana,\nJo Nar Dhyaavat Moosha Vaahana.\nKaanan Kundal Jhilmil Taare,\nNayan Manohar Bhaav Nihaare.",
+          "meaning": "The tilak on your forehead is sacred to behold, and blessed is the one who meditates on the rider of the mouse. Your earrings twinkle like stars, and your eyes behold all with beautiful emotion.",
+          "transliteration": "Bhāla Tilaka Darśana Paripāvana,\nJo Nara Dhyāvata Mūṣa Vāhana.\nKānana Kuṇḍala Jhilamila Tāre,\nNayana Manohara Bhāva Nihāre.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Tanu Rajeev Tanman Dhan Daata,\nTum Samaan Nahin Koi Vikhyaata.\nShesh Mahesh Ganesh Gun Gaavat,\nSaarad Shankar Vedh Bataavat.",
+          "meaning": "Your body is radiant and you are the giver of mind, body, and wealth. There is none as famous as you. Shesha, Shiva, and all praise Ganesha's virtues, while Saraswati, Shankar, and the Vedas proclaim your glory.",
+          "transliteration": "Tanu Rājīva Tanamana Dhana Dātā,\nTuma Samāna Nahi Koī Vikhyātā.\nŚeṣa Maheśa Gaṇeśa Guṇa Gāvata,\nŚārada Śaṅkara Veda Batāvata.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Aru Devtaa Nar Muni Jete,\nPahile Tum Ko Poojat Tete.\nAisa Yash Tum Jagat Maaheen,\nTum Samaan Prabhu Koi Naaheen.",
+          "meaning": "All the gods, humans, and sages worship you first above all. Such is your glory in this world; there is no lord equal to you.",
+          "transliteration": "Aru Devatā Nara Muni Jete,\nPahile Tuma Ko Pūjata Tete.\nAisā Yaśa Tuma Jagata Māhī,\nTuma Samāna Prabhu Koī Nāhī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Neetal Feral Vimal Tanu Sohe,\nSab Jan Mann Maahen Moh Mohe.\nBhojan Priya Tundil Stuti Gaavat,\nPrasann Hoy Jab Bhakt Bulaavat.",
+          "meaning": "Your pure body shines with a blue hue and captivates the minds of all. You love food, and your large belly is praised in hymns; you are pleased when devotees call upon you.",
+          "transliteration": "Nīlala Pherala Vimala Tanu Sohe,\nSaba Jana Mana Māheṃ Moha Mohe.\nBhojana Priya Tuṇḍila Stuti Gāvata,\nPrasanna Hoya Jaba Bhakta Bulāvata.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Chatur Viraajit Kripaanidhaan,\nSantat Sundara Sada Sujaan.\nBahujan Hridaya Mein Deva Biraje,\nVishwa Karta Shir Mukut Saaje.",
+          "meaning": "You are seated in splendor, the treasury of mercy, eternally beautiful and ever wise. In the hearts of all beings, this god resides, the creator of the universe, crowned with a majestic diadem.",
+          "transliteration": "Catura Virājita Kṛpānidhāna,\nSantata Sundara Sadā Sujāna.\nBahujana Hṛdaya Meṃ Deva Birāje,\nViśva Kartā Śira Mukuṭa Sāje.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Mushak Vaahan Mohe Mann Bhaavai,\nGatan Vighna Vighnahin Naashavai.\nVighn Vinaashan Mangal Kaari,\nKripaalu Kripa Karo Mahatari.",
+          "meaning": "The mouse vehicle is pleasing to my heart. You clear the path and destroy all obstacles. O destroyer of obstacles and source of auspiciousness, O merciful one, bestow your grace, O great lord.",
+          "transliteration": "Mūṣaka Vāhana Mohe Mana Bhāvai,\nGatana Vighna Vighnahiṃ Nāśavai.\nVighna Vināśana Maṅgala Kārī,\nKṛpālu Kṛpā Karo Mahātārī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Tumhe Manaav Buddhi Ram Shabad,\nAsh Ashtak Mangal Prasad.\nDhoopam Deepam Phal Bal Bhog,\nPranavat Hi Katai Sab Rog.",
+          "meaning": "I worship you with intellect, the name of Rama, eight auspicious offerings, and sacred prasad. With incense, lamp, fruit, and food offerings, all diseases are dispelled by bowing to you.",
+          "transliteration": "Tumhe Manāva Buddhi Rāma Śabada,\nAṣṭa Aṣṭaka Maṅgala Prasāda.\nDhūpam Dīpam Phala Bala Bhoga,\nPraṇavata Hī Kaṭai Saba Roga.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Mangal Murti Marut Nandan,\nSakal Amangl Ko Khandn.\nBite Sab Jan Ke Sankat Bhaari,\nJo Sumire Shri Gauri Sut Vaari.",
+          "meaning": "O auspicious one, son of the wind (another form), you destroy all inauspiciousness. The heavy troubles of all people are removed when they remember the beloved son of Gauri.",
+          "transliteration": "Maṅgala Mūrti Māruta Nandana,\nSakala Amaṅgala Ko Khaṇḍana.\nBīte Saba Jana Ke Saṅkaṭa Bhārī,\nJo Sumire Śrī Gaurī Suta Vārī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Siddhi Vinayak Khol Aadhar,\nSumirat Prabhu Jag Mangalkaar.\nTrusthi Pusht Aru Maha Alankaar,\nGiri Sur Nandan Manohar.",
+          "meaning": "O Siddhi Vinayak, open the doors of support. Remembering the Lord brings auspiciousness to the world. You are adorned with satisfaction, nourishment, and magnificent ornaments, O delightful son of the mountain lord.",
+          "transliteration": "Siddhi Vināyaka Khola Ādhāra,\nSumirata Prabhu Jaga Maṅgalakāra.\nTuṣṭi Puṣṭi Aru Mahā Alaṅkāra,\nGiri Sura Nandana Manohara.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Maha Devsuvan Paarvatee Nandan,\nGatan Vighna Karan Aanandan.\nRiddhi Siddhi Ke Kaaran Data,\nGrih Saubhaagya Samriddhi Vidhaata.",
+          "meaning": "O son of Mahadeva and Parvati, you remove obstacles and bestow bliss. You are the giver of Riddhi and Siddhi (prosperity and accomplishment), the creator of household fortune and abundance.",
+          "transliteration": "Mahā Devasuvana Pārvatī Nandana,\nGatana Vighna Karaṇa Ānandana.\nṚddhi Siddhi Ke Kāraṇa Dātā,\nGṛha Saubhāgya Samṛddhi Vidhātā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ek Dant Dayaavant Chari,\nKarunadhaar Vimal Bichari.\nKahun Kitna Tav Gun Mahin,\nTum Samaan Daata Koi Nahin.",
+          "meaning": "O one-tusked one, compassionate in nature, merciful and pure in thought. How much can I describe your virtues? There is no giver equal to you.",
+          "transliteration": "Eka Danta Dayāvanta Cārī,\nKaruṇādhāra Vimala Bicārī.\nKahū Kitanā Tava Guṇa Māhī,\nTuma Samāna Dātā Koī Nāhī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Surpati Narpati Tap Nirantar,\nTapai Manav Sumanav Upar.\nKshudra Janam Jimi Vahe Bhavani,\nHoy Prasanna Teri Mriduvaani.",
+          "meaning": "The king of gods and earthly kings perform penance continuously, and humans and celestials worship you. Even those of humble birth, O son of Bhavani, are uplifted when pleased by your gentle speech.",
+          "transliteration": "Surapati Narapati Tapa Nirantara,\nTapai Mānava Sumānava Upara.\nKṣudra Janma Jimi Vahe Bhavānī,\nHoya Prasanna Terī Mṛduvānī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Vighna Haran Mangal Daata Jan,\nKrupaa Karahu Gurudev Samaan.\nChaalisa Ganaesh Jo Gaavai,\nNit Nav Mangalkaamna Paavai.",
+          "meaning": "O remover of obstacles and giver of auspiciousness, bestow mercy upon me like a divine teacher. Whoever sings this Ganesh Chalisa receives ever-new auspicious blessings daily.",
+          "transliteration": "Vighna Haraṇa Maṅgala Dātā Jana,\nKṛpā Karahu Gurudeva Samāna.\nCālīsā Gaṇeśa Jo Gāvai,\nNita Nava Maṅgalakāmanā Pāvai.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kapat Vinashana Granthi Haari,\nMangal Karan Ati Bhayahaari.\nSab Sankat Ko Naashat Deena,\nJai Jag Kaaran Vighn Vihina.",
+          "meaning": "You destroy deceit and untie all knots, bring auspiciousness and remove great fears. You destroy all troubles of the helpless. Victory to the cause of the world, free from all obstacles.",
+          "transliteration": "Kapaṭa Vināśana Granthi Hārī,\nMaṅgala Karaṇa Ati Bhayahārī.\nSaba Saṅkaṭa Ko Nāśata Dīnā,\nJaya Jaga Kāraṇa Vighna Vihīnā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sumire Ganapati Mann Mein Dhyana,\nPurn Hove Sab Manorath Jaana.\nJai Jai Jai Shri Ganesh Vinayak,\nKarahu Kripa Rakho Jan Nayak.",
+          "meaning": "Meditate on Ganapati in your mind, and know that all your desires shall be fulfilled. Victory, victory, victory to Shri Ganesh Vinayak! Bestow your mercy and protect your devotees, O leader.",
+          "transliteration": "Sumire Gaṇapati Mana Meṃ Dhyāna,\nPūrṇa Hove Saba Manoratha Jānā.\nJaya Jaya Jaya Śrī Gaṇeśa Vināyaka,\nKarahu Kṛpā Rākho Jana Nāyaka.",
+          "imageUrl": null
         }
       ]
     },
@@ -26,37 +289,1162 @@
       "title": "Durga Chalisa",
       "language": "english",
       "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/chalisa/durga.jpg",
-      "orderIndex": 2,
-      "content": [
-        {
-          "shloka": "Namo Namo Durge Sukh Karni",
-          "meaning": "Durga brings prosperity and removes obstacles."
-        }
-      ]
-    },
-    {
-      "id": "chalisa_shani",
-      "title": "Shani Chalisa",
-      "language": "english",
-      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/chalisa/shani.jpg",
       "orderIndex": 3,
       "content": [
         {
-          "shloka": "Jai Jai Shri Shanidev Bhagwan",
-          "meaning": "Shani Dev gives justice based on karma."
+          "shloka": "Namo Namo Durge Sukh Karani,\nNamo Namo Ambe Dukh Harani.",
+          "meaning": "Salutations to you, O Durga, the bestower of happiness. Salutations to you, O Amba, the remover of sorrows.",
+          "transliteration": "Namo Namo Durge Sukha Karaṇī,\nNamo Namo Ambe Dukha Haraṇī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Nirakar hai jyoti tumhari,\nTihun lok phaili ujiyaari.\nSasht roop mein tum hi puri,\nMaheshwari hai deva sundari.",
+          "meaning": "Formless is your divine light, spreading its radiance across the three worlds. You pervade the entire creation in your form; you are Maheshwari, the beautiful goddess among gods.",
+          "transliteration": "Nirākāra hai jyoti tumhārī,\nTihun loka phailī ujiyārī.\nSaśṭha rūpa meṃ tumhī purī,\nMaheśvarī hai deva sundarī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sev tumhaari kara deva dhuvahi,\nBidhi Hari Rudra shakti binu paavahi.\nPratham shaila sut roop banaya,\nNag lok mein tum hi samaaya.",
+          "meaning": "The gods always worship you with devotion. Even Brahma, Vishnu, and Shiva cannot accomplish anything without your power. First you took the form of the daughter of the mountain, then you pervaded the serpent world.",
+          "transliteration": "Seva tumhārī kara deva dhuvahi,\nBidhi Hari Rudra śakti binu pāvahi.\nPrathama Śailasuta rūpa banāyā,\nNāga loka meṃ tumhī samāyā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Doosra roop Brahmacharini,\nTap kar khor mahaadevaa cheeni.\nTeesar Chandraghantaa chabharani,\nChauthi Kushmaandaa shakti dhaarani.",
+          "meaning": "Your second form is Brahmacharini, who won Mahadeva through severe penance. The third is Chandraghanta with her beautiful bell, and the fourth is Kushmanda who holds the power of creation.",
+          "transliteration": "Dūsarā rūpa Brahmacāriṇī,\nTapa kara khoṭa Mahādevā cīnhī.\nTīsarā Candraghaṇṭā chabhāraṇī,\nCauthī Kūṣmāṇḍā śakti dhāraṇī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Paanchve Skanda Mata jab bhayi,\nShashtham Katyayani ati soi.\nSaatve Kaalraatri maha maaya,\nAathva Maha Gauri gun gaaya.",
+          "meaning": "In the fifth form you became Skanda Mata, and the sixth is Katyayani of great glory. The seventh is Kalratri, the great illusion, and the eighth is Maha Gauri whose virtues are sung.",
+          "transliteration": "Pāñcaveṃ Skanda Mātā jaba bhaī,\nṢaṣṭhama Kātyāyanī ati soī.\nSātvīṃ Kālarātri mahā māyā,\nĀṭhavā Mahā Gaurī guṇa gāyā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Nauvee Siddhidaatri jag jaani,\nShiv saṅg tumne paaya maani.\nTumne Madhu Kaitabh maare,\nSunbh Nisunbh bhi sanhare.",
+          "meaning": "The ninth is Siddhidatri, known to the world. With Shiva, you received honor. You slew the demons Madhu and Kaitabha, and also destroyed Shumbha and Nishumbha.",
+          "transliteration": "Nauvīṃ Siddhidātrī jaga jānī,\nŚiva saṅga tumne pāyā mānī.\nTumne Madhu Kaiṭabha māre,\nŚumbha Niśumbha bhi saṃhāre.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Mahishaasur nrip ati abhimaani,\nJehi agha bhar mahi akul-raani.\nTin kee traas dasha dis chhaai,\nDevaan sab mil tumhi bulaayi.",
+          "meaning": "The demon king Mahishasura was extremely arrogant, whose sins made the earth restless. His terror spread in all ten directions, and all the gods together called upon you.",
+          "transliteration": "Mahiṣāsura nṛpa ati abhimānī,\nJehi agha bhara mahi akula-rānī.\nTina kī trāsa daśa disa chāī,\nDevān saba mili tumhi bulāī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Tab Durga tum ne avtaara,\nMahishaasur ko keenha sanhaar.\nTab deva sab sukhi bhaaye,\nShraddhaa se tumhin gun gaaye.",
+          "meaning": "Then you incarnated as Durga and destroyed Mahishasura. All the gods became joyful and sang your praises with devotion.",
+          "transliteration": "Taba Durgā tuma ne avatāra,\nMahiṣāsura ko kīnha saṃhāra.\nTaba deva saba sukhī bhāye,\nŚraddhā se tumhiṃ guṇa gāye.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Tum hi Lakshmi tum hi Sarasvati,\nTumhi prabhaavat devi avadhati.\nTumhi paatalaa Shivaa Subhakaari,\nTumhi shaantaa tum hi raagini pyaari.",
+          "meaning": "You are Lakshmi, you are Saraswati, you are the powerful goddess of all. You are Patala and Shiva, the bestower of good fortune. You are Shanta and you are the beloved Ragini.",
+          "transliteration": "Tumhī Lakṣmī tumhī Sarasvatī,\nTumhī prabhāvata devī avadhātī.\nTumhī Pātālā Śivā Subhakārī,\nTumhī Śāntā tum hī rāginī pyārī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Chausath yogini mangal daata,\nShakti tumhi Shiv ki saangaata.\nPanchami tum hi maai sarasvati,\nTumhi Savitri tum Sati suvirati.",
+          "meaning": "You are the sixty-four yoginis, bestowing auspiciousness. You are the Shakti, the consort of Shiva. On the fifth day you are worshipped as Mother Saraswati. You are Savitri and you are Sati, the virtuous one.",
+          "transliteration": "Cauṣaṣṭi Yoginī Maṅgala Dātā,\nŚakti tumhī Śiva kī sāṅgātā.\nPañcamī tumhī māī Sarasvatī,\nTumhī Sāvitrī tuma Satī suvratī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Rohini tum hi Rajani Ramaani,\nTumhi Trijata tum hi Tripuraani.\nTumhi Kaamdhenu Tum Gayatri,\nNimada Punyasalilaa Sarayu Matri.",
+          "meaning": "You are Rohini, Rajani, and Ramani. You are Trijata and Tripurari. You are Kamdhenu and Gayatri. You are the sacred rivers Narmada, Punya Salila, and Mother Sarayu.",
+          "transliteration": "Rohinī tumhī Rajanī Ramāṇī,\nTumhī Trijaṭā tumhī Tripurāṇī.\nTumhī Kāmadhenū Tuma Gāyatrī,\nNarmadā Puṇyasalilā Sarayū Mātrī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Tumhi Tulsi tum hi Vrinda pyari,\nTumhee Karuna Roop Khapparawaari.\nSab Dev tumhaare ageh aayen,\nSab ki bidhi tumse banaaye.",
+          "meaning": "You are Tulsi and the beloved Vrinda. You are the compassionate one who wears the skull garland. All the gods come before you, and all affairs are resolved through you.",
+          "transliteration": "Tumhī Tulasī tumhī Vṛndā pyārī,\nTumhī Karuṇā Rūpa Khapparavārī.\nSaba Deva tumhāre agaha āyeṃ,\nSaba kī bidhi tumse banāye.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Bhaktan ki rakhvaali tum hi,\nSukhdata dukh nivaari tum hi.\nSharanaagatat hai kripaa nidhaana,\nKarahu kripa gurudev samaan.",
+          "meaning": "You are the protector of devotees, the giver of happiness and the remover of sorrows. You are the treasure of mercy for those who seek your refuge. Bestow mercy like a divine teacher.",
+          "transliteration": "Bhaktana kī rakhavālī tumhī,\nSukhadātā dukha nivārī tumhī.\nŚaraṇāgatata hai kṛpā nidhāna,\nKarahu kṛpā Gurudeva samāna.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Karahu kripa bahu din se dhara,\nManorathan ko pooran kara.\nBandee prem se Maa ko gaavai,\nMangal hi mangal sukh paavai.",
+          "meaning": "Bestow your grace that has been awaited for so long, and fulfill my heart's desires. Whoever sings praises to the Mother with love receives auspiciousness upon auspiciousness and happiness.",
+          "transliteration": "Karahu kṛpā bahu dina se dharā,\nManorathana ko pūraṇa karā.\nBandī prema se Mā ko gāvai,\nMaṅgala hī maṅgala sukha pāvai.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Tera mandir tera dwar,\nMein aayaa teri sharan.\nDayaadrishti jo tum karo,\nKabhi na aavai haran.",
+          "meaning": "Your temple, your door -- I have come to your shelter. If you cast your merciful glance, sorrow shall never come.",
+          "transliteration": "Terā mandira terā dvāra,\nMaiṃ āyā terī śaraṇa.\nDayādṛṣṭi jo tuma karo,\nKabhī na āvai haraṇa.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Nahin chhodun tera dwar Rani,\nJab lag kripa na hoy.\nKahun Kavan sharan tihare,\nJag mein tum bin koi.",
+          "meaning": "I shall not leave your door, O Queen, until your grace descends. Tell me, whom else can I seek refuge in? There is none but you in this world.",
+          "transliteration": "Nahiṃ choḍūṃ terā dvāra Rānī,\nJaba laga kṛpā na hoya.\nKahūṃ kavana śaraṇa tihāre,\nJaga meṃ tuma bina koī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Devi sharanaagatat tihare,\nKripaa nidhi ab darash dikhavahu.\nMahima apar tumhari jaani,\nHar lok mein ujiyaara thani.",
+          "meaning": "O Goddess, I am at your refuge. O treasury of mercy, now reveal yourself. Your infinite glory is known -- in every realm your radiance shines bright.",
+          "transliteration": "Devī śaraṇāgatata tihāre,\nKṛpā nidhi aba darśa dikhāvahu.\nMahimā apāra tumhārī jānī,\nHara loka meṃ ujiyārā thānī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Durga Chalisa jo gaavai,\nSab sukh mangal paavai.\nDevee daas Maalaa karai,\nSab vighna vinash sahai.",
+          "meaning": "Whoever sings the Durga Chalisa receives all happiness and auspiciousness. Whoever serves the Goddess with a garland of devotion finds all obstacles destroyed.",
+          "transliteration": "Durgā Cālīsā jo gāvai,\nSaba sukha maṅgala pāvai.\nDevī dāsa mālā karai,\nSaba vighna vināśa sahai.",
+          "imageUrl": null
         }
       ]
     },
     {
-      "id": "chalisa_laxmi",
-      "title": "Laxmi Chalisa",
+      "id": "chalisa_shiva",
+      "title": "Shiv Chalisa",
       "language": "english",
-      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/chalisa/lakshmi_2.jpg",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/chalisa/shiv.jpg",
       "orderIndex": 4,
       "content": [
         {
-          "shloka": "Jai Laxmi Mata",
-          "meaning": "Goddess Laxmi grants wealth, prosperity, and blessings."
+          "shloka": "Jai Girijaa Pati Dinadayaala,\nSadaa Karat Santan Pratipala.\nBhaal Chandramaa Sohat Nike,\nKanan Kundal Naagaphan Ke.",
+          "meaning": "Victory to the Lord of Girija (Parvati), the compassionate to the humble. He always protects the saints. The crescent moon adorns his forehead beautifully, and serpent hoods serve as his earrings.",
+          "transliteration": "Jaya Girijā Pati Dīnadayālā,\nSadā Karata Santana Pratipālā.\nBhāla Candramā Sohata Nīke,\nKānana Kuṇḍala Nāgaphana Ke.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ang Gaur Shir Gangaa Bahai,\nMundamaal Tan Chaar Lagaahi.\nVastra Khaal Baghambar Sohe,\nChavi Ko Dekh Naag Muni Mohe.",
+          "meaning": "His body is fair, the Ganga flows from his head, a garland of skulls adorns his body with ashes. He wears a tiger skin which looks magnificent; seeing his splendor, even serpents and sages are enchanted.",
+          "transliteration": "Aṅga Gaura Śira Gaṅgā Bahāī,\nMuṇḍamāla Tana Chāra Lagāhī.\nVastra Khāla Baghambara Sohe,\nChavi Ko Dekha Nāga Muni Mohe.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Maina Maatu Ki Hava Dulari,\nVaam Ang Sohat Chhabi Nyaari.\nKar Trishul Sohat Chhabi Bhaari,\nKarat Sadaa Shatrun Kshayakaari.",
+          "meaning": "Maina's beloved daughter (Parvati) adorns his left side with a unique beauty. The trident in his hand has great magnificence, and he always destroys the enemies.",
+          "transliteration": "Mainā Mātu Kī Havā Dulārī,\nVāma Aṅga Sohata Chabi Nyārī.\nKara Triśūla Sohata Chabi Bhārī,\nKarata Sadā Śatruna Kṣayakārī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Nandi Ganesh Sohain Tahan Kaise,\nSagar Madhya Kamal Hain Jaise.\nKartik Shyaam Aur Ganrau,\nYaa Chavi Ko Kahi Jaye Na Kau.",
+          "meaning": "Nandi and Ganesha sit beside him like lotuses in the ocean. Kartikeya, Krishna, and Ganapati are there -- this splendor cannot be described by anyone.",
+          "transliteration": "Nandī Gaṇeśa Sohaiṃ Tahāṃ Kaise,\nSāgara Madhya Kamala Haiṃ Jaise.\nKārtika Śyāma Aura Gaṇarāu,\nYā Chavi Ko Kahi Jāye Na Kau.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Devana Jabi Jab Tak Paayee,\nPujan Archan Thahan Chali Aayee.\nTab Prabhu Teen Lok Se Aaye,\nKailash Chalisa Gun Gaaye.",
+          "meaning": "Whenever the gods receive any difficulty, they come there to worship and pray. Then the Lord who comes from the three worlds hears the Kailash Chalisa with its virtues sung.",
+          "transliteration": "Devana Jabī Jaba Taka Pāyī,\nPūjana Arcana Tahāṃ Calī Āyī.\nTaba Prabhu Tīna Loka Se Āye,\nKailāśa Cālīsā Guṇa Gāye.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Prabhu Bholenath ke gun gaavai,\nPatan se katai sukh paavai.\nChaar Yug Partaap Tumhara,\nHai Parsiddh Jagat Ujiyaara.",
+          "meaning": "Whoever sings the praises of Lord Bholenath is saved from downfall and gains happiness. Your glory extends through all four ages and is famous as the light of the world.",
+          "transliteration": "Prabhu Bholenātha ke guṇa gāvai,\nPatana se kaṭai sukha pāvai.\nCāra Yuga Paratāpa Tumhārā,\nHai Parasiddha Jagata Ujiyārā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Dhyaan Tumhaara Jo Nar Dhyaavai,\nSadaa Sukhee Soi Jan Paavai.\nAshta Siddhi Nav Nidhi Ke Daata,\nAs Varadaan Deen Kripa Jaata.",
+          "meaning": "Whoever meditates upon you always finds happiness. You are the bestower of the eight supernatural powers and nine treasures, granting such boons from your mercy.",
+          "transliteration": "Dhyāna Tumhārā Jo Nara Dhyāvai,\nSadā Sukhī Soī Jana Pāvai.\nAṣṭa Siddhi Nava Nidhi Ke Dātā,\nAsa Varadāna Dīna Kṛpā Jātā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Jataadhaari Karunaanidhi Shankar,\nHar Har Shankar Namaskar.\nJo Nar Shankar Ko Dhyaavai,\nSab Dukh Paap Taapon Ko Haravai.",
+          "meaning": "O matted-haired one, ocean of compassion, Shankar. Hail to you, Shankar, salutations. Whoever meditates upon Shankar is freed from all sorrow, sin, and suffering.",
+          "transliteration": "Jaṭādhārī Karuṇānidhī Śaṅkara,\nHara Hara Śaṅkara Namaskāra.\nJo Nara Śaṅkara Ko Dhyāvai,\nSaba Dukha Pāpa Tāpona Ko Haravai.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "He Maheshwar Prabhu Bholedaani,\nJan Pat Par Karo Kalyaani.\nSurahi Dhenu Sab Kamana Puran,\nYah Var Maangi Gaye Charan.",
+          "meaning": "O Maheshwar, Lord Bholedani, bring welfare to your fallen devotees. Like the wish-fulfilling cow granting all desires, I beg this boon at your feet.",
+          "transliteration": "He Maheśvara Prabhu Bholedānī,\nJana Pata Para Karo Kalyāṇī.\nSurabhī Dhenu Saba Kāmanā Pūraṇa,\nYaha Vara Māṅgī Gaye Caraṇa.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Yah Sansar Rogi Khinatara,\nLiye Aoushadhi Jab Shankar.\nSab Dev Asur Jab Ghut Aayi,\nNeelkanth Tab Naam Kahaai.",
+          "meaning": "When this world was suffering like a patient, Shankar took the medicine (poison). When all gods and demons were in distress, he drank the poison and was called Neelkanth (the blue-throated one).",
+          "transliteration": "Yaha Saṃsāra Rogī Khinatarā,\nLiye Auṣadhī Jaba Śaṅkara.\nSaba Deva Asura Jaba Ghuṭa Āyī,\nNīlakaṇṭha Taba Nāma Kahāī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Pujan Ramchandra Jab Keenha,\nJeet Ke Lanka Ko Vibhishan Deenha.\nSahas Kamal Mein Ho Rahe Dhaari,\nKeenha Pariksha Tabahi Puraari.",
+          "meaning": "When Ramchandra performed your worship, he conquered Lanka and gave it to Vibhishana. When one lotus was missing from the thousand offered, the Lord of Tripura tested him.",
+          "transliteration": "Pūjana Rāmacandra Jaba Kīnhā,\nJīta Ke Laṅkā Ko Vibhīṣaṇa Dīnhā.\nSahasa Kamala Meṃ Ho Rahe Dhārī,\nKīnha Parīkṣā Tabahi Purārī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ek Kamal Prabhu Raakheu Joi,\nKushal-Kshem Sab Raahi Soi.\nJab Lagi Srishti Rahe Sansar,\nTab Lagi Rahai Shiv Avataar.",
+          "meaning": "The Lord preserved that one lotus, and all remained well and safe. As long as creation and the world exist, Shiva's incarnation shall endure.",
+          "transliteration": "Eka Kamala Prabhu Rākheu Joī,\nKuśala-Kṣema Saba Rāhī Soī.\nJaba Lagi Sṛṣṭi Rahe Saṃsāra,\nTaba Lagi Rahai Śiva Avatāra.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Apni Kripa Ka Karo Vichaar,\nBachcho Ko Sabhi Sansaar.\nJhut Hi Jhut Jagat Pasaara,\nNiragun Sargun Roop Tumhara.",
+          "meaning": "Consider showing your grace and save all the children of the world. This worldly expanse is all illusion; both formless and with form is your nature.",
+          "transliteration": "Apanī Kṛpā Kā Karo Vicāra,\nBaccho Ko Sabhī Saṃsāra.\nJhūṭa Hī Jhūṭa Jagata Pasārā,\nNirguṇa Sarguṇa Rūpa Tumhārā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sarv Shrishti Tumhaari Pashaari,\nTumhi Paalak Sanhaari Bhaari.\nDevana Kee Sadaa Pratipala,\nKaro Kripa Dinadayaala.",
+          "meaning": "All creation is your expanse; you are the great sustainer and destroyer. You always protect the gods; bestow your mercy, O compassionate to the humble.",
+          "transliteration": "Sarva Sṛṣṭi Tumhārī Paśārī,\nTumhī Pālaka Saṃhārī Bhārī.\nDevana Kī Sadā Pratipālā,\nKaro Kṛpā Dīnadayālā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Tripuraari Triloki Man Raaja,\nHain Tumhaare Sab Lok Samaaja.\nDhyaan Dharein Jo Jan Man Laaye,\nSab Manovaanchit Phal Paaye.",
+          "meaning": "O destroyer of the three cities, you reign in the hearts of the three worlds. All realms and societies are yours. Whoever focuses their mind in meditation upon you attains all desired fruits.",
+          "transliteration": "Tripurārī Trilokī Mana Rājā,\nHaiṃ Tumhāre Saba Loka Samājā.\nDhyāna Dharaiṃ Jo Jana Mana Lāye,\nSaba Manovāñchita Phala Pāye.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Shiv Chaaleesaa Jo Nit Gaavai,\nSab Sukh Aishwarya Samridhi Paavai.\nRogee Ho Ya Santaap Jahaa,\nSuniye Shiv Chalisa Yahaa.",
+          "meaning": "Whoever sings the Shiv Chalisa daily attains all happiness, prosperity, and abundance. Whether there is sickness or suffering, listen to the Shiv Chalisa here.",
+          "transliteration": "Śiva Cālīsā Jo Nita Gāvai,\nSaba Sukha Aiśvarya Samṛddhi Pāvai.\nRogī Ho Yā Santāpa Jahā,\nSuniye Śiva Cālīsā Yahāṃ.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Namah Shivaay Dhun Lagaaye,\nSab Dukh Daaridrya Paap Nashaaye.\nHar Har Mahadev Shankar Naam,\nJapat Sadaa Purna Hoi Kaam.",
+          "meaning": "By chanting the mantra Om Namah Shivaya, all sorrow, poverty, and sin are destroyed. By always chanting Har Har Mahadev Shankar's name, all tasks are accomplished.",
+          "transliteration": "Om Namaḥ Śivāya Dhuna Lagāye,\nSaba Dukha Dāridrya Pāpa Naśāye.\nHara Hara Mahādeva Śaṅkara Nāma,\nJapata Sadā Pūrṇa Hoī Kāma.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "chalisa_ram",
+      "title": "Ram Chalisa",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/chalisa/ram.jpg",
+      "orderIndex": 5,
+      "content": [
+        {
+          "shloka": "Shri Ramchandra Kripalu Bhajaman,\nHaran Bhav Bhay Daarunam.\nNav Kanj Lochan Kanj Mukh,\nKar Kanj Pad Kanjarunam.",
+          "meaning": "Worship the merciful Lord Rama in your heart, who removes the terrible fears of worldly existence. His eyes are like fresh lotuses, his face like a lotus, his hands like lotuses, and his lotus feet bestow compassion.",
+          "transliteration": "Śrī Rāmacandra Kṛpālu Bhajamana,\nHaraṇa Bhava Bhaya Dāruṇam.\nNava Kañja Locana Kañja Mukha,\nKara Kañja Pada Kañjāruṇam.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Jai Ram Sada Sukhdham,\nRam Gun Dham Vishram.\nSharanaagatat Paalak Raam,\nBhav Dukh Harak Pranaam.",
+          "meaning": "Victory to Rama, the eternal abode of happiness. Rama is the abode of virtues and the place of rest. Rama is the protector of those who take refuge, and I bow to the one who removes worldly sorrows.",
+          "transliteration": "Jaya Rāma Sadā Sukhadhāma,\nRāma Guṇa Dhāma Viśrāma.\nŚaraṇāgatata Pālaka Rāma,\nBhava Dukha Haraka Praṇāma.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Shri Ram Jai Ram Jai Jai Ram,\nTanmay Bhaye Dekh Lalaam.\nJanma Deen Bhayahu Hari,\nKaushalya Maatu Ke Dhaam.",
+          "meaning": "Shri Ram, Victory to Ram, Victory Victory to Ram. All became enraptured seeing the divine beauty. The Lord took birth in the home of Mother Kaushalya, bestowing joy.",
+          "transliteration": "Śrī Rāma Jaya Rāma Jaya Jaya Rāma,\nTanmaya Bhaye Dekha Lalāma.\nJanma Dīna Bhayahu Hari,\nKausalyā Mātu Ke Dhāma.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kaushalya Mata Putra Pyare,\nDashrath Ke Pran Nirmale.\nMuni Vishvamitra Ke Sang Chale,\nMaar Subahu Taadka Bhale.",
+          "meaning": "Dear son of Mother Kaushalya, the pure life-breath of Dasharatha. He went with sage Vishwamitra and valiantly slew Subahu and Tadaka.",
+          "transliteration": "Kausalyā Mātā Putra Pyāre,\nDaśaratha Ke Prāṇa Nirmale.\nMuni Viśvāmitra Ke Saṅga Cale,\nMāra Subāhu Tāḍakā Bhale.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Dhanush yagya mein dhanush uthaya,\nJanakpur mein jash chhaya.\nSita sang biyaah rachaya,\nAnand mangal chhaya.",
+          "meaning": "At the bow sacrifice, he lifted the bow and his glory spread throughout Janakpur. He married Sita, and joy and auspiciousness prevailed everywhere.",
+          "transliteration": "Dhanuṣa yajña meṃ dhanuṣa uṭhāyā,\nJanakapura meṃ yaśa chāyā.\nSītā saṅga biyāha racāyā,\nĀnanda maṅgala chāyā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Pita bachan par van sidhare,\nLakshman Sita sang pyaare.\nChitrakoot mein baas kiya,\nBhil bheelni ko taar diya.",
+          "meaning": "Following his father's command, he departed for the forest with beloved Lakshmana and Sita. He resided at Chitrakoot and liberated the tribal woman Shabari.",
+          "transliteration": "Pitā bacana para vana sidhāre,\nLakṣmaṇa Sītā saṅga pyāre.\nCitrakūṭa meṃ bāsa kiyā,\nBhīla Bhīlanī ko tāra diyā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Dandak van mein kiye vichar,\nRishi muniyana ke dukh nivaar.\nMaarich mrig roop banaya,\nSita harana ka saaj sajaya.",
+          "meaning": "In the Dandaka forest he traveled with purpose, removing the sorrows of sages and ascetics. Maricha took the form of a golden deer, setting the stage for Sita's abduction.",
+          "transliteration": "Daṇḍaka vana meṃ kiye vicāra,\nṚṣi muniyāna ke dukha nivāra.\nMārīca mṛga rūpa banāyā,\nSītā haraṇa kā sāja sajāyā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Lanka par chadi kar chale,\nSita Mata ki khoj bhale.\nHanuman sang preet lagaai,\nSugriva se maitri badhaai.",
+          "meaning": "He marched onward toward Lanka, searching nobly for Mother Sita. He established love with Hanuman and strengthened friendship with Sugriva.",
+          "transliteration": "Laṅkā para caḍhi kara cale,\nSītā Mātā kī khoja bhale.\nHanumāna saṅga prīta lagāī,\nSugrīva se maitrī baḍhāī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Baali badh kar dhar dharma,\nSamudra bandh maha karma.\nLanka jeet Raavan sanhaara,\nSita sahit kiye ghar dwaar.",
+          "meaning": "He established dharma by slaying Bali, and his great feat was building a bridge across the ocean. He conquered Lanka and destroyed Ravana, returning home with Sita.",
+          "transliteration": "Bālī badha kara dhara dharma,\nSamudra bandha mahā karma.\nLaṅkā jīta Rāvaṇa saṃhāra,\nSītā sahita kiye ghara dvāra.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ayodhya mein aaye Shri Raam,\nBhaye prafullit sab ke kaam.\nRaj tilak dharyo tab maatha,\nAnand bhayo sab ke saath.",
+          "meaning": "Shri Rama returned to Ayodhya, and everyone's desires were fulfilled with joy. The coronation tilak was placed on his forehead, and there was bliss for all.",
+          "transliteration": "Ayodhyā meṃ āye Śrī Rāma,\nBhaye praphullita saba ke kāma.\nRāja tilaka dharayo taba māthā,\nĀnanda bhayo saba ke sātha.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ram rajya tab bhayo sukhkari,\nPraja priy dharma aadhaari.\nNahin rog na shok paaye,\nSab jan sukh sampat aaye.",
+          "meaning": "Then Ram Rajya (the reign of Rama) brought happiness to all. The people loved the rule based on dharma. There was no disease or sorrow; all people received happiness and prosperity.",
+          "transliteration": "Rāma rājya taba bhayo sukhakārī,\nPrajā priya dharma ādhārī.\nNāhiṃ roga na śoka pāye,\nSaba jana sukha sampata āye.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Raghubar chhaavi adbhut dhari,\nJag mein shobha ati bhari.\nKoti Manmath lajjaavani,\nShobha sheel guna khaani.",
+          "meaning": "Raghubar (Rama) manifested wondrous splendor, filling the world with unmatched beauty. His beauty shames millions of Kamadevas; he is a mine of beauty, virtue, and good character.",
+          "transliteration": "Raghubara chāvī adbhuta dharī,\nJaga meṃ śobhā ati bharī.\nKoṭi Manamatha lajjāvanī,\nŚobhā śīla guṇa khānī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Prabhu tumhaar charan ki sevaa,\nSadaa karai nar jeevan devaa.\nSab manorath pooran hovai,\nDukh daaridrya nikat nahin aavai.",
+          "meaning": "He who always serves your lotus feet, O Lord, receives the gift of life. All desires are fulfilled, and sorrow and poverty never come near.",
+          "transliteration": "Prabhu tumhāra caraṇa kī sevā,\nSadā karai nara jīvana devā.\nSaba manoratha pūraṇa hovai,\nDukha dāridrya nikaṭa nahiṃ āvai.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kahat Raam hi Raam sanehi,\nTin nar kari upkaar yehi.\nRam Naam binu nar jag maahi,\nDukh paavat kachhu sukh naahi.",
+          "meaning": "Those who lovingly chant Rama's name bestow great benefit on themselves. Without Rama's name, people in this world receive only sorrow and no happiness.",
+          "transliteration": "Kahata Rāma hī Rāma sanehī,\nTina nara kari upakāra yehī.\nRāma Nāma binu nara jaga māhī,\nDukha pāvata kachu sukha nāhī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ram Charitra suniye man laaye,\nSab paap taap sankat mit jaaye.\nSunderkand kahat jo koi,\nBandhan mukt sadaa sukh hoi.",
+          "meaning": "Listen to the story of Rama with an attentive mind, and all sins, suffering, and troubles are destroyed. Whoever recites the Sunderkand is freed from bondage and always finds happiness.",
+          "transliteration": "Rāma Caritra suniye mana lāye,\nSaba pāpa tāpa saṅkaṭa miṭa jāye.\nSundarakāṇḍa kahata jo koī,\nBandhana mukta sadā sukha hoī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Mangal bhavan amangal haari,\nDravahu so Dashrath Ajir Bihaari.\nRam Naam nij sarv sahaayi,\nJapiye nit anand man bhaayi.",
+          "meaning": "The abode of auspiciousness and remover of inauspiciousness, be gracious O one who plays in Dasharatha's courtyard. Rama's name is everyone's own helper; chant it daily with joy in your heart.",
+          "transliteration": "Maṅgala bhavana amaṅgala hārī,\nDravahu so Daśaratha Ajira Bihārī.\nRāma Nāma nija sarva sahāyī,\nJapiye nita ānanda mana bhāyī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ram Chalisa jo nit path kare,\nSab bidhi sukh sampati ghar bhare.\nSankat kate mite sab peera,\nJapiye nirantar Ram nam dheeraa.",
+          "meaning": "Whoever recites the Ram Chalisa daily fills their home with all kinds of happiness and wealth. All afflictions are cut away and all pains vanish; chant Rama's name steadily and constantly.",
+          "transliteration": "Rāma Cālīsā jo nita paṭha kare,\nSaba bidhi sukha sampati ghara bhare.\nSaṅkaṭa kaṭe miṭe saba pīrā,\nJapiye nirantara Rāma nāma dhīrā.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "chalisa_krishna",
+      "title": "Krishna Chalisa",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/chalisa/krishna.jpg",
+      "orderIndex": 6,
+      "content": [
+        {
+          "shloka": "Jai Shri Krishna Hare Prabhu,\nDeen Dayaal Govind.\nJag Kaaran Karan Kripaa Nidhi,\nVishwa Vihari Mukund.",
+          "meaning": "Victory to Shri Krishna, Lord Hari, the compassionate Govinda. O treasury of mercy, the cause of the world, O Mukunda who plays in the universe.",
+          "transliteration": "Jaya Śrī Kṛṣṇa Hare Prabhu,\nDīna Dayāla Govinda.\nJaga Kāraṇa Karaṇa Kṛpā Nidhi,\nViśva Vihārī Mukunda.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Jai Yadunandan Jai Jagannath,\nKripadrishti karo deen ke nath.\nJai Devaki Nandan Jai Kanha,\nJai Gopi Gwal Priya Mana.",
+          "meaning": "Victory to the son of the Yadu clan, victory to the Lord of the universe. Cast your merciful glance, O Lord of the humble. Victory to the son of Devaki, victory to Kanha, beloved of the Gopis and cowherds.",
+          "transliteration": "Jaya Yadunandana Jaya Jagannātha,\nKṛpādṛṣṭi karo dīna ke nātha.\nJaya Devakī Nandana Jaya Kānhā,\nJaya Gopī Gvāla Priya Manā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Hathi Ghati Ooch Neech Jahan,\nTum Bin Sab Sunhaan.\nKaran Dharan Jag Mein Prabhu,\nSab Hi Tumhaar Vidhan.",
+          "meaning": "In hills and valleys, high and low places -- without you, all is desolate. The doing and sustaining in this world, O Lord, is all your design.",
+          "transliteration": "Hāṭhī Ghāṭī Ūca Nīca Jahāṃ,\nTuma Bina Saba Sunhāna.\nKaraṇa Dharaṇa Jaga Meṃ Prabhu,\nSaba Hī Tumhāra Vidhāna.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Devaki Nandan Nand Gopal,\nYashoda Nandan Brij Ke Lal.\nGokul Mein Aanand Bhadhaayo,\nMaiya Yashoda Ko Sukh Dhaayo.",
+          "meaning": "Son of Devaki, Nanda's Gopal, Yashoda's son, the darling of Vraja. You spread bliss in Gokul and brought happiness to Mother Yashoda.",
+          "transliteration": "Devakī Nandana Nanda Gopāla,\nYaśodā Nandana Braja Ke Lāla.\nGokula Meṃ Ānanda Baḍhāyo,\nMaiyā Yaśodā Ko Sukha Dhāyo.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Putna Aayi Jab Doodh Pilaaye,\nKrishna Ne Uska Praan Ganvaaye.\nTrinavart Asur Sanhaara,\nShakatasur Ka Kiya Bichaara.",
+          "meaning": "When Putana came to nurse you with poison, Krishna took her life. You destroyed the demon Trinavarta and finished the demon Shakatasura.",
+          "transliteration": "Pūtanā Āyī Jaba Dūdha Pilāye,\nKṛṣṇa Ne Usakā Prāṇa Gaṃvāye.\nTṛṇāvarta Asura Saṃhāra,\nŚakaṭāsura Kā Kiyā Bicārā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Maakhan Chori Karat Nandlal,\nNit Nav Leela Karain Gopal.\nGwalin Sang Raas Rachaaya,\nBrij Mein Aanand Badhaya.",
+          "meaning": "Nandlal steals butter in his daily play, and Gopal performs ever-new divine sports. He danced the Raas with the Gopis and increased the bliss in Vraja.",
+          "transliteration": "Mākhana Corī Karata Nandalāla,\nNita Nava Līlā Karaiṃ Gopāla.\nGvālina Saṅga Rāsa Racāyā,\nBraja Meṃ Ānanda Baḍhāyā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kaaliya Naag Ka Maan Bhanjaa,\nNaag Nathiya Par Nritya Rachaya.\nGovardhan Parvat Uthaya,\nBrij Vasiyon Ki Raksha Karaya.",
+          "meaning": "You crushed the pride of the serpent Kaliya and danced upon his hooded head. You lifted Mount Govardhan and protected the people of Vraja.",
+          "transliteration": "Kāliya Nāga Kā Māna Bhañjā,\nNāga Nāthiyā Para Nṛtya Racāyā.\nGovardhana Parvata Uṭhāyā,\nBraja Vāsiyoṃ Kī Rakṣā Karāyā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kans Vadh Kiya Mathura Jaai,\nMata Pita Ko Bandhan Se Chudaai.\nUgrasena Ko Rajya Dilaaya,\nPraja Sukhi Kar Anand Bhaya.",
+          "meaning": "Going to Mathura, you slew Kansa and freed your parents from bondage. You restored the kingdom to Ugrasena, making the people happy and joyful.",
+          "transliteration": "Kaṃsa Vadha Kiyā Mathurā Jāī,\nMātā Pitā Ko Bandhana Se Chuḍāī.\nUgrasena Ko Rājya Dilāyā,\nPrajā Sukhī Kara Ānanda Bhayā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Dwaarika Nagri Basi Leeni,\nRukmini Sang Shaadi Keeni.\nSatyabhama Aru Ashta Rani,\nSab Jan Ki Tum Antaryaami.",
+          "meaning": "You established yourself in the city of Dwarka and married Rukmini. With Satyabhama and the eight queens, you are the inner knower of all beings.",
+          "transliteration": "Dvārikā Nagarī Basī Līnī,\nRukmiṇī Saṅga Śādī Kīnī.\nSatyabhāmā Aru Aṣṭa Rānī,\nSaba Jana Kī Tuma Antaryāmī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Pandav Priy Madhav Murari,\nDroupadi Ki Laaj Nivaari.\nMahabharat Ke Sarathi Bhaye,\nParthasarathi Naam Kahaye.",
+          "meaning": "O Madhava Murari, beloved of the Pandavas, you preserved Draupadi's honor. You became the charioteer in the Mahabharata and were called Parthasarathi.",
+          "transliteration": "Pāṇḍava Priya Mādhava Murārī,\nDraupadī Kī Lāja Nivārī.\nMahābhārata Ke Sārathī Bhaye,\nPārthasārathī Nāma Kahāye.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Geeta Gyaan Diya Arjun Ko,\nKaram Yog Ka Maarg Bataya.\nDharm Sthapan Hit Avataar Liya,\nAdharma Ka Naash Karaya.",
+          "meaning": "You imparted the wisdom of the Gita to Arjuna and showed the path of Karma Yoga. You incarnated for the establishment of dharma and destroyed unrighteousness.",
+          "transliteration": "Gītā Jñāna Diyā Arjuna Ko,\nKarma Yoga Kā Mārga Batāyā.\nDharma Sthāpana Hita Avatāra Liyā,\nAdharma Kā Nāśa Karāyā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Nirgun Sargun Dono Roop,\nAnant Koti Brahmand Swaroop.\nKsheer Sagar Par Shesh Shayi,\nLakshmi Sang Virajat Bhayi.",
+          "meaning": "You have both formless and manifested forms, your being spans infinite millions of universes. You recline on Shesha in the ocean of milk, seated resplendently with Lakshmi.",
+          "transliteration": "Nirguṇa Sarguṇa Dono Rūpa,\nAnanta Koṭi Brahmāṇḍa Svarūpa.\nKṣīra Sāgara Para Śeṣa Śāyī,\nLakṣmī Saṅga Virājata Bhāyī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sankh Chakra Gada Padma Dhaari,\nChaturbbhuj Dhari Roop Murari.\nPeet Vastra Tan Chhabi Chhaaye,\nVaijanti Maal Gal Shobaaye.",
+          "meaning": "You hold the conch, discus, mace, and lotus in four arms, O Murari. Yellow garments adorn your body with splendor, and the Vaijanti garland beautifies your neck.",
+          "transliteration": "Śaṅkha Cakra Gadā Padma Dhārī,\nCaturbhuja Dharī Rūpa Murārī.\nPīta Vastra Tana Chabi Chāye,\nVaijantī Māla Gala Śobhāye.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Govind Madhav Madhusudan,\nBansi Bajaavat Mohan Mann.\nCharanamrit Nij Bhaktan Ko,\nSadaa Mukti Sukh Pradan.",
+          "meaning": "O Govinda, Madhava, Madhusudan, you enchant the mind playing the flute. You give the nectar of your feet to your devotees, always granting liberation and happiness.",
+          "transliteration": "Govinda Mādhava Madhusūdana,\nBaṃsī Bajāvata Mohana Mana.\nCaraṇāmṛta Nija Bhaktana Ko,\nSadā Mukti Sukha Pradāna.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sudama Ki Preet Nibhaai Tum,\nDaaridrya Door Kiya Dham.\nBhakti Priy Prabhu Sadaa Tum,\nJo Bhajai So Paavat Aaraam.",
+          "meaning": "You honored the love of Sudama and removed all his poverty at once. You always love devotion, O Lord, and whoever worships you finds peace.",
+          "transliteration": "Sudāmā Kī Prīta Nibhāī Tuma,\nDāridrya Dūra Kiyā Dhāma.\nBhakti Priya Prabhu Sadā Tuma,\nJo Bhajai So Pāvata Ārāma.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Bhaag Bhaye Sab Jagat Ke,\nJab Shri Krishan Kahaaye.\nMira Ke Prabhu Giridhara,\nBhaktan Mein Mann Bhaaye.",
+          "meaning": "The fortunes of the world awoke when they were called Shri Krishna. Lord Giridhar of Mira is beloved in the hearts of all devotees.",
+          "transliteration": "Bhāga Bhaye Saba Jagata Ke,\nJaba Śrī Kṛṣṇa Kahāye.\nMīrā Ke Prabhu Giridhara,\nBhaktana Meṃ Mana Bhāye.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Chaurasi Lakh Yoni Mein Bhatke,\nBina Bhajan Sab Sookh Jhatke.\nKrishna Sharanm Vrij Dham Gahe,\nBhav Saagar Se Paar Lahe.",
+          "meaning": "Wandering through 8.4 million life forms, without worship all joys wither away. Take refuge in Krishna and embrace Vraja, and cross the ocean of worldly existence.",
+          "transliteration": "Caurāsī Lākha Yoni Meṃ Bhaṭake,\nBinā Bhajana Saba Sūkha Jhaṭake.\nKṛṣṇa Śaraṇam Vraja Dhāma Gahe,\nBhava Sāgara Se Pāra Lahe.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Krishna Chalisa Nit Jo Gaavai,\nSab Sukh Sampati Ghar Aavai.\nBhav Sagar Se Uttar Jaai,\nParam Dham Mein Vaas Paai.",
+          "meaning": "Whoever sings the Krishna Chalisa daily, all happiness and wealth come to their home. They cross the ocean of worldly existence and attain the supreme abode.",
+          "transliteration": "Kṛṣṇa Cālīsā Nita Jo Gāvai,\nSaba Sukha Sampati Ghara Āvai.\nBhava Sāgara Se Uttara Jāī,\nParama Dhāma Meṃ Vāsa Pāī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Jai Shri Krishna Jai Jai Shri Krishna,\nGovind Hare Mukund Man Bhaavai.\nKrishna Kripa Jo Nar Par Hovai,\nSo Nar Kabhi Nahi Dukhi Hovai.",
+          "meaning": "Victory to Shri Krishna, Victory Victory to Shri Krishna. Govinda, Hari, Mukunda enchant the mind. Whoever receives Krishna's grace never suffers sorrow.",
+          "transliteration": "Jaya Śrī Kṛṣṇa Jaya Jaya Śrī Kṛṣṇa,\nGovinda Hare Mukunda Mana Bhāvai.\nKṛṣṇa Kṛpā Jo Nara Para Hovai,\nSo Nara Kabhī Nahī Dukhī Hovai.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "chalisa_lakshmi",
+      "title": "Lakshmi Chalisa",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/chalisa/lakshmi.jpg",
+      "orderIndex": 7,
+      "content": [
+        {
+          "shloka": "Om Shri Lakshmi devi ko manau, kahi na sakat gun gaan.\nSahas badan Sheshnag jo, nahin pave paaravaar.",
+          "meaning": "I worship Goddess Shri Lakshmi, whose virtues cannot be fully sung. Even the thousand-headed Sheshnag cannot find the extent of her glory.",
+          "transliteration": "Om Śrī Lakṣmī devī ko manau, kahī na sakat guṇa gāna.\nSahas badana Śeṣanāga jo, nahīṁ pāve pāravāra.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Jai Jai Jagat Janani Jagadamba, Sabke tum ho aadhi.\nDaridra mitavo dukh harni, tum Sabki sukhdaani.",
+          "meaning": "Victory to the Mother of the Universe, you are the primordial source of all. You remove poverty and sorrow, you are the bestower of happiness to all.",
+          "transliteration": "Jai Jai Jagat Jananī Jagadambā, Sabake tum ho ādī.\nDāridra miṭāvo duḥkha haranī, tum Sabakī sukhadānī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Jis ghar mein tum rahati ho, wahan sab sadgun aaye.\nSab sambhav ho jaata hai, man ichchhit phal paaye.",
+          "meaning": "In the home where you reside, all virtues come to dwell. Everything becomes possible, and one obtains the desired fruits of the heart.",
+          "transliteration": "Jis ghara meṁ tum rahatī ho, vahāṁ saba sadaguṇa āye.\nSaba sambhava ho jātā hai, mana icchita phala pāye.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Tum bin Vishnu pade jab nihare, tum bin pooja sab adhuri.\nRiddhi siddhi tum donon bahen, tum prakat Bhavani uri.",
+          "meaning": "Without you, even Vishnu's glory appears incomplete, without you all worship remains unfulfilled. Riddhi and Siddhi are both your sisters, you are the manifest form of Bhavani.",
+          "transliteration": "Tum bina Viṣṇu paḍe jaba nihāre, tum bina pūjā saba adhūrī.\nṚddhi siddhi tum donoṁ bahena, tum prakaṭa Bhavānī ūrī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kshirasagar mein aasan tera, sesh nag ke sang rahi.\nLakshmipati sang viraje sada, tribhuvan mein jag mahi.",
+          "meaning": "Your seat is in the ocean of milk, abiding with Sheshanag. You are ever seated with Lakshmipati (Vishnu), glorious across the three worlds and the earth.",
+          "transliteration": "Kṣīrasāgara meṁ āsana terā, śeṣa nāga ke saṅga rahī.\nLakṣmīpati saṅga virāje sadā, tribhuvana meṁ jaga māhī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Swarna mukut chhavi shobha badi, hiranyagarbh ki shakti hai.\nKamala vimala tanu kaanti bhari, sarveshvari ki bhakti hai.",
+          "meaning": "Adorned with a golden crown of great splendor, you are the power of Hiranyagarbha. Your lotus-pure body radiates brilliance, devotion to the supreme goddess.",
+          "transliteration": "Svarṇa mukuṭa chavi śobhā baḍī, hiraṇyagarbha kī śakti hai.\nKamalā vimalā tanu kānti bharī, sarveśvarī kī bhakti hai.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kamal virajat kamal par, kamal prabha ki dhaar.\nKamal nayana Hari ke sang mein, kamal swarup apaar.",
+          "meaning": "The lotus sits upon the lotus, streaming with lotus radiance. With lotus-eyed Hari by your side, your lotus form is infinite.",
+          "transliteration": "Kamala virājata kamala para, kamala prabhā kī dhāra.\nKamala nayana Hari ke saṅga meṁ, kamala svarūpa apāra.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Garud dhwaj ke sang tum aavo, dushtan ko samharo.\nDevon ko abhay daan do, sajjan ko pyaro.",
+          "meaning": "Come along with the one bearing the Garuda banner, vanquish the wicked. Grant fearlessness to the gods, beloved of the virtuous.",
+          "transliteration": "Garuḍa dhvaja ke saṅga tum āvo, duṣṭana ko saṁhāro.\nDevon ko abhaya dāna do, sajjana ko pyāro.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Saubhagya dayini dhan dayini, dhan dhanya ke bhaar.\nVidya buddhi gyan pradayini, gyaan ke bhandaar.",
+          "meaning": "Bestower of good fortune, giver of wealth, abundance of grain and riches. Provider of learning, intellect and wisdom, storehouse of knowledge.",
+          "transliteration": "Saubhāgya dāyinī dhana dāyinī, dhana dhānya ke bhāra.\nVidyā buddhi jñāna pradāyinī, jñāna ke bhaṇḍāra.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Tum chaaron yug mein pujit rahi, tum chaaron veda pradhaan.\nChaar bhuja chaar disha mein, tum haro sab ki haan.",
+          "meaning": "You have been worshipped across all four ages, you are foremost in all four Vedas. With four arms spread across four directions, you fulfill the wishes of all.",
+          "transliteration": "Tum cāroṁ yuga meṁ pūjita rahī, tum cāroṁ veda pradhāna.\nCāra bhujā cāra diśā meṁ, tum haro saba kī hāna.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Brahma Vishnu Shiv sahit teri, puja kare sansaar.\nIndra Chandra aur Varun dev, kare tera jai-jaikaar.",
+          "meaning": "Along with Brahma, Vishnu and Shiva, the entire world worships you. Indra, Chandra and Varuna, all sing your victory hymn.",
+          "transliteration": "Brahmā Viṣṇu Śiva sahita terī, pūjā kare saṁsāra.\nIndra Candra aura Varuṇa deva, kare terā jai-jaikāra.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Rishivar mukh se teri mahima, gaayi jaaye din rain.\nNarad saarad muni sab gaaye, tere guna ke gain.",
+          "meaning": "Great sages sing your glory from their lips day and night. Narad, Sharad, and all munis sing the songs of your virtues.",
+          "transliteration": "Ṛṣivara mukha se terī mahimā, gāyī jāye dina raina.\nNārada Śārada muni saba gāye, tere guṇa ke gaina.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Shankhnidhih Padmanidhih donon, dhyaavat tera dhyaan.\nTum prakat karo jab dharti par, aave mangal shaan.",
+          "meaning": "Both Shanknidhi and Padmanidhi meditate upon you. When you manifest on earth, auspiciousness and glory arrive.",
+          "transliteration": "Śaṅkhanidhiḥ Padmanidhiḥ donoṁ, dhyāvata terā dhyāna.\nTum prakaṭa karo jaba dharatī para, āve maṅgala śāna.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Shubh lakshmi maa shubh dayini, shubh saheli sab thaam.\nDosh harini gun khaan mein, tere charanon mein pranaaam.",
+          "meaning": "Auspicious Mother Lakshmi, bestower of auspiciousness, auspicious companion in all places. Remover of faults, mine of virtues, I bow at your holy feet.",
+          "transliteration": "Śubha Lakṣmī mā śubha dāyinī, śubha sahelī saba thāma.\nDoṣa hāriṇī guṇa khāna meṁ, tere caraṇoṁ meṁ praṇāma.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Nirmal mann se jo dhyave, uski bipda hari jaaye.\nSankat kate mithe kasht sab, mann vachhit phal paaye.",
+          "meaning": "Whoever meditates with a pure heart, their calamities are removed. Troubles are cut, all hardships vanish, and one obtains the desired fruit.",
+          "transliteration": "Nirmala mana se jo dhyāve, usakī bipadā harī jāye.\nSaṅkaṭa kaṭe miṭe kaṣṭa saba, mana vāñchita phala pāye.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Maata Lakshmi ki jo nit puje, samridhhi bade chaahu or.\nSankat se bachaave Lakshmi, kare kripa ki bhor.",
+          "meaning": "One who worships Mother Lakshmi daily, prosperity grows in all four directions. Lakshmi saves from calamity, bestowing the dawn of her grace.",
+          "transliteration": "Mātā Lakṣmī kī jo nita pūje, samṛddhi baḍhe cāhū ora.\nSaṅkaṭa se bacāve Lakṣmī, kare kṛpā kī bhora.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Dhan Vaibhav de aishvarya de, arogya kare pradaan.\nLakshmi maa ke jas gaavo, paavo param nidhaan.",
+          "meaning": "She grants wealth, splendor and sovereignty, bestows good health. Sing the praises of Mother Lakshmi and attain the supreme treasure.",
+          "transliteration": "Dhana vaibhava de aiśvarya de, ārogya kare pradāna.\nLakṣmī mā ke jasa gāvo, pāvo parama nidhāna.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Grih klesha mite ghar mein teri, koti siddhi de daan.\nLakshmi vandana kare sada jo, paave padam nidhaan.",
+          "meaning": "Household strife vanishes from the home where you dwell, you grant ten million accomplishments. One who always praises Lakshmi attains the lotus treasure.",
+          "transliteration": "Gṛha kleśa miṭe ghara meṁ terī, koṭi siddhi de dāna.\nLakṣmī vandanā kare sadā jo, pāve padma nidhāna.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sankat hare dukh mite sab, jo sumire man laaye.\nSukhsampatti ghar aave sada, Lakshmi maa man bhaaye.",
+          "meaning": "All troubles and sorrows are removed for one who remembers you with a focused mind. Happiness and prosperity forever fill the home when Mother Lakshmi is pleased.",
+          "transliteration": "Saṅkaṭa hare duḥkha miṭe saba, jo sumire mana lāye.\nSukhasampatti ghara āve sadā, Lakṣmī mā mana bhāye.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Lakshmi chalisa jo nit gaave, sab sukh sampatti paaye.\nAnand mangal barse sada, kabhi na dukh sataye.\n|| Doha ||\nShri Lakshmi maa ke charan mein, mera yahi ardaas.\nKripa karahu mata aap ki, poorn karahu meri aas.",
+          "meaning": "One who daily recites the Lakshmi Chalisa obtains all happiness and prosperity. Joy and auspiciousness shower always, and sorrow never torments.\n|| Doha ||\nAt the feet of Mother Shri Lakshmi, this is my humble prayer. Bestow your grace, O Mother, and fulfill my hope.",
+          "transliteration": "Lakṣmī calīsā jo nita gāve, saba sukha sampatti pāye.\nĀnanda maṅgala barase sadā, kabhī na duḥkha satāye.\n|| Dohā ||\nŚrī Lakṣmī mā ke caraṇa meṁ, merā yahī ardāsa.\nKṛpā karahu mātā āpa kī, pūrṇa karahu merī āsa.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "chalisa_saraswati",
+      "title": "Saraswati Chalisa",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/chalisa/saraswati.jpg",
+      "orderIndex": 8,
+      "content": [
+        {
+          "shloka": "|| Doha ||\nJag mein sakala Saraswati, de mukhi gyaan apar.\nKarahu kripa jag janani, duru karahu andhiyaar.\n|| Chaupai ||",
+          "meaning": "|| Doha ||\nIn the world, Saraswati bestows boundless knowledge through her speech. O Mother of the world, bestow your grace and remove all darkness.\n|| Chaupai ||",
+          "transliteration": "|| Dohā ||\nJaga meṁ sakala Sarasvatī, de mukhī jñāna apāra.\nKarahu kṛpā jaga jananī, dūru karahu andhiyāra.\n|| Caupāī ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Jai Jai Jai Saraswati Bhavani, Jai Jai Jai gunavant gyaani.\nHans vahan par sushobhit, Shubhra vastra sab chahit.",
+          "meaning": "Victory, victory to Saraswati Bhavani, victory to the virtuous and wise. Beautifully seated upon the swan, clothed in white garments desired by all.",
+          "transliteration": "Jai Jai Jai Sarasvatī Bhavānī, Jai Jai Jai guṇavanta jñānī.\nHaṁsa vāhana para suśobhita, Śubhra vastra saba cāhita.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Pustak haath virajat niko, Maalin mukta maniko.\nOthi shobha mukh par bhaari, Desh desh ke gyaan adhikaari.",
+          "meaning": "The book adorns your hand beautifully, with a garland of pearls and gems. Great splendor graces your lips, you are the sovereign of knowledge in every land.",
+          "transliteration": "Pustaka hātha virājata nīko, Mālinī muktā maṇiko.\nOṭhī śobhā mukha para bhārī, Deśa deśa ke jñāna adhikārī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ratna jadit singhaasan par, Viraje tum varada datar.\nVeena pustak dhaarani, Bhav sagar se udhaarani.",
+          "meaning": "Seated upon a jewel-studded throne, you preside as the giver of boons. You hold the veena and the book, the one who rescues from the ocean of worldly existence.",
+          "transliteration": "Ratna jaḍita siṁhāsana para, Virāje tum varada dātāra.\nVīṇā pustaka dhāraṇī, Bhava sāgara se uddhāraṇī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kamal ke aasan par biraje, Sahaj bhaav mein dhyaan lagaye.\nSunn sunn vidya daan karein, Sabko gyaan pradaan karein.",
+          "meaning": "You sit upon a lotus seat, absorbed in natural meditation. Ever listening, you bestow the gift of learning, granting knowledge to all.",
+          "transliteration": "Kamala ke āsana para birāje, Sahaja bhāva meṁ dhyāna lagāye.\nSuna suna vidyā dāna kareṁ, Sabako jñāna pradāna kareṁ.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Brahma ke mann se tum pragate, Sakal jeev jag ko sukh diye.\nVidya Lakshmi dharm prakat kiye, Aur gyaan ka deep jaliye.",
+          "meaning": "You manifested from the mind of Brahma, granting happiness to all beings in the world. You revealed learning, prosperity and dharma, and lit the lamp of knowledge.",
+          "transliteration": "Brahmā ke mana se tum pragaṭe, Sakala jīva jaga ko sukha diye.\nVidyā Lakṣmī dharma prakaṭa kiye, Aura jñāna kā dīpa jaliye.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Rishi muni saadhu sab dhyaavein, Ved Puraan Shaastra bataavein.\nTum se paavein gyaan sar, Vidya ke tum ho aadhar.",
+          "meaning": "Sages, munis and saints all meditate upon you, the Vedas, Puranas and scriptures proclaim you. From you they receive the essence of knowledge, you are the very foundation of learning.",
+          "transliteration": "Ṛṣi muni sādhu saba dhyāveṁ, Veda Purāṇa Śāstra batāveṁ.\nTum se pāveṁ jñāna sāra, Vidyā ke tum ho ādhāra.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kumati nivaarini buddhi de do, Sakala guna vaani vidya de do.\nSubuddhi vichar ek man mein, Sabke hriday gyaan bhar do.",
+          "meaning": "Remove evil thinking and grant intellect, bestow all virtuous speech and learning. Place right wisdom and thought in every mind, fill the hearts of all with knowledge.",
+          "transliteration": "Kumati nivāriṇī buddhi de do, Sakala guṇa vāṇī vidyā de do.\nSubuddhi vicāra eka mana meṁ, Sabake hṛdaya jñāna bhara do.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Vidyarthi ko vidya do, Arthi ko dhan sampada do.\nSukharthi ko sukh do Saraswati, Muktarthi ko moksha pada do.",
+          "meaning": "Grant knowledge to the student, give wealth and prosperity to the seeker. O Saraswati, give happiness to one who seeks joy, and grant the state of liberation to the aspirant of freedom.",
+          "transliteration": "Vidyārthī ko vidyā do, Arthī ko dhana sampadā do.\nSukhārthī ko sukha do Sarasvatī, Muktārthī ko mokṣa pada do.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Shwetambari Shweta varna ki, Shweta kamal aasan sthit.\nShweta haaron se sajit, Sarvada shanti pradit.",
+          "meaning": "Clothed in white, of white complexion, seated on a white lotus. Adorned with white garlands, ever radiating peace.",
+          "transliteration": "Śvetāmbarī śveta varṇa kī, Śveta kamala āsana sthita.\nŚveta hāroṁ se sajita, Sarvadā śānti prādita.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kala kavita sahitya rasdhaari, Sangeet sunaaye sab hitkaari.\nKatha kavitt dohe chhand rachein, Gyaan vigyan prakat prachein.",
+          "meaning": "Bearer of the essence of art, poetry and literature, you play music that benefits all. Narratives, poems, couplets and verses you compose, spreading knowledge and science.",
+          "transliteration": "Kalā kavitā sāhitya rasadhārī, Saṅgīta sunāye saba hitakārī.\nKathā kavitta dohe chanda raceṁ, Jñāna vijñāna prakaṭa praceṁ.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Chaturdash vidya ke adhishthaan, Chatursashti kala ke pradhan.\nSakala shastra ke gyaan sar, Tum ho sakala vidya aadhar.",
+          "meaning": "You are the seat of the fourteen branches of knowledge, the chief of the sixty-four arts. You hold the essence of all scriptures, you are the foundation of all learning.",
+          "transliteration": "Caturdaśa vidyā ke adhiṣṭhāna, Catuḥṣaṣṭi kalā ke pradhāna.\nSakala śāstra ke jñāna sāra, Tum ho sakala vidyā ādhāra.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Namo Namo Vaagdevi Saraswati, Namo Namo sab vidya daati.\nNamo Namo Kamaladal vaasini, Namo Namo sab buddhi vilaasini.",
+          "meaning": "Salutations, salutations to Vaagdevi Saraswati, salutations to the giver of all knowledge. Salutations to the one who dwells on the lotus petal, salutations to the one who sports in all intellects.",
+          "transliteration": "Namo Namo Vāgdevī Sarasvatī, Namo Namo saba vidyā dātī.\nNamo Namo Kamaladala vāsinī, Namo Namo saba buddhi vilāsinī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Moorkhata door karahu Bhavani, Sunahu hamari arj baani.\nGyaan deep jala ujiyaar karo, Avidya timira andhaar haro.",
+          "meaning": "Remove foolishness, O Bhavani, hear our humble plea. Light the lamp of knowledge and bring illumination, remove the darkness of ignorance.",
+          "transliteration": "Mūrkhatā dūra karahu Bhavānī, Sunahu hamārī araja bānī.\nJñāna dīpa jalā ujiyāra karo, Avidyā timira andhāra haro.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Har mann mein prakat ho gyaan, Buddhi vivek ka barse daan.\nSab vidyarthi sukh paavein, Pariksha mein jayee ho jaavein.",
+          "meaning": "May knowledge manifest in every heart, may the gift of intellect and discernment rain down. May all students attain happiness, may they be victorious in examinations.",
+          "transliteration": "Hara mana meṁ prakaṭa ho jñāna, Buddhi viveka kā barase dāna.\nSaba vidyārthī sukha pāveṁ, Parīkṣā meṁ jayī ho jāveṁ.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kavi jan paayen kavitt rasa, Lekhak ko mile lekh suvilaas.\nSangeetkar ko sur de do, Kalaakar ko ek aadhar de do.",
+          "meaning": "May poets receive the nectar of poetry, may writers find the joy of composition. Grant melodious notes to musicians, provide a foundation for artists.",
+          "transliteration": "Kavi jana pāyeṁ kavitta rasa, Lekhaka ko mile lekha suvilāsa.\nSaṅgītakāra ko sura de do, Kalākāra ko eka ādhāra de do.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Tum ho gyaan ki dhara nirmal, Tum ho buddhi ki khaan amol.\nVaani tumhari amrit jaisi, Saraswati maa kripa kaisi.",
+          "meaning": "You are the pure stream of knowledge, you are the priceless mine of intellect. Your speech is like nectar, such is the grace of Mother Saraswati.",
+          "transliteration": "Tum ho jñāna kī dhārā nirmala, Tum ho buddhi kī khāna amola.\nVāṇī tumhārī amṛta jaisī, Sarasvatī mā kṛpā kaisī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Japo Saraswati naam sab, Nitya niyam se dhyaan karo.\nSaraswati ke charno mein, Arpan mann aur praan karo.",
+          "meaning": "Chant the name of Saraswati, all of you, meditate with daily discipline. At the feet of Saraswati, offer your mind and life.",
+          "transliteration": "Japo Sarasvatī nāma saba, Nitya niyama se dhyāna karo.\nSarasvatī ke caraṇoṁ meṁ, Arpaṇa mana aura prāṇa karo.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Jo koi pathe padhe sunave, So sukh sampatti gyaan paave.\nVidya buddhi maan badhave, Saraswati mann bhaave.",
+          "meaning": "Whoever recites, reads, or listens to this, obtains happiness, prosperity and knowledge. Their learning, wisdom and honor increase, and Saraswati is pleased in their heart.",
+          "transliteration": "Jo koī pāṭhe paḍhe sunāve, So sukha sampatti jñāna pāve.\nVidyā buddhi māna baḍhāve, Sarasvatī mana bhāve.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "|| Doha ||\nSaraswati chalisa padhe, man mein dharke dhyaan.\nKripaalu ho Vaagdevi tab, dein vidya vardaan.\nJai Saraswati Mata Jai Jai Saraswati Mata.",
+          "meaning": "|| Doha ||\nOne who recites the Saraswati Chalisa holding meditation in the heart, the merciful Vaagdevi then bestows the boon of knowledge. Victory to Mother Saraswati, victory, victory to Mother Saraswati.",
+          "transliteration": "|| Dohā ||\nSarasvatī calīsā paḍhe, mana meṁ dharake dhyāna.\nKṛpālu ho Vāgdevī taba, deṁ vidyā varadāna.\nJai Sarasvatī Mātā Jai Jai Sarasvatī Mātā.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "chalisa_bajrang_baan",
+      "title": "Bajrang Baan",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/chalisa/hanuman.jpg",
+      "orderIndex": 9,
+      "content": [
+        {
+          "shloka": "|| Doha ||\nNishchay premi vinay suni, sharad grahi mati dheer.\nBajrang baan yeh sakshi hai, Hanuman ati balveer.",
+          "meaning": "|| Doha ||\nHearing the humble prayer of a devoted worshipper, with steadfast and wise mind, this Bajrang Baan is witness that Hanuman is supremely mighty.",
+          "transliteration": "|| Dohā ||\nNiścaya premī vinaya sunī, śārada grahī mati dhīra.\nBajraṅga bāṇa yaha sākṣī hai, Hanumāna ati balavīra.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Jai Hanumant sant hitkaari, Suni leeje prabhu arj hamaari.\nJan ke kaaj vilamb na keeje, Aatur daudi maha sukh deeje.",
+          "meaning": "Victory to Hanuman, benefactor of saints, please hear our petition, O Lord. Do not delay in the work of your devotees, rush eagerly and grant great happiness.",
+          "transliteration": "Jai Hanumanta santa hitakārī, Suni līje prabhu araja hamārī.\nJana ke kāja vilamba na kīje, Ātura dauḍi mahā sukha dīje.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Jaise koodhi sindhu mahi paara, Sursa badhan mukhi beeda pasaara.\nJaise biraaj Dron upaari, Aaye Lakhan praan ubhaari.",
+          "meaning": "Just as you leapt across the great ocean, expanding your mouth wide past the demoness Surasa. Just as you uprooted Mount Dronagiri and came to revive the life of Lakshmana.",
+          "transliteration": "Jaise kūdhi sindhu māhī pāra, Surasā badhana mukhī bīḍā pasārā.\nJaise birāja Droṇa upārī, Āye Lakhaṇa prāṇa ubhārī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Jaise Sita sudhi laaye prabhu pehi, Bani baithak Raghunaath sanehi.\nJaise Lanka jaari kar aaye, Siya Ram kaaj sakal banaaye.",
+          "meaning": "Just as you brought news of Sita to the Lord, becoming the trusted companion of Raghunath. Just as you burned Lanka and returned, accomplishing all the tasks of Sita and Ram.",
+          "transliteration": "Jaise Sītā sudhi lāye prabhu pehī, Bani baiṭhaka Raghunātha sanehī.\nJaise Laṅkā jāri kara āye, Siyā Rāma kāja sakala banāye.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Aisi kripa keeje Hanumanta, Jan ke praan rahe ati santa.\nYahi te Bajrang Baan kahave, Taki taki shatru samhaarave.",
+          "meaning": "Bestow such grace O Hanuman, that the devotee's spirit remains utterly at peace. This is why it is called the Bajrang Baan (arrow of Bajrang), it takes aim and destroys enemies.",
+          "transliteration": "Aisī kṛpā kīje Hanumanta, Jana ke prāṇa rahe ati śānta.\nYahī te Bajraṅga Bāṇa kahāve, Tākī tākī śatru saṁhārave.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Hriim Hriim Hriim Hanumat kapish, Khol diyo taaree ati jagadish.\nSatya hosi Hari shapath tumhaari, Sunahu Veershvar vinay hamaari.",
+          "meaning": "Om Hrim Hrim Hrim, Hanuman, chief of monkeys, the supreme Lord has opened the way for you. Your oath to Hari is true, hear O bravest Lord, our humble prayer.",
+          "transliteration": "Om Hrīṁ Hrīṁ Hrīṁ Hanumata kapīśa, Khola diyo tārī ati jagadīśa.\nSatya hosī Hari śapatha tumhārī, Sunahu Vīreśvara vinaya hamārī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Jan ki laaj raakhahu dayal, Aisi binati karat ghari ghari.\nSunahu Pavanputra pavankumar, Bharahu mann aasha praan se pyaare.",
+          "meaning": "Protect the honor of your devotee, O merciful one, such is the plea made every moment. Hear, O son of Pavan, O wind-born prince, fill the heart with hope, dearer than life.",
+          "transliteration": "Jana kī lāja rākhahu dayāla, Aisī binatī karata gharī gharī.\nSunahu Pavanaputra pavanakumāra, Bharahu mana āśā prāṇa se pyāre.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Hanumate Namah kahi dhyaavein, Sankat mochan sab dukh jaavein.\nNishidin dhyaan dharahu Kapi raaya, Karo sada jan par sahaya.",
+          "meaning": "Those who meditate saying Om Hanumate Namah, all sorrows depart through the deliverer from calamity. Day and night keep your focus, O King of monkeys, always come to the aid of your devotees.",
+          "transliteration": "Om Hanumate Namaḥ kahi dhyāveṁ, Saṅkaṭa mocana saba duḥkha jāveṁ.\nNiśidina dhyāna dharahu Kapi rāyā, Karo sadā jana para sahāyā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Bhoot pret pishaach nikat nahi aave, Mahaveer jab naam sunaave.\nAankhi na dekhi kaanha na sooni, Mahaveer ka naam jo looni.",
+          "meaning": "Ghosts, spirits, and demons dare not come near when the name of Mahavir is proclaimed. Eyes have not seen, ears have not heard any who took the name of Mahavir and were not saved.",
+          "transliteration": "Bhūta preta piśāca nikaṭa nahīṁ āve, Mahāvīra jaba nāma sunāve.\nĀṅkhī na dekhī kānhā na sūnī, Mahāvīra kā nāma jo lūnī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Raakh raakh raakh Hanumant, Choro mat chhodo Bhagvant.\nJaani jaani jaani jan ki baat, Tab Hanumat aaye prabhaat.",
+          "meaning": "Protect, protect, protect O Hanuman, do not leave, do not let go, O divine Lord. Know, know, know the plight of your devotee, then Hanuman arrives at dawn.",
+          "transliteration": "Rākha rākha rākha Hanumanta, Choro mata choḍo Bhagavanta.\nJānī jānī jānī jana kī bāta, Taba Hanumata āye prabhāta.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Prem prateeti ke matt dolarahu, Tab Kapi isha turat phaldolarahu.\nJan ki aarti leejai suni, Turant kaaj karo Kapimuni.",
+          "meaning": "Do not waver in love and faith, then the Lord of monkeys immediately bears fruit. Hear the distress of the devotee, accomplish the task at once, O wise Kapi.",
+          "transliteration": "Prema pratīti ke mata ḍolāhu, Taba Kapi īśa turata phaladolāhu.\nJana kī āratī lījai sunī, Turanta kāja karo Kapimunī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Utha utha chal soi savaari, Aano kaaj sakala tumhaari.\nAisan karahu veer Hanumanta, Jaiso kaahu Sugriv ke santa.",
+          "meaning": "Rise, rise and go forth, O warrior, all the tasks are yours to accomplish. Act thus, O brave Hanuman, just as you did for the saint Sugriva.",
+          "transliteration": "Uṭha uṭha cala soī savārī, Āno kāja sakala tumhārī.\nAisana karahu vīra Hanumanta, Jaiso kāhu Sugrīva ke santa.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Deejat turant krodh ab aaye, Mahaveer bal apni dikhaaye.\nAsi kripa keeje Kapiraai, Jan ke sankat turat mitaai.",
+          "meaning": "Now come forth with righteous fury, O Mahavir, show your great might. Bestow such grace, O king of monkeys, that the devotee's troubles are instantly removed.",
+          "transliteration": "Dījata turanta krodha aba āye, Mahāvīra bala apanī dikhāye.\nAsī kṛpā kīje Kapirāī, Jana ke saṅkaṭa turata miṭāī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Namo Om Namo Om Namo, Om Namo Om Hanumate balbheem.\nBajrang Baan ko padhe sada jo, Uski sab vipadaa hai na kadaapi ho.",
+          "meaning": "Om Namo Om Namo Om Namo, Om Namo Om to the mighty and powerful Hanuman. One who always recites the Bajrang Baan, shall never face any calamity.",
+          "transliteration": "Om Namo Om Namo Om Namo, Om Namo Om Hanumate balabhīma.\nBajraṅga Bāṇa ko paḍhe sadā jo, Usakī saba vipadā hai na kadāpi ho.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sankat kate mithe sab peera, Jab japo Hanuman balveera.\nBajrang Baan yeh sakshi hai, Hanuman bhakt nidhi hai.\n|| Doha ||\nPavan Tanay Sankat Haran, Mangal Murti Roop.\nRam Lakhan Sita sahit, Hriday basahu sur bhoop.",
+          "meaning": "All troubles are cut and all pains vanish when you chant the name of the mighty Hanuman. This Bajrang Baan is witness that Hanuman is the treasure of devotees.\n|| Doha ||\nO son of the wind, remover of calamities, embodiment of auspicious form. Along with Ram, Lakhan and Sita, dwell within my heart, O king among gods.",
+          "transliteration": "Saṅkaṭa kaṭe miṭhe saba pīrā, Jaba japo Hanumāna balavīrā.\nBajraṅga Bāṇa yaha sākṣī hai, Hanumāna bhakta nidhi hai.\n|| Dohā ||\nPavana Tanaya Saṅkaṭa Haraṇa, Maṅgala Mūrti Rūpa.\nRāma Lakhaṇa Sītā sahita, Hṛdaya basahu sura bhūpa.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "chalisa_vishnu",
+      "title": "Vishnu Chalisa",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/chalisa/vishnu.jpg",
+      "orderIndex": 10,
+      "content": [
+        {
+          "shloka": "|| Doha ||\nNamo Namo Shri Vishnu ji, karu kripa bhandar.\nGrih klesha mite sab ke, karahu sabka uddhaar.\n|| Chaupai ||",
+          "meaning": "|| Doha ||\nSalutations to Lord Shri Vishnu, the treasury of grace. Remove all household afflictions and bring salvation to all.\n|| Chaupai ||",
+          "transliteration": "|| Dohā ||\nNamo Namo Śrī Viṣṇu jī, karu kṛpā bhaṇḍāra.\nGṛha kleśa miṭe saba ke, karahu sabakā uddhāra.\n|| Caupāī ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Jai Lakshmi Ramana jai gopal, Jai Devaki Nandan dayal.\nJai Shri Hari Vishnu Narayan, Kshirsagar mein karat vilaasan.",
+          "meaning": "Victory to the beloved of Lakshmi, victory to Gopal. Victory to the compassionate son of Devaki. Victory to Shri Hari Vishnu Narayan, who reposes in the ocean of milk.",
+          "transliteration": "Jai Lakṣmī Ramaṇa jai gopāla, Jai Devakī Nandana dayāla.\nJai Śrī Hari Viṣṇu Nārāyaṇa, Kṣīrasāgara meṁ karata vilāsana.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Shesha shaiyya par baithe Hari, Lakshmi charaan dabaavein vaari.\nGarud vahan baith ke aavein, Sankhya chakra padma Hari paavein.",
+          "meaning": "Hari reclines on the bed of Shesha, while Lakshmi lovingly presses his feet. He arrives seated upon Garuda, wielding the conch, discus and lotus.",
+          "transliteration": "Śeṣa śaiyyā para baiṭhe Hari, Lakṣmī caraṇa dabāveṁ vārī.\nGaruḍa vāhana baiṭha ke āveṁ, Śaṅkha cakra padma Hari pāveṁ.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Pitambar phool sahit tan sohe, Dev danav muni darshankohe.\nNeel kanth vanamala dhaari, Kaustubh mani urr shobhakaari.",
+          "meaning": "The yellow silk garment adorned with flowers graces his body, gods, demons and sages all yearn for his sight. Blue-throated, wearing the forest garland, the Kaustubha gem adorns his chest beautifully.",
+          "transliteration": "Pītāmbara phūla sahita tana sohe, Deva dānava muni darśankohe.\nNīla kaṇṭha vanamālā dhārī, Kaustubha maṇi ura śobhākārī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Makarkrit kundal shat sohe, Mukh madhur chhavi dekhi mann mohe.\nShridhar Vishnu Vishvaroop dhari, Sahastrabahu chatur mudra dhari.",
+          "meaning": "Makara-shaped earrings adorn you beautifully, the sweet radiance of your face enchants the mind. Shridhar Vishnu assumes the Universal Form, with a thousand arms bearing the four sacred gestures.",
+          "transliteration": "Makarakṛta kuṇḍala śata sohe, Mukha madhura chavi dekhi mana mohe.\nŚrīdhara Viṣṇu Viśvarūpa dharī, Sahasrabāhu catura mudrā dharī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Brahma rudra tav ang se pragate, Chaudah bhuvan tav se uchare.\nRacha paale aur sanghaare Hari, Tribhuvan ke tum praan adhaari.",
+          "meaning": "Brahma and Rudra arose from your body, the fourteen worlds emerged from you. You create, sustain and dissolve, O Hari, you are the life-support of the three worlds.",
+          "transliteration": "Brahmā Rudra tava aṅga se pragaṭe, Caudaha bhuvana tava se ucare.\nRacā pāle aura saṅhāre Hari, Tribhuvana ke tum prāṇa ādhārī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Dashavatar tum lete aayo, Bhakt suraksha hit gun gaayo.\nMatsya Kurma Varah avtar, Narsimha Vaman parakram dhaar.",
+          "meaning": "You have taken the ten avatars, singing the virtues of devotee protection. Matsya, Kurma, Varaha incarnations, Narasimha and Vamana wielding great valor.",
+          "transliteration": "Daśāvatāra tum lete āyo, Bhakta surakṣā hita guṇa gāyo.\nMatsya Kūrma Varāha avatāra, Narasiṁha Vāmana parākrama dhāra.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Parashurama Shri Rama avtar, Krishna Buddha Kalki aadhar.\nDasho avataron mein teri leela, Bhakt taarev sab ka pratipala.",
+          "meaning": "Parashurama, Shri Rama incarnation, Krishna, Buddha, and Kalki as the foundation. In all ten avatars your divine play unfolds, ferrying devotees across and nourishing all.",
+          "transliteration": "Paraśurāma Śrī Rāma avatāra, Kṛṣṇa Buddha Kalkī ādhāra.\nDaśo avatāroṁ meṁ terī līlā, Bhakta tāreṁ saba kā pratipālā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sudarshan chakra Garud pe aaye, Dushtan ko pal mein mitaaye.\nSajan ko de abhay daan, Hari karein sabka kalyaan.",
+          "meaning": "Coming upon Garuda with the Sudarshana chakra, you destroy the wicked in an instant. You grant the boon of fearlessness to the virtuous, Hari brings welfare to all.",
+          "transliteration": "Sudarśana cakra Garuḍa pe āye, Duṣṭana ko pala meṁ miṭāye.\nSajana ko de abhaya dāna, Hari kareṁ sabakā kalyāṇa.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Prahlad bachaye Hiranyakashyap maare, Gaj ko graha se aaye ubhaare.\nDhruv ko diye amar pad daani, Aisi kripa kare Bhagvaani.",
+          "meaning": "You saved Prahlad and slew Hiranyakashipu, you rescued the elephant from the crocodile. You gave Dhruva the imperishable position, such is the grace of the Lord.",
+          "transliteration": "Prahlāda bacāye Hiraṇyakaśyapu māre, Gaja ko graha se āye ubhāre.\nDhruva ko diye amara pada dānī, Aisī kṛpā kare Bhagavānī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Draupadi ki laaj tum raakhi, Kaurav sabha mein cheer badhaakhi.\nVidur Sudama ke prem ke saathi, Aise dayalu Jagannathi.",
+          "meaning": "You protected the honor of Draupadi, extending her garment endlessly in the Kaurava court. The companion of Vidura and Sudama's love, such is the compassionate Lord of the World.",
+          "transliteration": "Draupadī kī lāja tum rākhī, Kaurava sabhā meṁ cīra baḍhākhī.\nVidura Sudāmā ke prema ke sāthī, Aise dayālu Jagannāthī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Geet amrit mukh se barasey, Arjun ko gyaan diye base.\nGeeta sar suno Narayan, Karm karo phal mero daani.",
+          "meaning": "Nectar of the Gita flowed from your lips, you bestowed the essence of knowledge upon Arjuna. Hear the essence of the Gita, O Narayan: perform your duty, I am the bestower of the fruit.",
+          "transliteration": "Gītā amṛta mukha se barase, Arjuna ko jñāna diye base.\nGītā sāra suno Nārāyaṇa, Karma karo phala mero dānī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Narad muni Hari Hari gaavein, Sanakadik tere gun batlaavein.\nShesh Mahesh sada gun gaate, Tav charitra jagat mein chhaate.",
+          "meaning": "Sage Narada sings Hari Hari, the Sanaka sages describe your virtues. Sheshanag and Mahesh always sing your glory, your deeds spread across the world.",
+          "transliteration": "Nārada muni Hari Hari gāveṁ, Sanakādika tere guṇa batalāveṁ.\nŚeṣa Maheśa sadā guṇa gāte, Tava caritra jagata meṁ chāte.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ved Puraan sakala gun gaaye, Tav charanaamrit ko sukh paaye.\nTulsi Surdas premi je gaaye, Sab mann mein Hari darsh dikhaaye.",
+          "meaning": "The Vedas and Puranas all sing your virtues, finding bliss in the nectar of your feet. Tulsi, Surdas, and loving devotees have sung, revealing Hari's vision in every heart.",
+          "transliteration": "Veda Purāṇa sakala guṇa gāye, Tava caraṇāmṛta ko sukha pāye.\nTulasī Sūradāsa premī je gāye, Saba mana meṁ Hari darśa dikhāye.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Nirgun sagun swarup tumhara, Sagun roop mann bhaave pyaara.\nJapo Vishnu Vishnu Hari naam, Paavo anand param dham.",
+          "meaning": "Both formless and with form is your nature, the manifest form is dear and pleasing to the heart. Chant Vishnu, Vishnu, Hari's name, attain bliss and the supreme abode.",
+          "transliteration": "Nirguṇa saguṇa svarūpa tumhārā, Saguṇa rūpa mana bhāve pyārā.\nJapo Viṣṇu Viṣṇu Hari nāma, Pāvo ānanda parama dhāma.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Daya dharma ka karo vichar, Satya ahimsa mein karo pyar.\nHari bhajan mein mann lagaye, Janm maran ke bandhan jaaye.",
+          "meaning": "Reflect upon compassion and dharma, love truth and non-violence. Engage the mind in the worship of Hari, and the bonds of birth and death shall be severed.",
+          "transliteration": "Dayā dharma kā karo vicāra, Satya ahiṁsā meṁ karo pyāra.\nHari bhajana meṁ mana lagāye, Janma maraṇa ke bandhana jāye.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Hari chalisa jo nit gaave, Janm janm ke paap mitaave.\nAnand mangal barse sada, Hari kripa se mile Hridaya mein sadaa.",
+          "meaning": "One who daily recites the Hari Chalisa has the sins of many lifetimes erased. Joy and auspiciousness rain always, by Hari's grace the heart is forever fulfilled.",
+          "transliteration": "Hari calīsā jo nita gāve, Janma janma ke pāpa miṭāve.\nĀnanda maṅgala barase sadā, Hari kṛpā se mile hṛdaya meṁ sadā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "|| Doha ||\nVishnu chalisa padhe jo koi, mann vachhit phal paave soi.\nKripaalu hoi Narayan tab, Sabhi sankat kate saab.\nJai Shri Vishnu Jai Shri Hari, Jai Jagadish Murari.",
+          "meaning": "|| Doha ||\nWhoever recites the Vishnu Chalisa obtains the desired fruit. When Narayan becomes merciful, all calamities are cut away. Victory to Shri Vishnu, victory to Shri Hari, victory to the Lord of the World, Murari.",
+          "transliteration": "|| Dohā ||\nViṣṇu calīsā paḍhe jo koī, mana vāñchita phala pāve soī.\nKṛpālu hoī Nārāyaṇa taba, Sabhī saṅkaṭa kaṭe sāba.\nJai Śrī Viṣṇu Jai Śrī Hari, Jai Jagadīśa Murārī.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "chalisa_surya",
+      "title": "Surya Chalisa",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/chalisa/surya.jpg",
+      "orderIndex": 11,
+      "content": [
+        {
+          "shloka": "|| Doha ||\nKoti koti suraj sa prabha, tejo punj bhagvaan.\nKarahu kripa Bhaskar prabhu, rakshahu jan ke praan.\n|| Chaupai ||",
+          "meaning": "|| Doha ||\nWith the radiance of billions of suns, O Lord who is a mass of brilliance. Bestow your grace, O Lord Bhaskar, protect the lives of your devotees.\n|| Chaupai ||",
+          "transliteration": "|| Dohā ||\nKoṭi koṭi sūraja sā prabhā, tejo puñja bhagavāna.\nKarahu kṛpā Bhāskara prabhu, rakṣahu jana ke prāṇa.\n|| Caupāī ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Jai Jai Jai Ravi Bhagvaan, Jai Suryanarayan bhagvaan.\nKashyap Aditi ke nandan, Tribhuvan timirahari chandan.",
+          "meaning": "Victory, victory to Lord Ravi, victory to Lord Suryanarayan. Son of Kashyap and Aditi, the sandalwood that removes darkness of the three worlds.",
+          "transliteration": "Jai Jai Jai Ravi Bhagavāna, Jai Sūryanārāyaṇa bhagavāna.\nKaśyapa Aditi ke nandana, Tribhuvana timirāharī candana.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sapt ashwa rath sushobhit, Arun sarathi karat sevit.\nEkchakra rath mein biraje, Tamo naashak Bhanu viraje.",
+          "meaning": "Splendidly seated in a chariot drawn by seven horses, served by the charioteer Aruna. You sit in the single-wheeled chariot, Bhanu, the destroyer of darkness, shines forth.",
+          "transliteration": "Sapta aśva ratha suśobhita, Aruṇa sārathī karata sevita.\nEkacakra ratha meṁ birāje, Tamo nāśaka Bhānu virāje.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Dvadash roop dharin Suryanarayan, Mitra Ravi Surya Bhanu Khaga Pusha bhagvaan.\nHiranyagarbh Marichih Aaditya, Savita Arka Bhaskara nityam.",
+          "meaning": "Suryanarayan bears twelve forms: Mitra, Ravi, Surya, Bhanu, Khaga, Pusha, Lord. Hiranyagarbha, Marichi, Aditya, Savitar, Arka, Bhaskara — eternal.",
+          "transliteration": "Dvādaśa rūpa dhariṁ Sūryanārāyaṇa, Mitra Ravi Sūrya Bhānu Khaga Pūṣā bhagavāna.\nHiraṇyagarbha Marīciḥ Ādityā, Savitā Arka Bhāskara nityam.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Pratyaksh devo Suryanaraayan, Jag ke praandata karein kalyaan.\nTumse pragatein sakala sansaar, Tumse hove srishti vistaar.",
+          "meaning": "The visible deity, Suryanarayan, the giver of life to the world who brings welfare. From you the entire world manifests, from you creation expands.",
+          "transliteration": "Pratyakṣa devo Sūryanārāyaṇa, Jaga ke prāṇadātā kareṁ kalyāṇa.\nTumase pragateṁ sakala saṁsāra, Tumase hove sṛṣṭi vistāra.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Tumhari kirno se jag jeevan, Tumhare tej se mile nava jeevan.\nAnnadaata tum jagat ke, Sakala jeev jeevan ke.",
+          "meaning": "From your rays the world receives life, from your radiance new life is bestowed. You are the provider of food for the world, the life of all living beings.",
+          "transliteration": "Tumhārī kiraṇoṁ se jaga jīvana, Tumhāre teja se mile nava jīvana.\nAnnadātā tum jagata ke, Sakala jīva jīvana ke.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sandhya suraj praatah mein teja, Madhyahan mein parak parakash abh seja.\nSaayam kaal laal prakash de, Jeevan chakra din raat base.",
+          "meaning": "At dawn the sun gives its radiance, at noon a blazing illumination fills the sky. At evening you give a red light, the cycle of life through day and night is sustained.",
+          "transliteration": "Sandhyā sūraja prātaḥ meṁ teja, Madhyāhna meṁ paraka prakāśa abha sejā.\nSāyam kāla lāla prakāśa de, Jīvana cakra dina rāta base.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ritu kaal tum se hi aave, Fasal upaaj sab man bhaave.\nVarsha sheetkal grishm sahare, Prakriti chakra tum se sab dhare.",
+          "meaning": "The seasons come through you, crops and harvests that please all hearts. Rain, winter and summer are borne through you, the cycle of nature is sustained by you.",
+          "transliteration": "Ṛtu kāla tum se hī āve, Phasala upāja saba mana bhāve.\nVarṣā śītakāla grīṣma sahāre, Prakṛti cakra tum se saba dhare.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Chhath pooja mein pujit raho, Makar Sankranti mein jaape raho.\nRath Saptami mein viraje sada, Surya Grahan mein jaape sadaa.",
+          "meaning": "You are worshipped in Chhath Puja, and chanted upon at Makar Sankranti. You preside ever on Ratha Saptami, and are invoked during solar eclipses.",
+          "transliteration": "Chaṭha pūjā meṁ pūjita raho, Makara Saṅkrānti meṁ jāpe raho.\nRatha Saptamī meṁ virāje sadā, Sūrya Grahaṇa meṁ jāpe sadā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Gayatri mantra tumhara roop, Savitar dev tej swaroop.\nSuryanamaskar kare jo koi, Nirogi deha paave soi.",
+          "meaning": "The Gayatri Mantra is your very form, Savitar Deva, embodiment of brilliance. Whoever performs Surya Namaskar attains a disease-free body.",
+          "transliteration": "Gāyatrī mantra tumhārā rūpa, Savitā deva teja svarūpa.\nSūryanamaskāra kare jo koī, Nirogī dehā pāve soī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sugriv mitr bane Suryasut, Karna veer Suryadev ko put.\nYam Dharmaraj bhi tere nandan, Shani dev tere putr anandan.",
+          "meaning": "Sugriva the friend was born of the Sun, the brave Karna was the Sun God's son. Yama Dharmaraj is also your offspring, Shani Dev is your joyful son.",
+          "transliteration": "Sugrīva mitra bane Sūryasuta, Karṇa vīra Sūryadeva ko puta.\nYama Dharmarāja bhī tere nandana, Śani deva tere putra ānandana.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Rog naashak Surydev tumhi, Kushtha rog se bachavein tumhi.\nNetra rog har lein Bhagvaan, Aarogya dein Suryanaraayan.",
+          "meaning": "You are the destroyer of disease, O Sun God, you protect from skin afflictions. Remove eye diseases, O Lord, grant good health, O Suryanarayan.",
+          "transliteration": "Roga nāśaka Sūryadeva tumhī, Kuṣṭha roga se bacāveṁ tumhī.\nNetra roga hara leṁ Bhagavāna, Ārogya deṁ Sūryanārāyaṇa.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Jyotish shastra ke mool tumhi, Navagraha ke nayak tumhi.\nSakala graha tav aagya maanein, Tumhari kirno se bal jaanein.",
+          "meaning": "You are the root of the science of astrology, you are the leader of the nine planets. All planets obey your command, from your rays they draw their strength.",
+          "transliteration": "Jyotiṣa śāstra ke mūla tumhī, Navagraha ke nāyaka tumhī.\nSakala graha tava ājñā māneṁ, Tumhārī kiraṇoṁ se bala jāneṁ.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Surya dev ko arghya de, Lal pushp jal mein rahe.\nGur me gola ka bhog lagaye, Suryanarayan prasan ho jaaye.",
+          "meaning": "Offer arghya (water oblation) to the Sun God, with red flowers placed in the water. Offer jaggery sweets as bhog, and Suryanarayan will be pleased.",
+          "transliteration": "Sūrya deva ko arghya de, Lāla puṣpa jala meṁ rahe.\nGuḍa me golā kā bhoga lagāye, Sūryanārāyaṇa prasanna ho jāye.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Tamo naashak tum jag mein aaye, Agyanata ka andhera mitaye.\nGyan deepak jala ujiyaar karo, Buddhi vivek ka bhav udhaar karo.",
+          "meaning": "You came to the world as the destroyer of darkness, removing the shadow of ignorance. Light the lamp of knowledge and bring illumination, uplift the spirit of intellect and discernment.",
+          "transliteration": "Tamo nāśaka tum jaga meṁ āye, Ajñānatā kā andherā miṭāye.\nJñāna dīpaka jalā ujiyāra karo, Buddhi viveka kā bhava uddhāra karo.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sankat kate dukh door ho jaaye, Surya dev jab kripa dikhaaye.\nDhan dhaanya sampatti barse ghar, Arogya sukh mile nit sundar.",
+          "meaning": "Troubles are cut and sorrows removed when the Sun God shows his grace. Wealth, grain and prosperity shower the home, health and happiness are received daily in abundance.",
+          "transliteration": "Saṅkaṭa kaṭe duḥkha dūra ho jāye, Sūrya deva jaba kṛpā dikhāye.\nDhana dhānya sampatti barase ghara, Ārogya sukha mile nita sundara.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Surya chalisa padhe jo koi, Sankat bipada na rahe na koi.\nMann ki iccha poori ho jaave, Suryanaraayan mann bhaave.\n|| Doha ||\nKashyap nandan Bhaskar Ravi, Prabhu tumhari jai ho.\nSurya chalisa paath se, Sab dukh door sahai ho.",
+          "meaning": "Whoever recites the Surya Chalisa, neither calamity nor trouble shall remain. The wishes of the heart shall be fulfilled, Suryanarayan is pleased. \n|| Doha ||\nO Bhaskar Ravi, son of Kashyap, victory be to you, Lord. Through the recitation of the Surya Chalisa, all sorrows are relieved.",
+          "transliteration": "Sūrya calīsā paḍhe jo koī, Saṅkaṭa bipadā na rahe na koī.\nMana kī icchā pūrī ho jāve, Sūryanārāyaṇa mana bhāve.\n|| Dohā ||\nKaśyapa nandana Bhāskara Ravi, Prabhu tumhārī jai ho.\nSūrya calīsā pāṭha se, Saba duḥkha dūra sahāī ho.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "chalisa_santoshi",
+      "title": "Santoshi Mata Chalisa",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/chalisa/santoshi.jpg",
+      "orderIndex": 12,
+      "content": [
+        {
+          "shloka": "|| Doha ||\nJai Jai Santoshi Mata, tum ho kripa nidhan.\nSab dukh harani sukhdaani, karo sabka kalyaan.\n|| Chaupai ||",
+          "meaning": "|| Doha ||\nVictory, victory to Mother Santoshi, you are the treasury of grace. Remover of all sorrows, bestower of happiness, bring welfare to all.\n|| Chaupai ||",
+          "transliteration": "|| Dohā ||\nJai Jai Santośī Mātā, tum ho kṛpā nidhāna.\nSaba duḥkha hāraṇī sukhadānī, karo sabakā kalyāṇa.\n|| Caupāī ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Jai Santoshi Mata Jagadamba, Tum ho Ganapati ki suta damba.\nSiddhi Buddhi ki laadli, Santan ki sukhkaari pyaari.",
+          "meaning": "Victory to Santoshi Mata, Mother of the Universe. You are the splendid daughter of Ganapati. The darling of Siddhi and Buddhi, the beloved one who brings happiness to children.",
+          "transliteration": "Jai Santośī Mātā Jagadambā, Tum ho Gaṇapati kī sutā dambā.\nSiddhi Buddhi kī lāḍalī, Santana kī sukhakārī pyārī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sunahari kaanti tan sobhe bhari, Laal vastra ki chhavi nyaari.\nSinghasan par sushobhit raajein, Bhakt jan ke mann ko bhaajein.",
+          "meaning": "Golden radiance fully adorns your body, the splendor of red garments is unique. You preside beautifully upon the throne, captivating the hearts of devotees.",
+          "transliteration": "Sunaharī kānti tana sobhe bharī, Lāla vastra kī chavi nyārī.\nSiṁhāsana para suśobhita rājeṁ, Bhakta jana ke mana ko bhājeṁ.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Hath mein talvar trishul viraaje, Aur ek haath mein kamal saje.\nGale mein pushp haar shobhit, Mukt mukta mani se shobhit.",
+          "meaning": "A sword and trident adorn your hands, and in one hand a lotus is arranged. A garland of flowers graces your neck, radiant with pearls and gems.",
+          "transliteration": "Hātha meṁ talavāra triśūla virāje, Aura eka hātha meṁ kamala saje.\nGale meṁ puṣpa hāra śobhita, Mukta muktā maṇi se śobhita.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Shukravar ko vrat jo kare koi, Uske ghar mein na rahe na dukh koi.\nGur chana ka prasad banaaye, Santoshi maa prasanna ho jaaye.",
+          "meaning": "Whoever observes a fast on Friday, no sorrow shall remain in their home. Prepare the offering of jaggery and chickpeas, and Mother Santoshi will be pleased.",
+          "transliteration": "Śukravāra ko vrata jo kare koī, Usake ghara meṁ na rahe na duḥkha koī.\nGuḍa canā kā prasāda banāye, Santośī mā prasanna ho jāye.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Solah shukravar vrat kare, Mann vachhit phal paave nare.\nShradha preet se puja kare, Santoshi maa kaaj sab kare.",
+          "meaning": "One who observes the fast for sixteen consecutive Fridays attains the desired fruit. One who worships with faith and devotion, Mother Santoshi accomplishes all their tasks.",
+          "transliteration": "Ṣoḍaśa śukravāra vrata kare, Mana vāñchita phala pāve nare.\nŚraddhā prīta se pūjā kare, Santośī mā kāja saba kare.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Dhan sampada ghar mein aave, Sukh shanti ka vaas ho jaave.\nGrih klesha mite sab jaaye, Parivar mein prem badh jaaye.",
+          "meaning": "Wealth and prosperity come into the home, peace and happiness take up residence. All domestic troubles are removed, love within the family increases.",
+          "transliteration": "Dhana sampadā ghara meṁ āve, Sukha śānti kā vāsa ho jāve.\nGṛha kleśa miṭe saba jāye, Parivāra meṁ prema baḍha jāye.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Vivah mein baadha door karein, Santan sukh ko prakat karein.\nDaampaty jeevan sukhmay kare, Santoshi maa kripa kare.",
+          "meaning": "She removes obstacles in marriage, bestows the happiness of children. She makes married life blissful, Mother Santoshi grants her grace.",
+          "transliteration": "Vivāha meṁ bādhā dūra kareṁ, Santāna sukha ko prakaṭa kareṁ.\nDāmpatya jīvana sukhamaya kare, Santośī mā kṛpā kare.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Jo koi deen dukhi tere dwaare, So sab sukh paave pyaare.\nKanganon mein kankan shobhe, Santoshi maa mann lobhe.",
+          "meaning": "Whoever comes to your door, destitute and sorrowful, they all attain happiness, dear one. Bangles adorn the wrists, Mother Santoshi captivates the heart.",
+          "transliteration": "Jo koī dīna dukhī tere dvāre, So saba sukha pāve pyāre.\nKaṅganoṁ meṁ kaṅkana śobhe, Santośī mā mana lobhe.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Saubhagya ki tum daayini ho, Suhaag ki tum raakhani ho.\nGrihasthi ka sukh de do mata, Aashirwaad de do vidhata.",
+          "meaning": "You are the bestower of good fortune, you are the protector of marital bliss. Grant the happiness of household life, O Mother, bestow your blessings, O Creator.",
+          "transliteration": "Saubhāgya kī tum dāyinī ho, Suhāga kī tum rākhanī ho.\nGṛhasthī kā sukha de do mātā, Āśīrvāda de do vidhātā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Garib nivaaj dayal Mata, Dushtan mardini Jag vikhyata.\nBhakt vatsala tum karunamayi, Sab ki Mata Santoshi samayi.",
+          "meaning": "Protector of the poor, compassionate Mother, crusher of the wicked, famous throughout the world. You are tender towards devotees and full of mercy, Mother Santoshi is the mother of all, all-pervading.",
+          "transliteration": "Garība nivāja dayāla Mātā, Duṣṭana mardinī Jaga vikhyātā.\nBhakta vatsalā tum karuṇāmayī, Saba kī Mātā Santośī samayī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Aarti utaare mann lagaaye, Sankat kate Mata sukh paaye.\nPuja archana vidhi se kare, Santoshi maa ashish bhare.",
+          "meaning": "Perform aarti with a focused mind, Mother removes troubles and grants happiness. Worship with proper rituals, and Mother Santoshi fills you with blessings.",
+          "transliteration": "Āratī utāre mana lagāye, Saṅkaṭa kaṭe Mātā sukha pāye.\nPūjā arcanā vidhi se kare, Santośī mā āśīṣa bhare.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Nirdhan ko dhan sampada de, Rogee ko arogya tan de.\nDukhi ko sukh shanti de Mata, Sab ki bigdi banaye Vidhata.",
+          "meaning": "She gives wealth and prosperity to the poor, grants a healthy body to the sick. Give happiness and peace to the sorrowful, O Mother, the Creator who sets right all that has gone wrong.",
+          "transliteration": "Nirdhana ko dhana sampadā de, Rogī ko ārogya tana de.\nDukhī ko sukha śānti de Mātā, Saba kī bigaḍī banāye Vidhātā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Katha sunein Mata ki pyaari, Vrat niyam palein naari.\nSukh saubhagya se ghar bhare, Santoshi maa kaaj sab kare.",
+          "meaning": "Hear the beloved story of the Mother, women should observe fasts and disciplines. The home fills with happiness and fortune, Mother Santoshi accomplishes all tasks.",
+          "transliteration": "Kathā suneṁ Mātā kī pyārī, Vrata niyama paleṁ nārī.\nSukha saubhāgya se ghara bhare, Santośī mā kāja saba kare.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ganapati nandan Santoshi Maiya, Bhakton ko de do sahaiya.\nSab sankat door karo Mata, Tum ho sab ki sukhdata.",
+          "meaning": "O Santoshi Maiya, daughter of Ganapati, give support to your devotees. Remove all troubles, O Mother, you are the giver of happiness to all.",
+          "transliteration": "Gaṇapati nandana Santośī Maiyā, Bhaktoṁ ko de do sahāiyā.\nSaba saṅkaṭa dūra karo Mātā, Tum ho saba kī sukhadātā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Mann mein shradha bhakti jagaaye, Santoshi maa ke geet sunaaye.\nPrempoorvak jo dhyaan lagaaye, Mann vachhit phal avashya paaye.",
+          "meaning": "Awaken faith and devotion in the heart, sing the songs of Mother Santoshi. One who meditates with love surely obtains the desired fruit.",
+          "transliteration": "Mana meṁ śraddhā bhakti jagāye, Santośī mā ke gīta sunāye.\nPremapūrvaka jo dhyāna lagāye, Mana vāñchita phala avaśya pāye.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Santoshi Mata ki jai bolo, Jai jai jai sur naar bolo.\nSab mein samaan darshan karo, Santoshi Mata mein man dharo.",
+          "meaning": "Proclaim the victory of Mother Santoshi, say victory, victory, victory, O gods and humans. See her equally in all, place your heart in Mother Santoshi.",
+          "transliteration": "Santośī Mātā kī jai bolo, Jai jai jai sura nāra bolo.\nSaba meṁ samāna darśana karo, Santośī Mātā meṁ mana dharo.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Jo yeh chalisa padhe sunaave, Santoshi Mata kripa barasaave.\nGhar mein sukh shanti aave sada, Kabhi na aave koi aapda.\n|| Doha ||\nSantoshi chalisa padhe, mann mein kare vichaara.\nMata prasanna ho sada, kare bhakton ka uddhaar.\nJai Santoshi Mata Jai Jai Santoshi Mata.",
+          "meaning": "One who recites or listens to this chalisa, Mother Santoshi showers her grace. Happiness and peace forever fill the home, no calamity ever comes.\n|| Doha ||\nOne who recites the Santoshi Chalisa with reflection in the heart, the Mother is always pleased and delivers her devotees. Victory to Mother Santoshi, victory, victory to Mother Santoshi.",
+          "transliteration": "Jo yaha calīsā paḍhe sunāve, Santośī Mātā kṛpā barasāve.\nGhara meṁ sukha śānti āve sadā, Kabhī na āve koī āpadā.\n|| Dohā ||\nSantośī calīsā paḍhe, mana meṁ kare vicāra.\nMātā prasanna ho sadā, kare bhaktoṁ kā uddhāra.\nJai Santośī Mātā Jai Jai Santośī Mātā.",
+          "imageUrl": null
         }
       ]
     }

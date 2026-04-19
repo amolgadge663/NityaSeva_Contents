@@ -1,0 +1,228 @@
+{
+  "category": "Navchandi Mahatmya",
+  "version": 1,
+  "items": [
+    {
+      "id": "navch_ch1_3",
+      "title": "अध्याय 1-3: मधु कैटभ वध",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/navchandi/durga.jpg",
+      "orderIndex": 1,
+      "content": [
+        {
+          "shloka": "ॐ नमश्चण्डिकायै\nॐ ऐं ह्रीं क्लीं चामुण्डायै विच्चे",
+          "meaning": "देवी चण्डिका को नमस्कार। ॐ ऐं ह्रीं क्लीं — चामुण्डा देवी का आवाहन, जो दानवों का संहार करती हैं।",
+          "transliteration": "Oṃ namaścaṇḍikāyai\nOṃ aiṃ hrīṃ klīṃ cāmuṇḍāyai vicce",
+          "imageUrl": null
+        },
+        {
+          "shloka": "महाकाली महालक्ष्मी महासरस्वती रूपिण्यै\nनवार्ण मन्त्र स्वरूपिण्यै नमः",
+          "meaning": "महाकाली, महालक्ष्मी और महासरस्वती के रूप में प्रकट होने वाली, नवार्ण मन्त्र की स्वरूपिणी देवी को नमस्कार।",
+          "transliteration": "Mahākālī mahālakṣmī mahāsarasvatī rūpiṇyai\nNavārṇa mantra svarūpiṇyai namaḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "विष्णुः योगनिद्रां यदि जगद्व्यापिनीं\nमधु कैटभ नाशनार्थं देवी स्तुतिं चक्रुः",
+          "meaning": "जब भगवान विष्णु योगनिद्रा में थे, तब देवताओं ने सर्वव्यापिनी देवी की स्तुति की मधु और कैटभ के नाश के लिए।",
+          "transliteration": "Viṣṇuḥ yoganidrāṃ yadi jagadvyāpinīṃ\nMadhu kaiṭabha nāśanārthaṃ devī stutiṃ cakruḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "या देवी सर्वभूतेषु निद्रा रूपेण संस्थिता\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः",
+          "meaning": "जो देवी सभी प्राणियों में निद्रा के रूप में विराजमान हैं, उन्हें नमस्कार, उन्हें नमस्कार, उन्हें बारम्बार नमस्कार।",
+          "transliteration": "Yā devī sarvabhūteṣu nidrā rūpeṇa saṃsthitā\nNamastasyai namastasyai namastasyai namo namaḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ब्रह्मा उवाच:\nतथैव चा कृष्य जगत्कृतौ\nमधु कैटभौ दुरात्मानौ हन्तुमिच्छति वै हरिः",
+          "meaning": "ब्रह्मा बोले: इस प्रकार भगवान हरि ने जगत की रचना और रक्षा के लिए दुष्टात्मा मधु और कैटभ का वध करने की इच्छा की।",
+          "transliteration": "Brahmā uvāca:\nTathaiva cā kṛṣya jagatkṛtau\nMadhu kaiṭabhau durātmānau hantumicchati vai hariḥ",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "navch_ch4_6",
+      "title": "अध्याय 4-6: महिषासुर वध",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/navchandi/durga.jpg",
+      "orderIndex": 2,
+      "content": [
+        {
+          "shloka": "महिषासुर सेनानीनां तथा सैन्यस्य सर्वशः\nवधं प्राह महादेव्या देवानामपि चामरं",
+          "meaning": "महादेवी ने महिषासुर के सेनापतियों और समस्त सेना का वध किया तथा देवताओं को अभयदान दिया।",
+          "transliteration": "Mahiṣāsura senānīnāṃ tathā sainyasya sarvaśaḥ\nVadhaṃ prāha mahādevyā devānāmapi cāmaraṃ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "तेजः समस्त देवानां एकं रूपम् अवर्धत\nतदा प्रादुरभूद् देवी त्रैलोक्यं तेज आवृतम्",
+          "meaning": "समस्त देवताओं का तेज एकत्रित होकर एक रूप में बढ़ा, तब देवी प्रकट हुईं और तीनों लोकों को अपने तेज से भर दिया।",
+          "transliteration": "Tejaḥ samasta devānāṃ ekaṃ rūpam avardhata\nTadā prādurabhūd devī trailokyaṃ teja āvṛtam",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सिंहं समारुह्य महासुरं तम्\nमहिषं छित्त्वैव खड्गेन दुर्गा\nलोकानां रक्षणार्थं जगदम्बा",
+          "meaning": "सिंह पर आरूढ़ होकर जगदम्बा दुर्गा ने अपनी खड्ग से महासुर महिषासुर का वध किया, समस्त लोकों की रक्षा के लिए।",
+          "transliteration": "Siṃhaṃ samāruhya mahāsuraṃ tam\nMahiṣaṃ chittvaiva khaḍgena durgā\nLokānāṃ rakṣaṇārthaṃ jagadambā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सर्वमङ्गल माङ्गल्ये शिवे सर्वार्थ साधिके\nशरण्ये त्र्यम्बके गौरि नारायणि नमोस्तुते",
+          "meaning": "सभी मंगलों में मंगलकारी, शिवा, सभी अभीष्टों को सिद्ध करने वाली, शरणदायिनी, त्रिनेत्री गौरी, नारायणी, आपको नमस्कार।",
+          "transliteration": "Sarvamaṅgala māṅgalye śive sarvārtha sādhike\nŚaraṇye tryambake gauri nārāyaṇi namostute",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जया जया श्री महिषासुर मर्दिनी\nरम्या कपर्दिनी शैलसुते नमः",
+          "meaning": "जय जय महिषासुर मर्दिनी की! जटाधारिणी, पर्वत पुत्री, रम्य देवी को नमस्कार।",
+          "transliteration": "Jayā jayā śrī mahiṣāsura mardinī\nRamyā kapardinī śailasute namaḥ",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "navch_ch7_9",
+      "title": "अध्याय 7-9: शुम्भ निशुम्भ वध",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/navchandi/durga.jpg",
+      "orderIndex": 3,
+      "content": [
+        {
+          "shloka": "शुम्भ निशुम्भ सैन्यानां नाशाय परमात्मिका\nकाली तारा महाविद्या षोडशी भुवनेश्वरी",
+          "meaning": "शुम्भ और निशुम्भ की सेनाओं के नाश के लिए परमात्मिका देवी ने काली, तारा, महाविद्या, षोडशी और भुवनेश्वरी के रूप में प्रकट हुईं।",
+          "transliteration": "Śumbha niśumbha sainyānāṃ nāśāya paramātmikā\nKālī tārā mahāvidyā ṣoḍaśī bhuvaneśvarī",
+          "imageUrl": null
+        },
+        {
+          "shloka": "रक्तबीजं महाघोरं चामुण्डा पीत्वा रुधिरं\nजघान सर्वलोके वै महिषासुर संहृतिः",
+          "meaning": "भयंकर रक्तबीज का रक्त पीकर चामुण्डा ने उसका वध किया, जो महिषासुर के संहार से आरम्भ हुए विनाश का पूर्ण किया।",
+          "transliteration": "Raktabījaṃ mahāghoraṃ cāmuṇḍā pītvā rudhiraṃ\nJaghāna sarvaloke vai mahiṣāsura saṃhṛtiḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "निशुम्भं निहतं दृष्ट्वा भ्रातरं प्राणसम्मितम्\nशुम्भः क्रुद्धो अब्रवीद् वाक्यं दुर्गां प्रति",
+          "meaning": "अपने प्राणप्रिय भाई निशुम्भ को मारा हुआ देखकर, क्रोधित शुम्भ ने दुर्गा देवी को ललकारते हुए कहा।",
+          "transliteration": "Niśumbhaṃ nihataṃ dṛṣṭvā bhrātaraṃ prāṇasammitam\nŚumbhaḥ kruddho abravīd vākyaṃ durgāṃ prati",
+          "imageUrl": null
+        },
+        {
+          "shloka": "देवी उवाच: एकैवाहम् जगत् अत्र द्वितीया का ममापरा\nपश्यैता दुष्ट मय्येव विशन्त्यो मद्विभूतयः",
+          "meaning": "देवी बोलीं: इस जगत में मैं अकेली हूँ। मेरे सिवा और कौन है? देख, ये दुष्ट, ये सभी मेरी विभूतियाँ मुझमें ही विलीन हो रही हैं।",
+          "transliteration": "Devī uvāca: ekaivāham jagat atra dvitīyā kā mamāparā\nPaśyaitā duṣṭa mayyeva viśantyo madvibhūtayaḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "इत्थं यदा यदा बाधा दानवोत्था भविष्यति\nतदा तदा अवतीर्य अहं करिष्यामि अरिनाशनम्",
+          "meaning": "इस प्रकार जब-जब दानवों द्वारा बाधा उत्पन्न होगी, तब-तब मैं अवतरित होकर शत्रुओं का नाश करूँगी।",
+          "transliteration": "Itthaṃ yadā yadā bādhā dānavotthā bhaviṣyati\nTadā tadā avatīrya ahaṃ kariṣyāmi arināśanam",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "navch_kavach",
+      "title": "देवी कवचम् (रक्षा स्तोत्र)",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/navchandi/durga.jpg",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "ॐ नमश्चण्डिकायै\nमार्कण्डेय उवाच:\nॐ यद् गुह्यं परमं लोके सर्वारक्षाकरं नृणाम्\nयन्न कस्य चिदाख्यातं तन्मे ब्रूहि पितामह",
+          "meaning": "मार्कण्डेय बोले: हे पितामह (ब्रह्मा), मुझे वह परम गुह्य बताइये जो इस लोक में सभी प्राणियों की रक्षा करने वाला है, जो किसी को भी नहीं बताया गया।",
+          "transliteration": "Oṃ namaścaṇḍikāyai\nMārkaṇḍeya uvāca:\nOṃ yad guhyaṃ paramaṃ loke sarvārakṣākaraṃ nṛṇām\nYanna kasya cidākhyātaṃ tanme brūhi pitāmaha",
+          "imageUrl": null
+        },
+        {
+          "shloka": "शैलपुत्र्या राजं शिरो मे पातु सर्वदा\nब्रह्मचारिणी पातु ललाटं चन्द्रघण्टा कुटिलं",
+          "meaning": "शैलपुत्री मेरे मस्तक की सदैव रक्षा करें। ब्रह्मचारिणी मेरे ललाट की और चन्द्रघण्टा मेरे शीर्ष की रक्षा करें।",
+          "transliteration": "Śailaputryā rājaṃ śiro me pātu sarvadā\nBrahmacāriṇī pātu lalāṭaṃ candraghaṇṭā kuṭilaṃ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "पादौ मे पातु काली ह्रीं पातु पादयोर् अङ्गुलिः\nनखान् पातु महालक्ष्मी सर्वाङ्गं सर्वदा'वतु",
+          "meaning": "काली मेरे चरणों की रक्षा करें। ह्रीं मेरे पैरों की अंगुलियों की रक्षा करें। महालक्ष्मी मेरे नखों की रक्षा करें। वे सदा मेरे सम्पूर्ण शरीर की रक्षा करें।",
+          "transliteration": "Pādau me pātu kālī hrīṃ pātu pādayor aṅguliḥ\nNakhān pātu mahālakṣmī sarvāṅgaṃ sarvadā'vatu",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सर्वमङ्गल माङ्गल्ये देवी कवचं यः पठेत्\nस सर्वारिष्ट विनिर्मुक्तो धनधान्य सुतान्वितः",
+          "meaning": "जो इस सर्वमंगलकारी देवी कवच का पाठ करता है, वह सभी विपत्तियों से मुक्त होकर धन, धान्य और सन्तान से युक्त होता है।",
+          "transliteration": "Sarvamaṅgala māṅgalye devī kavacaṃ yaḥ paṭhet\nSa sarvāriṣṭa vinirmukto dhanadhānya sutānvitaḥ",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "navch_argala",
+      "title": "अर्गला स्तोत्रम्",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/navchandi/durga.jpg",
+      "orderIndex": 5,
+      "content": [
+        {
+          "shloka": "ॐ जयन्ती मङ्गला काली भद्रकाली कपालिनी\nदुर्गा क्षमा शिवा धात्री स्वाहा स्वधा नमोऽस्तुते",
+          "meaning": "ॐ! जयन्ती, मङ्गला, काली, भद्रकाली, कपालिनी, दुर्गा, क्षमा, शिवा, धात्री, स्वाहा और स्वधा को नमस्कार।",
+          "transliteration": "Oṃ jayantī maṅgalā kālī bhadrakālī kapālinī\nDurgā kṣamā śivā dhātrī svāhā svadhā namo'stute",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जया त्वं देवि चामुण्डे जया भूतापहारिणि\nजया सर्वगते देवि कालरात्रि नमोऽस्तुते",
+          "meaning": "आपकी जय हो देवी चामुण्डे! आपकी जय हो भूतों का हरण करने वाली! आपकी जय हो सर्वव्यापी देवी कालरात्रि, आपको नमस्कार।",
+          "transliteration": "Jayā tvaṃ devi cāmuṇḍe jayā bhūtāpahāriṇi\nJayā sarvagate devi kālarātri namo'stute",
+          "imageUrl": null
+        },
+        {
+          "shloka": "रूपं देहि जयं देहि यशो देहि द्विषो जहि\nमहिषासुर नाशिन्यै नमः",
+          "meaning": "रूप दो, जय दो, यश दो और शत्रुओं का नाश करो। महिषासुर का नाश करने वाली को नमस्कार।",
+          "transliteration": "Rūpaṃ dehi jayaṃ dehi yaśo dehi dviṣo jahi\nMahiṣāsura nāśinyai namaḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "विधेहि देवि कल्याणं विधेहि परमां श्रियम्\nरूपं देहि जयं देहि यशो देहि द्विषो जहि",
+          "meaning": "हे देवी, कल्याण प्रदान करो, परम ऐश्वर्य प्रदान करो। रूप दो, जय दो, यश दो और शत्रुओं का नाश करो।",
+          "transliteration": "Vidhehi devi kalyāṇaṃ vidhehi paramāṃ śriyam\nRūpaṃ dehi jayaṃ dehi yaśo dehi dviṣo jahi",
+          "imageUrl": null
+        },
+        {
+          "shloka": "पत्नीं मनोरमां देहि मनोवृत्तानुसारिणीम्\nतारिणीं दुर्गसंसार सागरस्य कुलोद्भवाम्",
+          "meaning": "मनोरम पत्नी प्रदान करो जो मन की इच्छाओं का अनुसरण करे। इस कठिन संसार सागर से तारने वाली कुलोद्भवा प्रदान करो।",
+          "transliteration": "Patnīṃ manoramāṃ dehi manovṛttānusāriṇīm\nTāriṇīṃ durgasaṃsāra sāgarasya kulodbhavām",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "navch_kilakam",
+      "title": "कीलकम् स्तोत्रम्",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/navchandi/durga.jpg",
+      "orderIndex": 6,
+      "content": [
+        {
+          "shloka": "ॐ नमश्चण्डिकायै\nमार्कण्डेय उवाच:\nविशुद्ध ज्ञान देहाय त्रिवेदी दिव्य चक्षुषे\nश्रेयः प्राप्ति निमित्ताय नमः सोमार्ध धारिणे",
+          "meaning": "मार्कण्डेय बोले: शुद्ध ज्ञान स्वरूप, त्रिवेदी, दिव्य दृष्टि वाले, श्रेय की प्राप्ति के निमित्त, अर्धचन्द्र धारी को नमस्कार।",
+          "transliteration": "Oṃ namaścaṇḍikāyai\nMārkaṇḍeya uvāca:\nViśuddha jñāna dehāya trivedī divya cakṣuṣe\nŚreyaḥ prāpti nimittāya namaḥ somārdha dhāriṇe",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ इदं स्तोत्रं महापुण्यं सप्तशत्या समाहितम्\nकीलकेन समायुक्तं मङ्गलाय प्रचोदितम्",
+          "meaning": "यह महापुण्यकारी स्तोत्र सप्तशती के साथ संयुक्त है। कीलक से युक्त होकर यह मंगल के लिए प्रेरित है।",
+          "transliteration": "Oṃ idaṃ stotraṃ mahāpuṇyaṃ saptaśatyā samāhitam\nKīlakena samāyuktaṃ maṅgalāya pracoditam",
+          "imageUrl": null
+        },
+        {
+          "shloka": "शृणुष्व मम विप्रर्षे सप्तशत्याः इदं महत्\nकीलकं यन्न जानन्ति तत्त्वं न फलम् आप्नुयुः",
+          "meaning": "हे विप्रर्षि, सप्तशती के इस महान कीलक को सुनो। जो इसके तत्त्व को नहीं जानते, वे इसका फल प्राप्त नहीं करते।",
+          "transliteration": "Śṛṇuṣva mama viprarṣe saptaśatyāḥ idaṃ mahat\nKīlakaṃ yanna jānanti tattvaṃ na phalam āpnuyuḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "नमो देव्यै महादेव्यै शिवायै सततं नमः\nनमः प्रकृत्यै भद्रायै नियताः प्रणताः स्म ताम्",
+          "meaning": "देवी को नमस्कार, महादेवी को नमस्कार। शिवा को सदैव नमस्कार। प्रकृति को नमस्कार, भद्रा को नमस्कार — हम नियमपूर्वक उन्हें प्रणाम करते हैं।",
+          "transliteration": "Namo devyai mahādevyai śivāyai satataṃ namaḥ\nNamaḥ prakṛtyai bhadrāyai niyatāḥ praṇatāḥ sma tām",
+          "imageUrl": null
+        }
+      ]
+    }
+  ]
+}

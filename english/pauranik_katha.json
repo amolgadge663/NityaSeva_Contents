@@ -1,0 +1,735 @@
+{
+  "category": "Pauranik Katha Sangrah",
+  "version": 1,
+  "items": [
+    {
+      "id": "pk_prahlad",
+      "title": "Story of Prahlad",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/katha/prahlad.jpg",
+      "orderIndex": 1,
+      "content": [
+        {
+          "shloka": "Prahlado narada-proktam bhakti-margam samasthitah |\nPita hiranyakashipur daityaraj krurashasanah ||",
+          "meaning": "Prahlad, the son of the mighty demon king Hiranyakashipu, was born in the Daitya clan. His father had obtained a boon from Lord Brahma that made him nearly invincible — he could not be killed by man or animal, indoors or outdoors, by day or by night, on earth or in the sky. Intoxicated by this power, Hiranyakashipu declared himself God and forbade the worship of Lord Vishnu throughout his kingdom.",
+          "transliteration": "Prahlado narada-proktam bhakti-margam samasthitah |\nPita hiranyakashipur daityaraj krurashasanah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Garbhe sthitasya balakasya naradasya upadeshatah |\nVishnu-bhaktih samutpanna daitya-kula-virodhinee ||",
+          "meaning": "While Prahlad was still in his mother Kayadhu's womb, the great sage Narada visited her and imparted spiritual knowledge. He taught her about the supreme glory of Lord Vishnu. These divine teachings were absorbed by the unborn child, and Prahlad was born as a natural devotee of Vishnu, much to his father's dismay.",
+          "transliteration": "Garbhe sthitasya balakasya naradasya upadeshatah |\nVishnu-bhaktih samutpanna daitya-kula-virodhinee ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Shanda-markau guroo tasya daitya-dharma-prashikshakau |\nKintu prahlada-hridayam vishnu-bhaktau sthiram sada ||",
+          "meaning": "Hiranyakashipu sent Prahlad to the school of the demon gurus Shanda and Marka, ordering them to teach the boy that his father was the supreme lord. Despite their rigorous efforts, Prahlad would return and declare, 'Vishnu is the Supreme God. He pervades everything.' This infuriated Hiranyakashipu beyond measure.",
+          "transliteration": "Shanda-markau guroo tasya daitya-dharma-prashikshakau |\nKintu prahlada-hridayam vishnu-bhaktau sthiram sada ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Visham dattvaa gajendreṇa mardayitva punah punah |\nAgni-pariksha sarpash cha kim na kritam hiranyakena ||",
+          "meaning": "Enraged by his son's unwavering devotion, Hiranyakashipu attempted to kill Prahlad in many terrible ways. He had the boy thrown off a cliff, cast into the sea, trampled by elephants, bitten by venomous serpents, and given poison. But each time, Lord Vishnu protected his young devotee, and Prahlad emerged unharmed, chanting the Lord's holy name.",
+          "transliteration": "Visham dattvaa gajendrena mardayitva punah punah |\nAgni-pariksha sarpash cha kim na kritam hiranyakena ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Holika vahni-roopena prahlaadam dahitum gataa |\nKintu bhakta-priyo vishnuh raksham chakre mahatmanah ||",
+          "meaning": "Hiranyakashipu's sister Holika had a boon that fire could not harm her. She sat on a blazing pyre with young Prahlad on her lap, intending to burn him alive. But by Lord Vishnu's grace, Holika's boon was nullified because she used it for an evil purpose. Holika was reduced to ashes while Prahlad sat unscathed, chanting 'Om Namo Narayanaya.' This event is celebrated as the festival of Holi.",
+          "transliteration": "Holika vahni-roopena prahlaadam dahitum gataa |\nKintu bhakta-priyo vishnuh raksham chakre mahatmanah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Stambhe ko asti iti daityena prashne prahlada-uttaram |\nSarvatra asti hari iti vakshyaami satyam pitah param ||",
+          "meaning": "Finally, Hiranyakashipu challenged Prahlad: 'You say your Vishnu is everywhere? Is he in this pillar?' Prahlad calmly replied, 'Yes, father. Lord Vishnu is in every atom of creation — in this pillar, in you, and in me.' Furious, Hiranyakashipu struck the pillar with his mace, and it burst open with a thunderous roar.",
+          "transliteration": "Stambhe ko asti iti daityena prashne prahlada-uttaram |\nSarvatra asti hari iti vakshyaami satyam pitah param ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Stambhad avirasat vishnuh narasimha-vapu-dharah |\nNa manushah na pashu-roop ardha-nara-hari-svaroop ||",
+          "meaning": "From the shattered pillar emerged Lord Vishnu in the terrifying form of Narasimha — half-man, half-lion. He was neither fully human nor fully animal. At twilight (neither day nor night), on the threshold of the palace door (neither indoors nor outdoors), he placed Hiranyakashipu on his lap (neither earth nor sky) and tore apart the demon king with his claws (neither weapon nor tool), fulfilling every condition of Brahma's boon.",
+          "transliteration": "Stambhad avirasat vishnuh narasimha-vapu-dharah |\nNa manushah na pashu-roop ardha-nara-hari-svaroop ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Prahlada-stutih shantaye narasimhasya bhaktitah |\nVaram prapya jagat-kalyana-kamah satya-dharma-ratah ||",
+          "meaning": "After slaying Hiranyakashipu, Lord Narasimha's fury did not subside. Even the gods were afraid to approach. It was little Prahlad who fearlessly walked up to the Lord and offered prayers with folded hands. Touched by his devotee's pure love, Narasimha became calm and placed Prahlad on his lap with great affection, blessing him. When offered a boon, Prahlad asked not for wealth or power but for the liberation of his father and the welfare of all beings.",
+          "transliteration": "Prahlada-stutih shantaye narasimhasya bhaktitah |\nVaram prapya jagat-kalyana-kamah satya-dharma-ratah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Bhakti-balam param loke prahlada-charitam mahat |\nVishvasah parameshvare sarva-duhkha-vinashanah ||",
+          "meaning": "The story of Prahlad teaches that true devotion and faith in God are the greatest powers in the universe. No force, however mighty, can harm one who surrenders completely to the Lord. Prahlad became the ideal devotee (Bhakta Shiromani) and ruled the Daitya kingdom with righteousness, establishing dharma and devotion as the highest values of life.",
+          "transliteration": "Bhakti-balam param loke prahlada-charitam mahat |\nVishvasah parameshvare sarva-duhkha-vinashanah ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "pk_ganesh_janma",
+      "title": "Birth of Lord Ganesha",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/katha/ganesh.jpg",
+      "orderIndex": 2,
+      "content": [
+        {
+          "shloka": "Parvati devi snana-kale nija-anga-mala-lepanaat |\nPutrakam rachayamasa suruupam bala-vigrahah ||",
+          "meaning": "Once, while Lord Shiva was away, Goddess Parvati desired to bathe in privacy. She took the turmeric paste (ubtan) from her body and fashioned it into the figure of a beautiful boy. Breathing life into the form with her divine power, she created a handsome, strong child and named him Ganesh, declaring him her son and appointing him as her gatekeeper.",
+          "transliteration": "Parvatee devee snana-kale nija-anga-mala-lepanaat |\nPutrakam rachayamasa suruupam bala-vigrahah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Dvare sthitah sa baalakas tam praveshayitum na dat |\nShivam api na jaanaati mata-aadeshena susthirah ||",
+          "meaning": "Parvati instructed the boy to guard the entrance and allow no one inside while she bathed. The obedient child took his post with unwavering determination. When Lord Shiva himself arrived and sought entry, the boy, not knowing who Shiva was, firmly refused him. Despite Shiva's insistence, the boy stood resolute in his mother's command.",
+          "transliteration": "Dvare sthitah sa baalakas tam praveshayitum na dat |\nShivam api na jaanaati mata-aadeshena susthirah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kruddho maheshvarah tena shira-cchedam chakara ha |\nBaala-dehasya nishthurah parashah tena patitah ||",
+          "meaning": "Angered at being denied entry to his own abode by an unknown boy, Lord Shiva engaged in fierce battle with the child. When Shiva's ganas (attendants) could not defeat the boy, Shiva himself, in a moment of rage, severed the child's head with his trishul (trident). The headless body of the child fell lifeless to the ground.",
+          "transliteration": "Kruddho maheshvarah tena shira-cchedam chakara ha |\nBaala-dehasya nishthurah parashah tena patitah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Parvati drishtvaa putra-vadham kopa-shoka-samanvitaa |\nPralayam kartum udyuktaa trailokye bhaya-kaariṇee ||",
+          "meaning": "When Parvati emerged and saw her son lying dead, her grief and fury knew no bounds. She assumed her terrible form as Goddess Adi Shakti and threatened to destroy all of creation. The entire universe trembled. The gods, terrified, pleaded with her for mercy. They begged Lord Shiva to restore the child to life.",
+          "transliteration": "Parvatee drishtvaa putra-vadham kopa-shoka-samanvitaa |\nPralayam kartum udyuktaa trailokye bhaya-kaarinee ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Gaja-shirah sthapayitvaa balake pranav-uttamam |\nSanjeevanam kritam deva gajanana iti naamakah ||",
+          "meaning": "To pacify Parvati, Lord Shiva commanded his ganas to go north and bring the head of the first living creature they found sleeping with its head pointing that direction. They found an elephant and brought its head. Lord Shiva placed the elephant head on the boy's body and infused it with new life. The child arose, alive and radiant, now bearing the head of an elephant — henceforth called Gajanana (Elephant-faced).",
+          "transliteration": "Gaja-shirah sthapayitvaa balake pranav-uttamam |\nSanjeevanam kritam deva gajanana iti naamakah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Prathama-poojyo bhavishyasi sarva-deva-ganeshvarah |\nSarva-karya-aarambhe tava poojaa prathamam bhavet ||",
+          "meaning": "Lord Shiva, filled with love, declared the boy as his own son and blessed him with a supreme boon: he would be worshipped first among all gods. No ritual, ceremony, or auspicious work would begin without first invoking Ganesha. He was named Ganeshvara, the Lord of all Ganas. Brahma, Vishnu, and all the Devas blessed him. He became Vighnaharta — the remover of all obstacles — and Siddhivinayak — the bestower of success.",
+          "transliteration": "Prathama-poojyo bhavishyasi sarva-deva-ganeshvarah |\nSarva-karya-aarambhe tava poojaa prathamam bhavet ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Vakratunda mahaakaaya surya-koti-samaprabha |\nNirvighnam kuru me deva sarva-kaaryeshu sarvadaa ||",
+          "meaning": "Thus was born Lord Ganesha, the beloved elephant-headed God who is worshipped at the beginning of every endeavor. His birth teaches us that a mother's love is the most powerful force, that obedience to one's duty is the highest virtue, and that the Divine always finds a way to turn destruction into creation. Devotees pray: 'O Lord of curved trunk and massive form, whose brilliance equals a billion suns, please make all my endeavors free of obstacles.'",
+          "transliteration": "Vakratunda mahaakaaya suurya-koti-samaprabha |\nNirvighnam kuru me deva sarva-kaaryeshu sarvadaa ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "pk_samudra_manthan",
+      "title": "Churning of the Ocean (Samudra Manthan)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/katha/vishnu.jpg",
+      "orderIndex": 3,
+      "content": [
+        {
+          "shloka": "Devaa-suraa milityaa samudram manthayaam chakruh |\nAmritam praaptum ichchhayaa mahodadhim vichaalyataam ||",
+          "meaning": "Once, due to the curse of Sage Durvasa, the Devas lost their power and glory. The Asuras (demons) grew dominant. Lord Vishnu advised the Devas to churn the great Kshira Sagara (Ocean of Milk) to obtain Amrit, the nectar of immortality. Since the task was immense, the Devas had to form a temporary alliance with the Asuras, promising to share the Amrit equally.",
+          "transliteration": "Devaa-suraa milityaa samudram manthayaam chakruh |\nAmritam praaptum ichchhayaa mahodadhim vichaalyataam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Mandaraachalam manthanam vasukih rajju-rupinah |\nKoorma-rupee harir adhah parvatam dhaarayat svayam ||",
+          "meaning": "Mount Mandara was chosen as the churning rod and Vasuki, the king of serpents, served as the churning rope. The Devas held Vasuki's tail and the Asuras gripped his head. But when Mount Mandara began to sink into the ocean floor, Lord Vishnu took the form of a great tortoise (Kurma Avatar) and placed the mountain upon his back, providing a stable base for the churning.",
+          "transliteration": "Mandaraachalam manthanam vasukih rajju-ruupinah |\nKurma-rupee harir adhah parvatam dhaarayat svayam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Haalahalam visham ghoram samudraad udgatam puraa |\nTrailokya-dahane shaktam bheeshanam sarva-naashanam ||",
+          "meaning": "As the churning began, the first thing to emerge was Halahala, a terrifying poison so potent it could destroy all three worlds. The Devas and Asuras fled in terror. In desperation, they turned to Lord Shiva for help. The compassionate Mahadeva drank the entire poison, and Goddess Parvati pressed his throat to prevent it from descending further. The poison turned his throat blue, earning him the name Neelakantha (the Blue-Throated One).",
+          "transliteration": "Haalahalam visham ghoram samudraad udgatam puraa |\nTrailokya-dahane shaktam bheeshanam sarva-naashanam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kaamadhenu suraahi cha kalpavrikshah cha ratna-dhik |\nApsarasah uchcaihshravaa airaavatash cha nishchayaat ||",
+          "meaning": "As the churning continued, many divine treasures emerged: Kamadhenu the wish-fulfilling cow, Kalpavriksha the wish-granting tree, Airavata the celestial white elephant, Ucchaishravas the divine horse, the Kaustubha gem, Parijata the heavenly flower, and the beautiful Apsaras. Each was claimed by either the Devas or the Asuras. Goddess Lakshmi herself emerged, radiant and magnificent, and chose Lord Vishnu as her consort.",
+          "transliteration": "Kaamadhenu suraahee cha kalpavrikshah cha ratna-dhik |\nApsarasah uchchaihshravaa airaavatash cha nishchayaat ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Dhanvantarih amritam hastena kalasham dadhat |\nUdgatah saagara-antaat tu deva-daanava-harshakrit ||",
+          "meaning": "Finally, Dhanvantari, the divine physician, emerged from the ocean holding a golden pot (kalash) of Amrit — the nectar of immortality. Both Devas and Asuras rushed to seize it. A fierce struggle broke out as the Asuras snatched the pot and refused to share it.",
+          "transliteration": "Dhanvantarih amritam hastena kalasham dadhat |\nUdgatah saagara-antaat tu deva-daanava-harshakrit ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Mohini-rupam aasthaya vishnuh amritam vibhajat |\nDevaanaam amritam dattvaa daanavaanaam suraam dadau ||",
+          "meaning": "Lord Vishnu then assumed the enchanting form of Mohini, a bewitchingly beautiful woman. The mesmerized Asuras agreed to let her distribute the Amrit. Mohini cleverly served the Amrit only to the Devas while giving ordinary liquor to the distracted Asuras. Only the demon Rahu, disguised as a Deva, managed to take a sip, but before the nectar passed his throat, Vishnu severed his head with the Sudarshana Chakra — his head became Rahu and body became Ketu.",
+          "transliteration": "Mohinee-roopam aasthaaya vishnuh amritam vibhajat |\nDevaanaam amritam dattvaa daanavaanaam suraam dadau ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Amrita-praaptya devaanam shaktih sampurna-tejasah |\nDharma-sthapanaa-arthaaya triloka-rakshaa-karaa abhavat ||",
+          "meaning": "Having consumed the Amrit, the Devas regained their divine powers and defeated the Asuras in the great battle that followed. The Samudra Manthan teaches that great achievements require immense effort, cooperation even with adversaries, and the willingness to face terrible challenges (like the Halahala poison). It also shows that Lord Vishnu always ensures that dharma ultimately prevails, and that every difficulty encountered on the path eventually yields precious rewards.",
+          "transliteration": "Amrita-praaptya devaanam shaktih sampurna-tejasah |\nDharma-sthapanaa-arthaaya triloka-rakshaa-karaa abhavat ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "pk_gajendra_moksha",
+      "title": "Liberation of Gajendra",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/katha/vishnu.jpg",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "Trikuta-giri-nilayah gajendro gaja-yuthapah |\nSarovare jalam paatum pravivesha sahaanugah ||",
+          "meaning": "In the lush forests of Mount Trikuta, there lived a majestic elephant king named Gajendra. He was once King Indradyumna, a great devotee of Vishnu, who was cursed by Sage Agastya to be born as an elephant. One scorching day, Gajendra led his herd to a beautiful lake to drink water and cool themselves.",
+          "transliteration": "Trikuta-giri-nilayah gajendro gaja-yuthapah |\nSarovare jalam paatum pravivesha sahaanugah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Graahena grahitah paade gajendro vihvalo bhrisham |\nSahasra-varsha-yuddham tat jala-sthalau cha daavinam ||",
+          "meaning": "While Gajendra joyfully played in the water, a powerful crocodile (Graha), who was actually a cursed Gandharva named Huhu, seized his leg in its mighty jaws. A terrible struggle ensued. The elephant fought with all his enormous strength, but in water, the crocodile had the advantage. This battle raged for a thousand years, and slowly, Gajendra's strength began to wane.",
+          "transliteration": "Graahena grahitah paade gajendro vihvalo bhrisham |\nSahasra-varsha-yuddham tat jala-sthalau cha daavinam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Bala-kshaye nirashe cha bandhu-tyakte gajottame |\nSharanaagati-maatram hi shesha-maargah pradiishyate ||",
+          "meaning": "As Gajendra's strength ebbed, his family and herd, who had initially tried to help, one by one abandoned him and retreated to the shore. Exhausted, in terrible pain, and utterly alone, Gajendra realized that no worldly power or relationship could save him. In this moment of absolute desperation, memories of his past life as a Vishnu devotee stirred deep within him.",
+          "transliteration": "Bala-kshaye nirashe cha bandhu-tyakte gajottame |\nSharanaagati-maatram hi shesha-maargah pradiishyate ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Karaabhyaam pushpam udgrahya gajendro vishnu-stutim japat |\nAadi-moolam param brahma sharanam tvaam prapadye ham ||",
+          "meaning": "With his trunk raised high above the water, Gajendra plucked a lotus flower and held it up as an offering, crying out: 'I surrender to that Primeval Being, the Supreme Brahman, the source of all creation! When all strength fails and all loved ones desert, You alone are the refuge. I take shelter at Your lotus feet!' This prayer, known as the Gajendra Stuti, is one of the most powerful prayers of surrender in Hindu scripture.",
+          "transliteration": "Karaabhyaam pushpam udgrahya gajendro vishnu-stutim japat |\nAadi-moolam param brahma sharanam tvaam prapadye ham ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Shrutvaa bhakta-artanaadam tu vishnuh garudavaahana |\nAagato druta-vegena chakra-paani-mahaprabhuh ||",
+          "meaning": "The moment Gajendra's heartfelt cry reached Lord Vishnu in Vaikuntha, the Lord was so moved by his devotee's anguish that He did not even wait to fully dress. He mounted Garuda immediately and flew with tremendous speed to the lake. Seeing the suffering elephant holding up a lotus in devotion, Lord Vishnu's heart melted with compassion.",
+          "transliteration": "Shrutvaa bhakta-artanaadam tu vishnuh garudavaahana |\nAagato druta-vegena chakra-paani-mahaprabhuh ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sudarshana-chakrena graahah chhinno hareh karaat |\nGajendram parirakshya cha moksha-daanaam chakara sah ||",
+          "meaning": "Lord Vishnu hurled his Sudarshana Chakra, which sliced through the crocodile's jaw, freeing Gajendra. The crocodile, released from its curse, regained its Gandharva form and bowed to the Lord. Gajendra too was liberated from his elephant body and attained his divine form. Vishnu granted both of them moksha (liberation). This story teaches that when all worldly supports fail, complete surrender (sharanagati) to the Lord is the ultimate refuge. The Lord responds instantly to a sincere cry of devotion.",
+          "transliteration": "Sudarshana-chakrena graahah chhinno hareh karaat |\nGajendram parirakshya cha moksha-daanaam chakara sah ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "pk_dhruva",
+      "title": "Story of Dhruva",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/katha/vishnu.jpg",
+      "orderIndex": 5,
+      "content": [
+        {
+          "shloka": "Uttanapaadasya sutah dhruvah pancha-varshakah |\nPituh ankam samaasaadya vimata-vakya-peditah ||",
+          "meaning": "Dhruva was the five-year-old son of King Uttanapada and Queen Suniti, his first wife. The king had another queen, Suruchi, whom he favored greatly. One day, little Dhruva climbed onto his father's lap. Suruchi cruelly pulled him away, saying, 'Only my son Uttama deserves to sit on the king's lap. If you want that privilege, go pray to Lord Vishnu to be born as my son.' The king, intimidated by Suruchi, said nothing in Dhruva's defense.",
+          "transliteration": "Uttanapaadasya sutah dhruvah pancha-varshakah |\nPituh ankam samaasaadya vimata-vakya-peeditah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Mata-aadeshena dhruvah sa vanam gatvaa tapah-sthitah |\nNarada-upadesham aashritya vishnu-dhyanam samaacharat ||",
+          "meaning": "Heartbroken and humiliated, Dhruva ran to his mother Suniti in tears. The wise Suniti did not speak against the king but gently told her son, 'If you truly want your rightful place, seek the blessings of Lord Vishnu, for He alone can grant what no one else can.' Determined beyond his years, Dhruva set out for the forest. On the way, he met Sage Narada, who taught him the sacred mantra 'Om Namo Bhagavate Vasudevaya' and guided him on how to meditate upon Lord Vishnu.",
+          "transliteration": "Mata-aadeshena dhruvah sa vanam gatvaa tapah-sthitah |\nNarada-upadesham aashritya vishnu-dhyanam samaacharat ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Bala-tapa-prabhavena trilokee kampitaa bhrisham |\nEkaagra-chittah nishchalo vaayubhaksha-tapasvi sah ||",
+          "meaning": "Little Dhruva plunged into the most severe penance at Madhuvana. In the first month, he ate only fruits every third day. In the second, he ate only dry leaves every sixth day. By the third month, he drank only water every nine days. By the fourth month, he breathed only every twelfth day. By the fifth month, he stood on one leg, completely still, absorbing the cosmic breath. His tapasya was so intense that the three worlds trembled and the Devas grew anxious.",
+          "transliteration": "Bala-tapa-prabhavena trilokee kampitaa bhrisham |\nEkaagra-chittah nishchalo vaayubhaksha-tapasvee sah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Vishnuh praseeda-purnena baala-bhaktasya agratah sthitah |\nChatur-bhuja-svarupena divya-rupam pradarshayat ||",
+          "meaning": "Pleased by the extraordinary devotion of this mere child, Lord Vishnu appeared before Dhruva in His magnificent four-armed form, radiant with divine splendor. He touched Dhruva's cheek with His conch, granting the boy divine knowledge and the power of speech. Dhruva, overwhelmed with bliss, composed beautiful hymns in praise of the Lord.",
+          "transliteration": "Vishnuh praseeda-purnena baala-bhaktasya agratah sthitah |\nChatur-bhuja-svaroopena divya-rupam pradarshayat ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Dhruva-padam achalam divyam taaraa-mandala-madhyagam |\nVaram labdhvaa param dhaamam param-jyotih pratishtitam ||",
+          "meaning": "Lord Vishnu offered Dhruva any boon he desired. But Dhruva, who had originally set out seeking his father's lap and a kingdom, had been so transformed by his divine experience that he said, 'O Lord, I came seeking glass beads, but I have found a diamond mine. What more could I want than Your darshan?' Still, the Lord blessed him with a unique, eternal position — a fixed, unmoving star (Dhruva Tara, the Pole Star) in the heavens that would never set, around which all other stars would revolve. He also ruled as a righteous king for 36,000 years before ascending to his celestial throne.",
+          "transliteration": "Dhruva-padam achalam divyam taaraa-mandala-madhyagam |\nVaram labdhvaa param dhaamam param-jyotih pratishtitam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Baala-bhakti-prataapena dhruva-sthanam sanatanam |\nDridha-sankalpa-shaktih cha bhaktih sarva-siddhi-daa ||",
+          "meaning": "The story of Dhruva teaches that age is no barrier to devotion, and that unwavering determination combined with pure faith can achieve the impossible. A five-year-old child accomplished what even great sages struggle to attain. The Pole Star (Dhruva Nakshatra) remains in the sky to this day as an eternal symbol of steadfast devotion and firm resolve. It reminds us that when the world rejects us, God's door is always open.",
+          "transliteration": "Baala-bhakti-prataapena dhruva-sthanam sanatanam |\nDridha-sankalpa-shaktih cha bhaktih sarva-siddhi-daa ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "pk_krishna_leela",
+      "title": "Divine Pastimes of Lord Krishna",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/katha/krishna.jpg",
+      "orderIndex": 6,
+      "content": [
+        {
+          "shloka": "Devaki-vasudeva-atma-ja krishno bhagavaan svayam |\nKamsa-bhaya-nivrittyartham gokule nanda-gehini ||",
+          "meaning": "Lord Krishna, the Supreme Personality of Godhead, was born at midnight on Ashtami in the prison of Mathura to Devaki and Vasudeva. The tyrant king Kamsa, Devaki's brother, had imprisoned them because of a divine prophecy that their eighth child would slay him. As Krishna appeared in his divine four-armed Vishnu form, the prison locks broke open, guards fell asleep, and Vasudeva carried the newborn across the flooding Yamuna river to Gokul, exchanging him with Nanda and Yashoda's newborn daughter.",
+          "transliteration": "Devakee-vasudeva-aatma-ja krishno bhagavaan svayam |\nKamsa-bhaya-nivrittyartham gokule nanda-gehinee ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Putanaa-vadha-leelaa cha shakatah trinavartakah |\nBaala-leelaa-prabhavena gokula-rakshaam acheekarath ||",
+          "meaning": "In Gokul, baby Krishna enchanted everyone with His divine childhood pastimes (Bal Leela). When the demoness Putana came disguised as a beautiful woman to nurse Him with poisoned milk, baby Krishna sucked the life force out of her. He toppled the cart-demon Shakatasura with a kick, was carried into the sky by the whirlwind-demon Trinavarta but crushed him by becoming infinitely heavy. Each demon sent by Kamsa met their end through the Lord's effortless play.",
+          "transliteration": "Putanaa-vadha-leelaa cha shakatah trinavartakah |\nBaala-leelaa-prabhavena gokula-rakshaam acheekarat ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Navanita-chaurya-leelaa cha yashoda-bandhana-priyah |\nMakhana-taskaro gopee-vallabho braja-sundara ||",
+          "meaning": "Krishna became famous as the divine butter-thief (Makhan Chor). With his friends, he would break into homes and steal freshly churned butter. The Gopis would complain to Yashoda, but one look at Krishna's innocent face and they would melt with love. Once, Yashoda tried to tie him to a mortar as punishment, but no rope was ever long enough — the Supreme Infinite Lord cannot be bound except by love. Finally, seeing his mother's exhaustion, Krishna allowed himself to be tied, showing that He willingly submits to pure devotion.",
+          "transliteration": "Navanita-chaurya-leelaa cha yashodaa-bandhana-priyah |\nMakhana-taskaro gopee-vallabho braja-sundara ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kaliya-damano devah yamunaa-pulina-sthitah |\nGovardhana-dharo vishnuh indra-darpa-vinashanah ||",
+          "meaning": "When the fearsome serpent Kaliya poisoned the waters of the Yamuna, young Krishna jumped into the river and danced upon Kaliya's multiple hoods, subduing the great serpent and purifying the waters. Later, when Krishna convinced the people of Vrindavan to worship Govardhan mountain instead of Indra, the enraged rain-god sent a devastating storm. Krishna effortlessly lifted the entire Govardhan mountain on his little finger and held it as an umbrella for seven days, sheltering all of Vrindavan.",
+          "transliteration": "Kaaliya-damano devah yamunaa-pulina-sthitah |\nGovardhana-dharo vishnuh indra-darpa-vinaashanah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Venu-naadena gopikaa raasa-leelaa-vidhayakah |\nPrem-bhakti-pradarshanam param-ananda-dayakam ||",
+          "meaning": "On the full moon nights of autumn, Krishna played his enchanting flute on the banks of the Yamuna. Hearing the divine melody, the Gopis of Vrindavan left everything and rushed to their beloved Lord. Krishna performed the divine Rasa Leela, multiplying himself so that each Gopi felt she was dancing with Krishna alone. This was not ordinary dance but the highest expression of the soul's love for the Divine — the complete dissolution of ego in divine love.",
+          "transliteration": "Venu-naadena gopikaa raasa-leelaa-vidhaayakah |\nPrem-bhakti-pradarshanam param-ananda-dayakam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kamsam nihatya mathuraam dharma-samsthaapanam kritam |\nDvaarakaam rachayitvaa cha yogeshvarah param padam ||",
+          "meaning": "As Krishna grew, he journeyed to Mathura, slew the tyrant Kamsa, freed his parents, and restored the righteous King Ugrasena to the throne. He established the golden city of Dwaraka in the sea. During the great Mahabharata war, He served as Arjuna's charioteer and delivered the Bhagavad Gita — the eternal song of divine wisdom, teaching that one must perform one's duty without attachment to results, and that the Lord resides in every heart.",
+          "transliteration": "Kamsam nihatya mathuraam dharma-samsthaapanam kritam |\nDvaarakaam rachayitvaa cha yogeshvarah param padam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Yada yada hi dharmasya glaanir bhavati bhaarata |\nAbhyutthaanam adharmasya tadaatmaanam srijaamyaham ||",
+          "meaning": "Lord Krishna declared in the Gita: 'Whenever dharma declines and adharma rises, I manifest Myself.' Krishna's life teaches that the Divine descends not merely to destroy evil but to establish love, righteousness, and devotion. From His childhood pranks to the profound wisdom of the Gita, every moment of Krishna's life was a divine teaching — that God is not distant but intimate, not stern but playful, not indifferent but deeply, personally in love with every soul.",
+          "transliteration": "Yada yada hi dharmasya glaanir bhavati bhaarata |\nAbhyutthaanam adharmasya tadaatmaanam srijaamy-aham ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "pk_ram_katha",
+      "title": "The Story of Lord Rama",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/katha/ram.jpg",
+      "orderIndex": 7,
+      "content": [
+        {
+          "shloka": "Ayodhyaa-nagaree ramyaa dasharathasya bhoobhujah |\nPutra-kameshti-yaagena ramo jaatah sa-sodaram ||",
+          "meaning": "In the magnificent city of Ayodhya, King Dasharatha of the Ikshvaku dynasty yearned for an heir. On the advice of Sage Vasishtha, he performed the Putrakameshti Yagna. From the sacred fire emerged a divine offering, and from it were born four princes: Rama to Queen Kausalya, Bharata to Kaikeyi, and the twins Lakshmana and Shatrughna to Sumitra. Rama, an incarnation of Lord Vishnu, was the eldest and the embodiment of dharma.",
+          "transliteration": "Ayodhyaa-nagaree ramyaa dasharathasya bhoobhujah |\nPutra-kameshti-yaagena ramo jaatah sa-sodaram ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Vishvaamitra-sahaayena raakshasaan vinipaatyacha |\nSeetaa-svayamvare dhanu shankarasya vibhidya sah ||",
+          "meaning": "Young Rama and Lakshmana accompanied Sage Vishvamitra to protect his yagna from demons. Rama slew the fearsome Tataka and Subahu. At the grand Swayamvara in Mithila, Rama effortlessly lifted and broke Lord Shiva's mighty bow (Pinaka), which no other king or prince could even move. He thus won the hand of Princess Sita, the daughter of King Janaka, an incarnation of Goddess Lakshmi herself.",
+          "transliteration": "Vishvaamitra-sahaayena raakshasaan vinipaatya cha |\nSeetaa-svayamvare dhanu shankarasya vibhidya sah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kaikeyi-vara-vaadena vanavaasam chaturdasha |\nSeetaa-lakshmana-sahitah pitri-vaakya-palah prabhuh ||",
+          "meaning": "When preparations were being made for Rama's coronation, Queen Kaikeyi, misled by her maid Manthara, invoked two boons from King Dasharatha: exile for Rama for fourteen years and the throne for her son Bharata. Rama, the ideal son, accepted the exile without a moment's hesitation or resentment, honoring his father's word. Sita and Lakshmana insisted on accompanying him. The grief-stricken Dasharatha died of heartbreak shortly after.",
+          "transliteration": "Kaikeyee-vara-vaadena vanavaasam chaturdasha |\nSeetaa-lakshmana-sahitah pitri-vaakya-palah prabhuh ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Raavana-chhalena seetaam hritva lankaam jagaam khalaḥ |\nRaama-virahah seetayah agni-parikshaa-antakah param ||",
+          "meaning": "In the forest of Panchavati, the demoness Surpanakha was attracted to Rama and Lakshmana. When she attacked Sita, Lakshmana cut off her nose and ears. Her brother Ravana, the mighty ten-headed king of Lanka, devised a plan of revenge. Using the golden deer Maricha as a decoy, he lured Rama and Lakshmana away and abducted Sita, carrying her across the skies to Lanka. The dying bird Jatayu fought valiantly to stop Ravana but was fatally wounded.",
+          "transliteration": "Raavana-chhalena seetaam hritvaa lankaam jagaam khalah |\nRaama-virahah seetaayah agni-parikshaa-antakah param ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Hanumad-bhakti-prabhavah seeta-anveshana-karmanah |\nSaagaram langhayitva sa Lanka-dahana-kaarakah ||",
+          "meaning": "In his anguished search for Sita, Rama befriended Sugriva, the monkey king, and gained the loyalty of Hanuman, the greatest devotee. Hanuman, son of Vayu, leapt across the vast ocean to Lanka in a single bound. He found Sita in the Ashoka Vatika, gave her Rama's ring as assurance, and set fire to Lanka with his burning tail before returning. His devotion and valor became legendary.",
+          "transliteration": "Hanumad-bhakti-prabhavah seetaa-anveshana-karmanah |\nSaagaram langhayitvaa sa Lanka-dahana-kaarakah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Setu-bandhanam rachayitvaa vaanara-senaa-sahaaytah |\nRaavana-vadham chakre raamah dharma-paraayanah ||",
+          "meaning": "Rama, with the mighty army of Vanaras (monkeys), built the legendary bridge (Rama Setu) across the ocean to Lanka. A fierce war erupted. The great warriors Kumbhakarna, Indrajit, and countless Rakshasa generals fell. Finally, Rama faced Ravana in the climactic battle and slew the ten-headed demon king with a divine arrow charged with the power of Lord Brahma. Good triumphed over evil, and Sita was freed.",
+          "transliteration": "Setu-bandhanam rachayitvaa vaanara-senaa-sahaayatah |\nRaavana-vadham chakre raamah dharma-paraayanah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ayodhyaam pratyaagamya raamo raajyam prapaalayanh |\nRama-raajyam dharma-raajyam sarva-sukha-pradaayakam ||",
+          "meaning": "After fourteen years, Rama returned triumphantly to Ayodhya. The entire city was illuminated with millions of earthen lamps to welcome their beloved prince — this celebration became the festival of Diwali. Rama was crowned king and established Rama Rajya, a golden age of perfect justice, prosperity, and happiness where no one suffered. Lord Rama's life is the supreme example of dharma — the ideal son, ideal husband, ideal brother, ideal king, and ideal human being. His story, the Ramayana, remains humanity's greatest guide to righteous living.",
+          "transliteration": "Ayodhyaam pratyaagamya raamo raajyam prapaalayanh |\nRama-raajyam dharma-raajyam sarva-sukha-pradaayakam ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "pk_shiva_parvati",
+      "title": "The Divine Marriage of Shiva and Parvati",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/katha/shiv.jpg",
+      "orderIndex": 8,
+      "content": [
+        {
+          "shloka": "Daksha-sutaa satee devee shiva-priyaa mahaasatee |\nPitri-yaage-apamaanena deha-tyaagam chakara saa ||",
+          "meaning": "In a previous birth, Goddess Parvati was Sati, daughter of Prajapati Daksha. She married Lord Shiva against her father's wishes. Daksha organized a grand yagna and deliberately did not invite Shiva. When Sati went uninvited, Daksha publicly humiliated Shiva with harsh words. Unable to bear the insult to her husband, Sati immolated herself in the sacrificial fire. Grief-stricken Shiva performed the Tandava of destruction and withdrew into deep meditation, becoming an ascetic.",
+          "transliteration": "Daksha-sutaa satee devee shiva-priyaa mahaasatee |\nPitri-yaage-apamaanena deha-tyaagam chakara saa ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Satee punar-janma labdhvaa paarvatee himavat-sutaa |\nShiva-praaptya-artham ugram tapah chakara daaru-nam ||",
+          "meaning": "Sati was reborn as Parvati, daughter of Himavan (the Himalaya mountain king) and Mena. From a very young age, Parvati had only one desire — to marry Lord Shiva. She undertook the most severe penances to win his attention. She meditated in scorching sun, freezing cold, and torrential rains. She gave up food, water, and even air. Her tapasya earned her the name Aparna (one who does not even eat leaves).",
+          "transliteration": "Satee punar-janma labdhvaa paarvatee himavat-sutaa |\nShiva-praaptya-artham ugram tapah chakara daaru-nam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Manmathah shiva-mohaartham deva-preritah agratah sthitah |\nTriteeya-netrena dagdhah kama-devah shareera-haa ||",
+          "meaning": "The Devas, who needed Shiva's son to defeat the demon Tarakasura, sent Kamadeva (the god of love) to break Shiva's meditation and awaken desire for Parvati. As Kamadeva shot his flower arrow, Shiva opened his third eye and reduced the god of love to ashes. Kamadeva's wife Rati wept inconsolably, and Shiva later relented, granting Kamadeva an invisible formless existence.",
+          "transliteration": "Manmathah shiva-mohaartham deva-preritah agratah sthitah |\nTriteeya-netrena dagdhah kama-devah shareera-haa ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Paarvatyah tapasaa tushtah shivah vivaaham angikritam |\nVivaaha-mahotsavah divyo deva-gandharva-sevitah ||",
+          "meaning": "Shiva, deeply impressed by Parvati's unwavering devotion and tapasya, finally agreed to marry her. But first he tested her by appearing as an old Brahmin who criticized Shiva mercilessly — calling him a homeless ascetic who lives in cremation grounds, wears snakes and skulls, and smears himself with ash. Parvati flew into a rage defending Shiva, proving her love was unconditional. The grand marriage ceremony took place with all the gods, sages, celestial beings, and even ghosts and goblins in Shiva's wedding procession (baraat).",
+          "transliteration": "Paarvatyah tapasaa tushtah shivah vivaaham angikritam |\nVivaaha-mahotsavah divyo deva-gandharva-sevitah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Shiva-paarvatee-samyogah jagat-kalyaana-kaarakah |\nArdha-naareshvara-rupam prakriti-purusha-aikyam idam ||",
+          "meaning": "The divine union of Shiva and Parvati symbolizes the eternal union of Purusha (consciousness) and Prakriti (nature), of asceticism and devotion, of destruction and creation. Together they are Ardhanarishvara — half-man, half-woman — representing the perfect balance of masculine and feminine energies in the universe. From their union was born Kartikeya (Skanda), who grew to become the commander of the divine army and slew the demon Tarakasura. Their other son is Ganesha, the remover of obstacles.",
+          "transliteration": "Shiva-paarvatee-samyogah jagat-kalyaana-kaarakah |\nArdha-naareshvara-roopam prakriti-purusha-aikyam idam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Prem-tapasyaa-phalam divyam paarvatee-shiva-sangamam |\nNischala-bhakti-prataapah sarva-siddhi-pradaayakah ||",
+          "meaning": "The story of Shiva and Parvati teaches that true love requires patience, sacrifice, and unwavering devotion. Parvati did not win Shiva through beauty or tricks but through the sincerity and intensity of her tapasya. It shows that even God himself cannot resist pure, selfless love. Their divine household on Mount Kailash, with Nandi, Ganesha, Kartikeya, and their ganas, represents the ideal spiritual family where love, wisdom, and dharma reign supreme.",
+          "transliteration": "Prem-tapasyaa-phalam divyam paarvatee-shiva-sangamam |\nNischala-bhakti-prataapah sarva-siddhi-pradaayakah ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "pk_durga_mahishasur",
+      "title": "Goddess Durga and the Slaying of Mahishasura",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/katha/durga.jpg",
+      "orderIndex": 9,
+      "content": [
+        {
+          "shloka": "Mahishaasuro daitya-raat brahma-varena durmadah |\nDeva-lokam jigheershuh sarva-deva-paraajayah ||",
+          "meaning": "The buffalo-demon Mahishasura performed severe penance and obtained a boon from Lord Brahma that no man or god could kill him. Bloated with arrogance, he waged a terrible war against the Devas, defeated Indra and all the gods, and seized control of heaven (Swarga). The Devas were driven from their celestial abodes and wandered the earth in misery. In desperation, they approached the divine trinity — Brahma, Vishnu, and Maheshvara.",
+          "transliteration": "Mahishaasuro daitya-raat brahma-varena durmadah |\nDeva-lokam jigheershuh sarva-deva-paraajayah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Brahma-vishnu-maheshaanam tejah samhata-rupini |\nShaktih samutthitaa devee durga naamaasi vishrutaa ||",
+          "meaning": "When the three Supreme Gods heard the plight of the Devas, blazing energy burst forth from each of their faces in fury. The combined divine energies of Brahma, Vishnu, Shiva, and all the Devas merged together and took the form of a magnificent, radiant Goddess — Devi Durga, the invincible one. She was the embodiment of the combined power of all gods, more powerful than any single deity.",
+          "transliteration": "Brahma-vishnu-maheshaanaam tejah samhata-roopinee |\nShaktih samutthitaa devee durga naamaasi vishrutaa ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Shiva-shoolam vishnu-chakram indra-vajram dhanuh-ravi |\nAstra-shastra-samopetaa simha-vaahana-dhaarinee ||",
+          "meaning": "Each god gifted the Goddess their most potent weapon: Shiva gave his trident, Vishnu his Sudarshana Chakra, Indra his thunderbolt (Vajra), Varuna his conch and noose, Agni his spear, Vayu his bow, Surya his quiver of arrows, Vishwakarma his axe and armor, and Himavan gifted her a magnificent lion as her mount. Adorned with divine ornaments and armed with celestial weapons in each of her ten hands, Devi Durga blazed like a thousand suns.",
+          "transliteration": "Shiva-shoolam vishnu-chakram indra-vajram dhanuh-ravi |\nAstra-shastra-samopetaa simha-vaahana-dhaarinee ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Nava-dina-yuddham ghoram devi-daitya-mahaahavam |\nRakta-beeja-vadham kaalee chamunda-rupa-dharinee ||",
+          "meaning": "A terrible battle raged for nine days between the Goddess and Mahishasura's vast demon army. The mighty demon generals Chikshura, Chamara, Asiloma, Udagra, and others attacked with massive forces. The Devi destroyed them all. When Raktabeeja appeared — a demon from whose every blood drop that touched the ground, a new demon was born — the Goddess manifested Kali, who drank every drop of blood before it could fall, annihilating him completely.",
+          "transliteration": "Nava-dina-yuddham ghoram devi-daitya-mahaahavam |\nRakta-beeja-vadham kaalee chamunda-rupa-dhaarinee ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Mahisham samhritya devee vijayinee sura-vanditaa |\nNavaratra-mahotsavah shakti-pooja-mahaaphalam ||",
+          "meaning": "On the tenth day, Mahishasura himself entered the battlefield, constantly changing forms — buffalo, lion, elephant, warrior. As he assumed his half-buffalo form, Goddess Durga leapt upon him, pinned him under her foot, and drove her trident through his chest, slaying the invincible demon. The heavens resounded with victory drums, the Devas showered flowers, and the universe was restored to order. This victory is celebrated as Vijayadashami (Dussehra), and the nine nights of battle are the sacred Navaratri.",
+          "transliteration": "Mahisham samhritya devee vijayinee sura-vanditaa |\nNavaratra-mahotsavah shakti-pooja-mahaaphalam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ya devee sarva-bhuteshu shakti-rupena samsthitaa |\nNamah tasyai namah tasyai namah tasyai namo namah ||",
+          "meaning": "The Devi Mahatmya declares: 'To that Goddess who resides in all beings as power, as intelligence, as sleep, as hunger, as shadow, as thirst, as patience, as forgiveness, as beauty, as peace, as faith, as compassion — we bow to Her again and again.' The story teaches that when evil becomes so powerful that even the mightiest gods cannot defeat it, the Divine Feminine (Shakti) manifests to restore cosmic balance. It reminds us that the feminine principle is not merely nurturing but is the supreme warrior force of the universe.",
+          "transliteration": "Ya devee sarva-bhuteshu shakti-roopena samsthitaa |\nNamah tasyai namah tasyai namah tasyai namo namah ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "pk_satyanarayan",
+      "title": "The Katha of Lord Satyanarayan",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/katha/satyanarayan.jpg",
+      "orderIndex": 10,
+      "content": [
+        {
+          "shloka": "Narada uvaacha bhagavan jagat-kalyaana-kaaranam |\nKim vrata-anushthaanam proktam sarva-duhkha-vinaashanam ||",
+          "meaning": "Once, the great sage Narada, while traveling through the mortal world, witnessed the immense suffering of humanity. Deeply moved, he visited Lord Vishnu in Vaikuntha and asked, 'O Lord, is there a simple vow or observance that can free all beings from their sorrows and grant them happiness and prosperity?' Lord Vishnu smiled and revealed the sacred Satyanarayan Vrat Katha, a worship that anyone — regardless of caste, wealth, or status — can perform.",
+          "transliteration": "Narada uvaacha bhagavan jagat-kalyaana-kaaranam |\nKim vrata-anushthaanam proktam sarva-duhkha-vinaashanam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kaashyaam daridro vipro-asau sadaachaaro jitendriyah |\nBhikshaa-vrittih satya-bhaktah vrata-phalam prapaadyata ||",
+          "meaning": "The first chapter tells of a poor Brahmin in Kashi who, despite being virtuous and devoted, could not even afford one meal a day. Lord Vishnu, disguised as an old Brahmin, appeared and instructed him to perform the Satyanarayan Vrat with sincere faith. The poor Brahmin performed the puja with whatever little he had, and soon his poverty vanished. He became prosperous and lived a life of fulfillment, continuing the vrat every full moon.",
+          "transliteration": "Kaashyaam daridro vipro-asau sadaachaaro jitendriyah |\nBhikshaa-vrittih satya-bhaktah vrata-phalam prapaadyata ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kaashtha-vikretaa shreshthee cha vrata-anushtheyena siddhimaan |\nVanij-patnee-sahitah shreshthee sampatti-bhaajanam abhoot ||",
+          "meaning": "A poor woodcutter witnessed the Brahmin's Satyanarayan Puja and asked to learn the vrat. He performed it with complete devotion, and that very day his earnings multiplied. He continued the worship faithfully and attained great wealth, respect, and happiness. This chapter teaches that sincere devotion, regardless of one's social status, brings divine grace. Even the poorest person's offering, made with love, is valued by the Lord above the grandest ritual performed without feeling.",
+          "transliteration": "Kaashtha-vikretaa shreshthee cha vrata-anushtheyena siddhimaan |\nVanij-patnee-sahitah shreshthee sampatti-bhaajanam abhoot ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Saadhu-vanijau saagare-abhyutthitau vipat-sankataat |\nSatya-naraayana-smaranaat santa-kaarya-siddhi-daam ||",
+          "meaning": "Two merchants, Sadhu and Vanija, once took a sea voyage laden with precious goods. A terrible storm threatened to sink their ship. In that dire moment, they remembered the Satyanarayan Vrat and prayed with all their hearts. The storm immediately calmed, and they reached their destination safely, earning enormous profits. But later, when a king asked about their cargo and they lied out of greed, their goods vanished. Only when they confessed the truth and performed the vrat again were their fortunes restored.",
+          "transliteration": "Saadhu-vanijau saagare-abhyutthitau vipat-sankataat |\nSatya-naraayana-smaranaat santa-kaarya-siddhi-daam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Raajaa tungadhvajah dharmaatmaa vrata-tyaaga-phalam labhat |\nKalavati prasaada-avamaanam param kleshadaayakam ||",
+          "meaning": "King Tungadhvaja was a devoted performer of the Satyanarayan Vrat and ruled a prosperous kingdom. His daughter Kalavati was married to a noble prince. Once, the prince and Kalavati encountered a Satyanarayan Puja on a riverbank. In haste, Kalavati took the prasad but left without respect or proper acknowledgment. As a result, her husband immediately disappeared. Kalavati suffered terribly until she realized her error, sought forgiveness, and properly worshipped Lord Satyanarayan with humility. Her husband was restored.",
+          "transliteration": "Raajaa tungadhvajah dharmaatmaa vrata-tyaaga-phalam labhat |\nKaalavatee prasaada-avamaanam param kleshadaayakam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Satya-vratasya mahatmyam sarveshaam sukha-daayakam |\nPrasaada-sevanam nityam shraddha-bhakti-phala-pradam ||",
+          "meaning": "The Satyanarayan Katha emphasizes that truth (Satya) is the highest virtue and that God responds to sincerity above all else. The vrat is performed on every Purnima (full moon) or on auspicious occasions such as weddings, housewarmings, and new beginnings. The key teaching is: always speak the truth, never disrespect divine offerings (prasad), share your blessings generously, and maintain unwavering faith. The one who performs this vrat with devotion is freed from all sorrows and attains peace, prosperity, and ultimate liberation.",
+          "transliteration": "Satya-vratasya mahatmyam sarveshaam sukha-daayakam |\nPrasaada-sevanam nityam shraddha-bhakti-phala-pradam ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "pk_hanuman_janma",
+      "title": "Birth and Glory of Hanuman",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/katha/hanuman.jpg",
+      "orderIndex": 11,
+      "content": [
+        {
+          "shloka": "Anjanaa-garbha-sambhootah vayu-putra mahabalah |\nKesharee-nandanah shreemaan hanumaan naamatah smritah ||",
+          "meaning": "Hanuman was born to Anjana, a celestial Apsara who had been cursed to take a monkey form, and Keshari, a mighty Vanara chief. Lord Vayu (the Wind God) blessed Anjana with his divine energy, and thus Hanuman is also called Pavanaputra (Son of the Wind). At his birth, the baby Hanuman saw the rising sun and, thinking it was a ripe fruit, leapt towards it across the sky with incredible speed.",
+          "transliteration": "Anjanaa-garbha-sambhootah vaayu-putra mahabalah |\nKesharee-nandanah shreemaan hanumaan naamatah smritah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Surya-graha-bhramena indra-vajra-aahato babhau |\nHanu-bhange hanumatah naama-karnam prakalpitam ||",
+          "meaning": "Baby Hanuman's leap toward the sun alarmed Indra, who struck him with his thunderbolt (Vajra). The blow hit Hanuman's jaw (hanu), and the child fell unconscious. Vayu, enraged at the injury to his son, withdrew all air from the universe, causing all beings to suffocate. The panicked gods rushed to appease Vayu. Each god bestowed powerful boons on the child: Brahma granted immunity from his weapons, Indra made his body diamond-hard, Surya offered to teach him all knowledge, and Shiva made him immortal. From the broken jaw, he was named 'Hanuman.'",
+          "transliteration": "Surya-graha-bhramena indra-vajra-aahato babhau |\nHanu-bhange hanumatah naama-karnam prakalpitam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Baala-leelaa-prabhavena rishi-shaapa-prabandhitah |\nShakti-vismaranam praaptam prabhu-sevaa-prabodhitam ||",
+          "meaning": "As a child, Hanuman's mischievous nature and immense powers troubled the sages in the forest. He would disrupt their rituals and play pranks. The annoyed sages cursed him: 'You shall forget your own powers until someone reminds you of them.' This curse would later play a crucial role during the search for Sita, when Jambavan had to remind Hanuman of his forgotten strength before his mighty leap to Lanka.",
+          "transliteration": "Baala-leelaa-prabhavena rishi-shaapa-prabandhitah |\nShakti-vismaranam praaptam prabhu-sevaa-prabodhitam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Surya-shishyo vidya-labdhah sarva-shaastra-vishaaradah |\nRama-charana-sevako bhakta-shiromanih sthitah ||",
+          "meaning": "Hanuman chose Surya (the Sun God) as his guru and learned all the Vedas, Shastras, and arts by flying alongside the sun's chariot. He mastered the nine grammars, six philosophies, and all branches of knowledge. Despite possessing supreme power and wisdom, his greatest glory was his devotion to Lord Rama. When Hanuman first met Rama in the forest of Kishkindha, he recognized his beloved Lord and dedicated his entire existence to Rama's service.",
+          "transliteration": "Surya-shishyo vidyaa-labdhah sarva-shaastra-vishaaradah |\nRaama-charana-sevako bhakta-shiromanih sthitah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Saagaram langhayitvaa sa seetaam drishtvaa sumaahitah |\nLankaa-dahana-kartaa cha raama-kaaryam akarayat ||",
+          "meaning": "Hanuman's greatest feat was his leap across the ocean to Lanka. He expanded to a colossal size and flew across the sea, overcoming every obstacle — the mountain Mainaka that tried to offer rest, the she-demon Surasa who tried to swallow him, and the shadow-grasping demoness Simhika. In Lanka, he found Sita in the Ashoka garden, gave her Rama's ring, received her Chudamani jewel, and after destroying the beautiful groves, allowed himself to be captured. When the Rakshasas set his tail on fire, he leapt from building to building and set all of Lanka ablaze.",
+          "transliteration": "Saagaram langhayitvaa sa seetaam drishtvaa sumaahitah |\nLankaa-dahana-kartaa cha raama-kaaryam akarayat ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sanjeevani-hara-veerah lakshmana-praana-rakshakah |\nYuddhe raama-sahaayah san sarvam kaaryam samaapayat ||",
+          "meaning": "During the great battle in Lanka, when Lakshmana was struck by Indrajit's Shakti weapon and lay near death, Hanuman flew to the Himalayas to fetch the Sanjeevani herb. Unable to identify the specific plant, he lifted the entire Dronagiri mountain and flew it back to Lanka, saving Lakshmana's life. In the war, Hanuman was Rama's mightiest warrior, single-handedly defeating thousands of Rakshasas.",
+          "transliteration": "Sanjeevani-hara-veerah lakshmana-praana-rakshakah |\nYuddhe raama-sahaayah san sarvam kaaryam samaapayat ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Raama-naama-sada-japi chiranjeevee mahaayashaa |\nBhakti-shakti-viveka-traya-moortih maarutaatmajah ||",
+          "meaning": "When Rama offered Hanuman any boon, Hanuman asked only for eternal devotion. When given a pearl necklace by Sita, he broke each pearl looking for Rama inside, and when questioned, tore open his own chest to reveal Rama and Sita seated in his heart. Hanuman is one of the seven Chiranjeevis (immortals) who lives for eternity, chanting Rama's name wherever it is spoken. He is the perfect embodiment of Bhakti (devotion), Shakti (strength), and Vidya (wisdom). His worship grants courage, removes fear, and brings the devotee closer to Lord Rama.",
+          "transliteration": "Raama-naama-sada-japee chiranjeevee mahaayashaa |\nBhakti-shakti-viveka-traya-moortih maarutaatmajah ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "pk_narasimha",
+      "title": "Lord Narasimha Avatar",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/katha/vishnu.jpg",
+      "orderIndex": 12,
+      "content": [
+        {
+          "shloka": "Hiranyakashipuh daityah brahma-tapah-prabhaavatah |\nVara-labdhah sudurlabham na devair na manujaih hatah ||",
+          "meaning": "Hiranyakashipu, the elder brother of Hiranyaksha (whom Vishnu had slain in his Varaha avatar), was consumed by rage and a desire for revenge. He performed the most severe penance for thousands of years, standing on one toe, until his body was covered by anthills and his bones protruded. Pleased, Lord Brahma appeared and Hiranyakashipu demanded: 'Grant me that I shall not be killed by any being created by you — not human, not animal, not god, not demon.'",
+          "transliteration": "Hiranyakashipuh daityah brahma-tapah-prabhaavatah |\nVara-labdhah sudurlabham na devair na manujaih hatah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Na antarah na bahih praanah na bhoumyaam na cha khe mriti |\nNa shastrena na astrena na divaa na nishaakaraat ||",
+          "meaning": "Hiranyakashipu further specified: 'Let death not come to me indoors or outdoors, not on the ground or in the sky, not during day or night, not by any weapon (astra) or handheld arms (shastra), not by any human or animal, not by any being living or non-living.' Brahma, bound by his word, granted these seemingly invincible conditions. Hiranyakashipu believed he had become immortal and declared himself the Supreme God, terrorizing the three worlds.",
+          "transliteration": "Na antarah na bahih praanah na bhoumyaam na cha khe mriti |\nNa shastrena na astrena na divaa na nishaakaraat ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Prahlado nija-putrastu vishnu-bhaktah sudheerah sah |\nPitri-aadeshaam na maanayan hari-naamam japan sadaa ||",
+          "meaning": "Hiranyakashipu's own son Prahlad, however, was an unwavering devotee of Lord Vishnu. No matter how much his father threatened, tortured, or tried to kill him, Prahlad continued to declare that Vishnu alone was the Supreme God. The boy survived being thrown into fire, fed poison, trampled by elephants, and cast from mountaintops — each time protected by his beloved Lord.",
+          "transliteration": "Prahlado nija-putrastu vishnu-bhaktah sudheerah sah |\nPitri-aadeshaam na maanayan hari-naamam japan sadaa ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kva asti tava harih iti pitaa prahlaadam prichchati |\nSarvatra iti baalah praahetyasmim stambhe api vartate ||",
+          "meaning": "In the climactic confrontation, Hiranyakashipu roared at Prahlad: 'Where is your Vishnu? Can your God save you now?' Prahlad replied with absolute calm: 'My Lord is everywhere — in every atom, in every direction, in every being.' 'Is He in this pillar?' demanded Hiranyakashipu, pointing his sword at a massive pillar. 'Yes, Father. He is there too,' said Prahlad. In a blaze of fury, Hiranyakashipu shattered the pillar with a single blow.",
+          "transliteration": "Kva asti tava harih iti pitaa prahlaadam prichchati |\nSarvatra iti baalah praahet-yasmin stambhe api vartate ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Stambhaan nir-gatyaam bhagavaan narasimha-vapu-dharah |\nUgra-roopah mahaa-tejaah simha-garajana-svanam ||",
+          "meaning": "With a sound that shook the universe, the pillar exploded and from within emerged the most terrifying form ever witnessed — Lord Narasimha. He was half-man, half-lion: a form that was neither human nor animal. His mane blazed like fire, his eyes burned like molten gold, his claws gleamed like thunderbolts, and his roar silenced the heavens. Even the mightiest gods trembled at this awesome manifestation of the Lord's wrath in defense of His devotee.",
+          "transliteration": "Stambhaan nir-gatyaam bhagavaan narasimha-vapu-dharah |\nUgra-roopah mahaa-tejaah simha-garajana-svanam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sandhya-kaale cha dehayaam doorodghaat-tata-upari |\nNakhair vidarayaam aasa na shastrena na astrena cha ||",
+          "meaning": "Lord Narasimha seized Hiranyakashipu and dragged him to the threshold of the palace doorway — neither indoors nor outdoors. He placed the demon across His own lap — neither on the ground nor in the sky. At twilight (sandhya kala) — neither day nor night. And with His divine claws — neither weapon nor tool — He ripped open Hiranyakashipu's chest. Every condition of Brahma's boon was meticulously honored while the Lord's purpose was perfectly fulfilled. This is the supreme intelligence of the Divine.",
+          "transliteration": "Sandhya-kaale cha deha-yaam doorodghaat-tata-upari |\nNakhair vidarayaam aasa na shastrena na astrena cha ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Prahlada-stuti-shantah san bhakta-vatsalya-murtimaan |\nUgram rupam parityajya kripa-sagara eeshvarah ||",
+          "meaning": "After slaying Hiranyakashipu, Lord Narasimha remained in His ferocious form, and no one dared approach. Then little Prahlad came forward and gently placed his hands on the Lord's feet, offering prayers of love. Narasimha immediately calmed, placed the child on His lap, and tears of love flowed from His fierce eyes. This avatar teaches that God's wrath exists only to protect His devotees, that no boon can circumvent divine justice, and that unwavering faith will always be vindicated — even against the most impossible odds.",
+          "transliteration": "Prahlada-stuti-shantah san bhakta-vatsalya-murtimaan |\nUgram roopam parityajya kripaa-sagara eeshvarah ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "pk_dashavatara",
+      "title": "The Ten Avatars of Lord Vishnu (Dashavatara)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/katha/vishnu.jpg",
+      "orderIndex": 13,
+      "content": [
+        {
+          "shloka": "Matsya-kurma-varaahash cha narasimhash cha vaamanah |\nRamah parashuraamash cha krishnah buddhah cha kalkinah ||",
+          "meaning": "Lord Vishnu, the Preserver of the Universe, incarnates on earth whenever dharma is in peril. His ten primary avatars (Dashavatara) span the entire cycle of creation, each appearing at a critical moment to restore cosmic order. They also mirror the evolutionary journey of life — from aquatic to terrestrial, from animal to human, from warrior to philosopher — reflecting the divine plan underlying all existence.",
+          "transliteration": "Matsya-kurma-varaahash cha narasimhash cha vaamanah |\nRaamah parashuraamash cha krishnah buddhah cha kalkinah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Matsya-rupena bhagavaan vedaan rakshitavaan puraa |\nPralayaambhasi magnaanam manoh naavam achaalayet ||",
+          "meaning": "MATSYA (The Fish): When a great deluge threatened to destroy all life, and the demon Hayagriva stole the Vedas, Lord Vishnu took the form of a gigantic golden fish. He warned King Manu of the impending flood, instructed him to gather seeds of all living things in a great boat, and towed the ark through the cosmic waters using Vasuki as the rope. He slew Hayagriva and retrieved the Vedas, preserving both life and sacred knowledge.",
+          "transliteration": "Matsya-rupena bhagavaan vedaan rakshitavaan puraa |\nPralaya-ambhasi magnaanam manoh naavam achaalayet ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kurmah mandara-dhaaree cha varaahah bhu-uddhaarakah |\nNarasimhah stambha-jaatah vaamanah bali-bandhanah ||",
+          "meaning": "KURMA (The Tortoise): During the Samudra Manthan, Vishnu became a colossal tortoise to support Mount Mandara on His back. VARAHA (The Boar): When demon Hiranyaksha dragged the earth to the bottom of the cosmic ocean, Vishnu became a mighty boar, fought for a thousand years, slew the demon, and lifted the earth on His tusks. NARASIMHA (The Man-Lion): The half-man, half-lion form that emerged from a pillar to slay Hiranyakashipu and protect devotee Prahlad. VAMANA (The Dwarf): A small Brahmin boy who covered the three worlds in three steps, humbling the generous but proud King Bali.",
+          "transliteration": "Kurmah mandara-dhaaree cha varaahah bhu-uddhaarakah |\nNarasimhah stambha-jaatah vaamanah bali-bandhanah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Parashuramah kshatriya-naasha-kartaa raamah maryaadaa-purushottamah |\nKrishno yogeshvarah saakshaat buddho dharma-pravarttakah ||",
+          "meaning": "PARASHURAMA (The Warrior Sage): Wielding an axe given by Shiva, he cleansed the earth of tyrannical Kshatriya kings twenty-one times. RAMA (The Ideal King): The Maryada Purushottam who exemplified perfect dharma in every role — son, husband, brother, and king. He slew Ravana and established Rama Rajya. KRISHNA (The Divine Statesman): The complete avatar who danced with cowherds, spoke the Bhagavad Gita, and orchestrated the restoration of dharma through the Mahabharata war. BUDDHA (The Compassionate One): Who taught non-violence, compassion, and the middle path to end suffering.",
+          "transliteration": "Parashuraamah kshatriya-naasha-kartaa raamah maryaadaa-purushottamah |\nKrishno yogeshvarah saakshaat buddho dharma-pravarttakah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kalkir aagamishyati yugaante dharma-samsthitah |\nShveta-ashva-aroodha-virah sat-yuga-praarambha-kaarakah ||",
+          "meaning": "KALKI (The Future Avatar): At the end of Kali Yuga, when adharma reaches its peak, Lord Vishnu will appear as Kalki, riding a white horse named Devadatta, wielding a blazing sword. He will destroy all evil, punish the wicked, and usher in a new Satya Yuga — a golden age of truth and righteousness. The Dashavatara teaches that the Divine is not distant but actively engaged in the world, appearing in whatever form is needed to protect dharma and the righteous.",
+          "transliteration": "Kalkir aagamishyati yugaante dharma-samsthitah |\nShveta-ashva-aroodha-veerah sat-yuga-praarambha-kaarakah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Paritranaya saadhunam vinashaya cha dushkritaam |\nDharma-samsthapanarthaya sambhavami yuge yuge ||",
+          "meaning": "The Lord declares in the Bhagavad Gita: 'For the protection of the righteous, for the destruction of evil-doers, and for the establishment of dharma, I manifest Myself age after age.' The Dashavatara is not merely mythology but a profound spiritual truth — that the Divine continuously evolves with creation, responding to its needs, and that the arc of the universe bends towards dharma through God's eternal vigilance and compassion.",
+          "transliteration": "Paritraanaaya saadhunaam vinaashaaya cha dushkritaam |\nDharma-samsthapanaarthaaya sambhavaami yuge yuge ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "pk_savitri_satyavan",
+      "title": "Savitri and Satyavan",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/katha/savitri.jpg",
+      "orderIndex": 14,
+      "content": [
+        {
+          "shloka": "Ashvapati-nripasya putree saavitree tejasvinee |\nSvayam-varaartham nishkraantaa bhartaaram paricheshatee ||",
+          "meaning": "Princess Savitri was the only daughter of the righteous King Ashvapati of Madra. She was born after her father's eighteen years of prayer to Goddess Savitri, and was so beautiful, intelligent, and virtuous that no prince dared seek her hand. The king told her to find a husband on her own. Savitri traveled to many kingdoms and hermitages in search of a worthy husband.",
+          "transliteration": "Ashvapati-nripasya putree saavitree tejasvinee |\nSvayam-varaartham nishkraantaa bhartaaram paricheshatee ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Satyavantam vavre bhartaaram vana-vaasi-nripaat-majam |\nNaarado brootya alpa-ayuh iti samvatsare mriti-sthitah ||",
+          "meaning": "In a forest hermitage, Savitri met Satyavan, the exiled son of the blind King Dyumatsena. Satyavan was noble, handsome, truthful, and virtuous. Savitri chose him as her husband. But Sage Narada warned her: 'Satyavan has only one year to live. He is destined to die exactly one year from today. Choose another.' Savitri replied firmly: 'I have given my heart and made my choice. A virtuous woman chooses her husband only once.' She married Satyavan and went to live in the forest.",
+          "transliteration": "Satyavantam vavre bhartaaram vana-vaasee-nripaatmajam |\nNaarado brootya alpa-aayuh iti samvatsare mriti-sthitah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Samvatsare poorney yamasya aagamanam bhayaanakam |\nSatyavanasya praanaan yamo ninyey yamaalayam ||",
+          "meaning": "Savitri counted each day with dread and devotion. She observed severe fasts for the final three days. On the fated day, Satyavan went to the forest to chop wood with Savitri beside him. Suddenly, a terrible headache struck him and he collapsed. From the shadows appeared Yama, the God of Death himself, majestic and terrifying, with his noose. He extracted Satyavan's soul and began walking south toward the land of the dead.",
+          "transliteration": "Samvatsare poorney yamasya aagamanam bhayaanakam |\nSatyavanasya praanaan yamo ninyey yamaalayam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Saavitree anugataa yamam padey padey achanchala |\nPativrataa dharma-balaat yamam vaakye niyojayat ||",
+          "meaning": "As Yama walked away with her husband's soul, Savitri followed him step by step. Yama told her to go back — no mortal could follow the God of Death. But Savitri refused. She walked and walked, and spoke with such wisdom that Yama was impressed. He offered her boons — she asked for her father-in-law's eyesight to be restored, his lost kingdom to be returned, and a hundred sons for her own father. Yama granted each boon, each time telling her to turn back.",
+          "transliteration": "Saavitree anugataa yamam padey padey achanchalaa |\nPativrataa dharma-balaat yamam vaakye niyojayat ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Putra-varam cha labdhvaa saa pati-praanaan punar-labhat |\nYamah praseeda-purnah san satyavantam mumocha ha ||",
+          "meaning": "Still Savitri followed. Finally, she asked Yama for a hundred sons of her own. Yama, without thinking, granted the boon — but then realized that this was impossible without Satyavan being alive, since Savitri was the ultimate Pativrata who would never accept another husband. Bound by his own word, the mighty God of Death smiled in admiration and released Satyavan's soul. Satyavan came back to life in the forest, bewildered, as if awakening from a deep sleep.",
+          "transliteration": "Putra-varam cha labdhvaa saa pati-praanaan punar-labhat |\nYamah praseeda-purnah san satyavantam mumocha ha ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Pativrataa-dharma-balaat mrityu-jayam saadhayet nari |\nSavitree-charitam divyam stree-shakti-param-ujjvalam ||",
+          "meaning": "Savitri and Satyavan returned home to find King Dyumatsena's eyesight restored and his kingdom reclaimed, exactly as Yama had promised. The couple lived a long, blessed life and had a hundred noble sons. The story of Savitri is one of the most powerful tales in the Mahabharata. It celebrates the strength of a woman's devotion, intelligence, and determination. Savitri conquered Death itself — not with weapons or supernatural powers, but with unwavering love, sharp wisdom, and indomitable courage. She is worshipped during the Vat Savitri Vrat by married women who pray for their husbands' longevity.",
+          "transliteration": "Pativrataa-dharma-balaat mrityu-jayam saadhayet nari |\nSaavitree-charitam divyam stree-shakti-param-ujjvalam ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "pk_shravan_kumar",
+      "title": "The Devotion of Shravan Kumar",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/katha/vishnu.jpg",
+      "orderIndex": 15,
+      "content": [
+        {
+          "shloka": "Shravano naama dharmisthah pitri-bhaktah suputrakah |\nAndhau pitarau tasya vriddhau teertha-yaatrikau ||",
+          "meaning": "Shravan Kumar was the only son of a poor, elderly blind couple who lived in a humble hermitage. From childhood, he was the very embodiment of filial devotion. He attended to his parents' every need — cooking their meals, washing their clothes, and tending to them with inexhaustible love and patience. He was their eyes, their hands, and their entire world.",
+          "transliteration": "Shravano naama dharmisthah pitri-bhaktah suputrakah |\nAndhau pitarau tasya vriddhau teertha-yaatrikau ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Teertha-yaatra-abhilaashena kavadi-vaahana-vrita |\nPitarau skandhayoh dhritva shravanah pathi chalitah ||",
+          "meaning": "When his aged blind parents expressed their longing to visit the sacred pilgrimage sites (tirthas) before they died, Shravan did not hesitate. He fashioned a kavadi — a carrying pole with two baskets suspended from each end — and placed his mother in one basket and his father in the other. He then set out on foot, carrying them both on his shoulders across forests, rivers, and mountains, walking hundreds of miles to fulfill their heart's desire.",
+          "transliteration": "Teertha-yaataa-abhilaashena kavadee-vaahana-vrita |\nPitarau skandhayoh dhritvaa shravanah pathi chalitah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Dasharathah mrga-yaayaam shabda-viddham praakshipat |\nJala-poorana-shabdena shravanah baanena taaditah ||",
+          "meaning": "One fateful evening, Shravan set his parents down near a river and went to fetch water for them. He dipped his pot into the stream. At that moment, King Dasharatha of Ayodhya was hunting nearby. He was skilled in Shabdabhedi Vidya — the art of aiming by sound alone. Hearing the gurgling sound of the pot filling with water, Dasharatha mistook it for an elephant drinking and shot a deadly arrow. The arrow struck Shravan in the chest.",
+          "transliteration": "Dasharathah mriga-yaayaam shabda-viddham praakshipat |\nJala-poorana-shabdena shravanah baanena taaditah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Haa pitarau trishnaa-artau mam aahvayantau vaney sthitau |\nKo dasyati jalam tebyah mama praana-viyoginah ||",
+          "meaning": "Shravan, mortally wounded, did not cry out in pain for himself. His dying words were: 'O stranger, I do not grieve for my own death. But my old, blind parents are waiting by the roadside, parched with thirst. Who will bring them water now? Who will carry them to their pilgrimage? Please, take this water to them before I die.' Even in his last breath, Shravan thought only of his parents.",
+          "transliteration": "Haa pitarau trishnaa-aartau mam aahvayantau vaney sthitau |\nKo daasyati jalam tebyah mama praana-viyoginah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Dasharathah shoka-poornam vriddhau tau samupaagatah |\nPutra-shokena mritau tau shaapam dattvaa nripaadhipam ||",
+          "meaning": "Dasharatha, horrified by what he had done, rushed to Shravan's parents with the terrible news. The blind couple, overwhelmed by grief, collapsed beside their dead son. With their last breath, Shravan's father cursed Dasharatha: 'As we die of grief for our son, so shall you die of grief for your son.' This curse came true years later when Dasharatha died of heartbreak after Rama's exile to the forest.",
+          "transliteration": "Dasharathah shoka-poornam vriddhau tau samupaagatah |\nPutra-shokena mritau tau shaapam dattvaa nripaadhipam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Pitri-sevaa param-dharmo shravana-charitam mahat |\nMatri-pitri-poojane yasya tasya sarva-sukham bhavet ||",
+          "meaning": "The story of Shravan Kumar is the most celebrated tale of filial piety in Hindu tradition. It teaches that service to one's parents is the highest dharma, equal to or even greater than the worship of any god. The Shastras declare: 'Matri Devo Bhava, Pitri Devo Bhava' — let your mother be your god, let your father be your god. Shravan Kumar's selfless devotion to his parents became the gold standard for how children should honor and care for those who gave them life. His story reminds every generation that the greatest pilgrimage is the service of one's parents.",
+          "transliteration": "Pitri-sevaa param-dharmo shravana-charitam mahat |\nMatri-pitri-poojane yasya tasya sarva-sukham bhavet ||",
+          "imageUrl": null
+        }
+      ]
+    }
+  ]
+}

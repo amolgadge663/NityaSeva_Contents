@@ -6,38 +6,218 @@
       "id": "mantra_gayatri",
       "title": "गायत्री मंत्र",
       "language": "hindi",
-      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/matra_devi.jpg",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/gayatri.jpg",
       "orderIndex": 1,
       "content": [
         {
-          "shloka": "ॐ भूर्भुवः स्वः",
-          "meaning": "हे दिव्य ऊर्जा, हमें सही मार्ग दिखाएं।"
+          "shloka": "ॐ भूर्भुवः स्वः\nतत्सवितुर्वरेण्यं\nभर्गो देवस्य धीमहि\nधियो यो नः प्रचोदयात् ॥",
+          "meaning": "उस प्राणस्वरूप, दुःखनाशक, सुखस्वरूप, श्रेष्ठ, तेजस्वी, पापनाशक, देवस्वरूप परमात्मा को हम अपनी अन्तरात्मा में धारण करें। वह परमात्मा हमारी बुद्धि को सन्मार्ग की ओर प्रेरित करें।",
+          "transliteration": "Oṃ bhūrbhuvaḥ svaḥ\nTatsaviturvareṇyaṃ\nBhargo devasya dhīmahi\nDhiyo yo naḥ pracodayāt ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ आपो ज्योतीरसोऽमृतं ब्रह्म भूर्भुवः स्वरोम् ।",
+          "meaning": "जल, ज्योति, रस, अमृत और ब्रह्म — ये सब भूः, भुवः और स्वः लोकों में व्याप्त हैं। ॐ उस परब्रह्म का स्वरूप है।",
+          "transliteration": "Oṃ āpo jyotīraso'mṛtaṃ brahma bhūrbhuvaḥ svarom |",
+          "imageUrl": null
+        },
+        {
+          "shloka": "आयातु वरदा देवी अक्षरं ब्रह्मसम्मितम् ।\nगायत्रीं छन्दसां माता इदं ब्रह्म जुषस्व नः ॥",
+          "meaning": "वरदायिनी देवी गायत्री पधारें, जो अक्षर ब्रह्म के समान हैं, वेदमाता गायत्री हमारे इस ब्रह्मोपासना को स्वीकार करें।",
+          "transliteration": "Āyātu varadā devī akṣaraṃ brahmasammitam |\nGāyatrīṃ chandasāṃ mātā idaṃ brahma juṣasva naḥ ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ओजोऽसि सहोऽसि बलमसि भ्राजोऽसि देवानां धामनामासि विश्वमसि विश्वायुः सर्वमसि सर्वायुरभिभूरोम् ।",
+          "meaning": "हे गायत्री! तुम ओज हो, सहनशक्ति हो, बल हो, तेज हो, देवताओं का धाम हो, विश्वरूप हो, सम्पूर्ण आयु हो, सर्वस्वरूप हो और सबको अभिभूत करने वाली हो।",
+          "transliteration": "Ojo'si saho'si balamasi bhrājo'si devānāṃ dhāmanāmāsi viśvamasi viśvāyuḥ sarvamasi sarvāyurabhibhūrom |",
+          "imageUrl": null
+        },
+        {
+          "shloka": "गायत्रीं वा इदं सर्वं भूतं यदिदं किञ्च ।\nवाग्वै गायत्री वाग्वा इदं सर्वं भूतं गायति च त्रायते च ॥",
+          "meaning": "यह समस्त जगत् गायत्री ही है। वाणी ही गायत्री है और वाणी ही सब प्राणियों का गान तथा रक्षण करती है। इसलिए गायत्री सबकी रक्षा करने वाली है।",
+          "transliteration": "Gāyatrīṃ vā idaṃ sarvaṃ bhūtaṃ yadidaṃ kiñca |\nVāgvai gāyatrī vāgvā idaṃ sarvaṃ bhūtaṃ gāyati ca trāyate ca ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "॥ फलश्रुति ॥\nगायत्री मंत्र का नित्य जप करने से बुद्धि शुद्ध होती है, पाप नष्ट होते हैं और आत्मज्ञान की प्राप्ति होती है। प्रातःकाल, मध्याह्न और सायंकाल — तीनों संध्याओं में इस मंत्र का जप करना चाहिए।",
+          "meaning": "गायत्री मंत्र के नियमित जप से साधक को बुद्धि की पवित्रता, पापों का नाश और आत्मज्ञान प्राप्त होता है। यह सभी मंत्रों में श्रेष्ठ माना गया है।",
+          "transliteration": "|| phalaśruti ||\nGāyatrī maṃtra kā nitya japa karane se buddhi śuddha hotī hai, pāpa naṣṭa hote haiṃ aura ātmajñāna kī prāpti hotī hai| prātaḥkāla, madhyāhna aura sāyaṃkāla — tīnoṃ saṃdhyāoṃ meṃ isa maṃtra kā japa karanā cāhie|",
+          "imageUrl": null
         }
       ]
     },
     {
-      "id": "mantra_mahamrityunjay",
-      "title": "महामृत्युंजय मंत्र",
+      "id": "mantra_mahamrityunjaya",
+      "title": "महामृत्युञ्जय मंत्र",
       "language": "hindi",
-      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/aarti/shiv.jpg",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/shiv.jpg",
       "orderIndex": 2,
       "content": [
         {
-          "shloka": "ॐ त्र्यम्बकं यजामहे",
-          "meaning": "यह मंत्र मृत्यु और भय से मुक्ति प्रदान करता है।"
+          "shloka": "॥ ध्यानम् ॥\nचन्द्रशेखरमाश्रये मम किं करिष्यति वै यमः ।\nत्र्यम्बकं सदाशिवं ध्यायेत् सर्वरोगनिवारणम् ॥",
+          "meaning": "चन्द्रशेखर भगवान शिव का आश्रय लेने वाले को यमराज कुछ नहीं कर सकते। सब रोगों को दूर करने वाले सदाशिव त्र्यम्बक का सदैव ध्यान करना चाहिए।",
+          "transliteration": "|| dhyānam ||\nCandraśekharamāśraye mama kiṃ kariṣyati vai yamaḥ |\nTryambakaṃ sadāśivaṃ dhyāyet sarvaroganivāraṇam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम् ।\nउर्वारुकमिव बन्धनान् मृत्योर्मुक्षीय मामृतात् ॥",
+          "meaning": "हम तीन नेत्रों वाले भगवान शिव की पूजा करते हैं, जो सुगन्धित हैं और सबका पोषण करने वाले हैं। जैसे ककड़ी अपनी बेल के बन्धन से स्वयं मुक्त हो जाती है, वैसे ही हमें मृत्यु के बन्धन से मुक्त करें, अमृत से अलग न करें।",
+          "transliteration": "Oṃ tryambakaṃ yajāmahe sugandhiṃ puṣṭivardhanam |\nUrvārukamiva bandhanān mṛtyormukṣīya māmṛtāt ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ हौं जूं सः ॐ भूर्भुवः स्वः\nॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम् ।\nउर्वारुकमिव बन्धनान् मृत्योर्मुक्षीय मामृतात् ॥\nॐ स्वः भुवः भूः ॐ सः जूं हौं ॐ ॥",
+          "meaning": "यह महामृत्युञ्जय मंत्र का बीजमन्त्रयुक्त सम्पूर्ण पाठ है। 'हौं' शिवबीज है, 'जूं' रक्षाबीज है और 'सः' प्राणबीज है। इन बीजों सहित जप करने से मंत्र की शक्ति बहुत बढ़ जाती है।",
+          "transliteration": "Oṃ hauṃ jūṃ saḥ oṃ bhūrbhuvaḥ svaḥ\nOṃ tryambakaṃ yajāmahe sugandhiṃ puṣṭivardhanam |\nUrvārukamiva bandhanān mṛtyormukṣīya māmṛtāt ||\nOṃ svaḥ bhuvaḥ bhūḥ oṃ saḥ jūṃ hauṃ oṃ ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "देवस्य त्वा सवितुः प्रसवेऽश्विनोर्बाहुभ्यां पूष्णो हस्ताभ्याम् ।\nत्र्यम्बकेन हविषा यजामहे भगस्य धीमहि ॥",
+          "meaning": "सविता देव की प्रेरणा से, अश्विनीकुमारों की बाहुओं से, पूषा देव के हाथों से हम त्र्यम्बक भगवान शिव की हवि द्वारा पूजा करते हैं और उनके भग (ऐश्वर्य) का ध्यान करते हैं।",
+          "transliteration": "Devasya tvā savituḥ prasave'śvinorbāhubhyāṃ pūṣṇo hastābhyām |\nTryambakena haviṣā yajāmahe bhagasya dhīmahi ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "॥ फलश्रुति ॥\nमहामृत्युञ्जय मंत्र का जप अकालमृत्यु का नाश करता है, रोगों से मुक्ति दिलाता है और दीर्घायु प्रदान करता है। यह मंत्र रुद्राभिषेक, शिवरात्रि और प्रदोष व्रत में विशेष फलदायी है।",
+          "meaning": "इस मंत्र के नित्य जप से मृत्यु भय दूर होता है, शारीरिक एवं मानसिक रोगों का नाश होता है और साधक को आत्मबल की प्राप्ति होती है।",
+          "transliteration": "|| phalaśruti ||\nMahāmṛtyuñjaya maṃtra kā japa akālamṛtyu kā nāśa karatā hai, rogoṃ se mukti dilātā hai aura dīrghāyu pradāna karatā hai| yaha maṃtra rudrābhiṣeka, śivarātri aura pradoṣa vrata meṃ viśeṣa phaladāyī hai|",
+          "imageUrl": null
         }
       ]
     },
     {
-      "id": "mantra_ram",
-      "title": "राम नाम",
+      "id": "mantra_ganesh",
+      "title": "गणेश मंत्र",
       "language": "hindi",
-      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/ram.jpg",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/ganesh.jpg",
       "orderIndex": 3,
       "content": [
         {
-          "shloka": "श्रीराम जय राम जय जय राम",
-          "meaning": "राम नाम मानसिक शांति और भक्ति बढ़ाता है।"
+          "shloka": "॥ ध्यानम् ॥\nवक्रतुण्ड महाकाय सूर्यकोटिसमप्रभ ।\nनिर्विघ्नं कुरु मे देव सर्वकार्येषु सर्वदा ॥",
+          "meaning": "हे वक्रतुण्ड, महाकाय, करोड़ों सूर्यों के समान प्रभावाले गणेश जी! मेरे सभी कार्यों को सदैव निर्विघ्न करें।",
+          "transliteration": "|| dhyānam ||\nVakratuṇḍa mahākāya sūryakoṭisamaprabha |\nNirvighnaṃ kuru me deva sarvakāryeṣu sarvadā ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ गं गणपतये नमः ॥",
+          "meaning": "ॐकार सहित 'गं' बीजमन्त्र द्वारा भगवान गणपति को नमस्कार है। यह गणेश जी का एकाक्षर बीज मंत्र है जो समस्त विघ्नों का नाश करता है।",
+          "transliteration": "Oṃ gaṃ gaṇapataye namaḥ ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ श्रीं ह्रीं क्लीं ग्लौं गं गणपतये\nवर वरद सर्वजनं मे वशमानय स्वाहा ॥",
+          "meaning": "श्री, ह्रीं, क्लीं, ग्लौं और गं — इन बीजमन्त्रों सहित गणपति को नमस्कार। हे वरदायक! सभी जनों को मेरे वश में करें, स्वाहा। यह गणेश जी का शक्तिशाली वशीकरण एवं सिद्धि मंत्र है।",
+          "transliteration": "Oṃ śrīṃ hrīṃ klīṃ glauṃ gaṃ gaṇapataye\nVara varada sarvajanaṃ me vaśamānaya svāhā ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "गजाननं भूतगणादिसेवितं\nकपित्थजम्बूफलचारुभक्षणम् ।\nउमासुतं शोकविनाशकारकं\nनमामि विघ्नेश्वरपादपङ्कजम् ॥",
+          "meaning": "जो गजमुख हैं, भूतगणों द्वारा सेवित हैं, कपित्थ और जामुन फल का भक्षण करते हैं, उमा (पार्वती) के पुत्र हैं और शोक का विनाश करने वाले हैं — उन विघ्नेश्वर के चरणकमलों को मैं नमन करता हूँ।",
+          "transliteration": "Gajānanaṃ bhūtagaṇādisevitaṃ\nKapitthajambūphalacārubhakṣaṇam |\nUmāsutaṃ śokavināśakārakaṃ\nNamāmi vighneśvarapādapaṅkajam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "प्रणम्य शिरसा देवं गौरीपुत्रं विनायकम् ।\nभक्तावासं स्मरेन्नित्यं आयुःकामार्थसिद्धये ॥",
+          "meaning": "गौरीपुत्र विनायक देव को शिर झुकाकर प्रणाम करके, भक्तों के हृदय में वास करने वाले गणेश जी का नित्य स्मरण करना चाहिए — आयु, काम और अर्थ की सिद्धि के लिए।",
+          "transliteration": "Praṇamya śirasā devaṃ gaurīputraṃ vināyakam |\nBhaktāvāsaṃ smarennityaṃ āyuḥkāmārthasiddhaye ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "॥ फलश्रुति ॥\nगणेश मंत्र का जप सभी कार्यों में विघ्नों को दूर करता है, बुद्धि एवं विवेक प्रदान करता है और ऐश्वर्य की प्राप्ति कराता है। किसी भी शुभ कार्य के आरम्भ में गणेश वन्दना अवश्य करनी चाहिए।",
+          "meaning": "गणेश मंत्र के नियमित जप से बुद्धि की वृद्धि, विघ्नों का नाश और सभी कार्यों में सफलता प्राप्त होती है।",
+          "transliteration": "|| phalaśruti ||\nGaṇeśa maṃtra kā japa sabhī kāryoṃ meṃ vighnoṃ ko dūra karatā hai, buddhi evaṃ viveka pradāna karatā hai aura aiśvarya kī prāpti karātā hai| kisī bhī śubha kārya ke ārambha meṃ gaṇeśa vandanā avaśya karanī cāhie|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "mantra_saraswati",
+      "title": "सरस्वती मंत्र",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/saraswati.jpg",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "॥ ध्यानम् ॥\nया कुन्देन्दुतुषारहारधवला या शुभ्रवस्त्रावृता\nया वीणावरदण्डमण्डितकरा या श्वेतपद्मासना ।\nया ब्रह्माच्युतशङ्करप्रभृतिभिर्देवैः सदा वन्दिता\nसा मां पातु सरस्वती भगवती निःशेषजाड्यापहा ॥",
+          "meaning": "जो कुन्द के फूल, चन्द्रमा और हिमहार के समान श्वेत हैं, शुभ्र वस्त्र धारण किये हैं, जिनके हाथ वीणा और वरदमुद्रा से सुशोभित हैं, श्वेत कमल पर आसीन हैं, ब्रह्मा, विष्णु, शंकर आदि देवताओं द्वारा सदा वन्दित हैं — वे भगवती सरस्वती मेरी समस्त जड़ता को दूर करके मेरी रक्षा करें।",
+          "transliteration": "|| dhyānam ||\nYā kundendutuṣārahāradhavalā yā śubhravastrāvṛtā\nYā vīṇāvaradaṇḍamaṇḍitakarā yā śvetapadmāsanā |\nYā brahmācyutaśaṅkaraprabhṛtibhirdevaiḥ sadā vanditā\nSā māṃ pātu sarasvatī bhagavatī niḥśeṣajāḍyāpahā ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ ऐं सरस्वत्यै नमः ॥",
+          "meaning": "'ऐं' सरस्वती का बीजमन्त्र है। इस बीजमन्त्र सहित सरस्वती देवी को नमस्कार। यह मंत्र विद्या, बुद्धि और वाक्शक्ति प्रदान करता है।",
+          "transliteration": "Oṃ aiṃ sarasvatyai namaḥ ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ ऐं ह्रीं श्रीं वाग्देव्यै सरस्वत्यै नमः ॥",
+          "meaning": "'ऐं', 'ह्रीं' और 'श्रीं' बीजमन्त्रों सहित वाग्देवी सरस्वती को नमस्कार। यह त्रिबीज सहित मंत्र विद्या, शक्ति और ऐश्वर्य तीनों प्रदान करता है।",
+          "transliteration": "Oṃ aiṃ hrīṃ śrīṃ vāgdevyai sarasvatyai namaḥ ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सरस्वति नमस्तुभ्यं वरदे कामरूपिणि ।\nविद्यारम्भं करिष्यामि सिद्धिर्भवतु मे सदा ॥",
+          "meaning": "हे सरस्वती! आपको नमस्कार है, हे वरदायिनी, कामरूपिणी! मैं विद्या का आरम्भ कर रहा हूँ, मुझे सदैव सिद्धि प्राप्त हो।",
+          "transliteration": "Sarasvati namastubhyaṃ varade kāmarūpiṇi |\nVidyārambhaṃ kariṣyāmi siddhirbhavatu me sadā ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "महो अर्णः सरस्वती प्र चेतयति केतुना ।\nधियो विश्वा वि राजति ॥",
+          "meaning": "महान् प्रवाह वाली सरस्वती अपने ज्ञान-प्रकाश से सबको चेतना प्रदान करती हैं और सम्पूर्ण बुद्धियों को प्रकाशित करती हैं। (ऋग्वेद से)।",
+          "transliteration": "Maho arṇaḥ sarasvatī pra cetayati ketunā |\nDhiyo viśvā vi rājati ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "॥ फलश्रुति ॥\nसरस्वती मंत्र का जप विद्या, बुद्धि, वाक्शक्ति और कलाओं में निपुणता प्रदान करता है। विद्यार्थियों, कलाकारों और लेखकों के लिए यह मंत्र अत्यन्त फलदायी है। बसन्त पञ्चमी को इसका जप विशेष शुभ होता है।",
+          "meaning": "सरस्वती मंत्र के नियमित जप से बुद्धि तीव्र होती है, वाणी में प्रभाव आता है और विद्या में सफलता प्राप्त होती है।",
+          "transliteration": "|| phalaśruti ||\nSarasvatī maṃtra kā japa vidyā, buddhi, vākśakti aura kalāoṃ meṃ nipuṇatā pradāna karatā hai| vidyārthiyoṃ, kalākāroṃ aura lekhakoṃ ke lie yaha maṃtra atyanta phaladāyī hai| basanta pañcamī ko isakā japa viśeṣa śubha hotā hai|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "mantra_vishnu",
+      "title": "विष्णु मंत्र",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/vishnu.jpg",
+      "orderIndex": 5,
+      "content": [
+        {
+          "shloka": "॥ ध्यानम् ॥\nशान्ताकारं भुजगशयनं पद्मनाभं सुरेशं\nविश्वाधारं गगनसदृशं मेघवर्णं शुभाङ्गम् ।\nलक्ष्मीकान्तं कमलनयनं योगिभिर्ध्यानगम्यं\nवन्दे विष्णुं भवभयहरं सर्वलोकैकनाथम् ॥",
+          "meaning": "शान्त स्वरूप, शेषनाग पर शयन करने वाले, नाभि में कमल धारण करने वाले, देवताओं के ईश्वर, विश्व के आधार, आकाश के समान व्यापक, मेघ के समान वर्ण वाले, शुभ अंगों वाले, लक्ष्मी के पति, कमल नयन, योगियों द्वारा ध्यान से प्राप्य, संसार के भय को हरने वाले, सब लोकों के एकमात्र नाथ भगवान विष्णु को मैं वन्दन करता हूँ।",
+          "transliteration": "|| dhyānam ||\nŚāntākāraṃ bhujagaśayanaṃ padmanābhaṃ sureśaṃ\nViśvādhāraṃ gaganasadṛśaṃ meghavarṇaṃ śubhāṅgam |\nLakṣmīkāntaṃ kamalanayanaṃ yogibhirdhyānagamyaṃ\nVande viṣṇuṃ bhavabhayaharaṃ sarvalokaikanātham ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ नमो भगवते वासुदेवाय ॥",
+          "meaning": "भगवान वासुदेव (विष्णु) को नमस्कार। यह द्वादशाक्षर मंत्र भगवान विष्णु का सर्वश्रेष्ठ मंत्र है जो मोक्ष प्रदान करता है।",
+          "transliteration": "Oṃ namo bhagavate vāsudevāya ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ नमो नारायणाय ॥",
+          "meaning": "भगवान नारायण को नमस्कार। यह अष्टाक्षर मंत्र भगवान विष्णु का परम पवित्र मंत्र है जो सभी पापों का नाश करता है।",
+          "transliteration": "Oṃ namo nārāyaṇāya ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "मङ्गलं भगवान् विष्णुर्मङ्गलं गरुडध्वजः ।\nमङ्गलं पुण्डरीकाक्षो मङ्गलायतनो हरिः ॥",
+          "meaning": "भगवान विष्णु मंगलमय हैं, गरुड़ध्वज मंगलमय हैं, कमलनयन मंगलमय हैं, हरि मंगल के आश्रय हैं। उनका स्मरण सर्वत्र मंगल करता है।",
+          "transliteration": "Maṅgalaṃ bhagavān viṣṇurmaṅgalaṃ garuḍadhvajaḥ |\nMaṅgalaṃ puṇḍarīkākṣo maṅgalāyatano hariḥ ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कायेन वाचा मनसेन्द्रियैर्वा बुद्ध्यात्मना वा प्रकृतेः स्वभावात् ।\nकरोमि यद्यत्सकलं परस्मै नारायणायेति समर्पयामि ॥",
+          "meaning": "शरीर, वाणी, मन, इन्द्रियों, बुद्धि, आत्मा या प्रकृति के स्वभाव से जो कुछ भी करता हूँ, वह सब परम नारायण को समर्पित करता हूँ।",
+          "transliteration": "Kāyena vācā manasendriyairvā buddhyātmanā vā prakṛteḥ svabhāvāt |\nKaromi yadyatsakalaṃ parasmai nārāyaṇāyeti samarpayāmi ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "॥ फलश्रुति ॥\nविष्णु मंत्र का जप भवसागर से तारने वाला, सभी पापों का नाशक और मोक्षदायक है। एकादशी व्रत, कार्तिक मास और तुलसी के समीप इस मंत्र का जप विशेष फलदायी होता है।",
+          "meaning": "विष्णु मंत्र के नियमित जप से संसार के बन्धनों से मुक्ति, शान्ति और परम पद की प्राप्ति होती है।",
+          "transliteration": "|| phalaśruti ||\nViṣṇu maṃtra kā japa bhavasāgara se tārane vālā, sabhī pāpoṃ kā nāśaka aura mokṣadāyaka hai| ekādaśī vrata, kārtika māsa aura tulasī ke samīpa isa maṃtra kā japa viśeṣa phaladāyī hotā hai|",
+          "imageUrl": null
         }
       ]
     },
@@ -45,32 +225,466 @@
       "id": "mantra_durga",
       "title": "दुर्गा मंत्र",
       "language": "hindi",
-      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/chalisa/durga.jpg",
-      "orderIndex": 4,
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/durga.jpg",
+      "orderIndex": 6,
       "content": [
         {
-          "shloka": "ॐ दूं दुर्गायै नमः",
-          "meaning": "दुर्गा माता शक्ति और सुरक्षा देती हैं।"
+          "shloka": "॥ ध्यानम् ॥\nसर्वमङ्गलमाङ्गल्ये शिवे सर्वार्थसाधिके ।\nशरण्ये त्र्यम्बके गौरि नारायणि नमोऽस्तु ते ॥",
+          "meaning": "हे सब मंगलों की मंगलरूपा, कल्याणी, सभी मनोरथों को पूर्ण करने वाली, शरणदायिनी, तीन नेत्रों वाली, गौरी, नारायणी! आपको नमस्कार है।",
+          "transliteration": "|| dhyānam ||\nSarvamaṅgalamāṅgalye śive sarvārthasādhike |\nŚaraṇye tryambake gauri nārāyaṇi namo'stu te ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ दुं दुर्गायै नमः ॥",
+          "meaning": "'दुं' दुर्गा माता का बीजमन्त्र है। इस बीजमन्त्र सहित दुर्गा देवी को नमस्कार। यह मंत्र सभी भय और संकटों से रक्षा करता है।",
+          "transliteration": "Oṃ duṃ durgāyai namaḥ ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ ऐं ह्रीं क्लीं चामुण्डायै विच्चे ॥",
+          "meaning": "यह नवार्ण मंत्र (नौ अक्षरों का मंत्र) दुर्गा सप्तशती का मूल मंत्र है। 'ऐं' सरस्वती बीज, 'ह्रीं' माया बीज और 'क्लीं' काम बीज है। यह शक्ति उपासना का सर्वश्रेष्ठ मंत्र है।",
+          "transliteration": "Oṃ aiṃ hrīṃ klīṃ cāmuṇḍāyai vicce ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "या देवी सर्वभूतेषु शक्तिरूपेण संस्थिता ।\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः ॥",
+          "meaning": "जो देवी सब प्राणियों में शक्ति के रूप में स्थित हैं, उनको नमस्कार, उनको नमस्कार, उनको बारम्बार नमस्कार है।",
+          "transliteration": "Yā devī sarvabhūteṣu śaktirūpeṇa saṃsthitā |\nNamastasyai namastasyai namastasyai namo namaḥ ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "या देवी सर्वभूतेषु बुद्धिरूपेण संस्थिता ।\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः ॥",
+          "meaning": "जो देवी सब प्राणियों में बुद्धि के रूप में स्थित हैं, उनको नमस्कार, उनको नमस्कार, उनको बारम्बार नमस्कार है।",
+          "transliteration": "Yā devī sarvabhūteṣu buddhirūpeṇa saṃsthitā |\nNamastasyai namastasyai namastasyai namo namaḥ ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "विद्यासु शास्त्रेषु विवेकदीपेषु वाद्येषु वाक्येषु च का त्वदन्या ।\nममाग्रतस्तिष्ठ दुरन्तशक्ते मामेव देवि कृपया विलोक्य ॥",
+          "meaning": "विद्याओं में, शास्त्रों में, विवेक के दीपकों में, वाद्यों और वाक्यों में आपके अतिरिक्त कौन है? हे अनन्त शक्ति वाली देवी! कृपा करके मुझ पर दृष्टि डालती हुई मेरे सामने खड़ी हों।",
+          "transliteration": "Vidyāsu śāstreṣu vivekadīpeṣu vādyeṣu vākyeṣu ca kā tvadanyā |\nMamāgratastiṣṭha durantaśakte māmeva devi kṛpayā vilokya ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "॥ फलश्रुति ॥\nदुर्गा मंत्र का जप शत्रुओं का नाश, भय से मुक्ति और दुर्गम परिस्थितियों में सहायता प्रदान करता है। नवरात्रि में इस मंत्र का जप विशेष रूप से सिद्धिदायक होता है।",
+          "meaning": "दुर्गा मंत्र के नियमित जप से सभी प्रकार के भय दूर होते हैं, शत्रुओं का नाश होता है और माता की कृपा प्राप्त होती है।",
+          "transliteration": "|| phalaśruti ||\nDurgā maṃtra kā japa śatruoṃ kā nāśa, bhaya se mukti aura durgama paristhitiyoṃ meṃ sahāyatā pradāna karatā hai| navarātri meṃ isa maṃtra kā japa viśeṣa rūpa se siddhidāyaka hotā hai|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "mantra_lakshmi",
+      "title": "लक्ष्मी मंत्र",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/lakshmi.jpg",
+      "orderIndex": 7,
+      "content": [
+        {
+          "shloka": "॥ ध्यानम् ॥\nपद्मानने पद्मपदे पद्मप्रिये पद्मदले ।\nपद्मदलायताक्षि वन्दे त्वां पद्मवदने ॥",
+          "meaning": "हे कमलमुखी! कमल चरणों वाली, कमल प्रिय, कमलदल जैसी, कमल के समान विशाल नेत्रों वाली, कमलवदना! मैं आपको वन्दन करता हूँ।",
+          "transliteration": "|| dhyānam ||\nPadmānane padmapade padmapriye padmadale |\nPadmadalāyatākṣi vande tvāṃ padmavadane ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ श्रीं महालक्ष्म्यै नमः ॥",
+          "meaning": "'श्रीं' लक्ष्मी माता का बीजमन्त्र है। इस बीजमन्त्र सहित महालक्ष्मी को नमस्कार। यह मंत्र धन, ऐश्वर्य और समृद्धि प्रदान करता है।",
+          "transliteration": "Oṃ śrīṃ mahālakṣmyai namaḥ ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ श्रीं ह्रीं क्लीं ऐं सौः ॐ ह्रीं क\nल ह्रीं ह स क ह ल ह्रीं\nसकलह्रीं ऐं क्लीं ह्रीं श्रीं ॥",
+          "meaning": "यह श्री सूक्त का बीजमन्त्र-युक्त पाठ है जो महालक्ष्मी को प्रसन्न करता है। इसमें श्री, ह्रीं, क्लीं आदि बीजों का समन्वय है जो सम्पूर्ण ऐश्वर्य प्रदान करता है।",
+          "transliteration": "Oṃ śrīṃ hrīṃ klīṃ aiṃ sauḥ oṃ hrīṃ ka\nLa hrīṃ ha sa ka ha la hrīṃ\nSakalahrīṃ aiṃ klīṃ hrīṃ śrīṃ ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "नमस्ते सर्वदेवानां वरदासि हरेः प्रिया ।\nया गतिस्त्वत्प्रपन्नानां सा मे भूयात्त्वदर्चनात् ॥",
+          "meaning": "हे सब देवताओं को वर देने वाली, हरि की प्रिय! आपको नमस्कार है। आपकी शरण में आये हुओं को जो गति प्राप्त होती है, वह गति मुझे भी आपकी अर्चना से प्राप्त हो।",
+          "transliteration": "Namaste sarvadevānāṃ varadāsi hareḥ priyā |\nYā gatistvatprapannānāṃ sā me bhūyāttvadarcanāt ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "लक्ष्मीं क्षीरसमुद्रराजतनयां श्रीरङ्गधामेश्वरीं\nदासीभूतसमस्तदेववनितां लोकैकदीपाङ्कुराम् ।\nश्रीमन्मन्दकटाक्षलब्धविभवब्रह्मेन्द्रगङ्गाधरां\nत्वां त्रैलोक्यकुटुम्बिनीं सरसिजां वन्दे मुकुन्दप्रियाम् ॥",
+          "meaning": "क्षीरसागर की पुत्री, श्रीरंगधाम की ईश्वरी, जिनकी दासी बनकर सभी देव-वनिताएँ रहती हैं, जो लोक की एकमात्र दीपशिखा हैं, जिनकी कृपाकटाक्ष से ब्रह्मा, इन्द्र और शंकर को वैभव प्राप्त हुआ — उन त्रिलोकी की कुटुम्बिनी, कमलासना, मुकुन्दप्रिया लक्ष्मी को मैं वन्दन करता हूँ।",
+          "transliteration": "Lakṣmīṃ kṣīrasamudrarājatanayāṃ śrīraṅgadhāmeśvarīṃ\nDāsībhūtasamastadevavanitāṃ lokaikadīpāṅkurām |\nŚrīmanmandakaṭākṣalabdhavibhavabrahmendragaṅgādharāṃ\nTvāṃ trailokyakuṭumbinīṃ sarasijāṃ vande mukundapriyām ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "॥ फलश्रुति ॥\nलक्ष्मी मंत्र का जप धन-सम्पत्ति, ऐश्वर्य, सुख-समृद्धि और गृहस्थ जीवन में शान्ति प्रदान करता है। शुक्रवार और दीपावली को इस मंत्र का जप विशेष फलदायी होता है।",
+          "meaning": "लक्ष्मी मंत्र के नियमित जप से दरिद्रता दूर होती है, गृह में समृद्धि आती है और सभी प्रकार का ऐश्वर्य प्राप्त होता है।",
+          "transliteration": "|| phalaśruti ||\nLakṣmī maṃtra kā japa dhana-sampatti, aiśvarya, sukha-samṛddhi aura gṛhastha jīvana meṃ śānti pradāna karatā hai| śukravāra aura dīpāvalī ko isa maṃtra kā japa viśeṣa phaladāyī hotā hai|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "mantra_hanuman",
+      "title": "हनुमान मंत्र",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/hanuman.jpg",
+      "orderIndex": 8,
+      "content": [
+        {
+          "shloka": "॥ ध्यानम् ॥\nअतुलितबलधामं हेमशैलाभदेहं\nदनुजवनकृशानुं ज्ञानिनामग्रगण्यम् ।\nसकलगुणनिधानं वानराणामधीशं\nरघुपतिप्रियभक्तं वातजातं नमामि ॥",
+          "meaning": "अतुलित बल के धाम, सुवर्ण पर्वत के समान शरीर वाले, राक्षसरूपी वन के लिए अग्नि समान, ज्ञानियों में अग्रगण्य, सभी गुणों के निधान, वानरों के अधीश, रघुपति के प्रिय भक्त, पवनपुत्र हनुमान को मैं नमन करता हूँ।",
+          "transliteration": "|| dhyānam ||\nAtulitabaladhāmaṃ hemaśailābhadehaṃ\nDanujavanakṛśānuṃ jñānināmagragaṇyam |\nSakalaguṇanidhānaṃ vānarāṇāmadhīśaṃ\nRaghupatipriyabhaktaṃ vātajātaṃ namāmi ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ हं हनुमते नमः ॥",
+          "meaning": "'हं' हनुमान जी का बीजमन्त्र है। इस बीजमन्त्र सहित हनुमान जी को नमस्कार। यह मंत्र भय, रोग और बाधाओं को दूर करता है।",
+          "transliteration": "Oṃ haṃ hanumate namaḥ ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ ऐं भ्रीं हनुमते श्री रामदूताय नमः ॥",
+          "meaning": "'ऐं' और 'भ्रीं' बीजमन्त्रों सहित श्री रामदूत हनुमान को नमस्कार। यह शक्तिशाली मंत्र रोगों, भूत-प्रेत बाधाओं और शत्रुओं से रक्षा करता है।",
+          "transliteration": "Oṃ aiṃ bhrīṃ hanumate śrī rāmadūtāya namaḥ ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "मनोजवं मारुततुल्यवेगं\nजितेन्द्रियं बुद्धिमतां वरिष्ठम् ।\nवातात्मजं वानरयूथमुख्यं\nश्रीरामदूतं शरणं प्रपद्ये ॥",
+          "meaning": "मन के समान वेगवान, वायु के समान गतिशील, जितेन्द्रिय, बुद्धिमानों में श्रेष्ठ, पवनपुत्र, वानर समूह के प्रमुख, श्रीराम के दूत — उन हनुमान जी की मैं शरण ग्रहण करता हूँ।",
+          "transliteration": "Manojavaṃ mārutatulyavegaṃ\nJitendriyaṃ buddhimatāṃ variṣṭham |\nVātātmajaṃ vānarayūthamukhyaṃ\nŚrīrāmadūtaṃ śaraṇaṃ prapadye ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "बुद्धिर्बलं यशो धैर्यं निर्भयत्वमरोगता ।\nअजाड्यं वाक्पटुत्वं च हनुमत्स्मरणाद्भवेत् ॥",
+          "meaning": "हनुमान जी के स्मरण मात्र से बुद्धि, बल, यश, धैर्य, निर्भयता, आरोग्य, स्फूर्ति और वाक्पटुता प्राप्त होती है।",
+          "transliteration": "Buddhirbalaṃ yaśo dhairyaṃ nirbhayatvamarogatā |\nAjāḍyaṃ vākpaṭutvaṃ ca hanumatsmaraṇādbhavet ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "॥ फलश्रुति ॥\nहनुमान मंत्र का जप भय, रोग, दुष्ट आत्माओं और संकटों से रक्षा करता है तथा शारीरिक बल और मानसिक साहस प्रदान करता है। मंगलवार और शनिवार को इस मंत्र का जप विशेष फलदायी होता है।",
+          "meaning": "हनुमान मंत्र के नियमित जप से सभी भय दूर होते हैं, शारीरिक और मानसिक बल बढ़ता है तथा श्रीराम की कृपा प्राप्त होती है।",
+          "transliteration": "|| phalaśruti ||\nHanumāna maṃtra kā japa bhaya, roga, duṣṭa ātmāoṃ aura saṃkaṭoṃ se rakṣā karatā hai tathā śārīrika bala aura mānasika sāhasa pradāna karatā hai| maṃgalavāra aura śanivāra ko isa maṃtra kā japa viśeṣa phaladāyī hotā hai|",
+          "imageUrl": null
         }
       ]
     },
     {
       "id": "mantra_shanti",
-      "title": "शांति मंत्र",
+      "title": "शान्ति मंत्र",
       "language": "hindi",
-      "image": "",
-      "orderIndex": 5,
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/om.jpg",
+      "orderIndex": 9,
       "content": [
         {
-          "shloka": "सर्वे भवन्तु सुखिनः",
-          "meaning": "सभी लोग सुखी हों।",
-          "transliteration": null,
+          "shloka": "ॐ सह नाववतु ।\nसह नौ भुनक्तु ।\nसह वीर्यं करवावहै ।\nतेजस्वि नावधीतमस्तु मा विद्विषावहै ॥\nॐ शान्तिः शान्तिः शान्तिः ॥",
+          "meaning": "ॐ! वह (परमात्मा) हम दोनों (गुरु-शिष्य) की रक्षा करें। हम दोनों का पोषण करें। हम दोनों मिलकर बल प्राप्त करें। हमारा अध्ययन तेजस्वी हो। हम परस्पर द्वेष न करें। ॐ शान्ति, शान्ति, शान्ति!",
+          "transliteration": "Oṃ saha nāvavatu |\nSaha nau bhunaktu |\nSaha vīryaṃ karavāvahai |\nTejasvi nāvadhītamastu mā vidviṣāvahai ||\nOṃ śāntiḥ śāntiḥ śāntiḥ ||",
           "imageUrl": null
         },
         {
-          "shloka": "सर्वे सन्तु निरामयाः",
-          "meaning": "सभी लोग निरोगी रहें।",
-          "transliteration": null,
+          "shloka": "ॐ पूर्णमदः पूर्णमिदं पूर्णात् पूर्णमुदच्यते ।\nपूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ॥\nॐ शान्तिः शान्तिः शान्तिः ॥",
+          "meaning": "वह (ब्रह्म) पूर्ण है, यह (जगत्) पूर्ण है। पूर्ण से पूर्ण उत्पन्न होता है। पूर्ण में से पूर्ण निकाल लेने पर भी पूर्ण ही शेष रहता है। ॐ शान्ति, शान्ति, शान्ति!",
+          "transliteration": "Oṃ pūrṇamadaḥ pūrṇamidaṃ pūrṇāt pūrṇamudacyate |\nPūrṇasya pūrṇamādāya pūrṇamevāvaśiṣyate ||\nOṃ śāntiḥ śāntiḥ śāntiḥ ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ असतो मा सद्गमय ।\nतमसो मा ज्योतिर्गमय ।\nमृत्योर्मा अमृतं गमय ।\nॐ शान्तिः शान्तिः शान्तिः ॥",
+          "meaning": "असत्य से सत्य की ओर ले चलो। अन्धकार से प्रकाश की ओर ले चलो। मृत्यु से अमृत (मोक्ष) की ओर ले चलो। ॐ शान्ति, शान्ति, शान्ति! (बृहदारण्यक उपनिषद् से)।",
+          "transliteration": "Oṃ asato mā sadgamaya |\nTamaso mā jyotirgamaya |\nMṛtyormā amṛtaṃ gamaya |\nOṃ śāntiḥ śāntiḥ śāntiḥ ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ सर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः ।\nसर्वे भद्राणि पश्यन्तु मा कश्चिद् दुःखभाग्भवेत् ॥\nॐ शान्तिः शान्तिः शान्तिः ॥",
+          "meaning": "सभी सुखी हों, सभी रोगमुक्त हों, सभी मंगल देखें, कोई भी दुःख का भागी न हो। ॐ शान्ति, शान्ति, शान्ति!",
+          "transliteration": "Oṃ sarve bhavantu sukhinaḥ sarve santu nirāmayāḥ |\nSarve bhadrāṇi paśyantu mā kaścid duḥkhabhāgbhavet ||\nOṃ śāntiḥ śāntiḥ śāntiḥ ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ द्यौः शान्तिरन्तरिक्षं शान्तिः\nपृथिवी शान्तिरापः शान्तिरोषधयः शान्तिः ।\nवनस्पतयः शान्तिर्विश्वेदेवाः शान्तिर्ब्रह्म शान्तिः\nसर्वं शान्तिः शान्तिरेव शान्तिः सा मा शान्तिरेधि ॥\nॐ शान्तिः शान्तिः शान्तिः ॥",
+          "meaning": "द्युलोक शान्त हो, अन्तरिक्ष शान्त हो, पृथ्वी शान्त हो, जल शान्त हो, औषधियाँ शान्त हों, वनस्पतियाँ शान्त हों, विश्वेदेव शान्त हों, ब्रह्म शान्त हो, सब शान्त हो, शान्ति ही शान्ति हो, वह शान्ति मुझे प्राप्त हो। ॐ शान्ति, शान्ति, शान्ति!",
+          "transliteration": "Oṃ dyauḥ śāntirantarikṣaṃ śāntiḥ\nPṛthivī śāntirāpaḥ śāntiroṣadhayaḥ śāntiḥ |\nVanaspatayaḥ śāntirviśvedevāḥ śāntirbrahma śāntiḥ\nSarvaṃ śāntiḥ śāntireva śāntiḥ sā mā śāntiredhi ||\nOṃ śāntiḥ śāntiḥ śāntiḥ ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ भद्रं कर्णेभिः शृणुयाम देवाः\nभद्रं पश्येमाक्षभिर्यजत्राः ।\nस्थिरैरङ्गैस्तुष्टुवांसस्तनूभिः\nव्यशेम देवहितं यदायुः ॥\nॐ शान्तिः शान्तिः शान्तिः ॥",
+          "meaning": "हे देवगण! हम कानों से शुभ सुनें, नेत्रों से शुभ देखें, स्थिर अंगों और स्वस्थ शरीर से देवताओं की स्तुति करते हुए देवहित आयु व्यतीत करें। ॐ शान्ति, शान्ति, शान्ति!",
+          "transliteration": "Oṃ bhadraṃ karṇebhiḥ śṛṇuyāma devāḥ\nBhadraṃ paśyemākṣabhiryajatrāḥ |\nSthirairaṅgaistuṣṭuvāṃsastanūbhiḥ\nVyaśema devahitaṃ yadāyuḥ ||\nOṃ śāntiḥ śāntiḥ śāntiḥ ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "mantra_navgraha",
+      "title": "नवग्रह मंत्र",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/navgraha.jpg",
+      "orderIndex": 10,
+      "content": [
+        {
+          "shloka": "ॐ सूर्याय नमः ।\nजपाकुसुमसङ्काशं काश्यपेयं महद्द्युतिम् ।\nतमोऽरिं सर्वपापघ्नं प्रणतोऽस्मि दिवाकरम् ॥",
+          "meaning": "सूर्य देव को नमस्कार। जपाकुसुम (गुड़हल) के समान लाल, कश्यप के पुत्र, महान तेजस्वी, अन्धकार के शत्रु, सब पापों को नष्ट करने वाले दिवाकर (सूर्य) को मैं प्रणाम करता हूँ।",
+          "transliteration": "Oṃ sūryāya namaḥ |\nJapākusumasaṅkāśaṃ kāśyapeyaṃ mahaddyutim |\nTamo'riṃ sarvapāpaghnaṃ praṇato'smi divākaram ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ चन्द्राय नमः ।\nदधिशङ्खतुषाराभं क्षीरोदार्णवसम्भवम् ।\nनमामि शशिनं सोमं शम्भोर्मुकुटभूषणम् ॥",
+          "meaning": "चन्द्र देव को नमस्कार। दही, शंख और बर्फ के समान श्वेत, क्षीरसागर से उत्पन्न, शम्भु (शिव) के मुकुट के आभूषण शशि (चन्द्रमा) को मैं नमन करता हूँ।",
+          "transliteration": "Oṃ candrāya namaḥ |\nDadhiśaṅkhatuṣārābhaṃ kṣīrodārṇavasambhavam |\nNamāmi śaśinaṃ somaṃ śambhormukuṭabhūṣaṇam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ अङ्गारकाय नमः ।\nधरणीगर्भसम्भूतं विद्युत्कान्तिसमप्रभम् ।\nकुमारं शक्तिहस्तं तं मङ्गलं प्रणमाम्यहम् ॥",
+          "meaning": "मंगल (अंगारक) देव को नमस्कार। पृथ्वी के गर्भ से उत्पन्न, विद्युत के समान कान्ति वाले, कुमार स्वरूप, हाथ में शक्ति धारण करने वाले मंगल को मैं प्रणाम करता हूँ।",
+          "transliteration": "Oṃ aṅgārakāya namaḥ |\nDharaṇīgarbhasambhūtaṃ vidyutkāntisamaprabham |\nKumāraṃ śaktihastaṃ taṃ maṅgalaṃ praṇamāmyaham ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ बुधाय नमः ।\nप्रियङ्गुकलिकाश्यामं रूपेणाप्रतिमं बुधम् ।\nसौम्यं सौम्यगुणोपेतं तं बुधं प्रणमाम्यहम् ॥",
+          "meaning": "बुध देव को नमस्कार। प्रियंगु की कलिका के समान श्याम वर्ण, रूप में अनुपम, सौम्य, सौम्य गुणों से युक्त बुध को मैं प्रणाम करता हूँ।",
+          "transliteration": "Oṃ budhāya namaḥ |\nPriyaṅgukalikāśyāmaṃ rūpeṇāpratimaṃ budham |\nSaumyaṃ saumyaguṇopetaṃ taṃ budhaṃ praṇamāmyaham ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ बृहस्पतये नमः ।\nदेवानां च ऋषीणां च गुरुं काञ्चनसन्निभम् ।\nबुद्धिभूतं त्रिलोकेशं तं नमामि बृहस्पतिम् ॥",
+          "meaning": "बृहस्पति देव को नमस्कार। देवताओं और ऋषियों के गुरु, सोने के समान कान्ति वाले, बुद्धि-स्वरूप, तीनों लोकों के ईश्वर बृहस्पति को मैं नमन करता हूँ।",
+          "transliteration": "Oṃ bṛhaspataye namaḥ |\nDevānāṃ ca ṛṣīṇāṃ ca guruṃ kāñcanasannibham |\nBuddhibhūtaṃ trilokeśaṃ taṃ namāmi bṛhaspatim ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ शुक्राय नमः ।\nहिमकुन्दमृणालाभं दैत्यानां परमं गुरुम् ।\nसर्वशास्त्रप्रवक्तारं भार्गवं प्रणमाम्यहम् ॥",
+          "meaning": "शुक्र देव को नमस्कार। हिम, कुन्द पुष्प और कमलनाल के समान श्वेत, दैत्यों के परम गुरु, सभी शास्त्रों के प्रवक्ता भार्गव (शुक्र) को मैं प्रणाम करता हूँ।",
+          "transliteration": "Oṃ śukrāya namaḥ |\nHimakundamṛṇālābhaṃ daityānāṃ paramaṃ gurum |\nSarvaśāstrapravaktāraṃ bhārgavaṃ praṇamāmyaham ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ शनैश्चराय नमः ।\nनीलाञ्जनसमाभासं रविपुत्रं यमाग्रजम् ।\nछायामार्तण्डसम्भूतं तं नमामि शनैश्चरम् ॥\n\nॐ राहवे नमः ।\nअर्धकायं महावीर्यं चन्द्रादित्यविमर्दनम् ।\nसिंहिकागर्भसम्भूतं तं राहुं प्रणमाम्यहम् ॥\n\nॐ केतवे नमः ।\nपलाशपुष्पसङ्काशं तारकाग्रहमस्तकम् ।\nरौद्रं रौद्रात्मकं घोरं तं केतुं प्रणमाम्यहम् ॥",
+          "meaning": "शनि देव को नमस्कार — नीले अञ्जन के समान, सूर्यपुत्र, यम के अग्रज, छाया और सूर्य से उत्पन्न शनैश्चर को नमन। राहु को नमस्कार — अर्धकाय, महावीर्यवान, चन्द्र-सूर्य का मर्दन करने वाले, सिंहिका के गर्भ से उत्पन्न राहु को प्रणाम। केतु को नमस्कार — पलाश पुष्प के समान, तारकाग्रह के शिरोभाग, रौद्ररूप, भयंकर केतु को प्रणाम।",
+          "transliteration": "Oṃ śanaiścarāya namaḥ |\nNīlāñjanasamābhāsaṃ raviputraṃ yamāgrajam |\nChāyāmārtaṇḍasambhūtaṃ taṃ namāmi śanaiścaram ||\n\nOṃ rāhave namaḥ |\nArdhakāyaṃ mahāvīryaṃ candrādityavimardanam |\nSiṃhikāgarbhasambhūtaṃ taṃ rāhuṃ praṇamāmyaham ||\n\nOṃ ketave namaḥ |\nPalāśapuṣpasaṅkāśaṃ tārakāgrahamastakam |\nRaudraṃ raudrātmakaṃ ghoraṃ taṃ ketuṃ praṇamāmyaham ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "॥ फलश्रुति ॥\nनवग्रह मंत्र का जप ग्रहदोषों का शमन करता है, कुण्डली के अशुभ प्रभावों को कम करता है और जीवन में शान्ति एवं समृद्धि लाता है। प्रत्येक ग्रह के वार में उस ग्रह के मंत्र का जप विशेष फलदायी है।",
+          "meaning": "नवग्रह मंत्रों के नियमित जप से ग्रहदोष शान्त होते हैं और जातक को शुभ फलों की प्राप्ति होती है।",
+          "transliteration": "|| phalaśruti ||\nNavagraha maṃtra kā japa grahadoṣoṃ kā śamana karatā hai, kuṇḍalī ke aśubha prabhāvoṃ ko kama karatā hai aura jīvana meṃ śānti evaṃ samṛddhi lātā hai| pratyeka graha ke vāra meṃ usa graha ke maṃtra kā japa viśeṣa phaladāyī hai|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "mantra_panchakshara",
+      "title": "पञ्चाक्षर मंत्र",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/shiv.jpg",
+      "orderIndex": 11,
+      "content": [
+        {
+          "shloka": "॥ ध्यानम् ॥\nध्यायेन्नित्यं महेशं रजतगिरिनिभं चारुचन्द्रावतंसं\nरत्नाकल्पोज्ज्वलाङ्गं परशुमृगवराभीतिहस्तं प्रसन्नम् ।\nपद्मासीनं समन्तात्स्तुतममरगणैर्व्याघ्रकृत्तिं वसानं\nविश्वाद्यं विश्ववन्द्यं निखिलभयहरं पञ्चवक्त्रं त्रिनेत्रम् ॥",
+          "meaning": "रजत पर्वत (कैलाश) के समान, सुन्दर चन्द्रमा को मस्तक पर धारण करने वाले, रत्नालंकारों से उज्ज्वल शरीर वाले, परशु, मृग, वर और अभय मुद्रा धारण करने वाले, प्रसन्नमुख, पद्मासन में बैठे, देवताओं द्वारा स्तुत, व्याघ्रचर्म धारण करने वाले, विश्व के आदि, विश्ववन्द्य, समस्त भय हरने वाले, पञ्चमुख, त्रिनेत्र महेश्वर का नित्य ध्यान करें।",
+          "transliteration": "|| dhyānam ||\nDhyāyennityaṃ maheśaṃ rajatagirinibhaṃ cārucandrāvataṃsaṃ\nRatnākalpojjvalāṅgaṃ paraśumṛgavarābhītihastaṃ prasannam |\nPadmāsīnaṃ samantātstutamamaragaṇairvyāghrakṛttiṃ vasānaṃ\nViśvādyaṃ viśvavandyaṃ nikhilabhayaharaṃ pañcavaktraṃ trinetram ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ नमः शिवाय ॥",
+          "meaning": "भगवान शिव को नमस्कार। यह पञ्चाक्षर मंत्र शिव उपासना का सबसे प्रसिद्ध और शक्तिशाली मंत्र है। 'न', 'मः', 'शि', 'वा', 'य' — ये पाँच अक्षर पञ्च भूतों और पञ्च कृत्यों का प्रतिनिधित्व करते हैं।",
+          "transliteration": "Oṃ namaḥ śivāya ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "नागेन्द्रहाराय त्रिलोचनाय भस्माङ्गरागाय महेश्वराय ।\nनित्याय शुद्धाय दिगम्बराय तस्मै 'न'काराय नमः शिवाय ॥",
+          "meaning": "नागों का हार धारण करने वाले, तीन नेत्रों वाले, भस्म का अंगराग लगाने वाले, महेश्वर, नित्य, शुद्ध, दिगम्बर — उन शिव को 'न'कार स्वरूप नमस्कार है।",
+          "transliteration": "Nāgendrahārāya trilocanāya bhasmāṅgarāgāya maheśvarāya |\nNityāya śuddhāya digambarāya tasmai 'na'kārāya namaḥ śivāya ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "मन्दाकिनीसलिलचन्दनचर्चिताय नन्दीश्वरप्रमथनाथमहेश्वराय ।\nमन्दारपुष्पबहुपुष्पसुपूजिताय तस्मै 'म'काराय नमः शिवाय ॥",
+          "meaning": "गंगाजल और चन्दन से अर्चित, नन्दीश्वर के स्वामी, प्रमथगणों के नाथ, महेश्वर, मन्दार आदि अनेक पुष्पों से पूजित — उन शिव को 'म'कार स्वरूप नमस्कार है।",
+          "transliteration": "Mandākinīsalilacandanacarcitāya nandīśvarapramathanāthamaheśvarāya |\nMandārapuṣpabahupuṣpasupūjitāya tasmai 'ma'kārāya namaḥ śivāya ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "शिवाय गौरीवदनाब्जबृन्दसूर्याय दक्षाध्वरनाशकाय ।\nश्रीनीलकण्ठाय वृषध्वजाय तस्मै 'शि'काराय नमः शिवाय ॥\n\nवसिष्ठकुम्भोद्भवगौतमार्यमूनिन्द्रदेवार्चितशेखराय ।\nचन्द्रार्कवैश्वानरलोचनाय तस्मै 'वा'काराय नमः शिवाय ॥\n\nयक्षस्वरूपाय जटाधराय पिनाकहस्ताय सनातनाय ।\nदिव्याय देवाय दिगम्बराय तस्मै 'य'काराय नमः शिवाय ॥",
+          "meaning": "गौरी के मुखकमल के सूर्य, दक्ष यज्ञ के विनाशक, नीलकण्ठ, वृषभध्वज शिव को 'शि'कार स्वरूप नमस्कार। वसिष्ठ, अगस्त्य, गौतम आदि मुनियों और देवताओं द्वारा अर्चित, चन्द्र-सूर्य-अग्नि नेत्र वाले शिव को 'वा'कार स्वरूप नमस्कार। यक्षस्वरूप, जटाधारी, पिनाकधारी, सनातन, दिव्य, दिगम्बर शिव को 'य'कार स्वरूप नमस्कार।",
+          "transliteration": "Śivāya gaurīvadanābjabṛndasūryāya dakṣādhvaranāśakāya |\nŚrīnīlakaṇṭhāya vṛṣadhvajāya tasmai 'śi'kārāya namaḥ śivāya ||\n\nVasiṣṭhakumbhodbhavagautamāryamūnindradevārcitaśekharāya |\nCandrārkavaiśvānaralocanāya tasmai 'vā'kārāya namaḥ śivāya ||\n\nYakṣasvarūpāya jaṭādharāya pinākahastāya sanātanāya |\nDivyāya devāya digambarāya tasmai 'ya'kārāya namaḥ śivāya ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "॥ फलश्रुति ॥\nपञ्चाक्षर मंत्र का जप भगवान शिव की कृपा, पापनाश, मोक्ष और आत्मज्ञान प्रदान करता है। सोमवार, प्रदोषकाल और शिवरात्रि में इस मंत्र का जप विशेष सिद्धिदायक है। इस स्तोत्र का पाठ करने से शिवलोक की प्राप्ति होती है।",
+          "meaning": "पञ्चाक्षर मंत्र के नियमित जप से शिव कृपा, पाप-मोचन और परमपद की प्राप्ति होती है।",
+          "transliteration": "|| phalaśruti ||\nPañcākṣara maṃtra kā japa bhagavāna śiva kī kṛpā, pāpanāśa, mokṣa aura ātmajñāna pradāna karatā hai| somavāra, pradoṣakāla aura śivarātri meṃ isa maṃtra kā japa viśeṣa siddhidāyaka hai| isa stotra kā pāṭha karane se śivaloka kī prāpti hotī hai|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "mantra_ashtakshara",
+      "title": "अष्टाक्षर मंत्र",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/vishnu.jpg",
+      "orderIndex": 12,
+      "content": [
+        {
+          "shloka": "॥ ध्यानम् ॥\nउद्यद्भानुसहस्रकान्तिमरुणक्षौमाम्बरं शंखचक्र-\nश्रीवत्साङ्कितवक्षसं मणिमयैर्भूषोज्ज्वलत्कौस्तुभम् ।\nश्रीमन्मन्दरनिर्मथोद्भवविषं संहृत्य लोकत्रयी-\nरक्षाकारणमीश्वरं मधुरिपुं वन्दे जगन्नाथम् ॥",
+          "meaning": "उदित हजारों सूर्यों की कान्ति वाले, लाल वस्त्र धारण करने वाले, शंख-चक्र से शोभित, श्रीवत्स चिह्न वाले वक्षःस्थल वाले, मणिमय कौस्तुभ मणि से उज्ज्वल, मन्दराचल मन्थन से उत्पन्न विष का पान करने वाले, तीनों लोकों की रक्षा के लिए अवतरित, मधु के शत्रु, जगन्नाथ भगवान विष्णु को मैं वन्दन करता हूँ।",
+          "transliteration": "|| dhyānam ||\nUdyadbhānusahasrakāntimaruṇakṣaumāmbaraṃ śaṃkhacakra-\nŚrīvatsāṅkitavakṣasaṃ maṇimayairbhūṣojjvalatkaustubham |\nŚrīmanmandaranirmathodbhavaviṣaṃ saṃhṛtya lokatrayī-\nRakṣākāraṇamīśvaraṃ madhuripuṃ vande jagannātham ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ नमो नारायणाय ॥",
+          "meaning": "भगवान नारायण को नमस्कार। यह अष्टाक्षर मंत्र (आठ अक्षरों का मंत्र) वैष्णव सम्प्रदाय का परम पवित्र मन्त्ररत्न है। 'ॐ' प्रणव, 'नमो' समर्पण और 'नारायणाय' भगवान नारायण को सम्बोधित करता है।",
+          "transliteration": "Oṃ namo nārāyaṇāya ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐकारश्चाथ नकारो मकारश्चेति भूसुराः ।\nनारायणस्य मन्त्रोऽयं सर्वपापप्रणाशनः ॥",
+          "meaning": "हे ब्राह्मणो! ॐकार, नकार और मकार — ये सब मिलकर नारायण का यह मंत्र बना है जो सब पापों का नाश करने वाला है।",
+          "transliteration": "Oṃkāraścātha nakāro makāraśceti bhūsurāḥ |\nNārāyaṇasya mantro'yaṃ sarvapāpapraṇāśanaḥ ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अनन्याश्चिन्तयन्तो मां ये जनाः पर्युपासते ।\nतेषां नित्याभियुक्तानां योगक्षेमं वहाम्यहम् ॥",
+          "meaning": "जो भक्त अनन्य भाव से मेरा चिन्तन करते हुए मेरी उपासना करते हैं, उन नित्य-युक्त भक्तों का योग (अप्राप्त वस्तु की प्राप्ति) और क्षेम (प्राप्त वस्तु की रक्षा) मैं स्वयं वहन करता हूँ। (श्रीमद्भगवद्गीता ९.२२)।",
+          "transliteration": "Ananyāścintayanto māṃ ye janāḥ paryupāsate |\nTeṣāṃ nityābhiyuktānāṃ yogakṣemaṃ vahāmyaham ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "मन्त्रराजमिदं देवि नारायणमनुत्तमम् ।\nसर्वपापहरं पुण्यं सर्वसिद्धिप्रदायकम् ।\nसर्वरोगहरं चैव सर्वसम्पत्करं शुभम् ॥",
+          "meaning": "हे देवि! यह नारायण अनुत्तम मन्त्रराज सभी पापों को हरने वाला, पुण्य प्रदान करने वाला, सभी सिद्धियाँ देने वाला, सभी रोगों को दूर करने वाला और सभी सम्पत्तियों को देने वाला शुभ मंत्र है।",
+          "transliteration": "Mantrarājamidaṃ devi nārāyaṇamanuttamam |\nSarvapāpaharaṃ puṇyaṃ sarvasiddhipradāyakam |\nSarvarogaharaṃ caiva sarvasampatkaraṃ śubham ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "॥ फलश्रुति ॥\nअष्टाक्षर मंत्र का जप मोक्ष, भक्ति और वैकुण्ठ प्राप्ति का साधन है। यह श्रीवैष्णव सम्प्रदाय का मूलमन्त्र है। एकादशी, द्वादशी और कार्तिक मास में इस मंत्र का जप विशेष फलदायी है।",
+          "meaning": "अष्टाक्षर मंत्र के नियमित जप से नारायण की अनन्य भक्ति, सर्वपापनाश और परम मोक्ष की प्राप्ति होती है।",
+          "transliteration": "|| phalaśruti ||\nAṣṭākṣara maṃtra kā japa mokṣa, bhakti aura vaikuṇṭha prāpti kā sādhana hai| yaha śrīvaiṣṇava sampradāya kā mūlamantra hai| ekādaśī, dvādaśī aura kārtika māsa meṃ isa maṃtra kā japa viśeṣa phaladāyī hai|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "mantra_dhanvantari",
+      "title": "धन्वन्तरि मंत्र",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/vishnu.jpg",
+      "orderIndex": 13,
+      "content": [
+        {
+          "shloka": "॥ ध्यानम् ॥\nशङ्खं चक्रं जलौकां दधदमृतघटं चारुदोर्भिश्चतुर्भिः ।\nसूक्ष्मस्वच्छातिहृद्यांशुकपरिविलसन्मौलिमम्भोजनेत्रम् ।\nकालाम्भोदोज्ज्वलाङ्गं कटितटविलसच्चारुपीताम्बराढ्यं\nवन्दे धन्वन्तरिं तं निखिलगदवनप्रौढदावाग्निलीलम् ॥",
+          "meaning": "चार सुन्दर भुजाओं में शंख, चक्र, जलौका (जोंक) और अमृत कलश धारण करने वाले, सूक्ष्म स्वच्छ वस्त्रों से शोभित मस्तक वाले, कमलनयन, काले मेघ के समान उज्ज्वल शरीर वाले, कटि पर सुन्दर पीताम्बर धारण करने वाले, सभी रोगरूपी वन के लिए दावानल के समान भगवान धन्वन्तरि को मैं वन्दन करता हूँ।",
+          "transliteration": "|| dhyānam ||\nŚaṅkhaṃ cakraṃ jalaukāṃ dadhadamṛtaghaṭaṃ cārudorbhiścaturbhiḥ |\nSūkṣmasvacchātihṛdyāṃśukaparivilasanmaulimambhojanetram |\nKālāmbhodojjvalāṅgaṃ kaṭitaṭavilasaccārupītāmbarāḍhyaṃ\nVande dhanvantariṃ taṃ nikhilagadavanaprauḍhadāvāgnilīlam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ नमो भगवते वासुदेवाय\nधन्वन्तरये अमृतकलशहस्ताय\nसर्वामयविनाशनाय\nत्रैलोक्यनाथाय\nश्री महाविष्णवे नमः ॥",
+          "meaning": "भगवान वासुदेव के अवतार, हाथ में अमृत कलश धारण करने वाले, सभी रोगों का विनाश करने वाले, तीनों लोकों के नाथ, श्री महाविष्णु स्वरूप भगवान धन्वन्तरि को नमस्कार।",
+          "transliteration": "Oṃ namo bhagavate vāsudevāya\nDhanvantaraye amṛtakalaśahastāya\nSarvāmayavināśanāya\nTrailokyanāthāya\nŚrī mahāviṣṇave namaḥ ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ धं धन्वन्तरये नमः ॥",
+          "meaning": "'धं' धन्वन्तरि का बीजमन्त्र है। इस बीजमन्त्र सहित भगवान धन्वन्तरि को नमस्कार। यह मंत्र रोगनाशक और आरोग्यप्रदायक है।",
+          "transliteration": "Oṃ dhaṃ dhanvantaraye namaḥ ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "आरोग्यं भास्करादिच्छेत् धनमिच्छेद्धुताशनात् ।\nईश्वराज्ज्ञानमन्विच्छेत् मोक्षमिच्छेज्जनार्दनात् ।\nआरोग्यं धन्वन्तरिं च ध्यायेत् सर्वरोगनाशनम् ॥",
+          "meaning": "आरोग्य सूर्य से चाहो, धन अग्नि से चाहो, ज्ञान ईश्वर से चाहो, मोक्ष जनार्दन से चाहो। सभी रोगों के नाश के लिए धन्वन्तरि का ध्यान करो।",
+          "transliteration": "Ārogyaṃ bhāskarādicchet dhanamiccheddhutāśanāt |\nĪśvarājjñānamanvicchet mokṣamicchejjanārdanāt |\nĀrogyaṃ dhanvantariṃ ca dhyāyet sarvaroganāśanam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "॥ फलश्रुति ॥\nधन्वन्तरि मंत्र का जप शारीरिक रोगों से मुक्ति, आरोग्य एवं दीर्घायु प्रदान करता है। धनतेरस (धन्वन्तरि त्रयोदशी) को इस मंत्र का जप विशेष फलदायी होता है। आयुर्वेदिक चिकित्सक इस मंत्र को विशेष रूप से जपते हैं।",
+          "meaning": "धन्वन्तरि मंत्र के नियमित जप से रोगों से मुक्ति, शारीरिक स्वास्थ्य और दीर्घायु प्राप्त होती है।",
+          "transliteration": "|| phalaśruti ||\nDhanvantari maṃtra kā japa śārīrika rogoṃ se mukti, ārogya evaṃ dīrghāyu pradāna karatā hai| dhanaterasa (dhanvantari trayodaśī) ko isa maṃtra kā japa viśeṣa phaladāyī hotā hai| āyurvedika cikitsaka isa maṃtra ko viśeṣa rūpa se japate haiṃ|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "mantra_santan_gopal",
+      "title": "सन्तान गोपाल मंत्र",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/krishna.jpg",
+      "orderIndex": 14,
+      "content": [
+        {
+          "shloka": "॥ ध्यानम् ॥\nकरारविन्देन पदारविन्दं मुखारविन्दे विनिवेशयन्तम् ।\nवटस्य पत्रस्य पुटे शयानं बालं मुकुन्दं मनसा स्मरामि ॥",
+          "meaning": "कमल के समान हाथ से कमल के समान चरण को कमल के समान मुख में रखे हुए, वटवृक्ष के पत्ते पर शयन करने वाले बाल मुकुन्द (श्रीकृष्ण) का मैं मन से स्मरण करता हूँ।",
+          "transliteration": "|| dhyānam ||\nKarāravindena padāravindaṃ mukhāravinde viniveśayantam |\nVaṭasya patrasya puṭe śayānaṃ bālaṃ mukundaṃ manasā smarāmi ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ श्रीं ह्रीं क्लीं ग्लौं\nदेवकीसुत गोविन्द\nवासुदेव जगत्पते\nदेहि मे तनयं कृष्ण\nत्वामहं शरणं गतः ॥",
+          "meaning": "श्रीं, ह्रीं, क्लीं, ग्लौं बीजमन्त्रों सहित — हे देवकीसुत, गोविन्द, वासुदेव, जगत्पते! हे कृष्ण, मुझे संतान प्रदान करें, मैं आपकी शरण में आया हूँ। यह सन्तान गोपाल मंत्र सन्तान प्राप्ति का सबसे प्रसिद्ध मंत्र है।",
+          "transliteration": "Oṃ śrīṃ hrīṃ klīṃ glauṃ\nDevakīsuta govinda\nVāsudeva jagatpate\nDehi me tanayaṃ kṛṣṇa\nTvāmahaṃ śaraṇaṃ gataḥ ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ नमो भगवते वासुदेवाय ।\nॐ क्लीं गोपालवेषधराय वासुदेवाय हुं फट् स्वाहा ॥",
+          "meaning": "भगवान वासुदेव को नमस्कार। गोपालवेष धारण करने वाले वासुदेव को क्लीं बीज सहित आहुति। यह मंत्र सन्तान सुख और पुत्र प्राप्ति के लिए अत्यन्त प्रभावशाली है।",
+          "transliteration": "Oṃ namo bhagavate vāsudevāya |\nOṃ klīṃ gopālaveṣadharāya vāsudevāya huṃ phaṭ svāhā ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "देवकीसुतं गोविन्दं वासुदेवं जगद्गुरुम् ।\nवन्देऽहं सन्तानदातारं श्रीकृष्णं तं नमाम्यहम् ॥",
+          "meaning": "देवकी के पुत्र, गोविन्द, वासुदेव, जगद्गुरु, सन्तान प्रदान करने वाले श्रीकृष्ण को मैं वन्दन और नमस्कार करता हूँ।",
+          "transliteration": "Devakīsutaṃ govindaṃ vāsudevaṃ jagadgurum |\nVande'haṃ santānadātāraṃ śrīkṛṣṇaṃ taṃ namāmyaham ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अहल्या द्रौपदी सीता तारा मन्दोदरी तथा ।\nपञ्चकन्या स्मरेन्नित्यं महापातकनाशनम् ॥\nपुत्रदा पौत्रदा चैव सर्वसन्तानवर्धिनी ।\nगोपालमन्त्रजापेन सन्ततिः शुभदा भवेत् ॥",
+          "meaning": "अहल्या, द्रौपदी, सीता, तारा और मन्दोदरी — इन पाँच कन्याओं का नित्य स्मरण महापापों का नाश करता है। गोपाल मंत्र के जप से पुत्र, पौत्र और सभी सन्तानों की वृद्धि होती है तथा शुभ सन्तति प्राप्त होती है।",
+          "transliteration": "Ahalyā draupadī sītā tārā mandodarī tathā |\nPañcakanyā smarennityaṃ mahāpātakanāśanam ||\nPutradā pautradā caiva sarvasantānavardhinī |\nGopālamantrajāpena santatiḥ śubhadā bhavet ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "॥ फलश्रुति ॥\nसन्तान गोपाल मंत्र का जप सन्तान प्राप्ति, गर्भ रक्षा और शिशु के स्वास्थ्य के लिए अत्यन्त फलदायी है। जन्माष्टमी, एकादशी और पूर्णिमा को इस मंत्र का जप विशेष रूप से शुभ होता है।",
+          "meaning": "सन्तान गोपाल मंत्र के नियमित जप से सन्तान सुख, गर्भ रक्षा और उत्तम सन्तान की प्राप्ति होती है।",
+          "transliteration": "|| phalaśruti ||\nSantāna gopāla maṃtra kā japa santāna prāpti, garbha rakṣā aura śiśu ke svāsthya ke lie atyanta phaladāyī hai| janmāṣṭamī, ekādaśī aura pūrṇimā ko isa maṃtra kā japa viśeṣa rūpa se śubha hotā hai|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "mantra_guru",
+      "title": "गुरु मंत्र (गुरुर्ब्रह्मा)",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/om.jpg",
+      "orderIndex": 15,
+      "content": [
+        {
+          "shloka": "॥ ध्यानम् ॥\nगुरुर्ब्रह्मा गुरुर्विष्णुर्गुरुर्देवो महेश्वरः ।\nगुरुः साक्षात् परं ब्रह्म तस्मै श्री गुरवे नमः ॥",
+          "meaning": "गुरु ब्रह्मा हैं, गुरु विष्णु हैं, गुरु महेश्वर (शिव) हैं। गुरु साक्षात् परब्रह्म हैं। उन श्री गुरुदेव को नमस्कार।",
+          "transliteration": "|| dhyānam ||\nGururbrahmā gururviṣṇurgururdevo maheśvaraḥ |\nGuruḥ sākṣāt paraṃ brahma tasmai śrī gurave namaḥ ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अखण्डमण्डलाकारं व्याप्तं येन चराचरम् ।\nतत्पदं दर्शितं येन तस्मै श्री गुरवे नमः ॥",
+          "meaning": "जिन्होंने उस अखण्ड मण्डलाकार तत्त्व का दर्शन कराया जो सम्पूर्ण चराचर जगत में व्याप्त है, उन श्री गुरुदेव को नमस्कार।",
+          "transliteration": "Akhaṇḍamaṇḍalākāraṃ vyāptaṃ yena carācaram |\nTatpadaṃ darśitaṃ yena tasmai śrī gurave namaḥ ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अज्ञानतिमिरान्धस्य ज्ञानाञ्जनशलाकया ।\nचक्षुरुन्मीलितं येन तस्मै श्री गुरवे नमः ॥",
+          "meaning": "अज्ञानरूपी अन्धकार से अन्धे हुए मेरे नेत्रों को जिन्होंने ज्ञानरूपी अञ्जन शलाका से खोला, उन श्री गुरुदेव को नमस्कार।",
+          "transliteration": "Ajñānatimirāndhasya jñānāñjanaśalākayā |\nCakṣurunmīlitaṃ yena tasmai śrī gurave namaḥ ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "त्वमेव माता च पिता त्वमेव\nत्वमेव बन्धुश्च सखा त्वमेव ।\nत्वमेव विद्या द्रविणं त्वमेव\nत्वमेव सर्वं मम देवदेव ॥",
+          "meaning": "आप ही माता हैं, आप ही पिता हैं, आप ही बन्धु और मित्र हैं, आप ही विद्या और धन हैं, हे देवों के देव! आप ही मेरे सब कुछ हैं।",
+          "transliteration": "Tvameva mātā ca pitā tvameva\nTvameva bandhuśca sakhā tvameva |\nTvameva vidyā draviṇaṃ tvameva\nTvameva sarvaṃ mama devadeva ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ध्यानमूलं गुरोर्मूर्तिः पूजामूलं गुरोः पदम् ।\nमन्त्रमूलं गुरोर्वाक्यं मोक्षमूलं गुरोः कृपा ॥",
+          "meaning": "ध्यान का मूल गुरु की मूर्ति है, पूजा का मूल गुरु के चरण हैं, मंत्र का मूल गुरु का वाक्य है और मोक्ष का मूल गुरु की कृपा है।",
+          "transliteration": "Dhyānamūlaṃ gurormūrtiḥ pūjāmūlaṃ guroḥ padam |\nMantramūlaṃ gurorvākyaṃ mokṣamūlaṃ guroḥ kṛpā ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ब्रह्मानन्दं परमसुखदं केवलं ज्ञानमूर्तिं\nद्वन्द्वातीतं गगनसदृशं तत्त्वमस्यादिलक्ष्यम् ।\nएकं नित्यं विमलमचलं सर्वधीसाक्षिभूतं\nभावातीतं त्रिगुणरहितं सद्गुरुं तं नमामि ॥",
+          "meaning": "ब्रह्मानन्द स्वरूप, परम सुख देने वाले, केवल ज्ञानमूर्ति, द्वन्द्वों से परे, आकाश के समान व्यापक, 'तत्त्वमसि' आदि वाक्यों के लक्ष्य, एक, नित्य, निर्मल, अचल, सभी बुद्धियों के साक्षी, भावातीत, त्रिगुणरहित सद्गुरु को मैं नमन करता हूँ।",
+          "transliteration": "Brahmānandaṃ paramasukhadaṃ kevalaṃ jñānamūrtiṃ\nDvandvātītaṃ gaganasadṛśaṃ tattvamasyādilakṣyam |\nEkaṃ nityaṃ vimalamacalaṃ sarvadhīsākṣibhūtaṃ\nBhāvātītaṃ triguṇarahitaṃ sadguruṃ taṃ namāmi ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "॥ फलश्रुति ॥\nगुरु मंत्र का जप ज्ञान, विवेक और आत्मबोध प्रदान करता है। गुरु पूर्णिमा (व्यास पूर्णिमा) को इस मंत्र का जप और गुरु पूजन विशेष रूप से फलदायी है। गुरु कृपा के बिना मोक्ष सम्भव नहीं है।",
+          "meaning": "गुरु मंत्र के नियमित जप से ज्ञान की प्राप्ति, अज्ञान का नाश और गुरु कृपा द्वारा मोक्ष का मार्ग प्रशस्त होता है।",
+          "transliteration": "|| phalaśruti ||\nGuru maṃtra kā japa jñāna, viveka aura ātmabodha pradāna karatā hai| guru pūrṇimā (vyāsa pūrṇimā) ko isa maṃtra kā japa aura guru pūjana viśeṣa rūpa se phaladāyī hai| guru kṛpā ke binā mokṣa sambhava nahīṃ hai|",
           "imageUrl": null
         }
       ]

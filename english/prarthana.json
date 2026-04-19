@@ -1,0 +1,336 @@
+{
+  "category": "Prarthana",
+  "version": 1,
+  "items": [
+    {
+      "id": "pray_pratah_smaran",
+      "title": "Pratah Smaran (Morning Prayer)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/prarthana/om.jpg",
+      "orderIndex": 1,
+      "content": [
+        {
+          "shloka": "Prātaḥ smarāmi hṛdi saṃsphuradātma-tattvaṃ sac-cit-sukhaṃ paramahaṃsa-gatiṃ turīyam | Yat svapna-jāgara-suṣuptam-avaiti nityaṃ tad brahma niṣkalam-ahaṃ na ca bhūta-saṅghaḥ ||",
+          "meaning": "At dawn I meditate upon the Self-principle shining in the heart — existence, consciousness, bliss — the goal of the great sages, the fourth state. That which eternally witnesses waking, dreaming, and deep sleep — that pure Brahman am I, not this assemblage of elements.",
+          "transliteration": "Prātaḥ smarāmi hṛdi saṃsphurad-ātma-tattvaṃ sac-cit-sukhaṃ paramahaṃsa-gatiṃ turīyam",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Prātar bhajāmi manaso vacasām-agamyaṃ vāco vibhānti nikhilā yad-anugraheṇa | Yan-neti-neti vacanair nigamā avocaṃs-taṃ deva-devam-ajam-acyutam-āhur-agryam ||",
+          "meaning": "At dawn I worship That which is beyond mind and speech, by whose grace all words shine forth. That which the Vedas describe as 'not this, not this' — Him they call the God of gods, unborn, imperishable, the Supreme.",
+          "transliteration": "Prātar bhajāmi manaso vacasām agamyaṃ vāco vibhānti nikhilā yad-anugraheṇa",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Prātar namāmi tamasaḥ param-arka-varṇaṃ pūrṇaṃ sanātana-padaṃ puruṣottamākhyam | Yasminn-idaṃ jagad-aśeṣam-aśeṣa-mūrtau rajjvāṃ bhujaṅgama iva pratibhāsitaṃ vai ||",
+          "meaning": "At dawn I bow to That which is beyond darkness, radiant as the sun, the complete eternal abode called Purushottama. In whom this entire universe with all its forms appears like a snake superimposed on a rope.",
+          "transliteration": "Prātar namāmi tamasaḥ param-arka-varṇaṃ pūrṇaṃ sanātana-padaṃ puruṣottamākhyam",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Prātaḥ smarāmi khalu tat-pada-padma-yugmaṃ sthityun-milat-praṇaya-māna-mahāvratānām | Nityaṃ murārer-upadeśa-mananyacetāḥ karṇāmṛtaṃ paramam-ānanda-vardhanam ca ||",
+          "meaning": "At dawn I remember the pair of lotus feet of the Lord, which blossom forth love and devotion in the great seekers. The teachings of Murari, heard with single-pointed mind, are nectar for the ears and ever increase supreme bliss.",
+          "transliteration": "Prātaḥ smarāmi khalu tat-pada-padma-yugmaṃ sthityun-milat-praṇaya-māna-mahāvratānām",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "pray_sandhya_vandana",
+      "title": "Sandhya Vandana",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/prarthana/sandhya.jpg",
+      "orderIndex": 2,
+      "content": [
+        {
+          "shloka": "Oṃ āpo jyotī raso'mṛtaṃ brahma bhūr-bhuvas-suvar-om ||",
+          "meaning": "Om — waters, light, essence, immortality, Brahman — Bhuh, Bhuvah, Svah, Om. This mantra invokes the cosmic elements during the Sandhya worship at the junction of day and night.",
+          "transliteration": "Oṃ āpo jyotī raso'mṛtaṃ brahma bhūr-bhuvas-suvar-om",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Oṃ bhūr-bhuvaḥ-svaḥ | Tat saviturvareṇyaṃ bhargo devasya dhīmahi | Dhiyo yo naḥ pracodayāt ||",
+          "meaning": "We meditate upon the glorious splendour of the divine Savitri (the Sun). May He illuminate and inspire our intellect. This is the sacred Gayatri Mantra, the heart of Sandhya Vandana.",
+          "transliteration": "Oṃ bhūr-bhuvaḥ-svaḥ tat saviturvareṇyaṃ bhargo devasya dhīmahi dhiyo yo naḥ pracodayāt",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Oṃ āpaḥ punantu pṛthivīṃ pṛthivī pūtā punātu mām | Punantuvai brahmaṇas-patir-brahma pūtā punātu mām ||",
+          "meaning": "May the waters purify the earth, may the purified earth purify me. May Brahmanaspati purify, may Brahman in its purity purify me. This Pavamana Sooktam verse is used for self-purification in Sandhya.",
+          "transliteration": "Oṃ āpaḥ punantu pṛthivīṃ pṛthivī pūtā punātu mām",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sandhyāyai namaḥ | Sāvitryai namaḥ | Gāyatryai namaḥ | Sarasvatyai namaḥ | Sarva-devatābhyo namaḥ ||",
+          "meaning": "Salutations to Sandhya. Salutations to Savitri. Salutations to Gayatri. Salutations to Sarasvati. Salutations to all the deities. These concluding salutations complete the Sandhya Vandana ritual.",
+          "transliteration": "Sandhyāyai namaḥ sāvitryai namaḥ gāyatryai namaḥ sarasvatyai namaḥ",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "pray_bhojana_mantra",
+      "title": "Bhojana Mantra (Before Eating)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/prarthana/annapurna.jpg",
+      "orderIndex": 3,
+      "content": [
+        {
+          "shloka": "Brahmārpaṇaṃ brahma havir-brahmāgnau brahmaṇā hutam | Brahmaiva tena gantavyaṃ brahma-karma-samādhinā ||",
+          "meaning": "The offering is Brahman, the oblation is Brahman, offered by Brahman into the fire of Brahman. Brahman alone is to be attained by one who sees Brahman in every action. (Bhagavad Gita 4.24)",
+          "transliteration": "Brahmārpaṇaṃ brahma havir brahmāgnau brahmaṇā hutam brahmaiva tena gantavyaṃ brahma-karma-samādhinā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ahaṃ vaiśvānaro bhūtvā prāṇināṃ deham-āśritaḥ | Prāṇāpāna-samāyuktaḥ pacāmy-annaṃ catur-vidham ||",
+          "meaning": "I am the Vaishvanara fire dwelling in the bodies of all living beings. United with the prana and apana breaths, I digest the four kinds of food. (Bhagavad Gita 15.14)",
+          "transliteration": "Ahaṃ vaiśvānaro bhūtvā prāṇināṃ deham āśritaḥ prāṇāpāna-samāyuktaḥ pacāmy annaṃ catur-vidham",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Annapūrṇe sadāpūrṇe Śaṅkara-prāṇa-vallabhe | Jñāna-vairāgya-siddhyarthaṃ bhikṣāṃ dehi ca Pārvati ||",
+          "meaning": "O Annapurna, ever full and complete, beloved life-force of Shankara — grant me the alms of knowledge and dispassion, O Parvati.",
+          "transliteration": "Annapūrṇe sadāpūrṇe Śaṅkara-prāṇa-vallabhe jñāna-vairāgya-siddhyarthaṃ bhikṣāṃ dehi ca Pārvati",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Oṃ sahana vāvatu | Saha nau bhunaktu | Saha vīryaṃ karavāvahai | Tejasvinām-avadhītamastu | Mā vidviṣāvahai | Oṃ śāntiḥ śāntiḥ śāntiḥ ||",
+          "meaning": "Om. May we both be protected. May we both be nourished. May we work together with great vigor. May our study be illuminating. May there be no hostility between us. Om, peace, peace, peace.",
+          "transliteration": "Oṃ sahana vāvatu saha nau bhunaktu saha vīryaṃ karavāvahai",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "pray_shayan_mantra",
+      "title": "Shayan Mantra (Before Sleep)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/prarthana/vishnu.jpg",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "Rāmaṃ skandaṃ hanūmantaṃ vainateyan vṛkodaraṃ | Śayane yaḥ smaret nityaṃ duḥsvapnas-tasya naśyati ||",
+          "meaning": "One who remembers Rama, Skanda, Hanuman, Garuda, and Bhima at bedtime — all bad dreams are destroyed for that person.",
+          "transliteration": "Rāmaṃ skandaṃ hanūmantaṃ vainateyan vṛkodaraṃ śayane yaḥ smaret nityaṃ duḥsvapnas-tasya naśyati",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kara-caraṇa-kṛtaṃ vāk-kāya-jaṃ karma-jaṃ vā | Śravaṇa-nayana-jaṃ vā mānasaṃ vā'parādham | Vihitam-avihitaṃ vā sarvam-etat kṣamasva | Jaya jaya karuṇābdhe Śrī Mahādeva Śambho ||",
+          "meaning": "Whatever sins I have committed through hands, feet, speech, body, actions, ears, eyes, or mind — ordained or unordained — please forgive them all. Glory, glory to You, O ocean of compassion, Shri Mahadeva Shambho!",
+          "transliteration": "Kara-caraṇa-kṛtaṃ vāk-kāya-jaṃ karma-jaṃ vā śravaṇa-nayana-jaṃ vā mānasaṃ vā'parādham",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Agastir-Mādhavaś-caiva Mucukundaś-ca viśrutaḥ | Kapilo Munir-Āstikas-Pañcaite sukhśāyinaḥ ||",
+          "meaning": "Agastya, Madhava, the renowned Mucukunda, the sage Kapila, and Astika — these five are blissful sleepers. Remembering them brings peaceful rest.",
+          "transliteration": "Agastir Mādhavaś caiva Mucukundaś ca viśrutaḥ Kapilo Munir Āstikas Pañcaite sukhaśāyinaḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Oṃ Namo Bhagavate Vāsudevāya | Tvam-eva mātā ca pitā tvam-eva | Tvam-eva bandhuś-ca sakhā tvam-eva | Tvam-eva vidyā draviṇaṃ tvam-eva | Tvam-eva sarvaṃ mama deva deva ||",
+          "meaning": "Om, Salutations to Lord Vasudeva. You alone are my mother and father. You alone are my relative and friend. You alone are my knowledge and wealth. You alone are everything to me, O God of gods.",
+          "transliteration": "Oṃ Namo Bhagavate Vāsudevāya tvam-eva mātā ca pitā tvam-eva",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "pray_snaan_mantra",
+      "title": "Snaan Mantra (Bath Prayer)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/prarthana/ganga.jpg",
+      "orderIndex": 5,
+      "content": [
+        {
+          "shloka": "Gaṅge ca Yamune caiva Godāvari Sarasvati | Narmade Sindhu Kāveri jale'smin sannidhiṃ kuru ||",
+          "meaning": "O Ganga, Yamuna, Godavari, Sarasvati, Narmada, Sindhu, and Kaveri — please be present in this water. This invocation sanctifies the bathing water with the sacred rivers.",
+          "transliteration": "Gaṅge ca Yamune caiva Godāvari Sarasvati Narmade Sindhu Kāveri jale'smin sannidhiṃ kuru",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Oṃ āpo hi ṣṭhā mayo-bhuvas-tā na ūrje dadhātana | Maheraṇāya cakṣase ||",
+          "meaning": "O waters, you are the source of happiness. Grant us sustenance and nourishment. Bestow upon us the great vision of bliss. This Rigvedic hymn glorifies the purifying power of water.",
+          "transliteration": "Oṃ āpo hi ṣṭhā mayo-bhuvas-tā na ūrje dadhātana maheraṇāya cakṣase",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Apavitras-pavitro vā sarvāvasthāṃ gato'pi vā | Yaḥ smaret-puṇḍarīkākṣaṃ sa bāhyābhyantaraḥ śuciḥ ||",
+          "meaning": "Whether pure or impure, or in any condition whatsoever — one who remembers the lotus-eyed Lord becomes pure both externally and internally.",
+          "transliteration": "Apavitras-pavitro vā sarvāvasthāṃ gato'pi vā yaḥ smaret puṇḍarīkākṣaṃ sa bāhyābhyantaraḥ śuciḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Oṃ tad-viṣṇoḥ paramaṃ padaṃ sadā paśyanti sūrayaḥ | Divīva cakṣur-ātatam ||",
+          "meaning": "The wise always behold that supreme abode of Vishnu, spread out like an eye in the heavens. This Rigvedic verse is recited to invoke divine vision during the purifying bath.",
+          "transliteration": "Oṃ tad-viṣṇoḥ paramaṃ padaṃ sadā paśyanti sūrayaḥ divīva cakṣur ātatam",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "pray_deepa_jyoti",
+      "title": "Deepa Jyoti (Lamp Lighting)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/prarthana/deepa.jpg",
+      "orderIndex": 6,
+      "content": [
+        {
+          "shloka": "Śubhaṃ karoti kalyāṇam-ārogyaṃ dhana-sampadaḥ | Śatru-buddhi-vināśāya dīpa-jyotir-namo'stu te ||",
+          "meaning": "Salutations to the light of the lamp which brings auspiciousness, well-being, health, and abundance of wealth, and which destroys inimical intellect.",
+          "transliteration": "Śubhaṃ karoti kalyāṇam ārogyaṃ dhana-sampadaḥ śatru-buddhi-vināśāya dīpa-jyotir namo'stu te",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Dīpajyotiḥ parabrahma dīpajyotir-janārdanaḥ | Dīpo harastu me pāpaṃ dīpa-jyotir-namo'stu te ||",
+          "meaning": "The light of the lamp is the Supreme Brahman. The light of the lamp is Janardana (Vishnu). May the lamp destroy my sins. Salutations to the light of the lamp.",
+          "transliteration": "Dīpajyotiḥ parabrahma dīpajyotir janārdanaḥ dīpo harastu me pāpaṃ dīpa-jyotir namo'stu te",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Asato mā sad-gamaya | Tamaso mā jyotir-gamaya | Mṛtyor-mā amṛtaṃ gamaya | Oṃ śāntiḥ śāntiḥ śāntiḥ ||",
+          "meaning": "Lead me from unreal to real. Lead me from darkness to light. Lead me from death to immortality. Om, peace, peace, peace. (Brihadaranyaka Upanishad 1.3.28)",
+          "transliteration": "Asato mā sad-gamaya tamaso mā jyotir-gamaya mṛtyor-mā amṛtaṃ gamaya",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Na tatra sūryo bhāti na candra-tārakaṃ nemā vidyuto bhānti kuto'yam-agniḥ | Tam-eva bhāntam-anubhāti sarvaṃ tasya bhāsā sarvam-idaṃ vibhāti ||",
+          "meaning": "There the sun does not shine, nor the moon and stars, nor lightning — what then of fire? He alone shining, everything shines after Him; by His light all this is illumined. (Katha Upanishad 2.2.15)",
+          "transliteration": "Na tatra sūryo bhāti na candra-tārakaṃ nemā vidyuto bhānti kuto'yam agniḥ",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "pray_bhoomi_vandana",
+      "title": "Bhoomi Vandana (Earth Prayer)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/prarthana/prithvi.jpg",
+      "orderIndex": 7,
+      "content": [
+        {
+          "shloka": "Samudra-vasane Devi parvata-sthana-maṇḍale | Viṣṇu-patni namastubhyaṃ pāda-sparśaṃ kṣamasva me ||",
+          "meaning": "O Goddess Earth, whose garments are the oceans and whose ornaments are the mountains, O consort of Vishnu — salutations to you. Please forgive me for touching you with my feet.",
+          "transliteration": "Samudra-vasane Devi parvata-sthana-maṇḍale Viṣṇu-patni namastubhyaṃ pāda-sparśaṃ kṣamasva me",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Oṃ Bhūmir-bhūmnā dyaur-variṇā'ntarikṣaṃ mahitvā | Pratiṣṭhite divyā pṛthivi ||",
+          "meaning": "Om — the Earth by its vastness, the sky by its expanse, the atmosphere by its greatness — all are established. O divine Earth, you are firmly set.",
+          "transliteration": "Oṃ Bhūmir-bhūmnā dyaur-variṇā'ntarikṣaṃ mahitvā pratiṣṭhite divyā pṛthivi",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Māta bhūmiḥ putro'haṃ pṛthivyāḥ | Parjanyaḥ pitā sa u naḥ pipartu ||",
+          "meaning": "The Earth is my mother and I am her son. Parjanya (the rain god) is the father — may he nourish us. (Atharva Veda 12.1.12)",
+          "transliteration": "Māta bhūmiḥ putro'haṃ pṛthivyāḥ Parjanyaḥ pitā sa u naḥ pipartu",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Viṣṇo rārase prathivī na imāṃ te Viṣṇu vikramāṇe mahīm | Nidhāvi prathivīm-eṣa ūrṇam-rāva pṛthivī ||",
+          "meaning": "O Vishnu, this Earth is yours. By your strides, O Vishnu, this great Earth was established. May the Earth protect and sustain us with her abundant treasures.",
+          "transliteration": "Viṣṇo rārase prathivī na imāṃ te Viṣṇu vikramāṇe mahīm",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "pray_kshama_prarthana",
+      "title": "Kshama Prarthana (Forgiveness)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/prarthana/om.jpg",
+      "orderIndex": 8,
+      "content": [
+        {
+          "shloka": "Yānīha devā Jagannātha rūpa-sthāpana-pūjane | Nyūnātirikte kṛte karma tat-sarvaṃ kṣamyatāṃ mama ||",
+          "meaning": "O Lord of the Universe, whatever deficiency or excess has occurred in the installation, worship, and rituals performed here — may all of that be forgiven.",
+          "transliteration": "Yānīha devā Jagannātha rūpa-sthāpana-pūjane nyūnātirikte kṛte karma tat-sarvaṃ kṣamyatāṃ mama",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Āvāhanaṃ na jānāmi na jānāmi visarjanam | Pūjāṃ caiva na jānāmi kṣamyatāṃ Parameśvara ||",
+          "meaning": "I do not know invocation, nor do I know farewell. I do not even know proper worship — please forgive me, O Supreme Lord.",
+          "transliteration": "Āvāhanaṃ na jānāmi na jānāmi visarjanam pūjāṃ caiva na jānāmi kṣamyatāṃ Parameśvara",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Mantra-hīnaṃ kriyā-hīnaṃ bhakti-hīnaṃ Sureśvara | Yat pūjitaṃ mayā deva paripūrṇaṃ tad-astu me ||",
+          "meaning": "O Lord of the gods, though my mantras are imperfect, my rituals are deficient, and my devotion is lacking — may whatever worship I have offered become complete by your grace.",
+          "transliteration": "Mantra-hīnaṃ kriyā-hīnaṃ bhakti-hīnaṃ Sureśvara yat pūjitaṃ mayā deva paripūrṇaṃ tad-astu me",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Yad-akṣara-pada-bhraṣṭaṃ mātrā-hīnaṃ tu yad-bhavet | Tat-sarvaṃ kṣamyatāṃ deva Nārāyaṇa namo'stu te ||",
+          "meaning": "Whatever syllables or words have been wrongly uttered, whatever metre has been imperfect — may all that be forgiven, O Lord Narayana, salutations to you.",
+          "transliteration": "Yad-akṣara-pada-bhraṣṭaṃ mātrā-hīnaṃ tu yad bhavet tat-sarvaṃ kṣamyatāṃ deva Nārāyaṇa namo'stu te",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "pray_ganga_stotram",
+      "title": "Ganga Stotram",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/prarthana/ganga.jpg",
+      "orderIndex": 9,
+      "content": [
+        {
+          "shloka": "Devi Sureśvari Bhagavati Gaṅge tribhuvana-tāriṇi taralataraṅge | Śaṅkara-mauli-vihāriṇi vimale mama matir-āstāṃ tava padakamale ||",
+          "meaning": "O Goddess, Queen of the gods, holy Ganga, savior of the three worlds, with your playful waves! You who sport on the crest of Lord Shankara, O pure one — may my mind rest at your lotus feet.",
+          "transliteration": "Devi Sureśvari Bhagavati Gaṅge tribhuvana-tāriṇi taralataraṅge Śaṅkara-mauli-vihāriṇi vimale",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Bhāgīrathi sukhadāyini mātaḥ tava jala-mahimā nigame khyātaḥ | Nāhaṃ jāne tava mahimānaṃ pāhi kṛpāmayi mām-ajñānam ||",
+          "meaning": "O Bhagirathi, bliss-bestowing mother! The glory of your waters is proclaimed in the Vedas. I do not know your full greatness — protect this ignorant one, O compassionate one.",
+          "transliteration": "Bhāgīrathi sukhadāyini mātaḥ tava jala-mahimā nigame khyātaḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Haripadapadya-taraṅgiṇi Gaṅge hima-vidhu-muktā-dhavala-taraṅge | Dūrīkuru mama duṣkṛti-bhāraṃ kuru kṛpayā bhavasāgara-pāram ||",
+          "meaning": "O Ganga, flowing from the lotus feet of Hari, with waves white as snow, moon, and pearls — remove the burden of my sins and mercifully take me across the ocean of worldly existence.",
+          "transliteration": "Haripadapadya-taraṅgiṇi Gaṅge hima-vidhu-muktā-dhavala-taraṅge",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Tava jalam-amalam-yena nipītaṃ paramapada-khalu tena gṛhītam | Mātargaṅge tvayi yo bhaktaḥ kila taṃ draṣṭum na yamaḥ śaktaḥ ||",
+          "meaning": "One who drinks your pure water truly attains the supreme abode. O Mother Ganga, one who is devoted to you — even Yama (Death) is unable to approach him.",
+          "transliteration": "Tava jalam amalam yena nipītaṃ paramapadakhalu tena gṛhītam",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "pray_tulsi_vandana",
+      "title": "Tulsi Vandana",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/prarthana/tulsi.jpg",
+      "orderIndex": 10,
+      "content": [
+        {
+          "shloka": "Yānmūle sarvatīrthāni yanmadhye sarvadevataḥ | Yadagre sarvavedāśca tulasīṃ tvaṃ namāmyaham ||",
+          "meaning": "At whose roots are all pilgrimage sites, in whose middle dwell all deities, at whose tips reside all the Vedas — O Tulasi, I bow to you.",
+          "transliteration": "Yānmūle sarvatīrthāni yanmadhye sarvadevataḥ yadagre sarvavedāśca tulasīṃ tvaṃ namāmyaham",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Mahā-prasāda-janani sarva-saubhāgya-vardhini | Ādhi-vyādhi-harā nityaṃ tulasī tvaṃ namo'stu te ||",
+          "meaning": "O birthgiver of great divine grace, enhancer of all good fortune, eternal remover of mental and physical afflictions — O Tulasi, salutations to you.",
+          "transliteration": "Mahā-prasāda-janani sarva-saubhāgya-vardhini ādhi-vyādhi-harā nityaṃ tulasī tvaṃ namo'stu te",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Tulasī śrī-sakhi śubhe pāpa-hāriṇi puṇya-de | Namaste Nāradanuthe Namo Nārāyaṇa-priye ||",
+          "meaning": "O Tulasi, auspicious friend of Lakshmi, destroyer of sins, giver of merit — salutations to you, who are praised by Narada, beloved of Narayana.",
+          "transliteration": "Tulasī śrī-sakhi śubhe pāpa-hāriṇi puṇya-de namaste Nāradanuthe Namo Nārāyaṇa-priye",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Dhanyā tulasī gopikaṃ yeṣāṃ gṛhe gṛhe | Tan-gṛhaṃ tīrtha-bhūtaṃ hi na yānti yamakinkarāḥ ||",
+          "meaning": "Blessed are those homes where Tulasi plant is present. Such a home becomes a holy pilgrimage site and the messengers of Yama never visit it.",
+          "transliteration": "Dhanyā tulasī gopikaṃ yeṣāṃ gṛhe gṛhe tan-gṛhaṃ tīrtha-bhūtaṃ hi na yānti yamakinkarāḥ",
+          "imageUrl": null
+        }
+      ]
+    }
+  ]
+}

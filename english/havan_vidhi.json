@@ -1,0 +1,312 @@
+{
+  "category": "Sampurn Havan Vidhi",
+  "version": 1,
+  "items": [
+    {
+      "id": "havan_ganesh",
+      "title": "Ganesh Havan",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/havan/agni.jpg",
+      "orderIndex": 1,
+      "content": [
+        {
+          "shloka": "Om Ganaanaam tvaa ganapatim havaamahe\nKavim kaviinaam upamashravastamam |\nJyeshtharaajam brahmanaam brahmanaspata\nAa nah shrinvannutibhih siida saadanam ||",
+          "meaning": "We invoke You, the Lord of all Ganas (celestial hosts), the wisest among the wise, the most renowned. O eldest lord of sacred prayers, O Brahmanaspati, hear our invocations and take Your seat at this sacred altar.",
+          "transliteration": "Om Gaṇānāṁ tvā Gaṇapatiṁ havāmahe\nKaviṁ kavīnām upamaśravastamam |\nJyeṣṭharājaṁ brahmaṇāṁ brahmaṇaspata\nĀ naḥ śṛṇvannūtibhiḥ sīda sādanam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ganesh Havan is performed at the beginning of all auspicious rituals and ceremonies. Lord Ganesha, the remover of obstacles, is invoked first so that the Havan proceeds without any hindrance.",
+          "meaning": "In Vedic tradition, no ritual is considered complete without first worshipping Lord Ganesha. The Ganesh Havan purifies the environment, removes negative energies, and invites prosperity and wisdom.",
+          "transliteration": "Ganesh Havan is performed at the beginning of all auspicious rituals and ceremonies. Lord Ganesha, the remover of obstacles, is invoked first so that the Havan proceeds without any hindrance.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Ekadantaaya vidmahe vakratundaaya dheemahi |\nTanno dantii prachodayaat ||",
+          "meaning": "We know the single-tusked one, we meditate upon the curved-trunk one. May the tusked Lord inspire and illuminate us.",
+          "transliteration": "Om Ekadantāya vidmahe Vakratuṇḍāya dhīmahi |\nTanno Dantī pracodayāt ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Shri Ganeshaya Namah Svaahaa | Om Gam Ganapataye Namah Svaahaa |\nOm Vakratundaaya Namah Svaahaa | Om Lambodraaya Namah Svaahaa |",
+          "meaning": "Ahutis (oblations): Each mantra is chanted while offering a spoonful of ghee mixed with samagri into the sacred fire. A minimum of 108 ahutis are offered for a complete Ganesh Havan.",
+          "transliteration": "Om Śrī Gaṇeśāya Namaḥ Svāhā | Om Gaṁ Gaṇapataye Namaḥ Svāhā |\nOm Vakratuṇḍāya Namaḥ Svāhā | Om Lambodarāya Namaḥ Svāhā |",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Procedure: 1) Prepare the Havan Kund and light the sacred fire using camphor, ghee, and dry wood. 2) Perform Achamana and Sankalpa. 3) Invoke Lord Ganesha with the Ganesh Atharvashirsha or the above mantras. 4) Offer 108 ahutis of ghee and samagri with each 'Svaahaa'. 5) Perform Purnahuti (final oblation) with a coconut, ghee, and samagri. 6) Chant the Shanti Mantra and distribute prasad.",
+          "meaning": "The Ganesh Havan is simple yet powerful. It can be performed before any new venture — house warming, business inauguration, marriage, or the beginning of academic studies. The fire acts as a divine messenger carrying offerings to Lord Ganesha.",
+          "transliteration": "Procedure: 1) Prepare the Havan Kund and light the sacred fire using camphor, ghee, and dry wood. 2) Perform Achamana and Sankalpa. 3) Invoke Lord Ganesha with the Ganesh Atharvashirsha or the above mantras. 4) Offer 108 ahutis of ghee and samagri with each 'Svaahaa'. 5) Perform Purnahuti (final oblation) with a coconut, ghee, and samagri. 6) Chant the Shanti Mantra and distribute prasad.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "havan_gayatri",
+      "title": "Gayatri Havan",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/havan/agni.jpg",
+      "orderIndex": 2,
+      "content": [
+        {
+          "shloka": "Om Bhoor Bhuvah Svah | Tat Savitur Varenyam |\nBhargo Devasya Dheemahi | Dhiyo Yo Nah Prachodayaat || Svaahaa ||",
+          "meaning": "We meditate on the divine light of the Supreme Creator Savita. May that effulgent light illuminate our intellect and guide us towards righteousness. Svaha (offering to the fire).",
+          "transliteration": "Om Bhūr Bhuvaḥ Svaḥ | Tat Savitur Vareṇyam |\nBhargo Devasya Dhīmahi | Dhiyo Yo Naḥ Pracodayāt || Svāhā ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "The Gayatri Havan is one of the most sacred and commonly performed Havans in Hindu tradition. The Gayatri Mantra, the mother of all Vedas, is chanted with each oblation into the fire.",
+          "meaning": "This Havan purifies the mind, enhances intellect, and brings spiritual awakening. It is recommended to perform this Havan regularly — especially on Sundays, Purnima, and during Navratri.",
+          "transliteration": "The Gayatri Havan is one of the most sacred and commonly performed Havans in Hindu tradition. The Gayatri Mantra, the mother of all Vedas, is chanted with each oblation into the fire.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "The Gayatri Mantra has 24 syllables, each presided over by a deity:\nTat (Ganapati), Sa (Nrisimha), Vi (Vishnu), Tur (Shiva), Va (Krishna),\nRe (Radha), Ni (Lakshmi), Yam (Agni), Bhar (Indra), Go (Saraswati),\nDe (Durga), Va (Hanuman), Sya (Prithvi), Dhee (Surya), Ma (Shri Ram),\nHi (Sita), Dhi (Chandra), Yo (Yama), Yo (Brahma), Nah (Varuna),\nPra (Narayana), Cho (Hayagriva), Da (Hamsa), Yaat (Tulsi).",
+          "meaning": "Each syllable of the Gayatri Mantra carries immense spiritual power. The 24 syllables connect the chanter with 24 cosmic energies, creating a complete spiritual circuit.",
+          "transliteration": "The Gayatri Mantra has 24 syllables, each presided over by a deity:\nTat (Ganapati), Sa (Nrisimha), Vi (Vishnu), Tur (Shiva), Va (Krishna),\nRe (Radha), Ni (Lakshmi), Yam (Agni), Bhar (Indra), Go (Saraswati),\nDe (Durga), Va (Hanuman), Sya (Prithvi), Dhee (Surya), Ma (Shri Ram),\nHi (Sita), Dhi (Chandra), Yo (Yama), Yo (Brahma), Nah (Varuna),\nPra (Narayana), Cho (Hayagriva), Da (Hamsa), Yaat (Tulsi).",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Procedure: 1) Set up the Havan Kund facing east. 2) Light the fire with camphor and dry cow dung cakes. 3) Perform Achamana, Pranayama, and Sankalpa. 4) Chant the Gayatri Mantra and offer one ahuti of ghee + samagri with each 'Svaahaa'. 5) Perform 108, 1008, or 10008 ahutis as per sankalpa. 6) Complete with Purnahuti and Shanti Path.",
+          "meaning": "The Gayatri Havan is ideal for students, scholars, and anyone seeking clarity of mind. The vibrations of the mantra combined with the purifying fire create a powerfully positive environment.",
+          "transliteration": "Procedure: 1) Set up the Havan Kund facing east. 2) Light the fire with camphor and dry cow dung cakes. 3) Perform Achamana, Pranayama, and Sankalpa. 4) Chant the Gayatri Mantra and offer one ahuti of ghee + samagri with each 'Svaahaa'. 5) Perform 108, 1008, or 10008 ahutis as per sankalpa. 6) Complete with Purnahuti and Shanti Path.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Aapohishthaa mayo bhuvah | Taana oorje dadhaatana |\nMahe ranaaya chakshase | Yo vah shivatamo rasah |\nTasya bhaajayateha nah | Ushatiir iva maatarah ||",
+          "meaning": "O Waters, you are the source of happiness. Grant us nourishment and the great vision of delight. Share with us your most auspicious essence, like loving mothers.",
+          "transliteration": "Om Āpoḥiṣṭhā mayo bhuvaḥ | Tānā ūrje dadhātana |\nMahe raṇāya cakṣase | Yo vaḥ śivatamo rasaḥ |\nTasya bhājayateha naḥ | Uśatīr iva mātaraḥ ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "havan_navgraha",
+      "title": "Navgraha Havan",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/havan/agni.jpg",
+      "orderIndex": 3,
+      "content": [
+        {
+          "shloka": "Om Surya: Om Hram Hreem Hraum Sah Suryaya Namah Svaahaa |\nChandra: Om Shram Shreem Shraum Sah Chandraaya Namah Svaahaa |\nMangal: Om Kram Kreem Kraum Sah Bhaumaaya Namah Svaahaa |",
+          "meaning": "Beej mantras for the first three Grahas (planets) — Surya (Sun), Chandra (Moon), and Mangal (Mars). Each mantra is chanted while offering specific samagri associated with each planet.",
+          "transliteration": "Om Sūrya: Om Hrāṁ Hrīṁ Hrauṁ Saḥ Sūryāya Namaḥ Svāhā |\nCandra: Om Śrāṁ Śrīṁ Śrauṁ Saḥ Candrāya Namaḥ Svāhā |\nMaṅgal: Om Krāṁ Krīṁ Krauṁ Saḥ Bhaumāya Namaḥ Svāhā |",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Budh: Om Bram Breem Braum Sah Budhaaya Namah Svaahaa |\nGuru: Om Gram Greem Graum Sah Gurve Namah Svaahaa |\nShukra: Om Dram Dreem Draum Sah Shukraaya Namah Svaahaa |",
+          "meaning": "Beej mantras for Budh (Mercury), Guru (Jupiter), and Shukra (Venus). Jupiter is the most benefic planet and his mantra brings wisdom, spiritual growth, and prosperity.",
+          "transliteration": "Budh: Om Brāṁ Brīṁ Brauṁ Saḥ Budhāya Namaḥ Svāhā |\nGuru: Om Grāṁ Grīṁ Grauṁ Saḥ Gurave Namaḥ Svāhā |\nŚukra: Om Drāṁ Drīṁ Drauṁ Saḥ Śukrāya Namaḥ Svāhā |",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Shani: Om Pram Preem Praum Sah Shanaischaraaya Namah Svaahaa |\nRahu: Om Bhram Bhreem Bhraum Sah Raahave Namah Svaahaa |\nKetu: Om Stram Streem Straum Sah Ketave Namah Svaahaa |",
+          "meaning": "Beej mantras for Shani (Saturn), Rahu, and Ketu. The Navgraha Havan pacifies all nine planets and mitigates the negative effects of planetary transits and dashas (periods).",
+          "transliteration": "Śani: Om Prāṁ Prīṁ Prauṁ Saḥ Śanaiścarāya Namaḥ Svāhā |\nRāhu: Om Bhrāṁ Bhrīṁ Bhrauṁ Saḥ Rāhave Namaḥ Svāhā |\nKetu: Om Strāṁ Strīṁ Strauṁ Saḥ Ketave Namaḥ Svāhā |",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Navgraha Havan is performed to propitiate all nine celestial bodies that influence human destiny according to Vedic astrology. Each planet governs specific aspects of life and their malefic positions can cause difficulties.",
+          "meaning": "This Havan is especially recommended during Graha Dosha, Sade Sati, Rahu-Ketu Dasha, or before important life events. Specific samagri for each planet: Surya (red sandalwood), Chandra (white sandalwood), Mangal (red flowers), Budh (green moong), Guru (yellow mustard), Shukra (white rice), Shani (black sesame), Rahu (durva grass), Ketu (kusha grass).",
+          "transliteration": "Navgraha Havan is performed to propitiate all nine celestial bodies that influence human destiny according to Vedic astrology. Each planet governs specific aspects of life and their malefic positions can cause difficulties.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Procedure: 1) Set up the Havan Kund with nine small compartments or use a single kund. 2) Place the Navgraha Yantra at the center. 3) Chant each planet's beej mantra 108 times with specific offerings. 4) Total 972 ahutis (108 x 9 planets). 5) Perform Purnahuti and distribute Navgraha prasad.",
+          "meaning": "The Navgraha Havan creates a cosmic balance and harmonizes the planetary influences on the individual. It is one of the most commonly performed Havans in Hindu households.",
+          "transliteration": "Procedure: 1) Set up the Havan Kund with nine small compartments or use a single kund. 2) Place the Navgraha Yantra at the center. 3) Chant each planet's beej mantra 108 times with specific offerings. 4) Total 972 ahutis (108 x 9 planets). 5) Perform Purnahuti and distribute Navgraha prasad.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "havan_rudra",
+      "title": "Rudra Havan",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/havan/agni.jpg",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "Om Namo Bhagavate Rudraaya | Om Namaste Rudra Manyava\nUtota Ishave Namah | Namaste Astu Dhanvane\nBaahubhyaamutate Namah ||",
+          "meaning": "Salutations to Lord Rudra (Shiva). We bow to Your anger and also to Your arrows. Salutations to Your bow and to Your mighty arms.",
+          "transliteration": "Om Namo Bhagavate Rudrāya | Om Namaste Rudra Manyava\nUtota Iṣave Namaḥ | Namaste Astu Dhanvane\nBāhubhyāmutate Namaḥ ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "The Rudra Havan is based on the Sri Rudram (Namakam and Chamakam) from the Yajur Veda. It is one of the most powerful Vedic fire rituals dedicated to Lord Shiva in His Rudra form.",
+          "meaning": "This Havan destroys negativity, removes diseases, grants protection from enemies, and bestows moksha (liberation). It is especially powerful when performed on Mondays, Pradosh, Maha Shivaratri, and during Shravan month.",
+          "transliteration": "The Rudra Havan is based on the Sri Rudram (Namakam and Chamakam) from the Yajur Veda. It is one of the most powerful Vedic fire rituals dedicated to Lord Shiva in His Rudra form.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Tryambakam Yajaamahe Sugandhim Pushti-vardhanam |\nUrvaarukamiva Bandhanaan Mrityor Muksheeya Maamritaat || Svaahaa ||",
+          "meaning": "We worship the three-eyed Lord Shiva, who is fragrant and sustains all. May He free us from the bondage of death, just as a ripe cucumber is freed from its stem — may we attain immortality. Svaha!",
+          "transliteration": "Om Tryambakaṁ Yajāmahe Sugandhiṁ Puṣṭi-vardhanam |\nUrvārukamiva Bandhanān Mṛtyor Mukṣīya Māmṛtāt || Svāhā ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Namah Shivaaya Svaahaa | Om Sharvaaya Svaahaa |\nOm Pashupataaye Svaahaa | Om Hara Hara Mahadeva Svaahaa |",
+          "meaning": "These are the key ahuti mantras for the Rudra Havan. Each is chanted while offering a mixture of ghee, bilva leaves, bhasma (ash), datura flowers, and other items sacred to Lord Shiva.",
+          "transliteration": "Om Namaḥ Śivāya Svāhā | Om Śarvāya Svāhā |\nOm Paśupatāye Svāhā | Om Hara Hara Mahādeva Svāhā |",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Procedure: 1) Set up Havan Kund and place a Shivalinga nearby. 2) Light the fire with bilva wood if available. 3) Chant the Rudram (Namakam) while offering ahutis. 4) Follow with Chamakam chanting. 5) Offer Mahamrityunjaya mantra 108 times. 6) Perform Purnahuti with ghee, bilva patra, and a whole coconut. 7) Perform Rudra Abhishekam on the Shivalinga with the remaining sanctified materials.",
+          "meaning": "The Rudra Havan is traditionally performed by trained Vedic priests. For householders, a simplified version using the Panchakshari mantra (Om Namah Shivaaya) is also highly effective.",
+          "transliteration": "Procedure: 1) Set up Havan Kund and place a Shivalinga nearby. 2) Light the fire with bilva wood if available. 3) Chant the Rudram (Namakam) while offering ahutis. 4) Follow with Chamakam chanting. 5) Offer Mahamrityunjaya mantra 108 times. 6) Perform Purnahuti with ghee, bilva patra, and a whole coconut. 7) Perform Rudra Abhishekam on the Shivalinga with the remaining sanctified materials.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "havan_vastu",
+      "title": "Vastu Shanti Havan",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/havan/agni.jpg",
+      "orderIndex": 5,
+      "content": [
+        {
+          "shloka": "Om Vaastoshpate Prati Jaanihyasmaan Svaaayeshyo\nAnamivo Bhavanah | Yat Tvemahi Prati Tanno Jushasva\nShanna Bhava Dvipade Shamchatushpade || Svaahaa ||",
+          "meaning": "O Lord of the dwelling (Vaastoshpati), accept us favorably. Be free from disease in our home. Whatever we ask of You, be pleased to grant. Be auspicious to all two-footed and four-footed beings in this house.",
+          "transliteration": "Om Vāstoṣpate Prati Jānihyasmān Svāveśyo\nAnamivo Bhavanaḥ | Yat Tvemahi Prati Tanno Juṣasva\nŚanno Bhava Dvipade Śamcatuṣpade || Svāhā ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Vastu Shanti Havan is performed during Griha Pravesh (house warming) or to rectify Vastu Dosha in an existing home or workplace. It invokes the blessings of Vastu Purusha and all directional deities.",
+          "meaning": "According to Vastu Shastra, every building has an energy field influenced by the Vastu Purusha. This Havan harmonizes the energies, removes negativity, and brings peace, prosperity, and good health to the inhabitants.",
+          "transliteration": "Vastu Shanti Havan is performed during Griha Pravesh (house warming) or to rectify Vastu Dosha in an existing home or workplace. It invokes the blessings of Vastu Purusha and all directional deities.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Bhoomiryasmaa Antarikshaam Mahitvaa\nShanno Bhavantvaapah Shannaoshhadhiih |\nShanno Brihaspatiirdadhatu Sham nah Svaahaa ||",
+          "meaning": "May the Earth, the Atmosphere, and the vast Sky be propitious to us. May the waters and herbs be peaceful. May Brihaspati grant us well-being. Svaha!",
+          "transliteration": "Om Bhūmiryasmā Antarikṣaṁ Mahitvā\nŚanno Bhavantvāpaḥ Śannoṣadhīḥ |\nŚanno Bṛhaspatirdadhātu Śaṁ naḥ Svāhā ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Procedure: 1) Clean the entire house and sprinkle Ganga Jal. 2) Set up Havan Kund at the Brahmasthan (center) of the house. 3) Invoke the 8 directional deities (Indra, Agni, Yama, Nairutya, Varuna, Vayu, Kubera, Ishana). 4) Chant Vastu Sukta and offer 108 ahutis. 5) Offer ghee ahutis in all 8 directions. 6) Perform Purnahuti and sprinkle sanctified water in every room.",
+          "meaning": "After the Havan, it is customary to perform Satyanarayan Katha, feed Brahmins, and distribute prasad. The Vastu Shanti brings lasting peace and ensures the well-being of all residents.",
+          "transliteration": "Procedure: 1) Clean the entire house and sprinkle Ganga Jal. 2) Set up Havan Kund at the Brahmasthan (center) of the house. 3) Invoke the 8 directional deities (Indra, Agni, Yama, Nairutya, Varuna, Vayu, Kubera, Ishana). 4) Chant Vastu Sukta and offer 108 ahutis. 5) Offer ghee ahutis in all 8 directions. 6) Perform Purnahuti and sprinkle sanctified water in every room.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "havan_dhanvantari",
+      "title": "Dhanvantari Havan",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/havan/agni.jpg",
+      "orderIndex": 6,
+      "content": [
+        {
+          "shloka": "Om Namo Bhagavate Vasudevaaya Dhanvantaraye\nAmritakalasha Hastaaya Sarva Aamaya Vinaashaaya\nTrilokyanaathaaya Shri Mahaavishnave Namah Svaahaa ||",
+          "meaning": "Salutations to Lord Dhanvantari, an incarnation of Vasudeva (Vishnu), who holds the pot of amrita (nectar of immortality) and destroys all diseases. Salutations to the Lord of the Three Worlds, Shri Maha Vishnu.",
+          "transliteration": "Om Namo Bhagavate Vāsudevāya Dhanvantaraye\nAmṛtakalaśa Hastāya Sarva Āmaya Vināśāya\nTrilokyānāthāya Śrī Mahāviṣṇave Namaḥ Svāhā ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Dhanvantari Havan is performed to invoke Lord Dhanvantari, the divine physician who emerged during the churning of the ocean (Samudra Manthan) carrying the pot of Amrita. He is the father of Ayurveda.",
+          "meaning": "This Havan is performed for good health, recovery from illness, prevention of diseases, and overall well-being. It is especially auspicious on Dhanteras (Dhanvantari Trayodashi) which falls two days before Diwali.",
+          "transliteration": "Dhanvantari Havan is performed to invoke Lord Dhanvantari, the divine physician who emerged during the churning of the ocean (Samudra Manthan) carrying the pot of Amrita. He is the father of Ayurveda.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Achyutaaya Namah Svaahaa | Om Anantaaya Namah Svaahaa |\nOm Govindaaya Namah Svaahaa | Om Dhanvantaraye Namah Svaahaa |",
+          "meaning": "Ahutis for the Dhanvantari Havan: With each chant of Svaha, offer a spoonful of ghee mixed with medicinal herbs (Brahmi, Ashwagandha, Tulsi, Turmeric) into the sacred fire.",
+          "transliteration": "Om Acyutāya Namaḥ Svāhā | Om Anantāya Namaḥ Svāhā |\nOm Govindāya Namaḥ Svāhā | Om Dhanvantaraye Namaḥ Svāhā |",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Procedure: 1) Set up Havan Kund and place a Dhanvantari Murti or image nearby. 2) Light the fire and perform Achamana and Sankalpa. 3) Chant Dhanvantari Stotram. 4) Offer 108 ahutis with the Dhanvantari mantra. 5) Include medicinal herbs (Tulsi, Neem, Ashwagandha) in the samagri. 6) Perform Purnahuti and pray for the health of all family members.",
+          "meaning": "The smoke from the Dhanvantari Havan, enriched with medicinal herbs, purifies the air and has therapeutic benefits. This practice aligns with the principles of Dhoomavati Chikitsa (smoke therapy) in Ayurveda.",
+          "transliteration": "Procedure: 1) Set up Havan Kund and place a Dhanvantari Murti or image nearby. 2) Light the fire and perform Achamana and Sankalpa. 3) Chant Dhanvantari Stotram. 4) Offer 108 ahutis with the Dhanvantari mantra. 5) Include medicinal herbs (Tulsi, Neem, Ashwagandha) in the samagri. 6) Perform Purnahuti and pray for the health of all family members.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "havan_mahamrityunjaya",
+      "title": "Mahamrityunjaya Havan",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/havan/agni.jpg",
+      "orderIndex": 7,
+      "content": [
+        {
+          "shloka": "Om Tryambakam Yajaamahe Sugandhim Pushti-vardhanam |\nUrvaarukamiva Bandhanaan Mrityor Muksheeya Maamritaat || Svaahaa ||",
+          "meaning": "We worship the three-eyed Lord (Shiva) who is fragrant and nourishes all beings. As the ripe cucumber is effortlessly separated from the vine, so may He liberate us from death and grant us immortality. Svaha!",
+          "transliteration": "Om Tryambakaṁ Yajāmahe Sugandhiṁ Puṣṭi-vardhanam |\nUrvārukamiva Bandhanān Mṛtyor Mukṣīya Māmṛtāt || Svāhā ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "The Mahamrityunjaya Havan is one of the most powerful Vedic fire rituals. The Mahamrityunjaya Mantra from the Rig Veda (7.59.12) is called the 'Death-Conquering Mantra' and is dedicated to Lord Shiva as Mrityunjaya (Conqueror of Death).",
+          "meaning": "This Havan is performed for longevity, recovery from serious illness, protection from accidents, and to overcome fear of death. It is one of the two most important mantras in all of Vedic literature (the other being the Gayatri Mantra).",
+          "transliteration": "The Mahamrityunjaya Havan is one of the most powerful Vedic fire rituals. The Mahamrityunjaya Mantra from the Rig Veda (7.59.12) is called the 'Death-Conquering Mantra' and is dedicated to Lord Shiva as Mrityunjaya (Conqueror of Death).",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Haum Joom Sah | Om Bhoor Bhuvah Svah |\nOm Tryambakam Yajaamahe Sugandhim Pushti-vardhanam |\nUrvaarukamiva Bandhanaan Mrityor Muksheeya Maamritaat |\nOm Svah Bhuvah Bhoor Om | Sah Joom Haum Om ||",
+          "meaning": "This is the extended (Beej-yukta) version of the Mahamrityunjaya Mantra with the Beej mantras added at the beginning and reversed at the end. This version is used in the Havan for maximum potency.",
+          "transliteration": "Om Hauṁ Jūṁ Saḥ | Om Bhūr Bhuvaḥ Svaḥ |\nOm Tryambakaṁ Yajāmahe Sugandhiṁ Puṣṭi-vardhanam |\nUrvārukamiva Bandhanān Mṛtyor Mukṣīya Māmṛtāt |\nOm Svaḥ Bhuvaḥ Bhūr Om | Saḥ Jūṁ Hauṁ Om ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Procedure: 1) Set up Havan Kund, preferably with a Shivalinga nearby. 2) Use bilva wood, camphor, and cow ghee to light the fire. 3) Perform Sankalpa for the health and longevity of the person. 4) Chant the Mahamrityunjaya Mantra 1,25,000 times (over multiple days) or 1,008 or 108 times for a single sitting. 5) Offer ghee + samagri with each 'Svaahaa'. 6) Include bilva patra, dhatura, and bhasma in the offerings. 7) Perform Purnahuti and Shanti Path.",
+          "meaning": "Traditionally, a Mahamrityunjaya Havan of 1.25 lakh mantras is performed over 10 days. For individuals, even 108 ahutis performed with full devotion carry immense benefits. This Havan is especially recommended during Sade Sati, health crises, or as a birthday ritual.",
+          "transliteration": "Procedure: 1) Set up Havan Kund, preferably with a Shivalinga nearby. 2) Use bilva wood, camphor, and cow ghee to light the fire. 3) Perform Sankalpa for the health and longevity of the person. 4) Chant the Mahamrityunjaya Mantra 1,25,000 times (over multiple days) or 1,008 or 108 times for a single sitting. 5) Offer ghee + samagri with each 'Svaahaa'. 6) Include bilva patra, dhatura, and bhasma in the offerings. 7) Perform Purnahuti and Shanti Path.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Shanno Mitrah Sham Varunah | Shanno Bhavatvaryamaa |\nShanno Indro Brihaspatih | Shanno Vishnururukramah |\nNamo Brahmane | Namaste Vaayo | Tvameva Pratyaksham Brahmaasi ||",
+          "meaning": "May Mitra, Varuna, Aryama, Indra, Brihaspati, and the far-striding Vishnu be auspicious to us. Salutations to Brahman. Salutations to Vayu. You alone are the manifest Brahman.",
+          "transliteration": "Om Śanno Mitraḥ Śaṁ Varuṇaḥ | Śanno Bhavatvaryamā |\nŚanno Indro Bṛhaspatiḥ | Śanno Viṣṇururukramaḥ |\nNamo Brahmaṇe | Namaste Vāyo | Tvameva Pratyakṣaṁ Brahmāsi ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "havan_samagri_list",
+      "title": "Havan Samagri — Complete List of Ingredients",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/havan/agni.jpg",
+      "orderIndex": 8,
+      "content": [
+        {
+          "shloka": "Essential Samagri (Base Ingredients):\n1. Cow Ghee (Desi Ghee) — the primary offering\n2. Dry Coconut pieces (Copra)\n3. Camphor (Kapoor)\n4. Sandalwood powder (Chandan)\n5. Jaggery (Gud) or Sugar\n6. Black Sesame seeds (Til)\n7. Barley grains (Jau/Jav)\n8. Rice (Akshat/Chawal)",
+          "meaning": "These are the fundamental ingredients used in every Havan. Cow ghee is the most important — it purifies the air, generates positive energy, and serves as the fuel for maintaining the sacred fire.",
+          "transliteration": "Essential Samagri (Base Ingredients):\n1. Cow Ghee (Desi Ghee) — the primary offering\n2. Dry Coconut pieces (Copra)\n3. Camphor (Kapoor)\n4. Sandalwood powder (Chandan)\n5. Jaggery (Gud) or Sugar\n6. Black Sesame seeds (Til)\n7. Barley grains (Jau/Jav)\n8. Rice (Akshat/Chawal)",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sacred Woods and Herbs:\n1. Mango wood sticks (Aamra)\n2. Peepal wood sticks\n3. Banyan wood sticks (Vat)\n4. Bilva (Bael) wood sticks\n5. Palash wood sticks\n6. Dried Cow Dung cakes (Upale/Kanda)\n7. Guggul (Indian Bdellium)\n8. Loban (Frankincense)\n9. Agar (Agarwood)\n10. Tagar (Indian Valerian)",
+          "meaning": "The sacred woods mentioned above are from trees considered holy in Vedic tradition. Mango wood is the most commonly used. Never use bamboo, thorny wood, or wood from milkless (latex-free) trees.",
+          "transliteration": "Sacred Woods and Herbs:\n1. Mango wood sticks (Aamra)\n2. Peepal wood sticks\n3. Banyan wood sticks (Vat)\n4. Bilva (Bael) wood sticks\n5. Palash wood sticks\n6. Dried Cow Dung cakes (Upale/Kanda)\n7. Guggul (Indian Bdellium)\n8. Loban (Frankincense)\n9. Agar (Agarwood)\n10. Tagar (Indian Valerian)",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Medicinal and Aromatic Ingredients:\n1. Tulsi (Holy Basil) leaves\n2. Neem leaves\n3. Brahmi\n4. Ashwagandha\n5. Haldi (Turmeric)\n6. Cinnamon (Dalchini)\n7. Cardamom (Elaichi)\n8. Cloves (Laung)\n9. Nutmeg (Jaiphal)\n10. Bay leaves (Tejpatta)\n11. Nagarmotha (Cyperus)\n12. Javitri (Mace)",
+          "meaning": "These medicinal ingredients, when burnt in the Havan fire, release beneficial compounds that purify the air and have antiseptic, antibacterial, and calming properties. This is scientifically validated.",
+          "transliteration": "Medicinal and Aromatic Ingredients:\n1. Tulsi (Holy Basil) leaves\n2. Neem leaves\n3. Brahmi\n4. Ashwagandha\n5. Haldi (Turmeric)\n6. Cinnamon (Dalchini)\n7. Cardamom (Elaichi)\n8. Cloves (Laung)\n9. Nutmeg (Jaiphal)\n10. Bay leaves (Tejpatta)\n11. Nagarmotha (Cyperus)\n12. Javitri (Mace)",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Planet-Specific Samagri for Navgraha Havan:\n- Surya: Aak (Calotropis), Red Sandalwood, Wheat\n- Chandra: Palash, White Sandalwood, Rice\n- Mangal: Khadir (Acacia), Red Flowers, Masoor Dal\n- Budh: Apamarga, Vidhara, Green Moong\n- Guru: Peepal, Yellow Mustard, Chana Dal\n- Shukra: Gular (Ficus), White Rice, Sugar\n- Shani: Shami, Black Sesame, Urad Dal\n- Rahu: Durva Grass, Sandalwood, Barley\n- Ketu: Kusha Grass, Seven Grains Mix, Til",
+          "meaning": "For specific Havans, the samagri is customized to the deity or planet being propitiated. The above list shows the traditional ingredients associated with each of the nine planets.",
+          "transliteration": "Planet-Specific Samagri for Navgraha Havan:\n- Surya: Aak (Calotropis), Red Sandalwood, Wheat\n- Chandra: Palash, White Sandalwood, Rice\n- Mangal: Khadir (Acacia), Red Flowers, Masoor Dal\n- Budh: Apamarga, Vidhara, Green Moong\n- Guru: Peepal, Yellow Mustard, Chana Dal\n- Shukra: Gular (Ficus), White Rice, Sugar\n- Shani: Shami, Black Sesame, Urad Dal\n- Rahu: Durva Grass, Sandalwood, Barley\n- Ketu: Kusha Grass, Seven Grains Mix, Til",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Havan Equipment:\n1. Havan Kund (copper or brick, pyramid-shaped)\n2. Large wooden spoon (Sruk) for ghee\n3. Small wooden ladle (Sruva)\n4. Copper water vessel (Kalash)\n5. Panchapatra (five-metal vessel)\n6. Achamani spoon\n7. Flower plate\n8. Aasan (seat) — woolen or kusha grass mat",
+          "meaning": "The Havan Kund should ideally be made of copper and shaped as an inverted pyramid. The size varies based on the type of Havan — from small household kunds (1 foot) to large ceremonial kunds (9 feet or more).",
+          "transliteration": "Havan Equipment:\n1. Havan Kund (copper or brick, pyramid-shaped)\n2. Large wooden spoon (Sruk) for ghee\n3. Small wooden ladle (Sruva)\n4. Copper water vessel (Kalash)\n5. Panchapatra (five-metal vessel)\n6. Achamani spoon\n7. Flower plate\n8. Aasan (seat) — woolen or kusha grass mat",
+          "imageUrl": null
+        },
+        {
+          "shloka": "General Guidelines for Performing Havan:\n1. Face East or North while performing Havan.\n2. Wear clean, preferably white or saffron clothes.\n3. Maintain silence and concentration during mantras.\n4. Never leave the Havan fire unattended.\n5. Complete the Havan before the fire dies — add ghee if needed.\n6. Always end with Purnahuti and Shanti Path.\n7. Distribute remaining samagri as prasad.\n8. Dispose of Havan ash respectfully in a river or garden.",
+          "meaning": "These guidelines ensure that the Havan is performed correctly and yields maximum spiritual and material benefits. The discipline of the ritual is as important as the mantras themselves.",
+          "transliteration": "General Guidelines for Performing Havan:\n1. Face East or North while performing Havan.\n2. Wear clean, preferably white or saffron clothes.\n3. Maintain silence and concentration during mantras.\n4. Never leave the Havan fire unattended.\n5. Complete the Havan before the fire dies — add ghee if needed.\n6. Always end with Purnahuti and Shanti Path.\n7. Distribute remaining samagri as prasad.\n8. Dispose of Havan ash respectfully in a river or garden.",
+          "imageUrl": null
+        }
+      ]
+    }
+  ]
+}

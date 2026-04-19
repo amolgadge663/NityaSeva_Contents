@@ -1,0 +1,336 @@
+{
+  "category": "Prarthana",
+  "version": 1,
+  "items": [
+    {
+      "id": "pray_pratah_smaran",
+      "title": "प्रातःस्मरण",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/prarthana/om.jpg",
+      "orderIndex": 1,
+      "content": [
+        {
+          "shloka": "कराग्रे वसते लक्ष्मीः करमध्ये सरस्वती |\nकरमूले तु गोविन्दः प्रभाते करदर्शनम् ||",
+          "meaning": "हाताच्या बोटांच्या टोकांवर लक्ष्मी वास करतात, हाताच्या मध्यभागी सरस्वती आणि हाताच्या मुळाशी गोविंद (विष्णू) निवास करतात. म्हणून सकाळी उठल्यावर सर्वप्रथम हातांचे दर्शन करावे.",
+          "transliteration": "Karaagre Vasate Lakshmih Karamadhye Saraswati\nKaramoole Tu Govindah Prabhaate Karadarshanam",
+          "imageUrl": null
+        },
+        {
+          "shloka": "प्रातः स्मरामि हृदि संस्फुरदात्मतत्त्वं |\nसच्चित्सुखं परमहंसगतिं तुरीयम् |\nयत्स्वप्नजागरसुषुप्तिमवैति नित्यं |\nतद्ब्रह्म निष्कलमहं न च भूतसङ्घः ||",
+          "meaning": "प्रातःकाळी मी हृदयात स्फुरणारे आत्मतत्त्व स्मरतो — जे सत्-चित्-सुख स्वरूप, परमहंसांची गती, तुरीय अवस्था आहे. जे स्वप्न, जागृती आणि सुषुप्ती या तिन्ही अवस्थांना सदैव जाणते, ते निष्कल ब्रह्म मीच आहे, पंचभूतांचा संघ नव्हे.",
+          "transliteration": "Praatah Smaraami Hridi Sansphuradaatmatattvam\nSachchitsukham Paramahamsagatim Tureeyam\nYatsvapnajaagara Sushuptimavaiti Nityam\nTadbrahma Nishkalamaham Na Cha Bhootasanghah",
+          "imageUrl": null
+        },
+        {
+          "shloka": "समुद्रवसने देवि पर्वतस्तनमण्डले |\nविष्णुपत्नि नमस्तुभ्यं पादस्पर्शं क्षमस्व मे ||",
+          "meaning": "समुद्ररूपी वस्त्र परिधान केलेली, पर्वतरूपी स्तन असलेली, विष्णुपत्नी भूमिदेवी, तुला नमस्कार. माझ्या पायांचा स्पर्श क्षमा कर.",
+          "transliteration": "Samudravasane Devi Parvatastana Mandale\nVishnupatni Namastubhyam Paadasparsham Kshamasva Me",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ब्रह्मा मुरारिस्त्रिपुरान्तकारी |\nभानुः शशी भूमिसुतो बुधश्च |\nगुरुश्च शुक्रः शनिराहुकेतवः |\nकुर्वन्तु सर्वे मम सुप्रभातम् ||",
+          "meaning": "ब्रह्मा, विष्णू, शिव, सूर्य, चंद्र, मंगळ, बुध, गुरु, शुक्र, शनी, राहू आणि केतू — हे सर्व माझे सुप्रभात (शुभ सकाळ) करोत.",
+          "transliteration": "Brahmaa Muraaristripuraantakaari\nBhaanuh Shashi Bhoomisuto Budhashcha\nGurushcha Shukrah Shaniraahuketavah\nKurvantu Sarve Mama Suprabhaatam",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "pray_sandhya_vandana",
+      "title": "संध्यावंदन",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/prarthana/sandhya.jpg",
+      "orderIndex": 2,
+      "content": [
+        {
+          "shloka": "ॐ आपो हिष्ठा मयोभुवः |\nता न ऊर्जे दधातन |\nमहेरणाय चक्षसे |\nयो वः शिवतमो रसः |\nतस्य भाजयतेहनः |\nउशतीरिव मातरः ||",
+          "meaning": "हे जल, तुम्ही सुखदायी आहात. आम्हाला बल आणि ऊर्जा प्रदान करा. तुमचा जो अत्यंत कल्याणकारी रस आहे, तो आम्हाला प्राप्त करा, जसे माता आपल्या बालकांना पोषण देतात.",
+          "transliteration": "Om Aapo Hishthaa Mayobhuvah\nTaa Na Oorje Dadhaatana\nMaheranaya Chakshase\nYo Vah Shivatamo Rasah\nTasya Bhaajayatehanah\nUshateeriva Maatarah",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ भूर्भुवः स्वः |\nतत् सवितुर्वरेण्यं |\nभर्गो देवस्य धीमहि |\nधियो यो नः प्रचोदयात् ||",
+          "meaning": "त्या प्रकाशमान सवितृ देवाच्या दिव्य तेजाचे आम्ही ध्यान करतो. तो आमच्या बुद्धीला सन्मार्गाकडे प्रेरित करो. हा गायत्री मंत्र संध्यावंदनाचा मुख्य मंत्र आहे.",
+          "transliteration": "Om Bhoor Bhuvah Svah\nTat Savitur Varenyam\nBhargo Devasya Dheemahi\nDhiyo Yo Nah Prachodayaat",
+          "imageUrl": null
+        },
+        {
+          "shloka": "संध्यावंदन विधी (संक्षेप):\n१. आचमन — तीन वेळा जल प्राशन करा ॐ केशवाय नमः, ॐ नारायणाय नमः, ॐ माधवाय नमः.\n२. मार्जन — डोक्यावर जल शिंपडा, 'आपो हिष्ठा' मंत्राने.\n३. प्राणायाम — ॐ भूः, ॐ भुवः, ॐ स्वः मंत्रांसह.\n४. गायत्री मंत्र — किमान १०८ वेळा जप करा.\n५. उपस्थान — सूर्याला अभिमुख होऊन मंत्र पठन करा.\n६. समर्पण — सर्व पुण्य भगवंतांना समर्पित करा.",
+          "meaning": "संध्यावंदन हे हिंदू धर्मातील नित्य कर्म आहे. प्रातःकाळ, मध्यान्ह आणि सायंकाळ अशा तीन वेळा संध्या केली जाते. गायत्री मंत्र जप हा संध्यावंदनाचा मुख्य भाग आहे.",
+          "transliteration": "Sandhyaavandan Vidhi (Sankshep):\n1. Aachaman — teen velaa jal praashan karaa.\n2. Maarjan — dokyaavar jal shimpdaa.\n3. Praanaayaam — Om Bhuh, Om Bhuvah, Om Svah mantraansah.\n4. Gayatri Mantra — kimaan 108 velaa jap karaa.\n5. Upasthaan — sooryaalaa abhimukh hooun mantra pathan karaa.\n6. Samarpan — sarva punya bhagavantaannaa samarpit karaa.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ आकाशात् पतितं तोयं यथा गच्छति सागरम् |\nसर्वदेवनमस्कारः केशवं प्रतिगच्छति ||",
+          "meaning": "जसे आकाशातून पडलेले पाणी शेवटी सागराला मिळते, तसे सर्व देवांना केलेला नमस्कार केशवाला (विष्णूला) प्राप्त होतो.",
+          "transliteration": "Om Aakaashaat Patitam Toyam Yathaa Gachchhati Saagaram\nSarvadevanamaskarah Keshavam Pratigachchhati",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "pray_bhojana_mantra",
+      "title": "भोजन मंत्र",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/prarthana/annapurna.jpg",
+      "orderIndex": 3,
+      "content": [
+        {
+          "shloka": "ब्रह्मार्पणं ब्रह्म हविः |\nब्रह्माग्नौ ब्रह्मणा हुतम् |\nब्रह्मैव तेन गन्तव्यं |\nब्रह्मकर्मसमाधिना ||",
+          "meaning": "अर्पण ब्रह्म आहे, हवी ब्रह्म आहे, ब्रह्मरूपी अग्नीत ब्रह्मानेच हवन केले आहे. ब्रह्मकर्मात समाधी लावणाऱ्या व्यक्तीने ब्रह्मालाच प्राप्त होणे आवश्यक आहे. (भगवद्गीता ४.२४)",
+          "transliteration": "Brahmaaarpanam Brahma Havih\nBrahmaagnau Brahmanaa Hutam\nBrahmaiva Tena Gantavyam\nBrahmakarmasamaadhinaa",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अन्नपूर्णे सदापूर्णे शंकरप्राणवल्लभे |\nज्ञानवैराग्यसिद्ध्यर्थं भिक्षां देहि च पार्वति ||",
+          "meaning": "सदा परिपूर्ण अन्नपूर्णा, शंकरांची प्राणवल्लभ, हे पार्वती, ज्ञान आणि वैराग्याच्या सिद्धीसाठी मला भिक्षा दे.",
+          "transliteration": "Annapoorne Sadaapoorne Shankarapraana Vallabhe\nGyaanavairaagya Siddhyartham Bhikshaam Dehi Cha Paarvati",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अहं वैश्वानरो भूत्वा |\nप्राणिनां देहमाश्रितः |\nप्राणापानसमायुक्तः |\nपचाम्यन्नं चतुर्विधम् ||",
+          "meaning": "मी वैश्वानर अग्नीरूपाने सर्व प्राण्यांच्या शरीरात राहून, प्राण आणि अपान वायूशी संयुक्त होऊन, चार प्रकारचे अन्न पचवतो. (भगवद्गीता १५.१४)",
+          "transliteration": "Aham Vaishvaanaro Bhootvaa\nPraaninaam Dehamaashritah\nPraanapaana Samaayuktah\nPachaamyannam Chaturvidham",
+          "imageUrl": null
+        },
+        {
+          "shloka": "वदनि कवळ घेतां नाम घ्या श्रीहरीचे |\nसहज हवन होते नाम घेता फुकाचे |\nजिवन करि जिवित्वा अन्न हे पूर्णब्रह्म |\nउदरभरण नोहे जाणिजे यज्ञकर्म ||",
+          "meaning": "जेवताना तोंडात घास घेताना श्रीहरीचे नाम घ्या. नाम घेतल्याने सहज हवन होते. अन्न हे पूर्णब्रह्म आहे जे जीवन देते. पोट भरणे हे साधे कर्म नव्हे, ते यज्ञकर्म जाणावे. (रामदास स्वामी)",
+          "transliteration": "Vadani Kaval Ghetaa Naam Ghyaa Shrihariche\nSahaj Havan Hote Naam Ghetaa Phukaache\nJivan Kari Jivitvaa Anna He Poornabrahma\nUdarbharan Nohe Jaanijee Yadnyakarma",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "pray_shayan_mantra",
+      "title": "शयन मंत्र",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/prarthana/vishnu.jpg",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "कायेन वाचा मनसेन्द्रियैर्वा |\nबुद्ध्यात्मना वा प्रकृतेः स्वभावात् |\nकरोमि यद्यत् सकलं परस्मै |\nनारायणायेति समर्पयामि ||",
+          "meaning": "शरीर, वाणी, मन, इंद्रिये, बुद्धी, आत्मा किंवा स्वभावाने मी जे काही करतो, ते सर्व श्रीनारायणाला समर्पित करतो. झोपण्यापूर्वी दिवसभराची सर्व कर्मे भगवंतांना समर्पित करावीत.",
+          "transliteration": "Kaayena Vaachaa Manasendriyairvaa\nBuddhyaatmanaa Vaa Prakriteh Svabhaavaat\nKaromi Yadyat Sakalam Parasmai\nNaaraayanaayeti Samarpayaami",
+          "imageUrl": null
+        },
+        {
+          "shloka": "रामं स्कन्दं हनुमन्तं वैनतेयं वृकोदरम् |\nशयने यः स्मरेन्नित्यं दुःस्वप्नं तस्य नश्यति ||",
+          "meaning": "राम, स्कंद (कार्तिकेय), हनुमान, वैनतेय (गरुड) आणि वृकोदर (भीम) — शयनाच्या वेळी जो नित्य यांचे स्मरण करतो, त्याची वाईट स्वप्ने नष्ट होतात.",
+          "transliteration": "Raamam Skandam Hanumantam Vainateyam Vrikodaram\nShayane Yah Smarennityam Duhsvapnam Tasya Nashyati",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ शान्तिः शान्तिः शान्तिः |\nअसतो मा सद्गमय |\nतमसो मा ज्योतिर्गमय |\nमृत्योर्मा अमृतं गमय ||",
+          "meaning": "शांती, शांती, शांती. असत्यापासून सत्याकडे नेले, अंधकारापासून प्रकाशाकडे नेले, मृत्यूपासून अमरत्वाकडे नेले. ही शांती प्रार्थना झोपण्यापूर्वी मन शांत करण्यासाठी केली जाते.",
+          "transliteration": "Om Shaantih Shaantih Shaantih\nAsato Maa Sadgamaya\nTamaso Maa Jyotirgamaya\nMrityormaa Amritam Gamaya",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ सर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः |\nसर्वे भद्राणि पश्यन्तु मा कश्चिद्दुःखभाग्भवेत् |\nॐ शान्तिः शान्तिः शान्तिः ||",
+          "meaning": "सर्वांना सुख लाभो, सर्व निरोगी राहोत, सर्वांना शुभ दर्शन होवो, कोणालाही दुःख भोगावे लागू नये. ॐ शांती शांती शांती.",
+          "transliteration": "Om Sarve Bhavantu Sukhinah Sarve Santu Niraamayaah\nSarve Bhadraani Pashyantu Maa Kashchid Duhkhabhagbhavet\nOm Shaantih Shaantih Shaantih",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "pray_snaan_mantra",
+      "title": "स्नान मंत्र",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/prarthana/ganga.jpg",
+      "orderIndex": 5,
+      "content": [
+        {
+          "shloka": "गङ्गे च यमुने चैव गोदावरि सरस्वति |\nनर्मदे सिन्धु कावेरि जलेऽस्मिन् सन्निधिं कुरु ||",
+          "meaning": "गंगा, यमुना, गोदावरी, सरस्वती, नर्मदा, सिंधू आणि कावेरी — या सप्तनद्यांनो, या जलामध्ये तुमचे सान्निध्य प्रदान करा.",
+          "transliteration": "Gange Cha Yamune Chaiva Godaavari Saraswati\nNarmade Sindhu Kaaveri Jale'smin Sannidhim Kuru",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ अपवित्रः पवित्रो वा सर्वावस्थां गतोऽपि वा |\nयः स्मरेत् पुण्डरीकाक्षं स बाह्याभ्यन्तरं शुचिः ||",
+          "meaning": "अपवित्र असो वा पवित्र, कोणत्याही अवस्थेत असो, जो पुंडरीकाक्ष (विष्णू) चे स्मरण करतो, तो बाहेरून आणि आतून शुद्ध होतो.",
+          "transliteration": "Om Apavitrah Pavitro Vaa Sarvaavasthaam Gato'pi Vaa\nYah Smaret Pundareekaksham Sa Baahyaabhyantaram Shuchih",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ आपो हिष्ठा मयोभुवः |\nता न ऊर्जे दधातन |\nमहेरणाय चक्षसे |\nयो वः शिवतमो रसः |\nतस्य भाजयतेहनः |\nउशतीरिव मातरः ||",
+          "meaning": "हे जल, तुम्ही सुखदायी आहात. आम्हाला बल आणि ऊर्जा प्रदान करा. तुमचा जो अत्यंत कल्याणकारी रस आहे, तो आम्हाला प्राप्त करा, जसे माता आपल्या बालकांना पोषण देतात.",
+          "transliteration": "Om Aapo Hishthaa Mayobhuvah\nTaa Na Oorje Dadhaatana\nMaheranaya Chakshase\nYo Vah Shivatamo Rasah\nTasya Bhaajayatehanah\nUshateeriva Maatarah",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ नमः शिवाय |\nस्नानं समर्पयामि |\nमन्त्रहीनं क्रियाहीनं भक्तिहीनं जनार्दन |\nयत्पूजितं मया देव परिपूर्णं तदस्तु मे ||",
+          "meaning": "ॐ नमः शिवाय. मी स्नान समर्पण करतो. हे जनार्दन, माझ्या पूजेत मंत्र, क्रिया किंवा भक्तीची उणीव असल्यास, हे देवा, माझ्या पूजेला परिपूर्ण करा.",
+          "transliteration": "Om Namah Shivaaya\nSnaanam Samarpayaami\nMantraheenam Kriyaaheenam Bhaktiheenam Janaardana\nYatpoojitam Mayaa Deva Paripoornam Tadastu Me",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "pray_deepa_jyoti",
+      "title": "दीप ज्योती मंत्र",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/prarthana/deepa.jpg",
+      "orderIndex": 6,
+      "content": [
+        {
+          "shloka": "शुभं करोति कल्याणमारोग्यं धनसंपदः |\nशत्रुबुद्धिविनाशाय दीपज्योतिर्नमोऽस्तु ते ||",
+          "meaning": "शुभ, कल्याण, आरोग्य आणि धनसंपदा प्रदान करणारी, शत्रूबुद्धीचा विनाश करणारी दीपज्योती, तुला माझा नमस्कार.",
+          "transliteration": "Shubham Karoti Kalyaanam Aarogyam Dhanasampadah\nShatrubuddhi Vinaashaaya Deepajyotirnamostute",
+          "imageUrl": null
+        },
+        {
+          "shloka": "दीपज्योति परब्रह्म दीपज्योतिर्जनार्दनः |\nदीपो हरतु मे पापं संध्यादीपज्योतिर्नमोऽस्तु ते ||",
+          "meaning": "दीपज्योती हेच परब्रह्म, दीपज्योती हेच जनार्दन (विष्णू). दीप माझी पापे हरो. संध्याकाळच्या दीपज्योतीला माझा नमस्कार.",
+          "transliteration": "Deepajyoti Parabrahma Deepajyotirjanaardanah\nDeepo Haratu Me Paapam Sandhyaadeepajyotirnamostute",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ असतो मा सद्गमय |\nतमसो मा ज्योतिर्गमय |\nमृत्योर्मा अमृतं गमय |\nॐ शान्तिः शान्तिः शान्तिः ||",
+          "meaning": "असत्यापासून सत्याकडे नेले, अंधकारापासून प्रकाशाकडे नेले, मृत्यूपासून अमरत्वाकडे नेले. ॐ शांती शांती शांती. दीप लावताना हा मंत्र म्हणावा.",
+          "transliteration": "Om Asato Maa Sadgamaya\nTamaso Maa Jyotirgamaya\nMrityormaa Amritam Gamaya\nOm Shaantih Shaantih Shaantih",
+          "imageUrl": null
+        },
+        {
+          "shloka": "त्वमेव मातृ देवो वा त्वमेव सर्वं मम देवदेव |\nदीपस्तम्भे नमस्तुभ्यं प्रसीद मम सन्निधौ |\nसायंकाळी दीप लावताना म्हणा:\nशुभं करोति कल्याणं |",
+          "meaning": "दीप हे देवत्वाचे प्रतीक आहे. संध्याकाळी तुळशीसमोर, देवघरात आणि उंबऱ्यावर दीप लावणे हे अत्यंत शुभ मानले जाते. दीपाच्या प्रकाशाने घरातील नकारात्मक ऊर्जा नष्ट होते.",
+          "transliteration": "Tvameva Maatri Devo Vaa Tvameva Sarvam Mama Devadeva\nDeepastambhe Namastubhyam Praseeda Mama Sannidhau\nSaayankali deep laavataanaa mhanaa:\nShubham Karoti Kalyaanam",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "pray_bhoomi_vandana",
+      "title": "भूमी वंदना",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/prarthana/prithvi.jpg",
+      "orderIndex": 7,
+      "content": [
+        {
+          "shloka": "समुद्रवसने देवि पर्वतस्तनमण्डले |\nविष्णुपत्नि नमस्तुभ्यं पादस्पर्शं क्षमस्व मे ||",
+          "meaning": "समुद्ररूपी वस्त्र परिधान केलेली, पर्वतरूपी स्तन असलेली, विष्णुपत्नी भूमिदेवी, तुला नमस्कार. सकाळी उठल्यावर पाय जमिनीवर ठेवण्यापूर्वी भूमिदेवीची क्षमा मागावी.",
+          "transliteration": "Samudravasane Devi Parvatastana Mandale\nVishnupatni Namastubhyam Paadasparsham Kshamasva Me",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ भूमिर्भूम्ना द्यौर्वरिणा |\nअन्तरिक्षं महित्वा |\nउपस्थे ते देव्यदिते |\nअग्ने अन्नाद्याय वीड्वद् हुवे ||",
+          "meaning": "पृथ्वी आपल्या भव्यतेने, आकाश विस्ताराने, अंतरिक्ष महत्त्वाने — हे अदिती देवी, तुझ्या कुशीत अग्नीसह अन्नग्रहणासाठी मी आवाहन करतो.",
+          "transliteration": "Om Bhoomirbhomnaa Dyaurvarinaa\nAntariksham Mahitvaa\nUpasthe Te Devyadite\nAgne Annaadyaaya Veelvad Huve",
+          "imageUrl": null
+        },
+        {
+          "shloka": "महीं देवीं विष्णुपत्नीमजूर्यां |\nप्रतीची ऽमेनां हविषा यजामहे |\nसा नः क्षेमं कृणुतां जीवसे परि |\nअकम्पमानार्घ्यमाधातमुत्तमम् ||",
+          "meaning": "विष्णुपत्नी, अजर-अमर भूमिदेवीची आम्ही हविर्द्रव्यांनी पूजा करतो. ती आम्हाला जीवनासाठी क्षेम आणि उत्तम आश्रय प्रदान करो.",
+          "transliteration": "Maheem Deveem Vishnupatneem Ajuryaam\nPrateechi'menaam Havishaa Yajaamahe\nSaa Nah Kshemam Krinutaam Jeevase Pari\nAkampamaanarghyamaadhaatamuttamam",
+          "imageUrl": null
+        },
+        {
+          "shloka": "पृथ्वी त्वया धृता लोका देवि त्वं विष्णुना धृता |\nत्वं च धारय मां देवि पवित्रं कुरु चासनम् ||",
+          "meaning": "हे पृथ्वी देवी, तू लोकांना धारण करतेस आणि विष्णू तुला धारण करतात. तू मला धारण कर आणि माझे आसन पवित्र कर.",
+          "transliteration": "Prithvi Tvayaa Dhritaa Lokaa Devi Tvam Vishnunaa Dhritaa\nTvam Cha Dhaaraya Maam Devi Pavitram Kuru Chaasanam",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "pray_kshama_prarthana",
+      "title": "क्षमा प्रार्थना",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/prarthana/om.jpg",
+      "orderIndex": 8,
+      "content": [
+        {
+          "shloka": "मन्त्रहीनं क्रियाहीनं भक्तिहीनं जनार्दन |\nयत्पूजितं मया देव परिपूर्णं तदस्तु मे ||",
+          "meaning": "हे जनार्दन, माझ्या पूजेत मंत्र, क्रिया किंवा भक्तीची उणीव असली तरी, हे देवा, माझ्या पूजेला परिपूर्ण करा.",
+          "transliteration": "Mantraheenam Kriyaaheenam Bhaktiheenam Janaardana\nYatpoojitam Mayaa Deva Paripoornam Tadastu Me",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अपराधसहस्राणि क्रियन्तेऽहर्निशं मया |\nदासोऽयमिति मां मत्वा क्षमस्व परमेश्वर ||",
+          "meaning": "रात्रंदिवस माझ्याकडून हजारो अपराध होतात. हे परमेश्वर, 'हा माझा दास आहे' असे मानून मला क्षमा करा.",
+          "transliteration": "Aparaadhasahasraani Kriyante'harnisham Mayaa\nDaaso'yamiti Maam Matvaa Kshamasva Parameshvara",
+          "imageUrl": null
+        },
+        {
+          "shloka": "यानि कानि च पापानि जन्मान्तरकृतानि च |\nतानि तानि विनश्यन्ति प्रदक्षिणपदे पदे ||",
+          "meaning": "जन्मोजन्मीची जी काही पापे आहेत, ती प्रदक्षिणेच्या प्रत्येक पावलागणिक नष्ट होतात.",
+          "transliteration": "Yaani Kaani Cha Paapaani Janmaantarakritaani Cha\nTaani Taani Vinashyanti Pradakshinapade Pade",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कायेन वाचा मनसेन्द्रियैर्वा |\nबुद्ध्यात्मना वा प्रकृतेः स्वभावात् |\nकरोमि यद्यत् सकलं परस्मै |\nनारायणायेति समर्पयामि ||\nक्षमा प्रार्थना समाप्त ||",
+          "meaning": "शरीर, वाणी, मन, इंद्रिये, बुद्धी, आत्मा किंवा स्वभावाने मी जे काही करतो, ते सर्व श्रीनारायणाला समर्पित करतो. यासह क्षमा प्रार्थना पूर्ण होते.",
+          "transliteration": "Kaayena Vaachaa Manasendriyairvaa\nBuddhyaatmanaa Vaa Prakriteh Svabhaavaat\nKaromi Yadyat Sakalam Parasmai\nNaaraayanaayeti Samarpayaami\nKshamaa Prarthana Samaapt",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "pray_ganga_stotram",
+      "title": "गंगा स्तोत्रम्",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/prarthana/ganga.jpg",
+      "orderIndex": 9,
+      "content": [
+        {
+          "shloka": "देवि सुरेश्वरि भगवति गंगे |\nत्रिभुवनतारिणि तरलतरंगे |\nशंकरमौलिविहारिणि विमले |\nमम मतिरास्तां तव पदकमले ||",
+          "meaning": "हे देवी, सुरांची ईश्वरी, भगवती गंगे, तीन लोक तारणारी, चंचल तरंगांची, शंकराच्या मौळीवर विहार करणारी, विमल — तुझ्या चरणकमळांवर माझी बुद्धी स्थिर राहो.",
+          "transliteration": "Devi Sureshvari Bhagavati Gange\nTribhuvanataarini Taralatarange\nShankaramauli Vihaarini Vimale\nMama Matiraastaam Tava Padakamale",
+          "imageUrl": null
+        },
+        {
+          "shloka": "भागीरथि सुखदायिनि मातस्तव |\nजलमहिमा निगमे ख्यातः |\nनाहं जाने तव महिमानं |\nपाहि कृपामयि मामज्ञानम् ||",
+          "meaning": "हे भागीरथी, सुखदायिनी माता, तुझ्या जलाचा महिमा वेदांमध्ये प्रसिद्ध आहे. मला तुझा महिमा पूर्ण कळत नाही. हे कृपामयी, या अज्ञानी माझे रक्षण कर.",
+          "transliteration": "Bhaageerathi Sukhadaayini Maatastava\nJalamahimaa Nigame Khyaatah\nNaaham Jaane Tava Mahimaanam\nPaahi Kripaamayi Maamagyaanam",
+          "imageUrl": null
+        },
+        {
+          "shloka": "गङ्गे च यमुने चैव गोदावरि सरस्वति |\nनर्मदे सिन्धु कावेरि जलेऽस्मिन् सन्निधिं कुरु ||",
+          "meaning": "गंगा, यमुना, गोदावरी, सरस्वती, नर्मदा, सिंधू आणि कावेरी — या सप्तनद्यांनो, या जलामध्ये तुमचे सान्निध्य प्रदान करा.",
+          "transliteration": "Gange Cha Yamune Chaiva Godaavari Saraswati\nNarmade Sindhu Kaaveri Jale'smin Sannidhim Kuru",
+          "imageUrl": null
+        },
+        {
+          "shloka": "तव जलममलं येन निपीतं |\nपरमपदं खलु तेन गृहीतम् |\nमातर्गंगे त्वयि यो भक्तः |\nकिल तं द्रष्टुं न यमः शक्तः ||",
+          "meaning": "ज्याने तुझे निर्मळ जल प्राशन केले, त्याने परमपद प्राप्त केलेच. हे माता गंगे, जो तुझा भक्त आहे, त्याला पाहण्यास यमराजही समर्थ नाही.",
+          "transliteration": "Tava Jalamamalam Yena Nipeetam\nParamapadam Khalu Tena Griheetam\nMaatargange Tvayi Yo Bhaktah\nKila Tam Drashtum Na Yamah Shaktah",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "pray_tulsi_vandana",
+      "title": "तुळशी वंदना",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/prarthana/tulsi.jpg",
+      "orderIndex": 10,
+      "content": [
+        {
+          "shloka": "यन्मूले सर्वतीर्थानि यन्मध्ये सर्वदेवताः |\nयदग्रे सर्ववेदाश्च तुलसी त्वां नमाम्यहम् ||",
+          "meaning": "ज्याच्या मुळाशी सर्व तीर्थे आहेत, ज्याच्या मध्यभागी सर्व देवता आहेत, ज्याच्या अग्रभागी सर्व वेद आहेत, अशा तुळशीला मी नमन करतो.",
+          "transliteration": "Yanmoole Sarva Teerthaani Yanmadhye Sarva Devataah\nYadagre Sarvavedaashcha Tulasi Tvaam Namaamyaham",
+          "imageUrl": null
+        },
+        {
+          "shloka": "तुलसि श्रीसखि शुभे पापहारिणि पुण्यदे |\nनमस्ते नारदनुते नारायणमनःप्रिये ||",
+          "meaning": "हे तुळशी, श्रीलक्ष्मीची सखी, शुभकारी, पापहरणी, पुण्यदायिनी, नारदांनी स्तुती केलेली, नारायणाच्या मनाला प्रिय — तुला माझा नमस्कार.",
+          "transliteration": "Tulasi Shrisakhi Shubhe Paapahaarini Punyade\nNamaste Naaradanute Naaraayanamanahpriye",
+          "imageUrl": null
+        },
+        {
+          "shloka": "तुलस्यमृतजन्मासि सदा त्वं केशवप्रिये |\nकेशवार्थं चिनोमि त्वामवरदा भव शोभने ||",
+          "meaning": "हे तुळशी, तू अमृतापासून जन्मलेली आहेस, सदा केशवाला प्रिय आहेस. मी केशवासाठी तुझी पाने तोडतो, हे शुभे, मला वरदान दे.",
+          "transliteration": "Tulasyamritajanmaasi Sadaa Tvam Keshavapriye\nKeshavaartham Chinomi Tvaam Avaradaa Bhava Shobhane",
+          "imageUrl": null
+        },
+        {
+          "shloka": "महाप्रसादजननी सर्वसौभाग्यवर्धिनी |\nआधि व्याधि हरा नित्यं तुलसी त्वं नमोऽस्तु ते ||",
+          "meaning": "महाप्रसादाची जननी, सर्व सौभाग्य वाढवणारी, मानसिक आणि शारीरिक व्याधी नित्य हरण करणारी तुळशी, तुला माझा नमस्कार.",
+          "transliteration": "Mahaaprasaadajananee Sarvasaubhaagyavardhinee\nAadhi Vyaadhi Haraa Nityam Tulasi Tvam Namostute",
+          "imageUrl": null
+        }
+      ]
+    }
+  ]
+}

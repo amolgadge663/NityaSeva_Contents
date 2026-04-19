@@ -4,65 +4,646 @@
   "items": [
     {
       "id": "aarti_ganapati",
-      "title": "Ganapati Aarti",
+      "title": "Ganapati Aarti (Sukhkarta Dukhharta)",
       "language": "english",
       "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/aarti/ganesh.jpg",
       "orderIndex": 1,
       "content": [
         {
-          "shloka": "Sukhkarta Dukhharta Varta Vighnachi",
-          "transliteration": "Sukhkartā dukhhartā vārtā vighnāchī",
-          "meaning": "You are the giver of happiness and remover of sorrow, the one who eliminates obstacles."
+          "shloka": "Sukhkarta Dukhharta Varta Vighnachi\nNurvi Purvi Prem Krupa Jayachi\nSarvangi Sundar Uti Shendurachi\nKanthi Jhalke Mal Mukta Phalachi",
+          "meaning": "O remover of sorrows and obstacles, you are the one who bestows happiness. Your entire body is beautiful, adorned with vermilion. Around your neck shines a garland of pearls.",
+          "transliteration": "Sukhkartā dukhhartā vārtā vighnāchī\nNurvī purvī prem krupā jāyachī\nSarvāṅgī sundar uṭī sheṃdurāchī\nKaṇṭhī jhaḷake māḷ muktāphāḷāchī",
+          "imageUrl": null
         },
         {
-          "shloka": "Jai Dev Jai Dev Jai Mangalmurti",
-          "transliteration": "Jai Dev Jai Dev Jai Mangalmūrtī",
-          "meaning": "Victory to you, O auspicious idol, bestower of blessings."
+          "shloka": "Jai Dev Jai Dev Jai Mangal Murti\nDarshan Matre Man Kaamna Purti\nJai Dev Jai Dev",
+          "meaning": "Victory to you, O Lord, victory to you, O auspicious one! Merely by your sight, all desires of the mind are fulfilled.",
+          "transliteration": "Jai dev jai dev jai maṅgal mūrtī\nDarśan mātre man kāmanā pūrtī\nJai dev jai dev",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ratnakhachit Phara Tujha Gaurikumara\nChandanachi Uti Kumkumkeshara\nHire Jad-it Mukut Shobhato Bara\nRunhzunhti Nupure Charni Ghagara",
+          "meaning": "O son of Gauri, your forehead is studded with gems. You are anointed with sandalwood paste and saffron. A diamond-studded crown adorns you beautifully. Anklets and bells tinkle on your feet.",
+          "transliteration": "Ratnakhachit phara tujhā gaurīkumārā\nChandanāchī uṭī kumkumkesharā\nHīre jaḍit mukuṭ śobhato bārā\nRunhzunhtī nūpure charaṇī ghāgarā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Jai Dev Jai Dev Jai Mangal Murti\nDarshan Matre Man Kaamna Purti\nJai Dev Jai Dev",
+          "meaning": "Victory to you, O Lord, victory to you, O auspicious one! Merely by your sight, all desires of the mind are fulfilled.",
+          "transliteration": "Jai dev jai dev jai maṅgal mūrtī\nDarśan mātre man kāmanā pūrtī\nJai dev jai dev",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Lambodara Pitambara Phanivarvandana\nSaral Sond Vakratunda Trinayana\nDas Ramacha Vat Pahe Sadana\nSankashti Pavave Nirvani Rakshave\nSurvar Vandana",
+          "meaning": "O pot-bellied one, draped in yellow silk, worshipped by the serpent king, with a curved trunk and three eyes. The servant of Rama awaits at your door. Please protect us from calamities and grant us salvation, O Lord worshipped by the gods.",
+          "transliteration": "Laṃbodarā pītāṃbarā phaṇīvaravandanā\nSaraḷ soṃḍ vakratuṇḍa trīnayānā\nDās Rāmāchā vāṭ pāhe sadanā\nSaṅkaṣṭī pāvāve nirvāṇī rakṣāve\nSurvarvandanā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Jai Dev Jai Dev Jai Mangal Murti\nDarshan Matre Man Kaamna Purti\nJai Dev Jai Dev",
+          "meaning": "Victory to you, O Lord, victory to you, O auspicious one! Merely by your sight, all desires of the mind are fulfilled.",
+          "transliteration": "Jai dev jai dev jai maṅgal mūrtī\nDarśan mātre man kāmanā pūrtī\nJai dev jai dev",
+          "imageUrl": null
         }
       ]
     },
     {
       "id": "aarti_durga",
-      "title": "Durga Aarti",
+      "title": "Durga Aarti (Durge Durghat Bhari)",
       "language": "english",
       "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/aarti/durga_devi.jpg",
       "orderIndex": 2,
       "content": [
         {
-          "shloka": "Jai Devi Jai Devi Mahishasuramardini",
-          "transliteration": "Jai Devī Jai Devī Mahīṣāsuramardinī",
-          "meaning": "Victory to Goddess Durga, slayer of the demon Mahishasura."
+          "shloka": "Durge Durghat Bhari Tujvin Sansari\nAnath Nathe Ambabai\nTujvin Kone Puri\nAarti Amba Bai",
+          "meaning": "O Durga, you fill all difficulties with your presence. In this world, without you, all are orphans. O mother Ambabai, without you, who else is there for us?",
+          "transliteration": "Durge durghaṭ bhārī tujviṇ saṃsārī\nAnāth nāthe Aṃbābāī\nTujviṇ koṇe purī\nĀratī Aṃbābāī",
+          "imageUrl": null
         },
         {
-          "shloka": "Sur Nar Muni Jan Sevat",
-          "transliteration": "Sur nar muni jan sevat",
-          "meaning": "She is worshipped by gods, humans, and sages alike."
+          "shloka": "Kanak Saman Deha Tejah Punjakara\nMukutashobit Kundale Bari\nHirya Jad-it Har Guloband Galyasari\nAarti Amba Bai",
+          "meaning": "Your body shines like gold, you are the embodiment of divine light. Your crown and earrings are splendid, adorned with necklaces studded with diamonds around your neck.",
+          "transliteration": "Kanak samān dehā tejah puṃjakārā\nMukuṭaśobhit kuṇḍale bārī\nHīryā jaḍit hār gulobaṃd gāḷyāsarī\nĀratī Aṃbābāī",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Trigun Roop Tuze Gunan Paresari\nChaturanan Vakte Na Puri Lila Tuzi\nAarti Amba Bai",
+          "meaning": "You embody the three gunas (qualities), your virtues are beyond measure. Even the four-faced Brahma cannot fully describe your divine play.",
+          "transliteration": "Triguṇ rūp tujhe guṇāṃ pāresarī\nChaturānana vakte nā purī līlā tujhī\nĀratī Aṃbābāī",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Saranagat Rakshi Davi Sada Jananiye\nMahi Mahishashur Mardini Tujhe Gunagava\nCharan Kamalasi Datt Mano Raghunathane\nAarti Amba Bai",
+          "meaning": "O Goddess, you always protect those who seek your refuge. O destroyer of the demon Mahishasura, I sing your praises. Raghunath humbly bows at your lotus feet.",
+          "transliteration": "Śaraṇāgat rākṣī devī sadā jananīye\nMahiṣāsura mardīnī tujhe guṇagāve\nCharaṇ kamālāsī datta mano Raghunāthane\nĀratī Aṃbābāī",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Durge Durghat Bhari Tujvin Sansari\nAnath Nathe Ambabai\nTujvin Kone Puri\nAarti Amba Bai",
+          "meaning": "O Durga, you fill all difficulties with your presence. In this world, without you, all are orphans. O mother Ambabai, without you, who else is there for us?",
+          "transliteration": "Durge durghaṭ bhārī tujviṇ saṃsārī\nAnāth nāthe Aṃbābāī\nTujviṇ koṇe purī\nĀratī Aṃbābāī",
+          "imageUrl": null
         }
       ]
     },
     {
       "id": "aarti_vitthal",
-      "title": "Vitthal Aarti",
+      "title": "Vitthal Aarti (Yei Oh Vitthale)",
       "language": "english",
       "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/aarti/Panduranga.jpg",
       "orderIndex": 3,
       "content": [
         {
-          "shloka": "Pandurang, the divine form",
-          "meaning": "Vitthal guides devotees towards devotion and truth."
+          "shloka": "Yei Oh Vitthale Majha Rakhumaicha Vitthale\nPundalikavarade Majha Pandhariche Vitthale\nAarti Saptashrungi",
+          "meaning": "Come, O Vitthal, the beloved of Rakhumai. O Vitthal of Pandharpur, who blessed Pundalik.",
+          "transliteration": "Yeī o Viṭṭhale mājhā Rakhumāīchā Viṭṭhale\nPuṇḍalīkāvarāde mājhā Paṃḍharīche Viṭṭhale\nĀratī Saptaśṛṅgī",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kanhopatra Majhi Dasi Janee Majhi Dasi\nSavaraa Majhi Dasi Namayanchi Dasi\nYei Oh Vitthale",
+          "meaning": "Kanhopatra is my devotee, Janai is my devotee, Savata is my devotee, the devotee of Namadev. Come, O Vitthal.",
+          "transliteration": "Kānhopatrā mājhī dāsī Jānī mājhī dāsī\nSāvarā mājhī dāsī Nāmayāṃchī dāsī\nYeī o Viṭṭhale",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Bhanudas Majha Bhakta Jani Majha Bhakta\nKanha Majha Bhakta Namayanchi Dasi\nYei Oh Vitthale",
+          "meaning": "Bhanudas is my devotee, Jani is my devotee, Kanha is my devotee, servants of Namadev. Come, O Vitthal.",
+          "transliteration": "Bhānudās mājhā bhakta Jānī mājhā bhakta\nKānhā mājhā bhakta Nāmayāṃchī dāsī\nYeī o Viṭṭhale",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Gora Kumhar Majha Bhakta Savata Majha Bhakta\nChokha Majha Bhakta Namayanchi Dasi\nYei Oh Vitthale",
+          "meaning": "Gora the potter is my devotee, Savata is my devotee, Chokha is my devotee, servants of Namadev. Come, O Vitthal.",
+          "transliteration": "Gorā kuṃbhār mājhā bhakta Savatā mājhā bhakta\nChokhā mājhā bhakta Nāmayāṃchī dāsī\nYeī o Viṭṭhale",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Yei Oh Vitthale Majha Rakhumaicha Vitthale\nPundalikavarade Majha Pandhariche Vitthale",
+          "meaning": "Come, O Vitthal, the beloved of Rakhumai. O Vitthal of Pandharpur, who blessed Pundalik.",
+          "transliteration": "Yeī o Viṭṭhale mājhā Rakhumāīchā Viṭṭhale\nPuṇḍalīkāvarāde mājhā Paṃḍharīche Viṭṭhale",
+          "imageUrl": null
         }
       ]
     },
     {
       "id": "aarti_shankar",
-      "title": "Shankar Aarti",
+      "title": "Shankar Aarti (Lavthavti Vikrala)",
       "language": "english",
       "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/aarti/shiv.jpg",
       "orderIndex": 4,
       "content": [
         {
-          "shloka": "With Kartikeya and Ganesha",
-          "meaning": "Shankar (Shiva) is the supreme protector of the universe."
+          "shloka": "Lavthavti Vikrala Brahmandi Mala\nVishwayi Devi Mangal Bola\nAarti Bola Aarti Shankarachi\nAarti Bola",
+          "meaning": "The fearsome one, wearing a garland of skulls, Lord of the universe, O Devi speak auspicious words. Perform the aarti, the aarti of Lord Shankar.",
+          "transliteration": "Lāvathāvatī vikrāḷā brahmaṇḍī māḷā\nViśvayī devī maṅgaḷ bolā\nĀratī bolā āratī śaṃkarāchī\nĀratī bolā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Tripurashur Alindile Daitya Mardale\nPadasparshe Tarilya Gauti\nMahi Ganga Dharili Shiva Shree Shankarachi\nAarti Bola",
+          "meaning": "He destroyed Tripurasura and slayed the demons. By the touch of his feet, he liberated Gautami. He held the river Ganga on his head, glory to Lord Shankar.",
+          "transliteration": "Tripurāsur āliṃdile daitya mārdaḷe\nPādasparśe tārilyā Gautī\nMahī Gaṅgā dhariḷī Śivā Śrī Śaṃkarāchī\nĀratī bolā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Dakshacha Makha Dhavala Tripurari Bhala\nSurevarachya Mele Bhasma Uddhale\nNagin Char Charitya Mundmala Gale\nAarti Shankarachi Aarti Bola",
+          "meaning": "He destroyed the sacrifice of Daksha, the three-eyed Lord. At the gathering of gods, he smeared sacred ash. Serpents and skulls adorn his neck. Perform the aarti of Lord Shankar.",
+          "transliteration": "Dakṣāchā makhā dhāvaḷā tripurārī bhāla\nSurevārāchyā meḷe bhasma uddhaḷe\nNāgiṇ chār chāritya muṇḍamāḷā gaḷe\nĀratī Śaṃkarāchī āratī bolā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Mani Maha Dev Mahadev Mhaisivar Bola\nGangi Gouri Shankar Aarti Bola\nAarti Bola Aarti Shankarachi\nAarti Bola",
+          "meaning": "Recite the name of Mahadev, the great Lord of Mahisa. Sing the aarti of Shankar, husband of Gangi and Gouri. Perform the aarti of Lord Shankar.",
+          "transliteration": "Maṇī Mahādev Mahādev mhaīsvar bolā\nGaṅgī Gourī Śaṃkar āratī bolā\nĀratī bolā āratī Śaṃkarāchī\nĀratī bolā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Lavthavti Vikrala Brahmandi Mala\nVishwayi Devi Mangal Bola\nAarti Bola Aarti Shankarachi\nAarti Bola",
+          "meaning": "The fearsome one, wearing a garland of skulls, Lord of the universe, O Devi speak auspicious words. Perform the aarti, the aarti of Lord Shankar.",
+          "transliteration": "Lāvathāvatī vikrāḷā brahmaṇḍī māḷā\nViśvayī devī maṅgaḷ bolā\nĀratī bolā āratī Śaṃkarāchī\nĀratī bolā",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "aarti_laxmi",
+      "title": "Lakshmi Aarti",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/aarti/lakshmi.jpg",
+      "orderIndex": 5,
+      "content": [
+        {
+          "shloka": "Om Jai Lakshmi Mata Maiya Jai Lakshmi Mata\nTumko Nishdin Sevat Hari Vishnu Vidhata\nOm Jai Lakshmi Mata",
+          "meaning": "Om, glory to Mother Lakshmi. Hari, Vishnu, and Brahma serve you day and night. Glory to Mother Lakshmi.",
+          "transliteration": "Oṃ jai Lakṣmī Mātā Maiyā jai Lakṣmī Mātā\nTumko niśdin sevat Hari Viṣṇu Vidhātā\nOṃ jai Lakṣmī Mātā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Uma Rama Brahmani Tum Hi Jag Mata\nSurya Chandrama Dhyavat Narad Rishi Gata\nOm Jai Lakshmi Mata",
+          "meaning": "You are Uma, Rama, and Brahmani, you are the Mother of the world. The sun, moon, and sage Narad meditate upon you and sing your praises.",
+          "transliteration": "Umā Ramā Brahmaṇī tum hī jag Mātā\nSūrya Chandramā dhyāvat Nārad ṛṣi gātā\nOṃ jai Lakṣmī Mātā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Durga Roop Niranjani Sukh Sampatti Data\nJo Koi Tumko Dhyavat Riddhi Siddhi Dhan Pata\nOm Jai Lakshmi Mata",
+          "meaning": "You are the pure form of Durga, the bestower of happiness and wealth. Whoever meditates upon you attains supernatural powers and wealth.",
+          "transliteration": "Durgā rūp nirañjanī sukh saṃpatti dātā\nJo koī tumko dhyāvat ṛddhi siddhi dhan pātā\nOṃ jai Lakṣmī Mātā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Tum Patal Nivasini Tum Hi Shubh Data\nKarma Prabhav Prakashini Bhavnidhi Ki Trata\nOm Jai Lakshmi Mata",
+          "meaning": "You reside in the netherworld, you are the bestower of auspiciousness. You illuminate the effects of karma and save us from the ocean of worldly existence.",
+          "transliteration": "Tum pātāl nivāsinī tum hī śubh dātā\nKarma prabhāv prakāśinī bhavnidhi kī trātā\nOṃ jai Lakṣmī Mātā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Jis Ghar Mein Tum Rahti Sab Sadgun Aata\nSab Sambhav Ho Jata Man Nahi Ghabrata\nOm Jai Lakshmi Mata",
+          "meaning": "In the home where you dwell, all virtues come. Everything becomes possible and the mind is free from fear.",
+          "transliteration": "Jis ghar meṃ tum rahtī sab sadguṇ ātā\nSab saṃbhav ho jātā man nahīṃ ghabrātā\nOṃ jai Lakṣmī Mātā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Tum Bin Yagya Na Hove Vastra Na Koi Pata\nKhan Pan Ka Vaibhav Sab Tumse Ata\nOm Jai Lakshmi Mata",
+          "meaning": "Without you, no sacred rituals can be performed, no one can obtain garments. The grandeur of food and drink all comes from you.",
+          "transliteration": "Tum bin yajña na hove vastra na koī pātā\nKhān pān kā vaibhav sab tumse ātā\nOṃ jai Lakṣmī Mātā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Shubhgun Mandir Sundar Kshirodadhi Jata\nRatan Chaturdash Tum Bin Koi Nahi Pata\nOm Jai Lakshmi Mata",
+          "meaning": "O beautiful abode of auspicious qualities, born from the ocean of milk. Without you, no one can obtain the fourteen jewels.",
+          "transliteration": "Śubhguṇ mandir sundar kṣīrodadhi jātā\nRatan chaturdaś tum bin koī nahīṃ pātā\nOṃ jai Lakṣmī Mātā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Mahalakshmiji Ki Aarti Jo Koi Jan Gate\nUr Anand Samata Paap Utar Jate\nOm Jai Lakshmi Mata",
+          "meaning": "Whoever sings this aarti of Mahalakshmi, their heart is filled with joy and all sins are washed away.",
+          "transliteration": "Mahālakṣmījī kī āratī jo koī jan gāte\nUr ānaṃd samātā pāp utar jāte\nOṃ jai Lakṣmī Mātā",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "aarti_saraswati",
+      "title": "Saraswati Aarti",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/aarti/saraswati.jpg",
+      "orderIndex": 6,
+      "content": [
+        {
+          "shloka": "Om Jai Saraswati Mata Maiya Jai Saraswati Mata\nSadguna Vaibhav Shalin Tribhuvan Vikhyata\nOm Jai Saraswati Mata",
+          "meaning": "Om, glory to Mother Saraswati. You are endowed with virtues and splendor, famous in all three worlds. Glory to Mother Saraswati.",
+          "transliteration": "Oṃ jai Sarasvatī Mātā Maiyā jai Sarasvatī Mātā\nSadguṇ vaibhav śālin tribhuvan vikhyātā\nOṃ jai Sarasvatī Mātā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Chandra Vadani Padmasini Dyutigunvari\nShubh Vasana Virajit Kanthi Motihari\nOm Jai Saraswati Mata",
+          "meaning": "Moon-faced, seated on a lotus, radiant with divine qualities. Dressed in pure garments and adorned with a pearl necklace.",
+          "transliteration": "Chandra vadanī padmāsinī dyutiguṇvārī\nŚubh vāsanā virājit kaṇṭhī motīhārī\nOṃ jai Sarasvatī Mātā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Veenavadini Var De Sab Vidhya Dani\nTum Bhavasgari Tarini Dukh Nivarini\nOm Jai Saraswati Mata",
+          "meaning": "O player of the veena, bestower of boons, giver of all knowledge. You help us cross the ocean of worldly existence and remove all sorrows.",
+          "transliteration": "Vīṇāvādinī var de sab vidyā dānī\nTum bhavasāgarī tāriṇī duḥkh nivāriṇī\nOṃ jai Sarasvatī Mātā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kahi Brahma Vishnu Mahesh Tumhey Nit Pujey\nAur Sakal Janparisha Bhi Tumhein Bhajey\nOm Jai Saraswati Mata",
+          "meaning": "Brahma, Vishnu, and Mahesh worship you constantly. All beings in the universe also sing your praises.",
+          "transliteration": "Kahī Brahmā Viṣṇu Maheś tumheṃ nit pūjeṃ\nAur sakal janpariṣā bhī tumheṃ bhajeṃ\nOṃ jai Sarasvatī Mātā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Tum Hi Hansa Vahini Vidya Data Dani\nTribhuvan Mahima Tumhari Sab Jag Jani\nOm Jai Saraswati Mata",
+          "meaning": "You ride the swan and bestow knowledge. Your glory in the three worlds is known to all.",
+          "transliteration": "Tum hī haṃsa vāhinī vidyā dātā dānī\nTribhuvan mahimā tumhārī sab jag jānī\nOṃ jai Sarasvatī Mātā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Maa Saraswatiji Ki Aarti Jo Koi Nit Gave\nHitkaari Sukh Sampatti Sab Ko Paave\nOm Jai Saraswati Mata",
+          "meaning": "Whoever sings this aarti of Mother Saraswati daily, attains beneficial happiness and prosperity.",
+          "transliteration": "Mā Sarasvatījī kī āratī jo koī nit gāve\nHitkārī sukh saṃpatti sab ko pāve\nOṃ jai Sarasvatī Mātā",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "aarti_ram",
+      "title": "Ram Aarti (Aarti Shri Ramchandra Ki)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/aarti/ram.jpg",
+      "orderIndex": 7,
+      "content": [
+        {
+          "shloka": "Aarti Shri Ramchandra Ki Jay Bol Hanuman Ki\nLal Deh Lali Lase Aru Dhadhi Topi Lasi\nBahe Bhuja Biral Ki Kandhe Moonj Janeu Saaji",
+          "meaning": "Perform the aarti of Lord Shri Ramchandra, hail the glory of Hanuman. His reddish body gleams beautifully, with a cap atop. His mighty arms are magnificent, and the sacred thread adorns his shoulder.",
+          "transliteration": "Āratī Śrī Rāmacandra kī jai bol Hanumān kī\nLāl deh lālī lāse aru dhaḍhī ṭopī lāsī\nBāhe bhujā biral kī kāndhe mūṃj janeū sājī",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Chandr Sa Mukh Rajat Hai Jag Mein Sab Se Nyara\nShankar Suvan Kesar Nandan Tej Bala Dhaari\nAarti Shri Ramchandra Ki",
+          "meaning": "His face shines like the moon, unique in all the world. Son of the wind god, anointed with saffron, he possesses great brilliance and strength.",
+          "transliteration": "Chandra sā mukh rājat hai jag meṃ sab se nyārā\nŚaṅkar suvan kesar nandan tej balā dhārī\nĀratī Śrī Rāmacandra kī",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sandhya Hunu Hanuman Lali Palkan Bikh Tekhein\nAanjani Putra Mahaprabhu Aarti Le Ho\nAarti Shri Ramchandra Ki",
+          "meaning": "At dusk, Hanuman is seen with his eyelids slightly open. O great lord, son of Anjani, accept this aarti.",
+          "transliteration": "Sandhyā hunu Hanumān lālī palkan bikh tekheṃ\nAñjanī putra mahāprabhu āratī le ho\nĀratī Śrī Rāmacandra kī",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Lanka Viddhvans Kiye Bhai Siya Sudhi Laye\nLakshmana Praan Sahit Prabhu Sab Sukh Daye\nAarti Shri Ramchandra Ki",
+          "meaning": "He destroyed Lanka and brought news of Sita. He saved the life of Lakshmana and brought happiness to all.",
+          "transliteration": "Laṅkā viddhvaṃs kiye bhāī Siyā sudhī lāye\nLakṣmaṇa prāṇ sahit prabhu sab sukh dāye\nĀratī Śrī Rāmacandra kī",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ko Nahi Janat Hai Jag Mein Kapi Sankar Bhairo\nAanjani Putra Mahaprabhu Shankar Avatara\nAarti Shri Ramchandra Ki Jay Bol Hanuman Ki",
+          "meaning": "Who in the world does not know the monkey deity, an incarnation of Shankar? Son of Anjani, great lord, incarnation of Shankar. Perform the aarti of Lord Ramchandra, hail the glory of Hanuman.",
+          "transliteration": "Ko nahīṃ jānat hai jag meṃ kapi Saṃkar Bhairo\nAñjanī putra mahāprabhu Śaṃkar avatārā\nĀratī Śrī Rāmacandra kī jai bol Hanumān kī",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "aarti_krishna",
+      "title": "Krishna Aarti (Aarti Kunj Bihari Ki)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/aarti/krishna.jpg",
+      "orderIndex": 8,
+      "content": [
+        {
+          "shloka": "Aarti Kunj Bihari Ki Shri Giridhar Krishna Murari Ki\nGale Mein Baijanti Mala Bajave Murli Madhur Bala\nShravan Mein Kundal Jhala Ke Nand Ke Anand Nandlala\nAarti Kunj Bihari Ki",
+          "meaning": "Perform the aarti of the Lord who dwells in the groves, Shri Giridhar Krishna Murari. He wears the Vaijanti garland around his neck and plays the sweet flute. With earrings dangling from his ears, he is the blissful son of Nanda.",
+          "transliteration": "Āratī kuñj bihārī kī Śrī Giridhār Kṛṣṇa Murārī kī\nGale meṃ baijantī mālā bājāve muralī madhur bālā\nŚravaṇ meṃ kuṇḍal jhālā ke Nand ke ānaṃd Naṃdlālā\nĀratī kuñj bihārī kī",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Gagan Sam Ang Kanti Kali Radhika Chamak Rahi\nLatkan Se Ban Thanke Taki Sab Pichhari\nAarti Kunj Bihari Ki",
+          "meaning": "His body has the dark radiance of the sky, and Radhika shines beside him like lightning. He stands gracefully in a bending posture, captivating everyone around.",
+          "transliteration": "Gagan sam aṅg kāntī kālī Rādhikā chamak rahī\nLaṭkan se ban ṭhanke tākī sab pichhārī\nĀratī kuñj bihārī kī",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kanhaiya Karat Raas Leela Aaur Gopi Sang\nDaras Parat Shobha Prabhu Ka Har Ang\nAarti Kunj Bihari Ki",
+          "meaning": "Krishna performs the Raas Leela with the Gopis. Seeing the Lord, every part of his form appears beautiful.",
+          "transliteration": "Kanhāiyā karat rās līlā aur Gopī saṅg\nDaras parat śobhā Prabhu kā har aṅg\nĀratī kuñj bihārī kī",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kamal Nayan So Jhanki Prabhudine\nBhaktan Ke Sankat Har Liye Tinen\nAarti Kunj Bihari Ki",
+          "meaning": "With his lotus eyes, the Lord gazes upon us. He removes the sufferings of his devotees.",
+          "transliteration": "Kamal nayan so jhāṃkī Prabhudīne\nBhaktaṃ ke saṃkaṭ har līye tinen\nĀratī kuñj bihārī kī",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Aarti Kunj Bihari Ki Shri Giridhar Krishna Murari Ki\nGale Mein Baijanti Mala Bajave Murli Madhur Bala\nAarti Kunj Bihari Ki",
+          "meaning": "Perform the aarti of the Lord who dwells in the groves, Shri Giridhar Krishna Murari. He wears the Vaijanti garland and plays the sweet flute.",
+          "transliteration": "Āratī kuñj bihārī kī Śrī Giridhār Kṛṣṇa Murārī kī\nGale meṃ baijantī mālā bājāve muralī madhur bālā\nĀratī kuñj bihārī kī",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "aarti_hanuman",
+      "title": "Hanuman Aarti (Aarti Kije Hanuman)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/aarti/hanuman.jpg",
+      "orderIndex": 9,
+      "content": [
+        {
+          "shloka": "Aarti Kije Hanuman Lala Ki\nDusht Dalan Raghunath Kala Ki\nJake Bal Se Girivar Kaape\nRog Dosh Jake Nikat Na Jhanke",
+          "meaning": "Perform the aarti of dear Hanuman, the destroyer of evil and an aspect of Lord Raghunath. By his strength, mountains tremble. Disease and afflictions dare not come near him.",
+          "transliteration": "Āratī kīje Hanumān lalā kī\nDuṣṭa dalan Raghunāth kālā kī\nJāke bal se girivār kāṃpe\nRog doṣ jāke nikaṭ na jhāṃke",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Anjani Putra Maha Baldai\nSantan Ke Prabhu Sada Sahai\nDe Bira Raghubar Pahuchan Mahin\nBhaktan Ke Karyasiddh Karahin",
+          "meaning": "Son of Anjani, possessing great strength. He is always the helper of saints. Carrying the token of Lord Rama, he accomplishes the tasks of devotees.",
+          "transliteration": "Añjanī putra mahā baldāī\nSantaṃ ke Prabhu sadā sahāī\nDe bīrā Raghuvīr pahuchān māhīṃ\nBhaktaṃ ke kāryasiddh karāhiṃ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Lanka Viddhvans Kiye Raghurai\nTulsi Das Sada Hari Cherai\nAarti Kije Hanuman Lala Ki\nDusht Dalan Raghunath Kala Ki",
+          "meaning": "He destroyed Lanka for Lord Rama. Tulsidas always remains a servant of Hari. Perform the aarti of dear Hanuman, the destroyer of evil.",
+          "transliteration": "Laṅkā viddhvaṃs kiye Raghurāī\nTulsīdās sadā Hari cherā ī\nĀratī kīje Hanumān lalā kī\nDuṣṭa dalan Raghunāth kālā kī",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Maha Bir Vikram Bajrangi\nKumati Nivar Sumati Ke Sangi\nAarti Kije Hanuman Lala Ki",
+          "meaning": "O great warrior, valiant Bajrangi. You remove evil thoughts and are the companion of the wise. Perform the aarti of dear Hanuman.",
+          "transliteration": "Mahā bīr bikram Bajraṅgī\nKumati nivār sumati ke saṅgī\nĀratī kīje Hanumān lalā kī",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "aarti_datta",
+      "title": "Dattatreya Aarti (Trigun Avtar)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/aarti/dattatreya.jpg",
+      "orderIndex": 10,
+      "content": [
+        {
+          "shloka": "Trigunaavatara Dattatreya Deva\nBrahma Vishnu Maheshwara Jaydev\nJai Dev Jai Dev Jai Shri Guru Datta\nAvadhuta Chintan Shri Guru Datta",
+          "meaning": "Lord Dattatreya, the incarnation of the three gunas, embodying Brahma, Vishnu, and Maheshwara. Victory to Shri Guru Datta, the liberated one who is the embodiment of pure consciousness.",
+          "transliteration": "Triguṇāvatāra Dattātreya devā\nBrahmā Viṣṇu Maheśvarā jaydev\nJai dev jai dev jai Śrī Guru Dattā\nAvadhūta chintan Śrī Guru Dattā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sagun Nirgun Dattu Ek Mevha\nBhav Bhay Harana Karuna Ghane Deva\nJai Dev Jai Dev Jai Shri Guru Datta",
+          "meaning": "Dattu is the one who is both with form and formless. O compassionate Lord, you remove the fear of worldly existence.",
+          "transliteration": "Saguṇ nirguṇ Dattū ek mevhā\nBhav bhay haraṇa karuṇā ghane devā\nJai dev jai dev jai Śrī Guru Dattā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Savad Roopa Vyapak Digambari\nAvagat Lila Hi Atri Kumari\nJai Dev Jai Dev Jai Shri Guru Datta",
+          "meaning": "His all-pervading form is the universe itself, clothed in the directions. His divine play is known only to the son of Atri.",
+          "transliteration": "Savad rūpā vyāpak digambarī\nAvagat līlā hī Atri kumārī\nJai dev jai dev jai Śrī Guru Dattā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Brahmananda Param Sukh Sampadha\nAvadhooti Shobha Ati Sundar Mandha\nJai Dev Jai Dev Jai Shri Guru Datta",
+          "meaning": "The supreme bliss of Brahman, embodying supreme happiness and prosperity. The beauty of the Avadhoot is most charming and gentle.",
+          "transliteration": "Brahmānaṃda param sukh saṃpadā\nAvadhūtī śobhā ati sundar maṃdha\nJai dev jai dev jai Śrī Guru Dattā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Bhakta Manakamana Kalpadrum Daata\nJai Dev Jai Dev Jai Shri Guru Datta\nAvadhuta Chintan Shri Guru Datta",
+          "meaning": "You are the wish-fulfilling tree for devotees' desires. Victory to Shri Guru Datta, the liberated one who is the embodiment of pure consciousness.",
+          "transliteration": "Bhakta manakāmanā kalpadrum dātā\nJai dev jai dev jai Śrī Guru Dattā\nAvadhūta chintan Śrī Guru Dattā",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "aarti_sai",
+      "title": "Sai Baba Aarti (Shirdi)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/aarti/sai.jpg",
+      "orderIndex": 11,
+      "content": [
+        {
+          "shloka": "Aarti Sai Baba Saukhyadatara Jeeva\nCharana Rajatali Dyava Dasa Visava\nBhaktaa Visava\nAarti Sai Baba",
+          "meaning": "Perform the aarti of Sai Baba, the bestower of happiness to all beings. Give us the dust of your holy feet and grant rest to your servants and devotees.",
+          "transliteration": "Āratī Sāī Bābā saukhyadātāra jīvā\nCharaṇa rajatāḷī dyāvā dāsa visāvā\nBhaktā visāvā\nĀratī Sāī Bābā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Jaaluniya Aanang Swaswarupee Rahe Danga\nMumukshu Janaa Daawe Nija Dola Sreerangaa\nAarti Sai Baba",
+          "meaning": "Having burnt desire, he remains absorbed in his true self. To the seekers of liberation, he shows them the divine Lord Srirangaa.",
+          "transliteration": "Jāḷuniyā ānaṅg svasvarūpī rahe ḍaṅgā\nMumukṣu janā dāve nija ḍolā Śrīraṅgā\nĀratī Sāī Bābā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Jayaa Mani Jaisa Bhava Tayaa Taisaa Anubhava\nDavisee Daasa Visava Laksha Laavee Hari Guna Gaava\nAarti Sai Baba",
+          "meaning": "As one's feelings are, so is one's experience. O Lord, grant rest to your servants and inspire them to sing the praises of Hari.",
+          "transliteration": "Jayā manī jaisā bhāvā tayā taisā anubhavā\nDavisī dāsa visāvā lakṣa lāvī Hari guṇa gāvā\nĀratī Sāī Bābā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kaliyugee Avatara Saguna Parabrahma Saachara\nAvataarna Jhaalase Swami Datta Digambara\nAarti Sai Baba",
+          "meaning": "The incarnation in this Kali age is the manifest supreme Brahman. Lord Datta Digambar has incarnated.",
+          "transliteration": "Kaliyugī avatārā saguṇa Parabrahma sāchārā\nAvatārṇā jhāḷāse Svāmī Dattā Digambarā\nĀratī Sāī Bābā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Aathan Divasa Guruvaaree Bhakta Karitee Vaaree\nPrabhupada Pahataa Hari Guruchi Aarti\nSai Baba Saukhyadatara Jeeva\nAarti Sai Baba",
+          "meaning": "Every Thursday, devotees gather. Beholding the feet of the Lord, they perform the aarti of Guru Hari. Sai Baba, the bestower of happiness to all beings.",
+          "transliteration": "Āṭhan divasa Guruvārī bhaktā karītī vārī\nPrabhupada pahātā Harī Guruchī āratī\nSāī Bābā saukhyadātāra jīvā\nĀratī Sāī Bābā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Shirdee Maajhe Pandharipura Sai Baba Ramavara\nBaba Ramavara Sai Baba Ramavara\nAarti Sai Baba",
+          "meaning": "Shirdi is my Pandharpur, and Sai Baba is my Lord Rama. Sai Baba is my beloved Lord.",
+          "transliteration": "Śirdī mājhe Paṃḍharīpurā Sāī Bābā Rāmavarā\nBābā Rāmavarā Sāī Bābā Rāmavarā\nĀratī Sāī Bābā",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "aarti_ganesh_vakratunda",
+      "title": "Ganesh Aarti (Vakratunda Mahakaya)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/aarti/ganesh.jpg",
+      "orderIndex": 12,
+      "content": [
+        {
+          "shloka": "Vakratunda Mahakaya Suryakoti Samaprabha\nNirvighnam Kuru Me Deva Sarva Karyeshu Sarvada",
+          "meaning": "O Lord with a curved trunk and massive body, whose brilliance equals a billion suns, please make all my endeavors free from obstacles, always.",
+          "transliteration": "Vakratuṇḍa mahākāya sūryakoṭi samaprabha\nNirvighnaṃ kuru me deva sarva kāryeṣu sarvadā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Jai Ganesh Jai Ganesh Jai Ganesh Deva\nMata Jaki Parvati Pita Mahadeva\nJai Ganesh Jai Ganesh Jai Ganesh Deva",
+          "meaning": "Victory to Lord Ganesh, victory to Ganesh Deva. Whose mother is Parvati and father is the great Lord Shiva.",
+          "transliteration": "Jai Gaṇeś jai Gaṇeś jai Gaṇeś devā\nMātā jākī Pārvatī pitā Mahādevā\nJai Gaṇeś jai Gaṇeś jai Gaṇeś devā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ek Dant Dayavant Char Bhuja Dhari\nMastak Par Tilak Sohe Muse Ki Savari\nJai Ganesh Jai Ganesh Jai Ganesh Deva",
+          "meaning": "The compassionate one with a single tusk and four arms. A tilak shines on his forehead and a mouse is his vehicle.",
+          "transliteration": "Ek daṃt dayāvaṃt chār bhujā dhārī\nMastak par tilak sohe mūse kī savārī\nJai Gaṇeś jai Gaṇeś jai Gaṇeś devā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Pan Chadhe Phool Chadhe Aur Chadhe Meva\nLadduan Ka Bhog Lage Sant Karen Seva\nJai Ganesh Jai Ganesh Jai Ganesh Deva",
+          "meaning": "Betel leaves are offered, flowers are offered, and dry fruits too. Laddoos are offered as food, and saints serve him.",
+          "transliteration": "Pān chaḍhe phūl chaḍhe aur chaḍhe mevā\nLaḍḍuaṃ kā bhog lage saṃt kareṃ sevā\nJai Gaṇeś jai Gaṇeś jai Gaṇeś devā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Andhan Ko Aankh Det Kodhin Ko Kaya\nBanjhan Ko Putra Det Nirdhan Ko Maya\nJai Ganesh Jai Ganesh Jai Ganesh Deva",
+          "meaning": "He gives sight to the blind and heals the lepers. He grants children to the childless and wealth to the poor.",
+          "transliteration": "Aṃdhāṃ ko āṃkh det koḍhiṃ ko kāyā\nBāṃjhaṃ ko putra det nirdhāṃ ko māyā\nJai Gaṇeś jai Gaṇeś jai Gaṇeś devā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Surshyam Ko Daet Tum Jab Aave Sharan Tihari\nSur Nar Muni Jan Kavat Dau Sharan Tihari\nJai Ganesh Jai Ganesh Jai Ganesh Deva",
+          "meaning": "You grant boons to those who come to your refuge. Gods, men, sages, and poets all seek your shelter.",
+          "transliteration": "Surśyām ko dāet tum jab āve śaraṇ tihārī\nSur nar munī jan kavat dau śaraṇ tihārī\nJai Gaṇeś jai Gaṇeś jai Gaṇeś devā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Deenan Ki Laaj Rakhao Shambhu Sut Vaari\nKaamna Ko Puri Karo Jag Baalihaari\nJai Ganesh Jai Ganesh Jai Ganesh Deva",
+          "meaning": "O son of Shambhu, protect the honor of the humble. Fulfill our desires, we sacrifice ourselves to you.",
+          "transliteration": "Dīnāṃ kī lāj rakhao Śaṃbhu sut vārī\nKāmnā ko purī karo jag bālihārī\nJai Gaṇeś jai Gaṇeś jai Gaṇeś devā",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "aarti_mahalakshmi",
+      "title": "Mahalakshmi Aarti (Ai Mahalakshmi)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/aarti/lakshmi.jpg",
+      "orderIndex": 13,
+      "content": [
+        {
+          "shloka": "Ai Mahalakshmi Tujha Namila\nPrathama Aamhi Archiyela\nAarti Mahalakshmichi\nBhakticha Daan Deii Raji Ho Raji Ho",
+          "meaning": "O Mahalakshmi, we bow to you. First, we worship you. This is the aarti of Mahalakshmi. Grant us the gift of devotion, be pleased, be pleased.",
+          "transliteration": "Aī Mahālakṣmī tujhā namīlā\nPratham āmhī archīyelā\nĀratī Mahālakṣmīchī\nBhaktīchā dān deī rājī ho rājī ho",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sarva Mangal Sarvarthi Sarveshwari Maye\nSarvapuja Prathampuja Tujhya Padi Rahe\nAarti Mahalakshmichi",
+          "meaning": "You are all-auspicious, fulfiller of all purposes, supreme Goddess. All worship begins with you, we remain at your feet.",
+          "transliteration": "Sarva maṅgaḷ sarvārthī Sarveśvarī māye\nSarvapūjā prathampūjā tujhyā padī rahe\nĀratī Mahālakṣmīchī",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ashta Bhuja Ashtami Rukmini Satyabhama\nGayatri Savitri Tujhya Nanat Naama\nAarti Mahalakshmichi",
+          "meaning": "You are the eight-armed one of the eighth day, you are Rukmini and Satyabhama. You are Gayatri and Savitri, you have countless names.",
+          "transliteration": "Aṣṭa bhujā aṣṭamī Rukmiṇī Satyabhāmā\nGāyatrī Sāvitrī tujhyā nānat nāmā\nĀratī Mahālakṣmīchī",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kamala Padmavasa Padmapriya Padmagandhe\nBhaktanchi Rakshani Bhuktimukti Dayini\nAarti Mahalakshmichi",
+          "meaning": "O lotus-dweller, lover of the lotus, with the fragrance of the lotus. You are the protector of devotees and the giver of worldly pleasures and liberation.",
+          "transliteration": "Kamalā padmāvāsā padmapriyā padmagandhe\nBhaktāṃchī rakṣaṇī bhuktimukti dāyinī\nĀratī Mahālakṣmīchī",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Daridriya Dahan Karunamayi Panchsheelaa\nKalpavallari Kamadhenu Tujhya Divya Leela\nAarti Mahalakshmichi",
+          "meaning": "O compassionate one who burns poverty, you embody the five virtues. You are the wish-fulfilling creeper and the divine cow, wondrous are your divine plays.",
+          "transliteration": "Dāridriya dahana karuṇāmayī pāñcśīlā\nKalpavallari kāmadhenu tujhyā divya līlā\nĀratī Mahālakṣmīchī",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ai Mahalakshmi Tujha Namila\nPrathama Aamhi Archiyela\nAarti Mahalakshmichi\nBhakticha Daan Deii Raji Ho Raji Ho",
+          "meaning": "O Mahalakshmi, we bow to you. First, we worship you. This is the aarti of Mahalakshmi. Grant us the gift of devotion, be pleased, be pleased.",
+          "transliteration": "Aī Mahālakṣmī tujhā namīlā\nPratham āmhī archīyelā\nĀratī Mahālakṣmīchī\nBhaktīchā dān deī rājī ho rājī ho",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "aarti_ambabai",
+      "title": "Ambabai Aarti",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/aarti/durga_devi.jpg",
+      "orderIndex": 14,
+      "content": [
+        {
+          "shloka": "Udo Udo Ambe Udo Udo Ambe\nMaza Nijas Chinta Layi Amba Ubhi\nAarti Ambabai",
+          "meaning": "Arise, arise O Amba! Arise O Amba! Mother Amba stands taking care of my true worries.",
+          "transliteration": "Uḍo uḍo Aṃbe uḍo uḍo Aṃbe\nMājhā nijās chintā lāyī Aṃbā ubhī\nĀratī Aṃbābāī",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Simhavaahini Maa Jagadambe\nChaturvedi Paritoshini Triloki Rakhvali\nAarti Ambabai",
+          "meaning": "O Mother of the world, who rides a lion. You are pleased by the four Vedas and are the protector of the three worlds.",
+          "transliteration": "Siṃhavāhinī Mā Jagadaṃbe\nChaturvedī paritoṣiṇī trilokī rakhvālī\nĀratī Aṃbābāī",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Chandranana Padmini Durga Jag Janani\nSankat Nivaarini Maata Bhavani\nAarti Ambabai",
+          "meaning": "Moon-faced, seated on a lotus, Durga the mother of the world. O Mother Bhavani, remover of all calamities.",
+          "transliteration": "Chandranana padminī Durgā jag jananī\nSaṅkaṭ nivāriṇī Mātā Bhavānī\nĀratī Aṃbābāī",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Bhakta Jananchya Kaaj Savare\nSankatasthiti Mukta Kare\nKarunasindhoo Maaye Ambabai\nAarti Ambabai",
+          "meaning": "You fulfill the needs of your devotees. You free them from all calamities. O ocean of compassion, Mother Ambabai.",
+          "transliteration": "Bhakta janāṃchyā kāj sāvare\nSaṅkaṭasthiti mukta kare\nKaruṇāsiṃdhū māye Aṃbābāī\nĀratī Aṃbābāī",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kolhapurvasi Ambabai Jaga Tarini\nBhaktachya Sankat Haarini Dukha Nivaarini\nAarti Ambabai",
+          "meaning": "Ambabai who resides in Kolhapur, savior of the world. Remover of devotees' troubles and eliminator of sorrows.",
+          "transliteration": "Kolhāpurvāsī Aṃbābāī jagā tāriṇī\nBhaktāchyā saṅkaṭ hāriṇī duḥkh nivāriṇī\nĀratī Aṃbābāī",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Udo Udo Ambe Udo Udo Ambe\nMaza Nijas Chinta Layi Amba Ubhi\nAarti Ambabai",
+          "meaning": "Arise, arise O Amba! Arise O Amba! Mother Amba stands taking care of my true worries.",
+          "transliteration": "Uḍo uḍo Aṃbe uḍo uḍo Aṃbe\nMājhā nijās chintā lāyī Aṃbā ubhī\nĀratī Aṃbābāī",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "aarti_khandoba",
+      "title": "Khandoba Aarti",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/aarti/khandoba.jpg",
+      "orderIndex": 15,
+      "content": [
+        {
+          "shloka": "Yelkot Yelkot Jai Malhar\nJejuricha Banai Rajasa Mangal Har\nAarti Khandobachi",
+          "meaning": "Hail, hail, victory to Malhar! The king of Jejuri, remover of all inauspiciousness.",
+          "transliteration": "Yeḷkoṭ yeḷkoṭ jai Malhar\nJejurīchā bāṇāī rājāsā maṅgaḷ har\nĀratī Khaṇḍobāchī",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Mani Malla Daitya Sanhaari\nKhanderayache Ang Bhandaryane Bhari\nTuljapuri Bhavani Priykar Khanderai\nAarti Khandobachi",
+          "meaning": "He destroyed the demons Mani and Malla. Khanderaya's body is covered with turmeric. Bhavani of Tuljapur is dear to Khanderai.",
+          "transliteration": "Maṇī Mallā daitya saṃhārī\nKhaṇḍerāyāche aṅg bhaṇḍāryāne bharī\nTuḷjāpurī Bhavānī priykar Khaṇḍerāī\nĀratī Khaṇḍobāchī",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Mhalsa Banai Saundarya Rashi\nShobhati Khanderaya Pashi\nBhakta Jananche Kalyan Kari\nAarti Khandobachi",
+          "meaning": "Mhalsa Banai is the epitome of beauty. She shines beside Khanderaya. He ensures the welfare of his devotees.",
+          "transliteration": "Mhaḷsā Bāṇāī saundarya rāśī\nŚobhatī Khaṇḍerāyā pāśī\nBhakta janāṃche kalyāṇ karī\nĀratī Khaṇḍobāchī",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ashwa Vaahana Khanda Martanda\nBhakti Karita Maga Nahi Danda\nPremache Bhukela Khanderaya Deva\nAarti Khandobachi",
+          "meaning": "He rides a horse, the mighty Martanda. For those who worship him, there is no punishment. Lord Khanderaya hungers for love and devotion.",
+          "transliteration": "Aśva vāhanā Khaṇḍā Mārtaṇḍā\nBhaktī karitā māg nāhī daṇḍā\nPremāche bhukelā Khaṇḍerāyā devā\nĀratī Khaṇḍobāchī",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Champa Shashthi Diwali Utsav Jejuri Nagari\nBhandara Udhalit Bhakta Chali Jejuri Nagari\nBhandara Laaviti Sare Bhakta Harshe\nAarti Khandobachi",
+          "meaning": "The festival of Champa Shashthi is celebrated in the city of Jejuri. Devotees shower turmeric as they walk to the city of Jejuri. All devotees joyfully apply turmeric.",
+          "transliteration": "Chaṃpā ṣaṣṭhī dīvāḷī utsav Jejurī nagarī\nBhaṇḍārā udhāḷit bhakta chalī Jejurī nagarī\nBhaṇḍārā lāvitī sāre bhakta harṣe\nĀratī Khaṇḍobāchī",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Yelkot Yelkot Jai Malhar\nJejuricha Banai Rajasa Mangal Har\nAarti Khandobachi",
+          "meaning": "Hail, hail, victory to Malhar! The king of Jejuri, remover of all inauspiciousness.",
+          "transliteration": "Yeḷkoṭ yeḷkoṭ jai Malhar\nJejurīchā bāṇāī rājāsā maṅgaḷ har\nĀratī Khaṇḍobāchī",
+          "imageUrl": null
         }
       ]
     }

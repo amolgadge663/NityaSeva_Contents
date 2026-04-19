@@ -1,0 +1,402 @@
+{
+  "category": "Shrimad Bhagavatam",
+  "version": 1,
+  "items": [
+    {
+      "id": "bhag_sk01",
+      "title": "स्कंध १ - सृष्टी व नारद",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhagavatam/vishnu.jpg",
+      "orderIndex": 1,
+      "content": [
+        {
+          "shloka": "जन्माद्यस्य यतोऽन्वयादितरतश्चार्थेष्वभिज्ञः स्वराट् |\nतेने ब्रह्म हृदा य आदिकवये मुह्यन्ति यत्सूरयः ||",
+          "meaning": "ज्या परम सत्यापासून या विश्वाची सृष्टी, पालन आणि प्रलय होतो, जो स्वयंप्रकाशित आहे, ज्याने ब्रह्मदेवाला वेदांचे ज्ञान दिले आणि ज्याच्यासमोर विद्वानही मोहित होतात.",
+          "transliteration": "Janmadyasya yato'nvayaad itaratash chaartheshv abhijnah svaraat |\nTene Brahma hridaa ya aadikavaye muhyanti yat surayah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "धर्मः प्रोज्झितकैतवोऽत्र परमो निर्मत्सराणां सताम् |\nवेद्यं वास्तवमत्र वस्तु शिवदं तापत्रयोन्मूलनम् ||",
+          "meaning": "या भागवतात सर्व छळकपटापासून मुक्त असा परम धर्म प्रकट आहे, जो निर्मत्सर संतांसाठी आहे. येथे वास्तविक सत्य सादर केले आहे, जे कल्याणकारी आहे आणि तीनही तापांचे समूळ उच्चाटन करते.",
+          "transliteration": "Dharmah projjhita-kaitavo'tra paramo nirmatsaraanaam sataam |\nVedyam vaastavam atra vastu shivadam taapatrayonmoolanam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "निगमकल्पतरोर्गलितं फलं शुकमुखादमृतद्रवसंयुतम् |\nपिबत भागवतं रसमालयं मुहुरहो रसिका भुवि भावुकाः ||",
+          "meaning": "हे विचारशील भक्तजनहो, श्रीमद्भागवताचे पान करा, जे वैदिक वृक्षाचे पिकलेले फळ आहे, शुकदेवांच्या मुखातून प्रवाहित, अमृत रसाने परिपूर्ण.",
+          "transliteration": "Nigama-kalpataro galitam phalam shuka-mukhaad amrita-drava-samyutam |\nPibata bhaagavatam rasam aalayam muhur aho rasikaa bhuvi bhaavukaah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "नैमिषेऽनिमिषक्षेत्रे ऋषयः शौनकादयः |\nसत्रं स्वर्गाय लोकाय सहस्रसममासत ||",
+          "meaning": "नैमिषारण्याच्या पवित्र वनात शौनक प्रमुख ऋषींनी स्वर्गलोक प्राप्तीसाठी सहस्र वर्षांचा यज्ञ आरंभ केला.",
+          "transliteration": "Naimishe'nimisha-kshetre rishayah shaunaka-adayah |\nSatram svargaaya lokaaya sahasra-samam aasata ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "bhag_sk02",
+      "title": "स्कंध २ - ब्रह्मांड रचना",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhagavatam/vishnu.jpg",
+      "orderIndex": 2,
+      "content": [
+        {
+          "shloka": "स वै पुंसां परो धर्मो यतो भक्तिरधोक्षजे |\nअहैतुक्यप्रतिहता ययात्मा सुप्रसीदति ||",
+          "meaning": "मानवतेचा परम धर्म तो आहे ज्यामुळे अधोक्षज (इंद्रियांच्या पलीकडे असलेल्या) भगवंतांची भक्ती प्राप्त होते. अशी भक्ती निष्काम व अखंड असावी, तरच आत्मा पूर्णतः संतुष्ट होतो.",
+          "transliteration": "Sa vai pumsaam paro dharmo yato bhaktir adhokshaje |\nAhaituki apratihata yayaatmaa supraseedati ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "वासुदेवे भगवति भक्तियोगः प्रयोजितः |\nजनयत्याशु वैराग्यं ज्ञानं च यदहैतुकम् ||",
+          "meaning": "भगवान वासुदेवांच्या भक्तीत गुंतल्यास त्वरित निर्हेतुक ज्ञान आणि संसारापासून वैराग्य प्राप्त होतो.",
+          "transliteration": "Vaasudeve bhagavati bhakti-yogah prayojitah |\nJanayaty aashu vairaagyam jnaanam cha yad ahaitukam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अहमेवासमेवाग्रे नान्यद्यत्सदसत्परम् |\nपश्चादहं यदेतच्च योऽवशिष्येत सोऽस्म्यहम् ||",
+          "meaning": "सृष्टीपूर्वी केवळ मीच होतो. दुसरे काहीही नव्हते, ना स्थूल ना सूक्ष्म. सृष्टीनंतरही मीच आहे आणि प्रलयकाळी जे शिल्लक राहते तेही मीच आहे.",
+          "transliteration": "Aham evaasam evaagre naanyad yat sad asat param |\nPashchaad aham yad etach cha yo'vashishyeta so'smy aham ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "एते चांशकलाः पुंसः कृष्णस्तु भगवान् स्वयम् |\nइन्द्रारिव्याकुलं लोकं मृडयन्ति युगे युगे ||",
+          "meaning": "सर्व अवतार हे भगवंतांचे अंश किंवा कला आहेत, परंतु श्रीकृष्ण स्वयं साक्षात् भगवान आहेत. ते प्रत्येक युगात जगाचे रक्षण करतात.",
+          "transliteration": "Ete chaamsha-kalaah pumsah Krishnas tu Bhagavaan svayam |\nIndraari-vyaakulam lokam mridayanti yuge yuge ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "bhag_sk03",
+      "title": "स्कंध ३ - कपिल, वराह अवतार",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhagavatam/vishnu.jpg",
+      "orderIndex": 3,
+      "content": [
+        {
+          "shloka": "कपिलो उवाच - अथाहं सर्वतत्त्वानां सृष्टिं प्रत्ययहेतु च |\nवक्ष्ये विधानं यत्प्रोक्तं प्रभोः प्राकृतमाकृतिम् ||",
+          "meaning": "भगवान कपिल म्हणाले - आता मी सर्व तत्त्वांची सृष्टी, त्यांच्या प्रकटीकरणाचे कारण आणि विद्वानांनी सांगितलेले भगवंतांचे मूळ स्वरूप स्पष्ट करतो.",
+          "transliteration": "Kapilo uvaacha - athaaham sarva-tattvaanaam srishtim pratyaya-hetu cha |\nVakshye vidhaanam yat proktam prabhoh praakritam aakritim ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "देवहूतिरुवाच - निर्विण्णा नितरां भूमन्नसदिन्द्रियतर्षणात् |\nयेन सम्भाव्यमानेन प्रकृतिः पुरुषस्य च ||",
+          "meaning": "देवहूती म्हणाल्या - हे भगवन, मी इंद्रियांच्या अतृप्त इच्छांमुळे पूर्णतः विरक्त झाले आहे. कृपया प्रकृती आणि पुरुष यांचे परस्पर संबंध स्पष्ट करा.",
+          "transliteration": "Devahootir uvaacha - nirvinnaaa nitaraam bhooman asad-indriya-tarshanaat |\nYena sambhaavyamaanena prakritih purushasya cha ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सत्त्वं रजस्तम इति प्रकृतेर्गुणास्तैर्युक्तः परः पुरुष एक इहास्य धत्ते |\nस्थित्यादये हरिविरिञ्चिहरेति संज्ञाः श्रेयांसि तत्र खलु सत्त्वतनोर्नृणां स्युः ||",
+          "meaning": "सत्त्व, रज आणि तम हे प्रकृतीचे तीन गुण परमात्म्याला बांधतात. सृष्टी, स्थिती आणि लय यांसाठी भगवंत ब्रह्मा, विष्णू आणि शिव अशी नावे धारण करतात. सत्त्वगुणी विष्णू हे मानवांचे खरे कल्याण करतात.",
+          "transliteration": "Sattvam rajas tama iti prakriter gunaas tair yuktah parah purusha eka ihaasya dhatte |\nSthity-aadaye Hari-Virinchi-Hareti samjnaah shreyaamsi tatra khalu sattva-tanor nrinaam syuh ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "वराहरूपेण भगवान् महीं रसातलाद्धृत्वा |\nहिरण्याक्षं निहत्य दंष्ट्राग्रे धरां दधार ||",
+          "meaning": "भगवंतांनी वराह रूप धारण करून पृथ्वीला रसातळातून वर काढले आणि हिरण्याक्षाचा वध करून दाढेच्या टोकावर पृथ्वी धारण केली.",
+          "transliteration": "Varaaha-roopena Bhagavaan maheem rasaatalaat dhritvaa |\nHiranyaaksham nihatya damshtraagre dharaam dadhaara ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "bhag_sk04",
+      "title": "स्कंध ४ - ध्रुव व पृथु",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhagavatam/vishnu.jpg",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "ध्रुव उवाच - योऽन्तः प्रविश्य मम वाचमिमां प्रसुप्तां |\nसञ्जीवयत्यखिलशक्तिधरः स्वधाम्ना ||",
+          "meaning": "ध्रुव म्हणाला - हे भगवन, जे माझ्या अंतरंगात प्रवेश करून माझ्या सुप्त वाणीला आपल्या दिव्य शक्तीने जागृत करतात.",
+          "transliteration": "Dhruva uvaacha - yo'ntah pravishya mama vaacham imaam prasuptaam |\nSanjeevayaty akhila-shakti-dharah svadhaamnaa ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "तस्यैव हेतोः प्रयतेत कोविदो न लभ्यते यद्भ्रमतामुपर्यधः |\nतल्लभ्यते दुःखवदन्यतः सुखं कालेन सर्वत्र गभीररंहसा ||",
+          "meaning": "बुद्धिमान मनुष्याने केवळ त्या गोष्टीसाठी प्रयत्न करावा जी ऊर्ध्व-अधो लोकांत भटकूनही मिळत नाही. कारण सुख-दुःख कालाच्या गती प्रमाणे आपोआप येतात.",
+          "transliteration": "Tasyaiva hetoh prayateta kovido na labhyate yad bhramataam upary adhah |\nTal labhyate duhkhavad anyatah sukham kaalena sarvatra gabheera-ramhasaa ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "पृथुरुवाच - धर्मार्थकाममोक्षाख्यं यो भवत्कतमत्प्रभो |\nआराधनं भगवतः सर्वेषामपि सम्मतम् ||",
+          "meaning": "राजा पृथु म्हणाले - हे प्रभो, भगवंतांची आराधना ही धर्म, अर्थ, काम आणि मोक्ष या चारही पुरुषार्थ प्राप्तीचे साधन म्हणून सर्वांना मान्य आहे.",
+          "transliteration": "Prithur uvaacha - dharmaartha-kaama-moksha-aakhyam yo bhavat katamat prabho |\nAaaradhanam bhagavatah sarveshaam api sammatam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "नारायणाय परेशाय प्राकृतात्पुरुषोत्तमाय |\nनमामि देवं हरिं च जगतां जीवनं प्रभुम् ||",
+          "meaning": "प्रकृतीच्या पलीकडे असलेले परमपुरुषोत्तम भगवान नारायण, जो सर्व जगतांचे जीवन आणि प्रभू आहे, त्या श्रीहरीला मी नमस्कार करतो.",
+          "transliteration": "Naaraayanaaya pareshaaya praakritaat purushottamaaya |\nNamaami Devam Harim cha jagataam jeevanam prabhum ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "bhag_sk05",
+      "title": "स्कंध ५ - ऋषभदेव व भरत",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhagavatam/vishnu.jpg",
+      "orderIndex": 5,
+      "content": [
+        {
+          "shloka": "ऋषभ उवाच - नायं देहो देहभाजां नृलोके |\nकष्टान्कामानर्हते विड्भुजां ये ||",
+          "meaning": "भगवान ऋषभदेव म्हणाले - या मनुष्यलोकात हा मानवी देह पशूंप्रमाणे इंद्रियसुख भोगण्यासाठी नाही. तो तपश्चर्येसाठी आहे ज्यामुळे अस्तित्व शुद्ध होते.",
+          "transliteration": "Rishabha uvaacha - naayam deho deha-bhaajaam nri-loke |\nKashtaan kaamaan arhate vid-bhujaam ye ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "तपो दिव्यं पुत्रका येन सत्त्वं शुद्ध्येद्यस्मात्ब्रह्मसौख्यं त्वनन्तम् |\nमहत्सेवां द्वारमाहुर्विमुक्तेः तमोद्वारं योषितां सङ्गिसङ्गम् ||",
+          "meaning": "हे माझ्या पुत्रांनो, दिव्य तपश्चर्या करा ज्यामुळे अंतःकरण शुद्ध होते. त्या शुद्धीतून अनंत ब्रह्मानंद प्राप्त होतो. महात्म्यांची सेवा हे मुक्तीचे द्वार आहे, तर विषयासक्तांची संगत हे अंधाराचे द्वार आहे.",
+          "transliteration": "Tapo divyam putrakaa yena sattvam shuddhyed yasmaat brahma-saukhyam tv anantam |\nMahat-sevaam dvaaram aahur vimuktes tamo-dvaaram yoshitaam sangi-sangam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "रहूगण उवाच - अहो नृजन्माखिलजन्मशोभनं किं जन्मभिस्त्वपरजन्मशुम्भिभिः |\nन यद्धृदापाधितया मुकुन्दस्य पादारविन्दे रतिरात्मनां भवेत् ||",
+          "meaning": "राजा रहूगण म्हणाले - अहो, सर्व जन्मांमध्ये मानवी जन्म किती उत्कृष्ट आहे! इतर जन्मांचा काय उपयोग, जर भगवान मुकुंदांच्या चरणकमळांबद्दल प्रेम निर्माण होत नसेल?",
+          "transliteration": "Rahoogan uvaacha - aho nri-janma-akhila-janma-shobhanam kim janmabhis tv apara-janma-shumbhibhih |\nNa yad-dhridaapadhitayaa mukundasya paadaaravinde ratir aatmanaam bhavet ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "परमहंससंहितां भागवतीम् आत्मनो गतिमध्यास्य कृतकृत्यवान् ||",
+          "meaning": "भागवत मार्गाला आत्म्याचे परम गंतव्य म्हणून पूर्णपणे स्वीकारल्यावर, मनुष्य सर्व कर्तव्यांत खरोखरच कृतार्थ होतो.",
+          "transliteration": "Paramahamsa-samhitaam bhaagavateem aatmano gatim adhyaasya krita-krityavaan ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "bhag_sk06",
+      "title": "स्कंध ६ - वृत्रासुर व अजामिल",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhagavatam/vishnu.jpg",
+      "orderIndex": 6,
+      "content": [
+        {
+          "shloka": "अजामिलः उच्चारितो नारायणनाम तस्मात् |\nमुक्तो मृत्युमुखात्तूर्णम् अभूत्सताम् ||",
+          "meaning": "अजामिलाने केवळ नारायणाचे नाम उच्चारल्याने तो मृत्यूच्या मुखातून मुक्त झाला. अशा प्रकारे भगवंतांच्या पवित्र नामाची शक्ती महापापी मनुष्यालाही तत्काळ शुद्ध करते.",
+          "transliteration": "Ajaamilah uchcharito Naaraayan-naama tasmaat |\nMukto mrityu-mukhaat toornam abhoot sataam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "एतावानेव लोकेऽस्मिन् पुंसां धर्मः परः स्मृतः |\nभक्तियोगो भगवति तन्नामग्रहणादिभिः ||",
+          "meaning": "या जगात सर्व मानवांसाठी परम धर्म म्हणजे भगवंतांची भक्ती आहे, जी त्यांच्या पवित्र नामाचे कीर्तन करण्यापासून सुरू होते.",
+          "transliteration": "Etaavaan eva loke'smin pumsaam dharmah parah smritah |\nBhakti-yogo Bhagavati tan-naama-grahanaaadibhih ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "नामसङ्कीर्तनं विष्णोः सर्वपापप्राणाशनम् |\nप्रणामः सर्वकष्टेभ्यः त्राणं सेवा मनीष फलम् ||",
+          "meaning": "भगवान विष्णूच्या पवित्र नामाचे संकीर्तन सर्व पापांचा नाश करते. भगवंतांना नमस्कार हा सर्व कष्टांतून सुटकेचा मार्ग आहे आणि त्यांची सेवा हे ज्ञानाचे फळ आहे.",
+          "transliteration": "Naama-sankirtanam Vishnoh sarva-paapa-praanashanam |\nPranaamah sarva-kashtebhyah traanam sevaa maneesh phalam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "वृत्र उवाच - अहं हरे तव पादैकमूलदासानुदासो भवितास्मि भूयः |\nमनः स्मरेतासुपतेर्गुणांस्ते गृणीत वाक्कर्म करोतु कायः ||",
+          "meaning": "वृत्रासुर म्हणाला - हे हरी, मला तुमच्या चरणकमलांच्या दासाचा दास होऊ दे. माझे मन तुमच्या गुणांचे सदैव स्मरण करो, माझी वाणी तुमचे गुणगान गावो आणि माझा देह तुमची सेवा करो.",
+          "transliteration": "Vritra uvaacha - aham Hare tava paadaika-moola-daasaanudaaso bhavitaasmi bhooyah |\nManah smaretaasu-pater gunaams te grineetaa vaak karma karotu kaayah ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "bhag_sk07",
+      "title": "स्कंध ७ - प्रल्हाद व नरसिंह",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhagavatam/vishnu.jpg",
+      "orderIndex": 7,
+      "content": [
+        {
+          "shloka": "प्रह्लाद उवाच - श्रवणं कीर्तनं विष्णोः स्मरणं पादसेवनम् |\nअर्चनं वन्दनं दास्यं सख्यमात्मनिवेदनम् ||",
+          "meaning": "प्रल्हाद म्हणाला - भगवान विष्णूंचे श्रवण, कीर्तन, स्मरण, पादसेवन, अर्चन, वंदन, दास्य, सख्य आणि आत्मनिवेदन -- हे नवविधा भक्तीचे अंग आहेत.",
+          "transliteration": "Prahlaad uvaacha - shravanam keertanam Vishnoh smaranam paada-sevanam |\nArchanam vandanam daasyam sakhyam aatma-nivedanam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "इति पुंसार्पिता विष्णौ भक्तिश्चेन्नवलक्षणा |\nक्रियेत भगवत्यद्धा तन्मन्येऽधीतमुत्तमम् ||",
+          "meaning": "जो या नऊ प्रकारच्या भक्तीत भगवान विष्णूंची सेवा करतो, मी त्याला जीवनाचा सर्वश्रेष्ठ अभ्यास शिकलेला मानतो.",
+          "transliteration": "Iti pumsaarpitaa Vishnau bhaktish chen nava-lakshanaa |\nKriyeta Bhagavaty addhaa tan manye'dheetam uttamam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "उग्रं वीरं महाविष्णुं ज्वलन्तं सर्वतोमुखम् |\nनृसिंहं भीषणं भद्रं मृत्युर्मृत्युं नमाम्यहम् ||",
+          "meaning": "उग्र, वीर, महाविष्णू, सर्वदिशांना ज्वलनशील - नृसिंह, भीषण पण मंगलकारी, मृत्यूचाही मृत्यू - मी त्यांना नमस्कार करतो.",
+          "transliteration": "Ugram veeram Mahaavishnuam jvalantam sarvato-mukham |\nNrisimham bheeshanam bhadram mrityur mrityum namaamyaham ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "गुरुशुश्रूषया भक्त्या सर्वलब्धार्पणं गुरौ |\nसाधुसङ्गेन साधूनाम् ईश्वरानुग्रहेण वा ||",
+          "meaning": "गुरूंच्या सेवेत भक्तीने, सर्व प्राप्तींचे गुरूंना अर्पण करून, संतांच्या सहवासाने आणि ईश्वराच्या कृपेने भक्ती प्राप्त होते.",
+          "transliteration": "Guru-shushrooshayaa bhaktyaa sarva-labdhaarpanam gurau |\nSaadhu-sangena sadhoonaam eeshvaraanugraheNa vaa ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "bhag_sk08",
+      "title": "स्कंध ८ - गजेंद्रमोक्ष व वामन",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhagavatam/vishnu.jpg",
+      "orderIndex": 8,
+      "content": [
+        {
+          "shloka": "गजेन्द्र उवाच - ॐ नमो भगवते तस्मै यत एतच्चिदात्मकम् |\nपुरुषायनेशाय त्रिगुणाय नमो नमः ||",
+          "meaning": "गजेंद्राने प्रार्थना केली - ॐ, त्या परमेश्वराला माझा नमस्कार, ज्यापासून हे चैतन्यमय विश्व निर्माण झाले, जो सर्वांचा आश्रय आहे आणि जो तीन गुणांत प्रकट होतो. पुन्हा पुन्हा त्याला नमन.",
+          "transliteration": "Gajendra uvaacha - Om namo Bhagavate tasmai yata etach-chid-aatmakam |\nPurushaayaneshaaya trigunaya namo namah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "क्षीरोदशायी भगवान् वामनावतारः प्रभुः |\nत्रयो लोकाः पदे येश विष्णुर्विश्वम्भावयन् ||",
+          "meaning": "क्षीरसागरात शयन करणाऱ्या भगवंतांनी वामनावतार धारण केला. तीन पावलांत तीन लोक मोजणारे विष्णू संपूर्ण विश्वाचे पालन करतात.",
+          "transliteration": "Ksheerodashaayi Bhagavaan Vaamanaavataarah prabhuh |\nTrayo lokaah pade yesha Vishnur vishvam bhaavayan ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "मन्थानमन्दरं कृत्वा नेत्रं कृत्वा च वासुकीम् |\nदेवासुरैः समामिल्य अमृतं मन्थितं तया ||",
+          "meaning": "मंदार पर्वताला रवी आणि वासुकी सर्पाला दोर बनवून, देव-दानवांनी एकत्रित येऊन समुद्रमंथन करून अमृत प्राप्त केले.",
+          "transliteration": "Manthaana-mandaram kritvaa netram kritvaa cha Vaasukeem |\nDevaasurah samaamilya amritam manthitam tayaa ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "मोहिनीरूपमादाय भगवान् हरिमायया |\nदेवेभ्योऽमृतमदत्त दैत्यानां मोहयंश्च तान् ||",
+          "meaning": "भगवंतांनी मोहिनी रूप धारण करून आपल्या दिव्य मायेने देवांना अमृत वाटले आणि दैत्यांना मोहित केले.",
+          "transliteration": "Mohinee-roopam aadaaya Bhagavaan harimaaayayaa |\nDevebhyo'mritam adatta daityaanaam mohayamsh cha taan ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "bhag_sk09",
+      "title": "स्कंध ९ - वंश व राम अवतार",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhagavatam/vishnu.jpg",
+      "orderIndex": 9,
+      "content": [
+        {
+          "shloka": "श्री शुक उवाच - सूर्यवंशे समुद्भूतो रामावतारः प्रभुः |\nमर्यादापुरुषोत्तमः सीतायाः पतिरीश्वरः ||",
+          "meaning": "श्री शुकदेव म्हणाले - सूर्यवंशात जन्मलेले भगवान राम, मर्यादापुरुषोत्तम, सीतेचे पती आणि सर्वेश्वर अवतरले.",
+          "transliteration": "Shree Shuka uvaacha - soorya-vamshe samudbhooto Raamaavatarah prabhuh |\nMaryaadaa-purushottamah Seetaayaah patir eeshvarah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "रामो विग्रहवान्धर्मः साधूनामभयप्रदः |\nरोदस्योरन्तरं व्याप्तः आदित्य इव तेजसा ||",
+          "meaning": "राम हे साक्षात धर्ममूर्ती आहेत, साधुजनांना अभयदान देणारे. सूर्याप्रमाणे तेजाने आकाश आणि पृथ्वी यांच्यामधील अवकाश व्यापणारे.",
+          "transliteration": "Raamo vigrahavaan dharmah saadhoonaam abhayapradah |\nRodasyor antaram vyaapta aaditya iva tejasaa ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अम्बरीषमहाराजः विष्णुभक्तो परात्परः |\nसर्वदा हरिचरणौ सेवते निश्चलधिया ||",
+          "meaning": "परमभक्त अंबरीष महाराजांनी सदैव अचल बुद्धीने भगवान विष्णूंच्या चरणकमलांची सेवा केली.",
+          "transliteration": "Ambareesh-mahaaraajah Vishnu-bhakto paraatparah |\nSarvadaa Hari-charanau sevate nishchala-dhiyaa ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "स वै मनः कृष्णपदारविन्दयोर्वचांसि वैकुण्ठगुणानुवर्णने |\nकरौ हरेर्मन्दिरमार्जनादिषु श्रुतिं चकाराच्युतसत्कथोदये ||",
+          "meaning": "त्यांनी (अंबरीषांनी) आपले मन कृष्णाच्या चरणकमलांवर, वाणी वैकुंठाच्या गुणवर्णनात, हात हरीच्या मंदिर स्वच्छतेत आणि कान अच्युतांच्या पवित्र कथांच्या श्रवणात गुंतवले.",
+          "transliteration": "Sa vai manah Krishna-padaaravindayor vachhaamsi Vaikuntha-gunaanuvarNane |\nKarau Harer mandira-maarjanaadishu shrutim chakaaraachyuta-sat-kathodaye ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "bhag_sk10",
+      "title": "स्कंध १० - कृष्ण लीला",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhagavatam/krishna.jpg",
+      "orderIndex": 10,
+      "content": [
+        {
+          "shloka": "कृष्णं वन्दे जगद्गुरुं देवकीनन्दनं प्रभुम् |\nवसुदेवसुतं देवं कंसचाणूरमर्दनम् ||",
+          "meaning": "जगद्गुरू कृष्णांना, देवकीनंदन प्रभूंना, वसुदेवसुत भगवंतांना, कंस-चाणूर मर्दनाऱ्यांना मी वंदन करतो.",
+          "transliteration": "Krishnam vande Jagad-gurum Devakee-nandanam prabhum |\nVasudeva-sutam devam Kamsa-Chaanoora-mardanam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जयति जयति देवो देवकीनन्दनोऽसौ जयति जयति कृष्णो वृष्णिवंशप्रदीपः |\nजयति जयति मेघश्यामलः कोमलाङ्गो जयति जयति पृथ्वीभारनाशो मुकुन्दः ||",
+          "meaning": "देवकीनंदनांचा जय होवो! वृष्णी वंशाचे दीप कृष्णांचा जय होवो! मेघश्याम, कोमलांग भगवंतांचा जय होवो! पृथ्वीचा भार नष्ट करणाऱ्या मुकुंदांचा जय होवो!",
+          "transliteration": "Jayati jayati devo Devakee-nandano'sau jayati jayati Krishno Vrishni-vamsha-pradeepah |\nJayati jayati megha-shyaamalah komalaa'ngo jayati jayati prithvee-bhaara-naasho Mukundah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "गोपी उवाच - जयति तेऽधिकं जन्मना व्रजः श्रयत इन्दिरा शश्वदत्र हि |\nदयित दृश्यतां दिक्षुतावृतास्त्वयि धृतासवस्त्वां विचिन्वते ||",
+          "meaning": "गोपी म्हणाल्या - हे प्रिय, तुमच्या जन्माने व्रजभूमी गौरवान्वित झाली. लक्ष्मीदेवी सदैव येथे निवास करतात. हे दयित, तुम्हाला प्राणांसमान मानणाऱ्या आम्ही सर्वत्र तुमचा शोध घेत आहोत.",
+          "transliteration": "Gopee uvaacha - jayati te'dhikam janmanaa vrajah shrayata indiraa shashvad atra hi |\nDayita drishyataam dikshutaavritaas tvayi dhritaasavas tvaam vichinvate ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "श्रीकृष्ण गोविन्द हरे मुरारे हे नाथ नारायण वासुदेव |\nजिह्वे पिबस्वामृतमेतदेव गोविन्द दामोदर माधवेति ||",
+          "meaning": "श्रीकृष्ण, गोविंद, हरी, मुरारी! हे नाथ, नारायण, वासुदेव! हे जिभे, केवळ हे अमृतच प्राशन कर - गोविंद, दामोदर, माधव!",
+          "transliteration": "Shree Krishna Govinda Hare Muraare he Naatha Naaraayana Vaasudeva |\nJihve pibasvaaamritam etad eva Govinda Daamodara Maadhaveti ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "bhag_sk11",
+      "title": "स्कंध ११ - उद्धव गीता",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhagavatam/krishna.jpg",
+      "orderIndex": 11,
+      "content": [
+        {
+          "shloka": "श्री भगवान् उवाच - न रोधयति मां योगो न साङ्ख्यं धर्म एव च |\nन स्वाध्यायस्तपस्त्यागो यथा भक्तिर्ममोर्जिता ||",
+          "meaning": "भगवान म्हणाले - योग, सांख्य, धर्म, स्वाध्याय, तप किंवा त्यागापैकी कशानेही मला तितके आकर्षित करता येत नाही, जितके माझी प्रगाढ भक्ती करते.",
+          "transliteration": "Shree Bhagavaan uvaacha - na rodhayati maam yogo na saankhyam dharma eva cha |\nNa svaadhyaayas-tapas-tyaago yathaa bhaktih mamorjitaa ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "भक्त्याहमेकया ग्राह्यः श्रद्धयाऽत्म प्रियः सताम् |\nभक्तिः पुनाति मन्निष्ठा श्वपाकानपि सम्भवात् ||",
+          "meaning": "मी केवळ भक्ती आणि श्रद्धेनेच प्राप्त करता येतो. मी संतांना प्रिय आहे. माझ्यावर दृढ भक्ती ही हीन जन्मातील व्यक्तीलाही जन्मापासूनच पवित्र करते.",
+          "transliteration": "Bhaktyaaham ekayaa graahyah shraddhayaa'tma priyah sataam |\nBhaktih punaati man-nishthhaa shva-paakaan api sambhavaat ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "उद्धव उवाच - कृष्णस्य कृपामात्रेण केवलं शरणागतिः |\nसर्वसिद्धिकरीं दिव्यां प्रापयेत्परमां गतिम् ||",
+          "meaning": "उद्धव म्हणाले - श्रीकृष्णांच्या केवळ कृपेने, पूर्ण शरणागतीने, दिव्य सिद्धी प्राप्त होते जी परम गतीकडे नेते.",
+          "transliteration": "Uddhava uvaacha - Krishnasya kripaa-maatrena kevalam sharanaagatih |\nSarva-siddhi-kareem divyaam praapayed paramaam gatim ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अवधूत उवाच - चतुर्विंशतिगुरूणां शिक्षां गृह्णन्विचरतः |\nपृथिव्यामहमेकात्मा धीरमनागतः स्वयम् ||",
+          "meaning": "अवधूत म्हणाले - पृथ्वीवर भटकत असताना मी चोवीस गुरूंकडून शिक्षा घेतली. मी एक आत्मा आहे, धीर आणि स्वयंपूर्ण.",
+          "transliteration": "Avadhoota uvaacha - chaturvimshati-guroonaam shikshaam grihnan vicharatah |\nPrithivyaam aham ekaatmaa dheeramanagatah svayam ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "bhag_sk12",
+      "title": "स्कंध १२ - कलियुग व प्रलय",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhagavatam/vishnu.jpg",
+      "orderIndex": 12,
+      "content": [
+        {
+          "shloka": "श्री शुक उवाच - कलेर्दोषनिधे राजन्नस्ति ह्येको महान्गुणः |\nकीर्तनादेव कृष्णस्य मुक्तसङ्गः परं व्रजेत् ||",
+          "meaning": "श्री शुकदेव म्हणाले - हे राजा, कलियुग हा दोषांचा सागर आहे, पण त्यात एक महान गुण आहे: केवळ कृष्णनाम कीर्तनाने मनुष्य सर्व बंधनांतून मुक्त होऊन परम गतीला प्राप्त होतो.",
+          "transliteration": "Shree Shuka uvaacha - kaler dosha-nidhe raajan asti hy eko mahaan gunah |\nKeertanaad eva Krishnasya mukta-sangah param vrajet ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कृतेयद्ध्यायतो विष्णुं त्रेतायां यजतो मखैः |\nद्वापरे परिचर्यायां कलौ तद्धरिकीर्तनात् ||",
+          "meaning": "सत्ययुगात ध्यानाने, त्रेतायुगात यज्ञाने, द्वापारात पूजासेवेने जे फळ मिळते, ते कलियुगात केवळ हरी कीर्तनाने प्राप्त होते.",
+          "transliteration": "Krite yad dhyaayato Vishnum tretaayaam yajato makhaih |\nDvaapare paricharyaayaam kalau tad Hari-keertanaat ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "नामसङ्कीर्तनं यस्य सर्वपापप्रणाशनम् |\nप्रणामो दुःखशमनस्तं नमामि हरिं परम् ||",
+          "meaning": "ज्यांच्या नामसंकीर्तनाने सर्व पापांचा नाश होतो, ज्यांना नमस्कार केल्याने सर्व दुःखांचे शमन होते, त्या परम हरीला मी नमन करतो.",
+          "transliteration": "Naama-sankirtanam yasya sarva-paapa-pranaashanam |\nPranaamo duhkha-shamanas tam namaami Harim param ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सर्ववेदान्तसारं हि श्रीभागवतमिष्यते |\nतद्रसामृततृप्तस्य नान्यत्र स्याद्रतिः क्वचित् ||",
+          "meaning": "श्रीमद्भागवत हे सर्व वेदान्ताचे सार मानले जाते. या अमृतरसाने तृप्त झालेल्या मनुष्याला अन्यत्र कोठेही आसक्ती राहत नाही.",
+          "transliteration": "Sarva-vedaanta-saaram hi Shree-Bhaagavatam ishyate |\nTad-rasaamrita-triptasya naanyatra syaad ratih kvachit ||",
+          "imageUrl": null
+        }
+      ]
+    }
+  ]
+}
