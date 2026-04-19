@@ -1,0 +1,555 @@
+{
+  "category": "Bhajan Sangraha",
+  "version": 1,
+  "items": [
+    {
+      "id": "bhajan_siya_ram",
+      "title": "सिया राम सिया राम भजन",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhajan/ram.jpg",
+      "orderIndex": 1,
+      "content": [
+        {
+          "shloka": "सिया राम सिया राम सिया राम,\nजय जय राम जय जय राम जय सिया राम।",
+          "meaning": "सीता और राम की जय हो! उनके पवित्र नामों का कीर्तन परम कल्याणकारी है। सीता और राम अभिन्न हैं — भक्ति और भगवान का शाश्वत मिलन।",
+          "transliteration": "Siyā rāma siyā rāma siyā rāma,\nJaya jaya rāma jaya jaya rāma jaya siyā rāma|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सिया राम सिया राम कहिये,\nजाहि विधि राखे राम ताहि विधि रहिये।",
+          "meaning": "सदैव सीता-राम का नाम जपते रहिये। प्रभु जिस विधि रखें, उसी में संतुष्ट रहिये — उनकी इच्छा में समर्पण कर दीजिये।",
+          "transliteration": "Siyā rāma siyā rāma kahiye,\nJāhi vidhi rākhe rāma tāhi vidhi rahiye|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "मंगल भवन अमंगल हारी,\nद्रवहु सो दशरथ अजिर बिहारी।",
+          "meaning": "जो मंगल के भवन हैं और अमंगल के नाशक हैं — वे दशरथ के आँगन में विहार करने वाले श्री राम हम पर कृपा करें।",
+          "transliteration": "Maṃgala bhavana amaṃgala hārī,\nDravahu so daśaratha ajira bihārī|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "रघुपति राघव राजा राम,\nपतित पावन सीता राम।\nसीता राम सीता राम,\nभज प्यारे तू सीता राम।",
+          "meaning": "हे रघुकुल के राजा श्री राम! हे पतितों को पवित्र करने वाले सीताराम! प्यारे भक्त, तू सदा सीता-राम का भजन कर।",
+          "transliteration": "Raghupati rāghava rājā rāma,\nPatita pāvana sītā rāma|\nSītā rāma sītā rāma,\nBhaja pyāre tū sītā rāma|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ईश्वर अल्लाह तेरो नाम,\nसबको सन्मति दे भगवान।",
+          "meaning": "ईश्वर हो या अल्लाह — सब तेरा ही नाम है, हे भगवान। सबको सद्बुद्धि प्रदान करो।",
+          "transliteration": "Īśvara allāha tero nāma,\nSabako sanmati de bhagavāna|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "bhajan_hare_krishna",
+      "title": "हरे कृष्ण महामंत्र",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhajan/krishna.jpg",
+      "orderIndex": 2,
+      "content": [
+        {
+          "shloka": "हरे कृष्ण हरे कृष्ण,\nकृष्ण कृष्ण हरे हरे।\nहरे राम हरे राम,\nराम राम हरे हरे।",
+          "meaning": "हे परम शक्ति (हरे)! हे सर्वाकर्षक भगवान (कृष्ण)! हे सुखों के स्रोत (राम)! मुझे अपनी भक्ति सेवा में लगाइये। कलियुग में यह महामंत्र मुक्ति का सर्वोत्तम साधन है।",
+          "transliteration": "Hare kṛṣṇa hare kṛṣṇa,\nKṛṣṇa kṛṣṇa hare hare|\nHare rāma hare rāma,\nRāma rāma hare hare|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "चेतोदर्पणमार्जनं भवमहादावाग्नि निर्वापणम्,\nश्रेयःकैरवचन्द्रिकावितरणं विद्यावधूजीवनम्।",
+          "meaning": "हरिनाम संकीर्तन हृदय रूपी दर्पण को स्वच्छ करता है, भवसागर की महाअग्नि को बुझाता है, कल्याण रूपी कुमुदिनी पर चाँदनी बिखेरता है, और समस्त दिव्य विद्या का जीवन है।",
+          "transliteration": "Cetodarpaṇamārjanaṃ bhavamahādāvāgni nirvāpaṇam,\nŚreyaḥkairavacandrikāvitaraṇaṃ vidyāvadhūjīvanam|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "आनन्दाम्बुधिवर्धनं प्रतिपदं पूर्णामृतास्वादनम्,\nसर्वात्मस्नपनं परं विजयते श्रीकृष्णसंकीर्तनम्।",
+          "meaning": "श्रीकृष्ण संकीर्तन दिव्य आनन्द के सागर को बढ़ाता है, हर कदम पर पूर्ण अमृत का स्वाद कराता है, और सम्पूर्ण आत्मा को स्नान कराता है। श्रीकृष्ण संकीर्तन की जय हो!",
+          "transliteration": "Ānandāmbudhivardhanaṃ pratipadaṃ pūrṇāmṛtāsvādanam,\nSarvātmasnapanaṃ paraṃ vijayate śrīkṛṣṇasaṃkīrtanam|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "नाम्नामकारि बहुधा निजसर्वशक्तिः,\nतत्रार्पिता नियमितः स्मरणे न कालः।\nएतादृशी तव कृपा भगवन् ममापि,\nदुर्दैवमीदृशमिहाजनि नानुरागः।",
+          "meaning": "हे प्रभु, आपके पवित्र नाम में सब कुछ प्रदान करने की शक्ति है। आपने अपनी सारी दिव्य शक्तियाँ इन नामों में रख दी हैं। स्मरण के लिये कोई नियम नहीं। हे भगवन, आप इतने दयालु हैं — फिर भी मेरा दुर्भाग्य कि मुझे आपके नाम में अनुराग नहीं।",
+          "transliteration": "Nāmnāmakāri bahudhā nijasarvaśaktiḥ,\nTatrārpitā niyamitaḥ smaraṇe na kālaḥ|\nEtādṛśī tava kṛpā bhagavan mamāpi,\nDurdaivamīdṛśamihājani nānurāgaḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "हरेर्नाम हरेर्नाम हरेर्नामैव केवलम्,\nकलौ नास्त्येव नास्त्येव नास्त्येव गतिरन्यथा।",
+          "meaning": "इस कलियुग में हरि का नाम, हरि का नाम, हरि का नाम ही एकमात्र साधन है। अन्य कोई उपाय नहीं है, अन्य कोई उपाय नहीं है, अन्य कोई उपाय नहीं है।",
+          "transliteration": "Harernāma harernāma harernāmaiva kevalam,\nKalau nāstyeva nāstyeva nāstyeva gatiranyathā|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "bhajan_om_namah_shivaya",
+      "title": "ॐ नमः शिवाय भजन",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhajan/shiv.jpg",
+      "orderIndex": 3,
+      "content": [
+        {
+          "shloka": "ॐ नमः शिवाय, ॐ नमः शिवाय,\nॐ नमः शिवाय, ॐ नमः शिवाय।",
+          "meaning": "मैं भगवान शिव को प्रणाम करता हूँ। यह पंचाक्षरी मंत्र पाँच तत्वों और महादेव की कृपा का आह्वान करता है।",
+          "transliteration": "Oṃ namaḥ śivāya, oṃ namaḥ śivāya,\nOṃ namaḥ śivāya, oṃ namaḥ śivāya|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कर ले शिव का ध्यान, ओ मन के मुसाफिर,\nना जाने कब हो जाए तेरा अंत सफर।",
+          "meaning": "ओ मन के यात्री, शिव का ध्यान कर ले। तुम्हें नहीं पता कब तुम्हारी अंतिम यात्रा शुरू हो जाए — इसलिये अभी उनकी शरण लो।",
+          "transliteration": "Kara le śiva kā dhyāna, o mana ke musāphira,\nNā jāne kaba ho jāe terā aṃta saphara|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "बम बम भोले बम बम भोले,\nदेवों के देव महादेवा।\nबम बम भोले बम बम भोले,\nभोले नाथ महादेवा।",
+          "meaning": "भोलेनाथ की जय हो, भोले भंडारी की जय! देवों के देव महादेव! शिव जो सच्ची भक्ति से शीघ्र प्रसन्न हो जाते हैं।",
+          "transliteration": "Bama bama bhole bama bama bhole,\nDevoṃ ke deva mahādevā|\nBama bama bhole bama bama bhole,\nBhole nātha mahādevā|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "शिव शिव शिव शिव शिवाय नमः ॐ,\nहर हर हर हर नमः शिवाय।\nआदि देव महादेव करुणा निधे,\nअब तो दयाल दया कीजिये।",
+          "meaning": "बार-बार शिव को नमन! हे आदिदेव, हे महादेव, हे करुणा के भंडार — हे दयालु प्रभु, अब तो हम पर दया कीजिये।",
+          "transliteration": "Śiva śiva śiva śiva śivāya namaḥ oṃ,\nHara hara hara hara namaḥ śivāya|\nĀdi deva mahādeva karuṇā nidhe,\nAba to dayāla dayā kījiye|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "नमो नमो शंकर भोलेनाथ,\nतुम्हीं हो जगत के स्वामी।\nकैलाशी नाथ पार्वती पति,\nमेरी बिगड़ी बना दो स्वामी।",
+          "meaning": "बार-बार नमन हे शंकर भोलेनाथ! आप ही जगत के स्वामी हैं। हे कैलाशपति, हे पार्वतीनाथ — मेरी बिगड़ी बात बना दीजिये, स्वामी।",
+          "transliteration": "Namo namo śaṃkara bholenātha,\nTumhīṃ ho jagata ke svāmī|\nKailāśī nātha pārvatī pati,\nMerī bigar̤ī banā do svāmī|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "bhajan_jai_mata",
+      "title": "जय माता दी भजन",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhajan/durga.jpg",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "जय माता दी, जय माता दी,\nबोलो सदा जय माता दी।\nजगदम्बा जय जय, माँ जय जय,\nबोलो सदा जय माता दी।",
+          "meaning": "माता रानी की जय हो! सदा 'जय माता दी' का उद्घोष करो। जगत की माता जगदम्बा की जय — सदा उनकी महिमा गाओ।",
+          "transliteration": "Jaya mātā dī, jaya mātā dī,\nBolo sadā jaya mātā dī|\nJagadambā jaya jaya, mā~ jaya jaya,\nBolo sadā jaya mātā dī|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अम्बे तू है जगदम्बे काली,\nजय दुर्गे खप्पर वाली।\nतेरा ही गुण गावे भारती,\nओ मैया हम सब उतारे तेरी आरती।",
+          "meaning": "हे अम्बे, तू जगदम्बा है, तू काली है! जय हो दुर्गे, खप्पर वाली! सारा भारत तेरा गुणगान करता है — हे मैया, हम सब तेरी आरती उतारते हैं।",
+          "transliteration": "Ambe tū hai jagadambe kālī,\nJaya durge khappara vālī|\nTerā hī guṇa gāve bhāratī,\nO maiyā hama saba utāre terī āratī|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "बिगड़ी मेरी बना दो, शेरोंवाली माँ,\nअपनी शरण में ले लो, मैया माँ।\nतेरी जय हो दुर्गे, माता रानी,\nसुनते सब की मैया, अन्तर्यामी।",
+          "meaning": "हे शेरोंवाली माँ, मेरी बिगड़ी बना दो। हे मैया, अपनी शरण में ले लो। माता रानी दुर्गा की जय हो — हे अन्तर्यामी मैया, तुम सबकी सुनती हो।",
+          "transliteration": "Bigar̤ī merī banā do, śeroṃvālī mā~,\nApanī śaraṇa meṃ le lo, maiyā mā~|\nTerī jaya ho durge, mātā rānī,\nSunate saba kī maiyā, antaryāmī|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "झूलत राधे रानी झूलत महा रानी,\nनौ दुर्गा के नाम सदा सुखदायनी।\nशैलपुत्री ब्रह्मचारिणी चन्द्रघण्टा माँ,\nकूष्माण्डा स्कन्दमाता कात्यायनी माँ।",
+          "meaning": "महारानी झूला झूलती हैं। नवदुर्गा के नाम सदा सुख देने वाले हैं — शैलपुत्री, ब्रह्मचारिणी, चन्द्रघण्टा, कूष्माण्डा, स्कन्दमाता और कात्यायनी माँ।",
+          "transliteration": "Jhūlata rādhe rānī jhūlata mahā rānī,\nNau durgā ke nāma sadā sukhadāyanī|\nŚailaputrī brahmacāriṇī candraghaṇṭā mā~,\nKūṣmāṇḍā skandamātā kātyāyanī mā~|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "bhajan_vitthal",
+      "title": "विठ्ठल भजन",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhajan/Panduranga.jpg",
+      "orderIndex": 5,
+      "content": [
+        {
+          "shloka": "विठ्ठला विठ्ठला विठ्ठला हरि,\nपांडुरंगा विठ्ठला हरि।\nपुंडलीक वरदा हरि विठ्ठला,\nश्री ज्ञानदेव तुकाराम।",
+          "meaning": "विठ्ठल हरि का नाम जपो! पंढरपुर के श्री हरि पांडुरंग! जिन्होंने पुंडलीक को वरदान दिया — ज्ञानेश्वर और तुकाराम ने जिनकी महिमा गाई।",
+          "transliteration": "Viṭhṭhalā viṭhṭhalā viṭhṭhalā hari,\nPāṃḍuraṃgā viṭhṭhalā hari|\nPuṃḍalīka varadā hari viṭhṭhalā,\nŚrī jñānadeva tukārāma|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ज्या सुखासी कारणे, देव वेधा झाले,\nते सुख सहजे संतांनी लाधले।\nजेथे नामघोषी हरि विठ्ठलाची,\nतेथे कृपा वर्षे पांडुरंगाची।",
+          "meaning": "जिस सुख के लिये देवता भी लालायित हैं, वह सुख संतों ने सहज ही प्राप्त कर लिया। जहाँ हरि विठ्ठल का नाम गूँजता है, वहाँ पांडुरंग की कृपा बरसती है।",
+          "transliteration": "Jyā sukhāsī kāraṇe, deva vedhā jhāle,\nTe sukha sahaje saṃtāṃnī lādhale|\nJethe nāmaghoṣī hari viṭhṭhalācī,\nTethe kṛpā varṣe pāṃḍuraṃgācī|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "हे विठ्ठल बरा पोरिये, सांडवली वारी।\nचांगदेव वाटलीत, ज्ञाने पडरी।\nएका जनार्दनी, भवसिंधु तारी।",
+          "meaning": "हे विठ्ठल, कितना अद्भुत है! वारी (तीर्थयात्रा) की परम्परा चल पड़ी। चांगदेव ने शीश झुकाया, ज्ञानेश्वर पंढरी गये। भगवान जनार्दन भवसागर से पार उतारते हैं।",
+          "transliteration": "He viṭhṭhala barā poriye, sāṃḍavalī vārī|\nCāṃgadeva vāṭalīta, jñāne paḍarī|\nEkā janārdanī, bhavasiṃdhu tārī|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "माउली माउली, ज्ञानोबा माउली,\nतुकाराम माउली रे।\nपंढरीची वारी गेली देवाची नगरी,\nसंगती करुनी ज्ञानोबा तुकाराम।",
+          "meaning": "हे माउली (गुरु-माता)! ज्ञानोबा माउली हैं, तुकाराम माउली हैं। पंढरी की वारी देवनगरी पहुँची — ज्ञानोबा और तुकाराम की पवित्र संगति में।",
+          "transliteration": "Māulī māulī, jñānobā māulī,\nTukārāma māulī re|\nPaṃḍharīcī vārī gelī devācī nagarī,\nSaṃgatī karunī jñānobā tukārāma|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "येई हो विठ्ठले, माझे माहेर पंढरी।\nआवड मला भेटला माहेर पंढरी,\nविठे भीवरे उभा, विटेवरी।",
+          "meaning": "आओ हे विठ्ठल! पंढरपुर मेरा मायका है। मुझे पंढरी का मायका मिल गया — भीमा नदी के तट पर ईंट पर खड़े हैं वो।",
+          "transliteration": "Yeī ho viṭhṭhale, mājhe māhera paṃḍharī|\nĀvaḍa malā bheṭalā māhera paṃḍharī,\nViṭhe bhīvare ubhā, viṭevarī|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "bhajan_hanuman",
+      "title": "हनुमान भजन",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhajan/hanuman.jpg",
+      "orderIndex": 6,
+      "content": [
+        {
+          "shloka": "बजरंग बाण पढ़े हनुमान,\nसंकट कटे महावीर हनुमान।\nजय हनुमान, जय जय हनुमान,\nपवन पुत्र बली हनुमान।",
+          "meaning": "बजरंग बाण पढ़ने वाले हनुमान सब संकट हरते हैं। महावीर हनुमान की जय! पवनपुत्र बलवान हनुमान की जय हो!",
+          "transliteration": "Bajaraṃga bāṇa par̤he hanumāna,\nSaṃkaṭa kaṭe mahāvīra hanumāna|\nJaya hanumāna, jaya jaya hanumāna,\nPavana putra balī hanumāna|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "राम लखन सीता मन बसिया,\nश्री हनुमान जी के हृदय बसिया।\nसबके संकट दूर करो, महावीर,\nभक्तों के हृदय में नित नित बसिये।",
+          "meaning": "राम, लक्ष्मण और सीता उनके हृदय में बसते हैं। श्री हनुमान भक्तों के हृदय में निवास करते हैं। हे महावीर, सबके संकट दूर करो — भक्तों के हृदय में सदा विराजमान रहो।",
+          "transliteration": "Rāma lakhana sītā mana basiyā,\nŚrī hanumāna jī ke hṛdaya basiyā|\nSabake saṃkaṭa dūra karo, mahāvīra,\nBhaktoṃ ke hṛdaya meṃ nita nita basiye|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जय जय जय हनुमान गोसाईं,\nकृपा करहु गुरुदेव की नाईं।\nजो सत बार पाठ कर कोई,\nछूटहि बंदी महा सुख होई।",
+          "meaning": "जय जय जय हनुमान गोसाईं! गुरुदेव की भाँति कृपा कीजिये। जो सौ बार इसका पाठ करे, वह बन्धन से मुक्त होकर परम सुख पाता है।",
+          "transliteration": "Jaya jaya jaya hanumāna gosāīṃ,\nKṛpā karahu gurudeva kī nāīṃ|\nJo sata bāra pāṭha kara koī,\nChūṭahi baṃdī mahā sukha hoī|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "संकट मोचन नाम तिहारो,\nसुमिरत हिये संकट सब हारो।\nराम लखन सीता सहित हनुमान,\nहृदय बसहु सुर भूप भगवान।",
+          "meaning": "आपका नाम 'संकटमोचन' है। हृदय में स्मरण करते ही सब संकट दूर होते हैं। राम, लक्ष्मण, सीता सहित हनुमान हमारे हृदय में सदा विराजें, हे देवराज भगवान।",
+          "transliteration": "Saṃkaṭa mocana nāma tihāro,\nSumirata hiye saṃkaṭa saba hāro|\nRāma lakhana sītā sahita hanumāna,\nHṛdaya basahu sura bhūpa bhagavāna|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "bhajan_ganesh",
+      "title": "जय गणेश देवा भजन",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhajan/ganesh.jpg",
+      "orderIndex": 7,
+      "content": [
+        {
+          "shloka": "जय गणेश जय गणेश जय गणेश देवा,\nमाता जाकी पार्वती पिता महादेवा।",
+          "meaning": "गणेश भगवान की जय हो! उनकी माता पार्वती हैं और पिता महादेव (शिव) हैं। सभी देवताओं में प्रथम पूजनीय हैं।",
+          "transliteration": "Jaya gaṇeśa jaya gaṇeśa jaya gaṇeśa devā,\nMātā jākī pārvatī pitā mahādevā|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "एक दन्त दयावन्त चार भुजा धारी,\nमाथे पर तिलक सोहे मूसे की सवारी।\nअन्धों को आँख देत कोढ़ियों को काया,\nबाँझन को पुत्र देत निर्धन को माया।",
+          "meaning": "एकदन्त, दयालु, चार भुजाओं वाले गणेश — माथे पर तिलक शोभता है, मूषक उनकी सवारी है। अन्धों को दृष्टि, कोढ़ियों को स्वस्थ शरीर, बाँझों को पुत्र और निर्धनों को धन प्रदान करते हैं।",
+          "transliteration": "Eka danta dayāvanta cāra bhujā dhārī,\nMāthe para tilaka sohe mūse kī savārī|\nAndhoṃ ko ā~kha deta kor̤hiyoṃ ko kāyā,\nBā~jhana ko putra deta nirdhana ko māyā|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "हार चढ़े फूल चढ़े और चढ़े मेवा,\nलड्डुअन का भोग लागे सन्त करे सेवा।",
+          "meaning": "हार चढ़ाये जाते हैं, फूल चढ़ाये जाते हैं, मेवा चढ़ाया जाता है। लड्डुओं का भोग लगता है और संत उनकी सेवा करते हैं।",
+          "transliteration": "Hāra car̤he phūla car̤he aura car̤he mevā,\nLaḍḍuana kā bhoga lāge santa kare sevā|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "दीनन की लाज रखो शम्भु सुतकारी,\nकामना को पूरी करो जय गिरिजा के दुलारी।\nजय गणेश जय गणेश जय गणेश देवा,\nमाता जाकी पार्वती पिता महादेवा।",
+          "meaning": "दीनों की लाज रखो, हे शम्भु के पुत्र! कामनाओं को पूर्ण करो, हे गिरिजा के दुलारे! जय गणेश देवा — माता पार्वती, पिता महादेव!",
+          "transliteration": "Dīnana kī lāja rakho śambhu sutakārī,\nKāmanā ko pūrī karo jaya girijā ke dulārī|\nJaya gaṇeśa jaya gaṇeśa jaya gaṇeśa devā,\nMātā jākī pārvatī pitā mahādevā|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "bhajan_meera",
+      "title": "मीराबाई भजन (पायोजी मैंने)",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhajan/krishna.jpg",
+      "orderIndex": 8,
+      "content": [
+        {
+          "shloka": "पायोजी मैंने राम रतन धन पायो,\nवस्तु अमोलक दी मेरे सतगुरु,\nकृपा कर अपनायो।",
+          "meaning": "मैंने राम-नाम रूपी अमूल्य रत्न-धन प्राप्त कर लिया! मेरे सतगुरु ने कृपा करके मुझे यह अनमोल वस्तु दी और अपना लिया।",
+          "transliteration": "Pāyojī maiṃne rāma ratana dhana pāyo,\nVastu amolaka dī mere sataguru,\nKṛpā kara apanāyo|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जनम जनम की पूँजी पाई,\nजग में सभी खोवायो।\nखेवणह नहीं कोई टक्कर लागत,\nचोर दलिदर गायो।",
+          "meaning": "जन्म-जन्मान्तर की पूँजी पा ली — संसार ने इसे खो दिया है। इसे कोई चोर चुरा नहीं सकता, कोई कीड़ा खा नहीं सकता। सारी दरिद्रता दूर हो गई।",
+          "transliteration": "Janama janama kī pū~jī pāī,\nJaga meṃ sabhī khovāyo|\nKhevaṇaha nahīṃ koī ṭakkara lāgata,\nCora dalidara gāyo|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सत की नाव खेवटिया सतगुरु,\nभवसागर तर आयो।\nमीरा के प्रभु गिरिधर नागर,\nहरख हरख जस गायो।",
+          "meaning": "सत्य की नाव है और सतगुरु खेवटिया हैं — भवसागर से पार उतर आये। मीरा के प्रभु गिरिधर नागर हैं — हर्षित होकर उनका यश गाती हैं।",
+          "transliteration": "Sata kī nāva khevaṭiyā sataguru,\nBhavasāgara tara āyo|\nMīrā ke prabhu giridhara nāgara,\nHarakha harakha jasa gāyo|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "मेरे तो गिरिधर गोपाल, दूसरा न कोई,\nजाके सिर मोर मुकुट, मेरो पति सोई।\nछाड़ि दिये राज्य वैभव, नाते कुल की कानी,\nपाथन बैठी पाछन, मोती मैं निभानी।",
+          "meaning": "मेरे तो केवल गिरिधर गोपाल हैं, दूसरा कोई नहीं। जिनके सिर पर मोर-मुकुट है, वही मेरे पति हैं। राज-वैभव और कुल-मर्यादा त्यागकर, संतों के बीच बैठकर मोती पिरोती हूँ।",
+          "transliteration": "Mere to giridhara gopāla, dūsarā na koī,\nJāke sira mora mukuṭa, mero pati soī|\nChār̤i diye rājya vaibhava, nāte kula kī kānī,\nPāthana baiṭhī pāchana, motī maiṃ nibhānī|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "माने चाकर रखो जी,\nगिरधारी लाल, माने चाकर रखो जी।\nचाकर रहूँगी बाग लगाऊँगी,\nनित उठूँगी दर्शन पाऊँगी।",
+          "meaning": "मुझे अपनी दासी रख लीजिये, हे गिरधारी लाल! मैं आपकी दासी रहूँगी, आपका बाग लगाऊँगी, प्रतिदिन उठकर आपके दर्शन पाऊँगी।",
+          "transliteration": "Māne cākara rakho jī,\nGiradhārī lāla, māne cākara rakho jī|\nCākara rahū~gī bāga lagāū~gī,\nNita uṭhū~gī darśana pāū~gī|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "bhajan_kabir",
+      "title": "कबीर भजन (दोहे)",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhajan/kabir.jpg",
+      "orderIndex": 9,
+      "content": [
+        {
+          "shloka": "चलती चाकी देख के, दिया कबीरा रोय,\nदुइ पाटन के बीच में, साबित बचा न कोय।",
+          "meaning": "चलती चक्की (जाँत) देखकर कबीर रोये — जन्म और मृत्यु के दो पाटों के बीच कोई साबुत नहीं बचता। केवल वही बचता है जो धुरी (नाम) को पकड़ ले।",
+          "transliteration": "Calatī cākī dekha ke, diyā kabīrā roya,\nDui pāṭana ke bīca meṃ, sābita bacā na koya|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "बुरा जो देखन मैं चला, बुरा न मिलिया कोय,\nजो दिल खोजा आपना, मुझसे बुरा न कोय।",
+          "meaning": "जब मैं बुराई ढूँढने चला तो कहीं बुराई नहीं मिली। जब अपना दिल खोजा तो पाया कि मुझसे बुरा कोई नहीं।",
+          "transliteration": "Burā jo dekhana maiṃ calā, burā na miliyā koya,\nJo dila khojā āpanā, mujhase burā na koya|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "दुःख में सुमिरन सब करे, सुख में करे न कोय,\nजो सुख में सुमिरन करे, दुःख काहे को होय।",
+          "meaning": "दुःख में सब भगवान को याद करते हैं, सुख में कोई नहीं करता। जो सुख में भी सुमिरन करे, उसे दुःख क्यों होगा?",
+          "transliteration": "Duḥkha meṃ sumirana saba kare, sukha meṃ kare na koya,\nJo sukha meṃ sumirana kare, duḥkha kāhe ko hoya|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "पोथी पढ़ पढ़ जग मुआ, पंडित भया न कोय,\nढाई अक्षर प्रेम का, पढ़े सो पंडित होय।",
+          "meaning": "किताबें पढ़-पढ़कर सारा संसार मर गया, पर कोई सच्चा पंडित नहीं बना। प्रेम के ढाई अक्षर जो पढ़ ले, वही सच्चा विद्वान है।",
+          "transliteration": "Pothī par̤ha par̤ha jaga muā, paṃḍita bhayā na koya,\nḌhāī akṣara prema kā, par̤he so paṃḍita hoya|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "काल करे सो आज कर, आज करे सो अब,\nपल में प्रलय होयगी, बहुरि करेगा कब।",
+          "meaning": "कल का काम आज करो, आज का अभी करो। पल भर में प्रलय हो जायेगी, फिर कब करोगे?",
+          "transliteration": "Kāla kare so āja kara, āja kare so aba,\nPala meṃ pralaya hoyagī, bahuri karegā kaba|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "माला तो कर में फिरे, जीभ फिरे मुख माहि,\nमनुआ तो चहुँ दिश फिरे, यह तो सुमिरन नाहि।",
+          "meaning": "माला हाथ में घूमती है, जीभ मुख में घूमती है, पर मन चारों दिशाओं में भटकता है — यह सच्चा सुमिरन नहीं है।",
+          "transliteration": "Mālā to kara meṃ phire, jībha phire mukha māhi,\nManuā to cahu~ diśa phire, yaha to sumirana nāhi|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "bhajan_tukaram",
+      "title": "तुकाराम अभंग",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhajan/Panduranga.jpg",
+      "orderIndex": 10,
+      "content": [
+        {
+          "shloka": "अभंग वाणी तुकोबाची, गजर दरे विठ्ठलाची।\nसाधु संत समाज मेली, पंढरपुर नगरी भली।",
+          "meaning": "तुकाराम की अभंग वाणी विठ्ठल की गूँज से भरी है। साधु-संतों का समाज जुड़ा और पंढरपुर नगरी धन्य हो गई।",
+          "transliteration": "Abhaṃga vāṇī tukobācī, gajara dare viṭhṭhalācī|\nSādhu saṃta samāja melī, paṃḍharapura nagarī bhalī|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जाग करणे हरि, जाग करणे हरि,\nअनंत सुखाच्या सागरा, कधी देखशील हरि।",
+          "meaning": "जागो हे हरि! जागो हे हरि! हे अनन्त सुख के सागर, कब तुम्हारे दर्शन होंगे, हे हरि?",
+          "transliteration": "Jāga karaṇe hari, jāga karaṇe hari,\nAnaṃta sukhācyā sāgarā, kadhī dekhaśīla hari|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "वृक्ष वल्ली आम्हा सोयरी वनचरे,\nपक्षी ही सुस्वरे आळवीती किती रे।\nयेथे सकल सिद्धी बोलतीची वचने,\nयेथे नाम स्मरण कीर्तनाचे खुणे।",
+          "meaning": "वृक्ष और लताएँ हमारी सगी हैं, वनचर हमारे मित्र हैं। पक्षी कितना मधुर गाते हैं। यहाँ सभी सिद्धियाँ अपने वचन बोलती हैं, यहाँ नाम-स्मरण ही कीर्तन की पहचान है।",
+          "transliteration": "Vṛkṣa vallī āmhā soyarī vanacare,\nPakṣī hī susvare āḻavītī kitī re|\nYethe sakala siddhī bolatīcī vacane,\nYethe nāma smaraṇa kīrtanāce khuṇe|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "तुका म्हणे आता उरसला भगवंत,\nसकलांचे दे जो आमुचा संतत।\nजे का रांजले गांजले, त्यासी म्हणे जो आपुले,\nतुका म्हणे येची धर्मा, जाणो देवा पांडुरंगा।",
+          "meaning": "तुका कहते हैं, अब केवल भगवान शेष हैं। संतों की परम्परा को सब कुछ प्रदान करें। जो दीन-दुखियों को अपना कहे — तुका कहते हैं यही सच्चा धर्म है, वही पांडुरंग को जानता है।",
+          "transliteration": "Tukā mhaṇe ātā urasalā bhagavaṃta,\nSakalāṃce de jo āmucā saṃtata|\nJe kā rāṃjale gāṃjale, tyāsī mhaṇe jo āpule,\nTukā mhaṇe yecī dharmā, jāṇo devā pāṃḍuraṃgā|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "साधु संत येती घरी, तोची दिवाळी दसरा।\nएक तरी ओवी म्हणे, तुका म्हणज जीव रे।",
+          "meaning": "जब साधु-संत घर आते हैं, वही दिन दीवाली और दशहरा है। एक ओवी (भक्ति पंक्ति) भी कह दो — तुका कहते हैं, यही सच्चा जीवन है।",
+          "transliteration": "Sādhu saṃta yetī gharī, tocī divāḻī dasarā|\nEka tarī ovī mhaṇe, tukā mhaṇaja jīva re|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "bhajan_surdas",
+      "title": "सूरदास भजन",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhajan/krishna.jpg",
+      "orderIndex": 11,
+      "content": [
+        {
+          "shloka": "मैं नहीं माखन खायो,\nमैया मैं नहीं माखन खायो।\nखिलत रहात मोह पे डोलत,\nमोखे घेर घेर मत जायो।",
+          "meaning": "मैंने माखन नहीं खाया, मैया! मैंने माखन नहीं खाया। और बच्चे मेरे पास खेलते-डोलते रहते हैं — घर-घर जाकर मुझे न कोसो।",
+          "transliteration": "Maiṃ nahīṃ mākhana khāyo,\nMaiyā maiṃ nahīṃ mākhana khāyo|\nKhilata rahāta moha pe ḍolata,\nMokhe ghera ghera mata jāyo|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ग्रावल बाट अगर मोटी चाई,\nकहत न बात सही तायो।\nजो मैं माखन खायो है तो,\nदाँत दिखाओ बतायो।",
+          "meaning": "रास्ता ऊबड़-खाबड़ है और बड़ा दूर है — बाल कृष्ण कहते हैं, मैं इतना दूर चल नहीं सकता। अगर मैंने सचमुच माखन खाया है तो दिखाओ — मेरे दाँत तो देखो!",
+          "transliteration": "Grāvala bāṭa agara moṭī cāī,\nKahata na bāta sahī tāyo|\nJo maiṃ mākhana khāyo hai to,\nDā~ta dikhāo batāyo|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सूरदास के प्रभु दौड़ियो धायो,\nनन्द के नन्द किशोरे।\nमोहिनी मूरत श्याम सुन्दर,\nब्रज में सभी किशोरे।",
+          "meaning": "सूरदास के प्रभु दौड़ते चले आये — नन्द के लाल किशोर! मोहिनी मूरत श्याम सुन्दर — सारे ब्रज में सबसे सुन्दर किशोर।",
+          "transliteration": "Sūradāsa ke prabhu daur̤iyo dhāyo,\nNanda ke nanda kiśore|\nMohinī mūrata śyāma sundara,\nBraja meṃ sabhī kiśore|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अखियाँ हरि दरशन की प्यासी,\nदेखूँ वृन्दावन वासी।\nसूरदास प्रभु तुम्हारे दरशन,\nपरासी परम सुख रासी।",
+          "meaning": "मेरी आँखें हरि के दर्शन की प्यासी हैं — वृन्दावन वासी को देखना चाहती हैं। सूरदास कहते हैं, हे प्रभु, तुम्हारे दर्शन परम सुख की राशि हैं।",
+          "transliteration": "Akhiyā~ hari daraśana kī pyāsī,\nDekhū~ vṛndāvana vāsī|\nSūradāsa prabhu tumhāre daraśana,\nParāsī parama sukha rāsī|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "bhajan_tulsidas",
+      "title": "तुलसीदास भजन",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhajan/ram.jpg",
+      "orderIndex": 12,
+      "content": [
+        {
+          "shloka": "श्री रामचन्द्र कृपालु भजमन,\nहरण भवभय दारुणमन।\nनवकंज लोचन कंज मुखा, कर कंज पद कंजारुणम।\nकन्दर्प अगणित अमित छवि, नव नील नीरज सुन्दरम।",
+          "meaning": "कृपालु श्री रामचन्द्र का भजन करो, मन! वे भव-भय और दारुण दुःख के हरणकर्ता हैं। उनके नेत्र नव कमल सम, मुख कमल सम, हाथ-पैर अरुण कमल सम हैं। उनकी छवि अनगिनत कामदेवों से भी अधिक सुन्दर है — नव नीलकमल सम सुन्दर।",
+          "transliteration": "Śrī rāmacandra kṛpālu bhajamana,\nHaraṇa bhavabhaya dāruṇamana|\nNavakaṃja locana kaṃja mukhā, kara kaṃja pada kaṃjāruṇama|\nKandarpa agaṇita amita chavi, nava nīla nīraja sundarama|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "पट पीत मानहु तड़ित रुचि, शुचि नौमि जनक सुतान।\nभजु दीन बन्धु दीनेश, दानव दैत्य वंश निकन्दनम।\nरघुनन्द आनन्द कन्द, कौशल चन्द दशरथ नन्दनम।",
+          "meaning": "उनके पीत वस्त्र विद्युत सम चमकते हैं — पवित्र जनकसुता (सीता) को नमन। दीनबन्धु, दीनों के ईश, दानव-दैत्य वंश के नाशक का भजन करो। रघुनन्दन, आनन्दकन्द, कौशल्या के चन्द्र, दशरथनन्दन।",
+          "transliteration": "Paṭa pīta mānahu tar̤ita ruci, śuci naumi janaka sutāna|\nBhaju dīna bandhu dīneśa, dānava daitya vaṃśa nikandanama|\nRaghunanda ānanda kanda, kauśala canda daśaratha nandanama|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "शिर मुकुट कुण्डले तिलक चारु उदार अंग गरहा चन्दनम।\nमणिहार पदक उंदी माला, तनु साजत सर सुन्दरम।\nशिव विरिंचि सुरेशी सेवहि, तुलसी हित जनमन।",
+          "meaning": "शीश पर मुकुट, कुण्डल, सुन्दर तिलक, उदार अंगों पर चन्दन। मणिहार, पदक और मालाओं से शोभित सुन्दर शरीर। शिव, ब्रह्मा और इन्द्र उनकी सेवा करते हैं — तुलसी कहते हैं, वे हमारे हित के लिये अवतरित हुए।",
+          "transliteration": "Śira mukuṭa kuṇḍale tilaka cāru udāra aṃga garahā candanama|\nMaṇihāra padaka uṃdī mālā, tanu sājata sara sundarama|\nŚiva viriṃci sureśī sevahi, tulasī hita janamana|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "राम से बढ़कर राम का नाम,\nराम से बढ़कर राम का नाम।\nतुलसी सदा हरि चेरा,\nकरके विचार यह काम।",
+          "meaning": "राम से भी बढ़कर है राम का नाम! तुलसी सदा हरि के दास हैं — गहन विचार करके यही निष्कर्ष निकला है।",
+          "transliteration": "Rāma se bar̤hakara rāma kā nāma,\nRāma se bar̤hakara rāma kā nāma|\nTulasī sadā hari cerā,\nKarake vicāra yaha kāma|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "bhajan_namdev",
+      "title": "संत नामदेव अभंग",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhajan/Panduranga.jpg",
+      "orderIndex": 13,
+      "content": [
+        {
+          "shloka": "नाचे विठ्ठला नाचे विठू,\nनामयाची गडी विठू नाचे।\nदेव सुथार कंबर केली, नामदेव अंग परिधान कयली।",
+          "meaning": "विठ्ठल नाचते हैं, विठू नाचते हैं! नामदेव के गायन पर विठू नाचते हैं। भगवान ने बढ़ई की तरह शरीर बनाया — और नामदेव ने उसे भक्ति से सजाया।",
+          "transliteration": "Nāce viṭhṭhalā nāce viṭhū,\nNāmayācī gaḍī viṭhū nāce|\nDeva suthāra kaṃbara kelī, nāmadeva aṃga paridhāna kayalī|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "आधी रचिला विठू मग रचिली वीट,\nदेवाला बंधा केली नामा त्यावर चित।\nनाचे विठ्ठला, नाचे विठू।",
+          "meaning": "पहले विठू की रचना हुई, फिर ईंट बनी। मन्दिर बनाया गया और नामदेव का चित्त उन पर टिका है। विठ्ठल नाचते हैं, विठू नाचते हैं!",
+          "transliteration": "Ādhī racilā viṭhū maga racilī vīṭa,\nDevālā baṃdhā kelī nāmā tyāvara cita|\nNāce viṭhṭhalā, nāce viṭhū|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "नामा म्हणे माझा विठ्ठल भला,\nत्याचिये पायी माझा जीव ओवळाला।\nहरि माझा मुखा, हरि माझा दूला,\nहरि सर्वभावा नामाचे घोला।",
+          "meaning": "नामदेव कहते हैं, मेरा विठ्ठल भला है! उनके चरणों पर मेरा जीवन न्योछावर है। हरि मेरा मुख हैं, हरि मेरे प्रिय हैं — हरि सर्वत्र व्याप्त हैं और नामा उनमें डूबे हैं।",
+          "transliteration": "Nāmā mhaṇe mājhā viṭhṭhala bhalā,\nTyāciye pāyī mājhā jīva ovaḻālā|\nHari mājhā mukhā, hari mājhā dūlā,\nHari sarvabhāvā nāmāce gholā|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "झाले मोहरे नामा याचे, देवा विठ्ठल कैसे उगवले,\nनिर्मल मानसे पूजिले, नामा हरिपथ घेतले।",
+          "meaning": "नामदेव का नाम-बीज अंकुरित हुआ और भगवान विठ्ठल प्रकट हुए। निर्मल मन से पूजा की — नामदेव ने हरि का मार्ग ग्रहण किया।",
+          "transliteration": "Jhāle mohare nāmā yāce, devā viṭhṭhala kaise ugavale,\nNirmala mānase pūjile, nāmā haripatha ghetale|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "bhajan_eknath",
+      "title": "संत एकनाथ अभंग",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhajan/Panduranga.jpg",
+      "orderIndex": 14,
+      "content": [
+        {
+          "shloka": "एका तरी विठ्ठल म्हणा रे बा,\nयेणे होंती सर्वही काम।\nपंढरीचे भूत माहेर, त्या नामा घेता सुख माहेर।",
+          "meaning": "एक बार तो 'विठ्ठल' कहो, हे मित्र! इससे सारे काम सिद्ध होंगे। पंढरी की भावना मायके जैसी है — उसका नाम लेते ही माँ के घर जैसा सुख मिलता है।",
+          "transliteration": "Ekā tarī viṭhṭhala mhaṇā re bā,\nYeṇe hoṃtī sarvahī kāma|\nPaṃḍharīce bhūta māhera, tyā nāmā ghetā sukha māhera|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "देव माझा विठू सावळा, सगुण निर्गुण आकळा।\nरुक्मिणी वल्लभ माहेर, एकनाथ त्याचा पुत्रा।",
+          "meaning": "मेरे भगवान साँवले विठू हैं — सगुण और निर्गुण, बुद्धि से परे। रुक्मिणी के प्रियतम — एकनाथ उनके पुत्र समान हैं।",
+          "transliteration": "Deva mājhā viṭhū sāvaḻā, saguṇa nirguṇa ākaḻā|\nRukmiṇī vallabha māhera, ekanātha tyācā putrā|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कान्हा रे दूत कान्हा रे दूत,\nसंगती धरा विठ्ठल सूत।\nसंत संगती परमा पवित्रा,\nएकनाथी भजन अमृत चरित्रा।",
+          "meaning": "कहाँ हैं दूत, कहाँ हैं दूत? विठ्ठल का सूत्र (धागा) पकड़ो। संत-संगति परम पवित्र है — एकनाथ का भजन अमृतमय चरित्र है।",
+          "transliteration": "Kānhā re dūta kānhā re dūta,\nSaṃgatī dharā viṭhṭhala sūta|\nSaṃta saṃgatī paramā pavitrā,\nEkanāthī bhajana amṛta caritrā|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "देवाची कृपाही जे घडली आपणा,\nसंत संग लाधले हे भाग्य संपूर्ण।\nएका जनार्दनी संग धरिले, देव विठ्ठल लाभ केले।",
+          "meaning": "भगवान की कृपा से यह सब सम्भव हुआ — संतों का साथ मिलना यह पूर्ण भाग्य है। एकचित्त से जनार्दन का साथ पकड़ा — भगवान विठ्ठल की प्राप्ति हुई।",
+          "transliteration": "Devācī kṛpāhī je ghaḍalī āpaṇā,\nSaṃta saṃga lādhale he bhāgya saṃpūrṇa|\nEkā janārdanī saṃga dharile, deva viṭhṭhala lābha kele|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "bhajan_ramdas_manache",
+      "title": "मनाचे श्लोक (समर्थ रामदास)",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhajan/ram.jpg",
+      "orderIndex": 15,
+      "content": [
+        {
+          "shloka": "गण गण गण गण गणाधीशा,\nसर्व सिद्धि दायका देवा गणेशा।\nधाव पाव माझा गजानना,\nलाव लाव श्री हरि ची करुणा।",
+          "meaning": "गणों के अधीश गणेश का गान करो! सर्व सिद्धि देने वाले देवता गणेश! हे गजानन, मेरी रक्षा करो! श्री हरि की करुणा बरसाओ।",
+          "transliteration": "Gaṇa gaṇa gaṇa gaṇa gaṇādhīśā,\nSarva siddhi dāyakā devā gaṇeśā|\nDhāva pāva mājhā gajānanā,\nLāva lāva śrī hari cī karuṇā|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "मना सज्जना भक्ति पंथे चला,\nपरमार्थ करणी ठाव रे,\nविचार करुणिया मुख्य करा,\nअनुभव घ्या रे सकल।",
+          "meaning": "हे सज्जन मन, भक्ति के मार्ग पर चलो! परमार्थ को अपना निवास बनाओ। विचार करके जो श्रेष्ठ है वह करो — सबका अनुभव प्राप्त करो।",
+          "transliteration": "Manā sajjanā bhakti paṃthe calā,\nParamārtha karaṇī ṭhāva re,\nVicāra karuṇiyā mukhya karā,\nAnubhava ghyā re sakala|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जय जय रघुवीर समर्था,\nसदा करोनी तुझा करुणा अर्था।\nकरोनी नाम घोष उत्तमा,\nतुका म्हणे रामा परम।",
+          "meaning": "जय जय समर्थ रघुवीर (राम)! सदा आपकी करुणा और कृपा की याचना करते हैं। आपके उत्तम नाम का घोष करते हैं — तुका कहते हैं, राम ही परम हैं।",
+          "transliteration": "Jaya jaya raghuvīra samarthā,\nSadā karonī tujhā karuṇā arthā|\nKaronī nāma ghoṣa uttamā,\nTukā mhaṇe rāmā parama|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "मना हे साम्भळ आता रे विचारी,\nतुझा तुझापाशी आहे रे।\nप्रपंच करुनी हरि भजन केली,\nदास रामदास म्हणे सौख्य आइली।",
+          "meaning": "हे मन, अब सुनो और विचार करो — तुम्हारा अपना आत्मा तुम्हारे साथ ही है। संसार में रहकर हरि-भजन करो — दास रामदास कहते हैं, इसी में सुख प्राप्त होता है।",
+          "transliteration": "Manā he sāmbhaḻa ātā re vicārī,\nTujhā tujhāpāśī āhe re|\nPrapaṃca karunī hari bhajana kelī,\nDāsa rāmadāsa mhaṇe saukhya āilī|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "मनाचे श्लोक म्हणा रे म्हणा,\nविचार करुणिया निजधाम जाणा।\nसमर्थ रामदास स्वामी संगा,\nघ्या रे भेटवी पांडुरंगा।",
+          "meaning": "मनाचे श्लोक का पाठ करो, करो! गहन विचार करके अपने निजधाम (आत्मस्थान) को जानो। समर्थ रामदास स्वामी के संग — पांडुरंग के दर्शन प्राप्त करो।",
+          "transliteration": "Manāce śloka mhaṇā re mhaṇā,\nVicāra karuṇiyā nijadhāma jāṇā|\nSamartha rāmadāsa svāmī saṃgā,\nGhyā re bheṭavī pāṃḍuraṃgā|",
+          "imageUrl": null
+        }
+      ]
+    }
+  ]
+}

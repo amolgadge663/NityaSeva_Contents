@@ -1,0 +1,408 @@
+{
+  "category": "Sahasranama v Sahasranamavali",
+  "version": 1,
+  "items": [
+    {
+      "id": "sahas_vishnu",
+      "title": "Vishnu Sahasranama",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/sahasranama/vishnu.jpg",
+      "orderIndex": 1,
+      "content": [
+        {
+          "shloka": "Vishvam Vishnur-Vashatkaro Bhuta-Bhavya-Bhavat-Prabhuh,\nBhutakrit Bhutabhrit Bhavo Bhutatma Bhutabhavanah.",
+          "meaning": "He who is the universe, who is all-pervading, who is the sacred syllable Vashat, the Lord of past, present, and future. The creator of all beings, the supporter of all beings, existence itself, the soul of all beings, the nourisher of all beings.",
+          "transliteration": "Viśvaṁ Viṣṇur-Vaṣaṭkāro Bhūta-Bhavya-Bhavat-Prabhuḥ,\nBhūtakṛt Bhūtabhṛt Bhāvo Bhūtātmā Bhūtabhāvanaḥ.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Bhutatma Paramatma cha Muktanam Parama Gatih,\nAvyayah Purusha Sakshi Kshetrajno Akshara eva cha.",
+          "meaning": "The soul of beings, the Supreme Self, the ultimate goal of the liberated. The imperishable, the Supreme Person, the witness, the knower of the field, the indestructible one.",
+          "transliteration": "Bhūtātmā Paramātmā ca Muktānāṁ Paramā Gatiḥ,\nAvyayaḥ Puruṣaḥ Sākṣī Kṣetrajño Akṣara eva ca.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Yogo Yogavidam Neta Pradhana-Purusheshvarah,\nNarasimhavapuh Shriman Keshavah Purushottamah.",
+          "meaning": "Yoga itself, the leader of those who know yoga, the Lord of Pradhana and Purusha. He whose form is Narasimha, the glorious one, Keshava, the Supreme Person.",
+          "transliteration": "Yogo Yogavidāṁ Netā Pradhāna-Puruṣeśvaraḥ,\nNārasiṁhavapuḥ Śrīmān Keśavaḥ Puruṣottamaḥ.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sarvah Sharvah Shivah Sthanur-Bhutadir-Nidhir-Avyayah,\nSambhavo Bhavanah Bharta Prabhavah Prabhur-Ishvarah.",
+          "meaning": "He who is everything, the destroyer, the auspicious one, the immovable pillar. The origin of elements, the eternal treasure, the cause of creation, the sustainer, the Lord of manifestation, the supreme ruler.",
+          "transliteration": "Sarvaḥ Śarvaḥ Śivaḥ Sthāṇur-Bhūtādir-Nidhir-Avyayaḥ,\nSambhavo Bhāvanaḥ Bhartā Prabhavaḥ Prabhur-Īśvaraḥ.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Svayambhuh Shambhur-Adityah Pushkaraksho Mahasvanah,\nAnadi-Nidhano Dhata Vidhata Dhaturuttamah.",
+          "meaning": "The self-born, the source of happiness, the son of Aditi, the lotus-eyed one, the one with a great voice. Without beginning or end, the ordainer, the creator, the highest element.",
+          "transliteration": "Svayambhūḥ Śambhur-Ādityaḥ Puṣkarākṣo Mahāsvanaḥ,\nAnādi-Nidhano Dhātā Vidhātā Dhātur-uttamaḥ.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Aprameyo Hrishikesho Padmanabho-Amaraprabhuh,\nVishvakarma Manustvashtaa Sthavishtah Sthavirodhruvah.",
+          "meaning": "The immeasurable one, the Lord of the senses, the lotus-naveled one, the Lord of the immortals. The architect of the universe, the father Manu, the cosmic fashioner, the most massive, the firmest and most ancient.",
+          "transliteration": "Aprameyo Hṛṣīkeśo Padmanābho-Amaraprabhuḥ,\nViśvakarmā Manuṣṭvāṣṭā Sthaviṣṭhaḥ Sthaviro-Dhruvaḥ.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Agrahyah Shashvatah Krishna Lohitaksha Pratardanah,\nPrabhutah Trikakubdhama Pavitram Mangalam Param.",
+          "meaning": "The ungraspable, the eternal, the dark one, the red-eyed one, the destroyer. The exalted one, the support of the three quarters, the purifier, the supremely auspicious one.",
+          "transliteration": "Agrāhyaḥ Śāśvataḥ Kṛṣṇo Lohitākṣaḥ Pratardanaḥ,\nPrabhūtaḥ Trikakubdhāma Pavitraṁ Maṅgalaṁ Param.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ishanah Pranadah Prano Jyeshthah Shreshthah Prajapatih,\nHiranyagarbho Bhugarbho Madhavo Madhusudanah.",
+          "meaning": "The supreme ruler, the giver of life-breath, life itself, the eldest, the most excellent, the Lord of creatures. The golden-wombed one, the support of the earth, the consort of Lakshmi, the slayer of the demon Madhu.",
+          "transliteration": "Īśānaḥ Prāṇadaḥ Prāṇo Jyeṣṭhaḥ Śreṣṭhaḥ Prajāpatiḥ,\nHiraṇyagarbho Bhūgarbho Mādhavo Madhusūdanaḥ.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ishvaro Vikrami Dhanvi Medhavi Vikramah Kramah,\nAnuttamo Duradharsho Kritajnah Kritir-Atmanah.",
+          "meaning": "The supreme Lord, the valorous one, the archer, the wise one, valor itself, the strider. The unsurpassed, the unconquerable, the grateful one, the doer, the self of all.",
+          "transliteration": "Īśvaro Vikramī Dhanvī Medhāvī Vikramaḥ Kramaḥ,\nAnuttamo Durādharṣo Kṛtajñaḥ Kṛtir-Ātmanāḥ.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Suresho Sharanam Sharma Vishvaretah Prajabhavah,\nAhah Samvatsaro Vyalah Pratyayah Sarvadarshanah.",
+          "meaning": "The Lord of the gods, the refuge, the source of bliss, the seed of the universe, the origin of beings. The day, the year, the serpent, the conviction, the one who sees all.",
+          "transliteration": "Sureśaḥ Śaraṇaṁ Śarma Viśvaretāḥ Prajābhavaḥ,\nAhaḥ Saṁvatsaro Vyālaḥ Pratyayaḥ Sarvadarśanaḥ.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "sahas_shiva",
+      "title": "Shiva Sahasranama",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/sahasranama/shiv.jpg",
+      "orderIndex": 2,
+      "content": [
+        {
+          "shloka": "Sthirah Sthaanuh Prabhur-Bhaanuh Pravaro Varado Varah,\nSarvaatma Sarva-vikhyaatah Sarvah Sarvakaro Bhavah.",
+          "meaning": "The steady one, the pillar, the Lord, the luminous one, the most excellent, the bestower of boons, the supreme. The soul of all, the universally famous, everything, the doer of all, existence itself.",
+          "transliteration": "Sthiraḥ Sthāṇuḥ Prabhur-Bhānuḥ Pravaro Varado Varaḥ,\nSarvātmā Sarva-vikhyātaḥ Sarvaḥ Sarvakaro Bhavaḥ.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Jati Charmi Shikhandee cha Sarvaangah Sarvabhaavanah,\nHarishcha Harinaakshascha Sarva-bhuta-harah Prabhuh.",
+          "meaning": "The one with matted hair, the skin-clad one, the one with a crest, the all-limbed one, the nourisher of all. The green-golden one, the deer-eyed one, the seizer of all beings, the Lord.",
+          "transliteration": "Jaṭī Carmī Śikhaṇḍī ca Sarvāṅgaḥ Sarvabhāvanaḥ,\nHariśca Hariṇākṣaśca Sarva-bhūta-haraḥ Prabhuḥ.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Pravrittiishcha Nivrittishcha Niyatah Shaashvato Dhruvah,\nShmashaanavasi Bhagavaan Khacharah Gocharah Ardanah.",
+          "meaning": "He who is activity and cessation, the regulated one, the eternal, the fixed. The dweller in cremation grounds, the Blessed Lord, the sky-wanderer, the sensory realm, the chastiser.",
+          "transliteration": "Pravṛttiśca Nivṛttiśca Niyataḥ Śāśvato Dhruvaḥ,\nŚmaśānavāsī Bhagavān Khecaraḥ Gocaraḥ Ardanaḥ.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Abhivadyo Mahakarma Tapasvee Bhuta-bhaavanaah,\nUnmattaveshah-pracchanna Jitakaama Jitendriyah.",
+          "meaning": "The one worthy of salutation, the doer of great deeds, the ascetic, the creator of beings. The one disguised as a madman, the concealed one, the conqueror of desire, the conqueror of the senses.",
+          "transliteration": "Abhivādyo Mahākarmā Tapasvī Bhūta-bhāvanaḥ,\nUnmattaveṣaḥ-pracchanna Jitakāmo Jitendriyaḥ.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kalakaalah Kripaalurvyaasakesho Mahabalaah,\nShivapriyah Shveta-lohitah Shaivah Sharavana-bhavah.",
+          "meaning": "The death of death, the compassionate one, the one with scattered hair, the one of great strength. Beloved of Shiva, white and red, of Shiva's nature, born in the forest of reeds.",
+          "transliteration": "Kalākālaḥ Kṛpālur-Vyāsakeśo Mahābalaḥ,\nŚivapriyaḥ Śveta-lohitaḥ Śaivaḥ Śaravaṇa-bhavaḥ.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Trinetrashcha Shubhekshanah Kundali Kundaleeshvarah,\nMeghajobalipriyah Saukhyadah Shantidah Srishtikrid.",
+          "meaning": "The three-eyed one, the auspicious-gazer, the one wearing ear-rings, the Lord of ear-rings. Born of clouds, lover of offerings, the giver of happiness, the giver of peace, the creator.",
+          "transliteration": "Trinetraśca Śubhekṣaṇaḥ Kuṇḍalī Kuṇḍalīśvaraḥ,\nMeghajo-Balipriyaḥ Saukhyadaḥ Śāntidaḥ Sṛṣṭikṛd.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Rudro Bhutapatir-Sthaanur-Ahirbudhnyah Digambarah,\nAshtatmurti-mahadeevah Vrishankah Vrishavaahanah.",
+          "meaning": "The roarer, the lord of beings, the pillar, the serpent of the deep, the sky-clad. The eight-formed great god, the bull-bannered one, the bull-rider.",
+          "transliteration": "Rudro Bhūtapatir-Sthāṇur-Ahirbudhnyaḥ Digambaraḥ,\nAṣṭamūrti-Mahādevaḥ Vṛṣāṅkaḥ Vṛṣavāhanaḥ.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ishaanah Pingalah Shulahasto Dharanidharah,\nUmapatih Pashuhpatih Rajarajeshvarah Prabhuh.",
+          "meaning": "The supreme ruler, the tawny one, the trident-handed, the supporter of the earth. The husband of Uma, the Lord of creatures, the King of kings, the Lord.",
+          "transliteration": "Īśānaḥ Piṅgalaḥ Śūlahasto Dharaṇīdharaḥ,\nUmāpatiḥ Paśupatiḥ Rājarājeśvaraḥ Prabhuḥ.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Mahadeevah Maheeshvarah Chandrashekhara Chandramoulih,\nVishvaah Vishvambhareshvarah Vedaantasarasandohah.",
+          "meaning": "The great god, the great Lord, the one who bears the moon on his crest, the moon-crowned one. The universe, the Lord who bears the universe, the essence of the nectar of Vedanta.",
+          "transliteration": "Mahādevaḥ Maheśvaraḥ Candraśekhara Candramauliḥ,\nViśvāḥ Viśvambhareśvaraḥ Vedāntasārasandohaḥ.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kapardee Neelalohitah Shankarah Shulpaanir-Vyomakesho,\nBhaganetrabhid-Anantah Mahaanidhih Priyankarah.",
+          "meaning": "The one with matted hair, the blue-and-red one, the beneficent one, the trident-holder, the sky-haired. The destroyer of Bhaga's eyes, the infinite, the great treasure, the bestower of love.",
+          "transliteration": "Kapardī Nīlalohitaḥ Śaṅkaraḥ Śūlapāṇir-Vyomakeśo,\nBhaganetrabhid-Anantaḥ Mahānidhiḥ Priyaṅkaraḥ.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "sahas_lalita",
+      "title": "Lalita Sahasranama",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/sahasranama/durga.jpg",
+      "orderIndex": 3,
+      "content": [
+        {
+          "shloka": "Shri Mata Shri Maharajni Shrimat-Simhasaneshvari,\nChidagni-Kunda-Sambhuta Deva-Karya-Samudyata.",
+          "meaning": "The sacred mother, the great queen, the glorious ruler of the lion-throne. Born from the fire-pit of consciousness, who rose for the purpose of the gods' mission.",
+          "transliteration": "Śrī Mātā Śrī Mahārājñī Śrīmat-Siṁhāsaneśvarī,\nCidagni-Kuṇḍa-Sambhūtā Deva-Kārya-Samudyatā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Udyad-Bhanu-Sahasrabha Chatur-Bahu-Samanvita,\nRagasvarupa-Pashadhya Krodhakara-Ankushoijvala.",
+          "meaning": "Radiant as a thousand rising suns, endowed with four arms. She who holds the noose of desire, resplendent with the goad of anger.",
+          "transliteration": "Udyad-Bhānu-Sahasrābhā Catur-Bāhu-Samanvitā,\nRāgasvarūpa-Pāśāḍhyā Krodhākāra-Aṅkuśojjvalā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Mano-Rupekshu-Kodanda Pancha-Tanmatra-Sayaka,\nNijaruna-Prabha-Pura-Majjad-Brahmanda-Mandala.",
+          "meaning": "She whose sugarcane bow is the mind, whose five arrows are the five subtle elements. She in whose crimson radiance the entire universe is immersed.",
+          "transliteration": "Mano-Rūpekṣu-Kodaṇḍā Pañca-Tanmātra-Sāyakā,\nNijāruṇa-Prabhā-Pūra-Majjad-Brahmāṇḍa-Maṇḍalā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Champakashoka-Punnaga-Saugandhika-Lasat-Kacha,\nKuruvinda-Mani-Shreni-Kanatkotira-Mandita.",
+          "meaning": "She whose hair is fragrant with champaka, ashoka, punnaga, and saugandhika flowers. Adorned with a shining crown studded with rows of kuruvinda gems.",
+          "transliteration": "Campakāśoka-Punnāga-Saugandhika-Lasat-Kacā,\nKuruvinda-Maṇi-Śreṇi-Kanat-Koṭīra-Maṇḍitā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ashtami-Chandra-Vibhraja-Dhalika-Sthala-Shobhita,\nMukha-Chandra-Kalankabha-Mriganabhi-Visheshaka.",
+          "meaning": "She whose forehead shines like the crescent moon of the eighth night. She whose musk tilaka on the face resembles the mark on the moon.",
+          "transliteration": "Aṣṭamī-Candra-Vibhrāja-Dhalikā-Sthala-Śobhitā,\nMukha-Candra-Kalāṅkābha-Mṛgānābhi-Viśeṣakā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Vadanasmara-Mangalya-Griha-Torana-Chillika,\nVaktra-Lakshmi-Parivaha-Chalan-Minabha-Lochana.",
+          "meaning": "She whose face is the auspicious gateway to the abode of Kama (love). She whose fish-like eyes move in the stream of the beauty of her face.",
+          "transliteration": "Vadanasmara-Māṅgalya-Gṛha-Toraṇa-Cillikā,\nVaktra-Lakṣmī-Parivāha-Calan-Mīnābha-Locanā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Nava-Champaka-Pushpabha-Nasa-Danda-Virajita,\nTara-Kanti-Tiraskari-Nasabharana-Bhasura.",
+          "meaning": "She whose nose is beautiful like a fresh champaka bud. She whose nose ornament outshines the brilliance of stars.",
+          "transliteration": "Nava-Campaka-Puṣpābhā-Nāsā-Daṇḍa-Virājitā,\nTārā-Kānti-Tiraskāri-Nāsābharaṇa-Bhāsurā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kadamba-Manjari-Klipta-Karna-Pura-Manoharaa,\nTatanka-Yugali-Bhuta-Tapa-Nodupa-Mandala.",
+          "meaning": "She whose ear ornaments of kadamba flower clusters are enchanting. She whose pair of earrings outshines the orbs of the sun and moon.",
+          "transliteration": "Kadamba-Mañjarī-Klipta-Karṇa-Pūra-Manoharā,\nTāṭaṅka-Yugalī-Bhūta-Tāpa-Nodūpa-Maṇḍalā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Padma-Raga-Shiladarsha-Paribhavi-Kapolabhuh,\nNavavidruma-Bimbasri-Nyakkari-Radaschhadaa.",
+          "meaning": "She whose cheeks put to shame the luster of padmaraga (ruby) gems. She whose lips surpass the beauty of fresh coral and bimba fruit.",
+          "transliteration": "Padma-Rāga-Śilādarśa-Paribhāvi-Kapolabhūḥ,\nNavavidruma-Bimbaśrī-Nyakkāri-Radanacchadā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Shuddha-Vidyankurakara-Dvija-Pankti-Dvayojjvala,\nKarpura-Vitikamoda-Samakarshi-Digantara.",
+          "meaning": "She whose two rows of teeth are like sprouting pure knowledge, brilliant and radiant. She whose fragrance of camphor-laden betel attracts all directions.",
+          "transliteration": "Śuddha-Vidyāṅkurākāra-Dvija-Paṅkti-Dvayojjvalā,\nKarpūra-Vīṭikāmoda-Samākarṣi-Digantarā.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "sahas_lakshmi",
+      "title": "Lakshmi Ashtottara Shatanama",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/sahasranama/lakshmi.jpg",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "Om Prakrityai Namah | Om Vikrityai Namah | Om Vidyayai Namah |\nOm Sarvabhutahitapradayai Namah | Om Shraddhayai Namah | Om Vibhutyai Namah.",
+          "meaning": "Salutations to the primordial nature, to the one who transforms, to knowledge. Salutations to the one who promotes the welfare of all beings, to faith, to divine glory.",
+          "transliteration": "Oṁ Prakṛtyai Namaḥ | Oṁ Vikṛtyai Namaḥ | Oṁ Vidyāyai Namaḥ |\nOṁ Sarvabhūtahitapradāyai Namaḥ | Oṁ Śraddhāyai Namaḥ | Oṁ Vibhūtyai Namaḥ.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Surabhyai Namah | Om Paramatmikayai Namah | Om Vachyai Namah |\nOm Padmalayayai Namah | Om Padmayai Namah | Om Shuchaye Namah.",
+          "meaning": "Salutations to the celestial cow, to the supreme soul, to the one who is speech. Salutations to the one who abides in the lotus, to the lotus herself, to the pure one.",
+          "transliteration": "Oṁ Surabhyai Namaḥ | Oṁ Paramātmikāyai Namaḥ | Oṁ Vācyai Namaḥ |\nOṁ Padmālayāyai Namaḥ | Oṁ Padmāyai Namaḥ | Oṁ Śucaye Namaḥ.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Svaahayai Namah | Om Svadhaayai Namah | Om Sudhayai Namah |\nOm Dhanyayai Namah | Om Hiranmayai Namah | Om Lakshmyai Namah.",
+          "meaning": "Salutations to Svaha, to Svadha, to the nectar. Salutations to the blessed one, to the golden one, to Lakshmi.",
+          "transliteration": "Oṁ Svāhāyai Namaḥ | Oṁ Svadhāyai Namaḥ | Oṁ Sudhāyai Namaḥ |\nOṁ Dhanyāyai Namaḥ | Oṁ Hiraṇmayai Namaḥ | Oṁ Lakṣmyai Namaḥ.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Nityapushtayai Namah | Om Vibhavaryai Namah | Om Adityayai Namah |\nOm Dittyai Namah | Om Deepayai Namah | Om Vasudhaayai Namah.",
+          "meaning": "Salutations to the eternally nourished one, to the powerful one, to the daughter of Aditi. Salutations to the radiant one, to the lamp, to the earth.",
+          "transliteration": "Oṁ Nityapuṣṭāyai Namaḥ | Oṁ Vibhāvaryai Namaḥ | Oṁ Ādityāyai Namaḥ |\nOṁ Dittyai Namaḥ | Oṁ Dīpāyai Namaḥ | Oṁ Vasundhāyai Namaḥ.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Vasundharayai Namah | Om Kamalayai Namah | Om Kantayai Namah |\nOm Kamakshyai Namah | Om Krodhasambhavayai Namah | Om Anugrahapadayai Namah.",
+          "meaning": "Salutations to the earth, to the lotus one, to the desired one. Salutations to the one with beautiful eyes, to the one born of desire, to the bestower of grace.",
+          "transliteration": "Oṁ Vasundharāyai Namaḥ | Oṁ Kamalāyai Namaḥ | Oṁ Kāntāyai Namaḥ |\nOṁ Kāmākṣyai Namaḥ | Oṁ Krodhasambhavāyai Namaḥ | Oṁ Anugrahapradāyai Namaḥ.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "sahas_ganesh_108",
+      "title": "Ganesh Ashtottara Shatanama",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/sahasranama/ganesh.jpg",
+      "orderIndex": 5,
+      "content": [
+        {
+          "shloka": "Om Vinayakaya Namah | Om Vighnarajaya Namah | Om Gauriputraya Namah |\nOm Ganesvaraya Namah | Om Skandaagrajaya Namah | Om Avyayaya Namah.",
+          "meaning": "Salutations to the great leader, to the king of obstacles, to the son of Gauri. Salutations to the Lord of the Ganas, to the elder brother of Skanda, to the imperishable one.",
+          "transliteration": "Oṁ Vināyakāya Namaḥ | Oṁ Vighnarājāya Namaḥ | Oṁ Gaurīputrāya Namaḥ |\nOṁ Gaṇeśvarāya Namaḥ | Oṁ Skandāgrajāya Namaḥ | Oṁ Avyayāya Namaḥ.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Putaya Namah | Om Dakshaya Namah | Om Adhyakshaya Namah |\nOm Dvijapriyaya Namah | Om Agnigarbhachide Namah | Om Indrasripradaya Namah.",
+          "meaning": "Salutations to the pure one, to the skillful one, to the presiding one. Salutations to the one fond of the twice-born, to the one who cut the fire-womb, to the bestower of Indra's glory.",
+          "transliteration": "Oṁ Pūtāya Namaḥ | Oṁ Dakṣāya Namaḥ | Oṁ Adhyakṣāya Namaḥ |\nOṁ Dvijapriyāya Namaḥ | Oṁ Agnigarbhacchide Namaḥ | Oṁ Indraśrīpradāya Namaḥ.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Vanaspati Namah | Om Avyaghraya Namah | Om Sarvasiddhipradaya Namah |\nOm Sarvatanayaya Namah | Om Sarvaripriyaya Namah | Om Sarvatmakaya Namah.",
+          "meaning": "Salutations to the lord of forests, to the fearless one, to the bestower of all accomplishments. Salutations to the son of all, to the beloved of the night, to the soul of all.",
+          "transliteration": "Oṁ Vanaspataye Namaḥ | Oṁ Avyaghrāya Namaḥ | Oṁ Sarvasiddhipradāya Namaḥ |\nOṁ Sarvatanayāya Namaḥ | Oṁ Sarvaripriyāya Namaḥ | Oṁ Sarvātmakāya Namaḥ.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Srishtikartre Namah | Om Devaya Namah | Om Ekadantaya Namah |\nOm Chaturbhujaya Namah | Om Shaktighnaya Namah | Om Shambhavaya Namah.",
+          "meaning": "Salutations to the creator, to the divine one, to the single-tusked one. Salutations to the four-armed one, to the destroyer of the demon Shakti, to the son of Shambhu.",
+          "transliteration": "Oṁ Sṛṣṭikartre Namaḥ | Oṁ Devāya Namaḥ | Oṁ Ekadantāya Namaḥ |\nOṁ Caturbhujāya Namaḥ | Oṁ Śaktighnāya Namaḥ | Oṁ Śambhavāya Namaḥ.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Gajananaya Namah | Om Sureshvaraya Namah | Om Lambodaraya Namah |\nOm Gajakarnakaya Namah | Om Vikataya Namah | Om Vighnanashine Namah.",
+          "meaning": "Salutations to the elephant-faced one, to the Lord of the gods, to the pot-bellied one. Salutations to the elephant-eared one, to the huge one, to the destroyer of obstacles.",
+          "transliteration": "Oṁ Gajānanāya Namaḥ | Oṁ Sureśvarāya Namaḥ | Oṁ Lambodarāya Namaḥ |\nOṁ Gajakarṇakāya Namaḥ | Oṁ Vikaṭāya Namaḥ | Oṁ Vighnanāśine Namaḥ.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "sahas_hanuman_108",
+      "title": "Hanuman Ashtottara Shatanama",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/sahasranama/hanuman.jpg",
+      "orderIndex": 6,
+      "content": [
+        {
+          "shloka": "Om Hanumante Namah | Om Anjaneyaya Namah | Om Vayuputraya Namah |\nOm Mahabalaya Namah | Om Rameshthaya Namah | Om Phalguna-Sakhaya Namah.",
+          "meaning": "Salutations to Hanuman, to the son of Anjani, to the son of Vayu. Salutations to the great powerful one, to the beloved of Rama, to the friend of Arjuna (Phalguna).",
+          "transliteration": "Oṁ Hanumante Namaḥ | Oṁ Āñjaneyāya Namaḥ | Oṁ Vāyuputrāya Namaḥ |\nOṁ Mahābalāya Namaḥ | Oṁ Rāmeṣṭhāya Namaḥ | Oṁ Phālguna-Sakhāya Namaḥ.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Pingakshaya Namah | Om Amitavikramaya Namah | Om Udadhikramaya Namah |\nOm Sitashokanivaranaya Namah | Om Lakshmanapranadartre Namah | Om Dashagrihvadarpahne Namah.",
+          "meaning": "Salutations to the tawny-eyed one, to the one of boundless valor, to the one who leaped across the ocean. Salutations to the remover of Sita's grief, to the restorer of Lakshmana's life, to the destroyer of Ravana's pride.",
+          "transliteration": "Oṁ Piṅgākṣāya Namaḥ | Oṁ Amitavikramāya Namaḥ | Oṁ Udadhikramāya Namaḥ |\nOṁ Sītāśokanivāraṇāya Namaḥ | Oṁ Lakṣmaṇaprāṇadātre Namaḥ | Oṁ Daśagrīvadarpahne Namaḥ.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Chiranjeevine Namah | Om Rama-Bhaktaya Namah | Om Daitya-Karya-Vighatakaya Namah |\nOm Akshahantre Namah | Om Kanchana-Bhaya Namah | Om Pancha-Vaktraya Namah.",
+          "meaning": "Salutations to the immortal one, to the devotee of Rama, to the one who thwarts the plans of demons. Salutations to the slayer of Aksha, to the golden one, to the five-faced one.",
+          "transliteration": "Oṁ Cirañjīvine Namaḥ | Oṁ Rāma-Bhaktāya Namaḥ | Oṁ Daitya-Kārya-Vighātakāya Namaḥ |\nOṁ Akṣahantre Namaḥ | Oṁ Kāñcanābhāya Namaḥ | Oṁ Pañca-Vaktrāya Namaḥ.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Mahatapase Namah | Om Lankinidahanaya Namah | Om Shrimate Namah |\nOm Simhikapranabhanjaya Namah | Om Gandhamadana-Shailasthaya Namah | Om Lankineebhanjanaya Namah.",
+          "meaning": "Salutations to the great ascetic, to the burner of Lanka, to the glorious one. Salutations to the destroyer of Simhika's life, to the one who dwells on Gandhamadana mountain, to the subduer of Lankini.",
+          "transliteration": "Oṁ Mahātapase Namaḥ | Oṁ Laṅkinīdahanāya Namaḥ | Oṁ Śrīmate Namaḥ |\nOṁ Siṁhikāprāṇabhañjāya Namaḥ | Oṁ Gandhamādana-Śailasthāya Namaḥ | Oṁ Laṅkinībhañjanāya Namaḥ.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Shrimad-Ramacharanasevine Namah | Om Vajradehaya Namah | Om Sarva-Rogaharaya Namah |\nOm Paraviraghnaya Namah | Om Sarvashaktimataya Namah | Om Sarva-Mantra-Swarupaya Namah.",
+          "meaning": "Salutations to the one who serves the feet of Sri Rama, to the one with a diamond body, to the remover of all diseases. Salutations to the slayer of enemies' heroes, to the all-powerful one, to the one who is the embodiment of all mantras.",
+          "transliteration": "Oṁ Śrīmad-Rāmacaraṇasevine Namaḥ | Oṁ Vajradehāya Namaḥ | Oṁ Sarva-Rogaharāya Namaḥ |\nOṁ Paravīraghnāya Namaḥ | Oṁ Sarvaśaktimatāya Namaḥ | Oṁ Sarva-Mantra-Svarūpāya Namaḥ.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "sahas_krishna_108",
+      "title": "Krishna Ashtottara Shatanama",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/sahasranama/krishna.jpg",
+      "orderIndex": 7,
+      "content": [
+        {
+          "shloka": "Om Krishnaya Namah | Om Kamala-Nathaya Namah | Om Vasudevaya Namah |\nOm Sanatanaya Namah | Om Vasudevatmajaya Namah | Om Punyaya Namah.",
+          "meaning": "Salutations to Krishna, to the Lord of Kamala (Lakshmi), to Vasudeva. Salutations to the eternal one, to the son of Vasudeva, to the sacred one.",
+          "transliteration": "Oṁ Kṛṣṇāya Namaḥ | Oṁ Kamala-Nāthāya Namaḥ | Oṁ Vāsudevāya Namaḥ |\nOṁ Sanātanāya Namaḥ | Oṁ Vasudevātmajāya Namaḥ | Oṁ Puṇyāya Namaḥ.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Lila-Manushavigrahaya Namah | Om Srivatsa-Kaustubhadharaya Namah | Om Yashodavatsalaya Namah |\nOm Haraye Namah | Om Chaturbhujattachakrasi-Gadashankha-Ambujayudhaya Namah.",
+          "meaning": "Salutations to the one who assumes a human form in sport, to the bearer of Srivatsa and Kaustubha. Salutations to the one affectionate to Yashoda, to Hari. To the four-armed one wielding the discus, sword, mace, conch, and lotus.",
+          "transliteration": "Oṁ Līlā-Mānuṣavigrahāya Namaḥ | Oṁ Śrīvatsa-Kaustubhadharāya Namaḥ | Oṁ Yaśodāvatsalāya Namaḥ |\nOṁ Haraye Namaḥ | Oṁ Caturbhujāttacakrāsi-Gadāśaṅkhāmbujāyudhāya Namaḥ.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Devaki-Nandanaya Namah | Om Srishaya Namah | Om Nandagopa-Priyatmajaya Namah |\nOm Yamunavegarasamhartre Namah | Om Balabhadra-Priyanujaya Namah.",
+          "meaning": "Salutations to the joy of Devaki, to the Lord of Sri, to the beloved son of Nandagopa. Salutations to the one who sports in the waters of Yamuna, to the beloved younger brother of Balarama.",
+          "transliteration": "Oṁ Devakī-Nandanāya Namaḥ | Oṁ Śrīśāya Namaḥ | Oṁ Nandagopa-Priyātmajāya Namaḥ |\nOṁ Yamunāvegasamhartre Namaḥ | Oṁ Balabhadra-Priyānujāya Namaḥ.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Putana-Jivitaharaya Namah | Om Shakatasura-Bhanjanaya Namah | Om Nandavraja-Jananandine Namah |\nOm Sachidananda-Vigrahaya Namah | Om Navaneeta-Viliptangaya Namah | Om Navaneeta-Nataya Namah.",
+          "meaning": "Salutations to the slayer of Putana, to the destroyer of the cart-demon, to the joy of the people of Nanda's settlement. Salutations to the one whose form is existence-consciousness-bliss, to the one smeared with fresh butter, to the dancer for butter.",
+          "transliteration": "Oṁ Pūtanā-Jīvitaharāya Namaḥ | Oṁ Śakaṭāsura-Bhañjanāya Namaḥ | Oṁ Nandavraja-Janānandine Namaḥ |\nOṁ Saccidānanda-Vigrahāya Namaḥ | Oṁ Navanīta-Viliptāṅgāya Namaḥ | Oṁ Navanīta-Naṭāya Namaḥ.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Anaghaya Namah | Om Navaneeta-Navaharine Namah | Om Muchukunda-Prasadakaya Namah |\nOm Shodasha-Stri-Sahasreshaya Namah | Om Tribhangi-Muraleedharaya Namah | Om Madhuraya Namah.",
+          "meaning": "Salutations to the sinless one, to the stealer of fresh butter, to the one who graced Muchukunda. Salutations to the Lord of sixteen thousand consorts, to the three-bent flute-holder, to the sweet one.",
+          "transliteration": "Oṁ Anaghāya Namaḥ | Oṁ Navanīta-Navāhariṇe Namaḥ | Oṁ Mucukunda-Prasādakāya Namaḥ |\nOṁ Ṣoḍaśa-Strī-Sahasreśāya Namaḥ | Oṁ Tribhaṅgi-Muralīdharāya Namaḥ | Oṁ Madhurāya Namaḥ.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "sahas_durga_108",
+      "title": "Durga Ashtottara Shatanama",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/sahasranama/durga.jpg",
+      "orderIndex": 8,
+      "content": [
+        {
+          "shloka": "Om Durgayai Namah | Om Shivayai Namah | Om Mahalakshmyai Namah |\nOm Mahagouyrai Namah | Om Chandikayai Namah | Om Sarvajnayai Namah.",
+          "meaning": "Salutations to Durga, to the auspicious one, to Mahalakshmi. Salutations to Mahagouri, to Chandika, to the all-knowing one.",
+          "transliteration": "Oṁ Durgāyai Namaḥ | Oṁ Śivāyai Namaḥ | Oṁ Mahālakṣmyai Namaḥ |\nOṁ Mahāgauryai Namaḥ | Oṁ Caṇḍikāyai Namaḥ | Oṁ Sarvajñāyai Namaḥ.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Sarvalokeshyai Namah | Om Sarvakarma-Phalapradayai Namah | Om Sarvathirtha-Mayai Namah |\nOm Punyayai Namah | Om Deva-Yonayai Namah | Om Ayonijayai Namah.",
+          "meaning": "Salutations to the goddess of all worlds, to the bestower of the fruits of all actions, to the one who embodies all pilgrimages. Salutations to the sacred one, to the divine origin, to the one who is self-born.",
+          "transliteration": "Oṁ Sarvalokeśyai Namaḥ | Oṁ Sarvakarma-Phalapradāyai Namaḥ | Oṁ Sarvatīrtha-Mayai Namaḥ |\nOṁ Puṇyāyai Namaḥ | Oṁ Deva-Yonayai Namaḥ | Oṁ Ayonijāyai Namaḥ.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Bhoomijayai Namah | Om Nirgunayai Namah | Om Nishkalayai Namah |\nOm Anekahasta-Yudhayudhayai Namah | Om Anekarupavishishtayai Namah | Om Anekabhayanashine Namah.",
+          "meaning": "Salutations to the one born of the earth, to the one beyond attributes, to the one without parts. Salutations to the one with many hands wielding weapons, to the one distinguished by many forms, to the destroyer of many fears.",
+          "transliteration": "Oṁ Bhūmijāyai Namaḥ | Oṁ Nirguṇāyai Namaḥ | Oṁ Niṣkalāyai Namaḥ |\nOṁ Anekahasta-Yudhāyudhāyai Namaḥ | Oṁ Anekarūpaviśiṣṭāyai Namaḥ | Oṁ Anekābhayanāśine Namaḥ.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Anekastravishishtayai Namah | Om Anekasuravandityai Namah | Om Anekashastrahastayai Namah |\nOm Anekashastradharinai Namah | Om Anekavidyashishtayai Namah | Om Mahishaasuramardinyai Namah.",
+          "meaning": "Salutations to the one distinguished by many weapons, to the one worshipped by many gods, to the one with many weapons in her hands. Salutations to the bearer of many weapons, to the one proficient in many sciences, to the slayer of the buffalo demon.",
+          "transliteration": "Oṁ Anekāstraviśiṣṭāyai Namaḥ | Oṁ Anekāsuravandityai Namaḥ | Oṁ Anekāśastrahastāyai Namaḥ |\nOṁ Anekāśastraddhāriṇai Namaḥ | Oṁ Anekāvidyāśiṣṭāyai Namaḥ | Oṁ Mahiṣāsuramardinyai Namaḥ.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Mahishaghnyai Namah | Om Kamakshyai Namah | Om Maakaalyai Namah |\nOm Bhadrakaalikayai Namah | Om Svaahaayai Namah | Om Svadhaayai Namah.",
+          "meaning": "Salutations to the slayer of Mahisha, to the one with beautiful eyes, to Mahakali. Salutations to Bhadrakali, to Svaha, to Svadha.",
+          "transliteration": "Oṁ Mahiṣaghnyai Namaḥ | Oṁ Kāmākṣyai Namaḥ | Oṁ Mahākālyai Namaḥ |\nOṁ Bhadrakālikāyai Namaḥ | Oṁ Svāhāyai Namaḥ | Oṁ Svadhāyai Namaḥ.",
+          "imageUrl": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "category": "Navratri Pooja",
+  "version": 1,
+  "items": [
+    {
+      "id": "nav_day1",
+      "title": "प्रथम दिन - शैलपुत्री पूजा",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/navratri/shailputri.jpg",
+      "orderIndex": 1,
+      "content": [
+        {
+          "shloka": "वन्दे वाञ्छितलाभाय चन्द्रार्धकृतशेखराम्।\nवृषारूढां शूलधरां शैलपुत्रीं यशस्विनीम्॥",
+          "meaning": "मैं मनोवांछित फल देने वाली, अर्धचन्द्र से मस्तक सुशोभित, वृषभ पर आरूढ़, त्रिशूलधारिणी, यशस्विनी माँ शैलपुत्री की वन्दना करता हूँ।",
+          "transliteration": "Vande vāñchitalābhāya candrārdhakṛtaśekharām|\nVṛṣārūḍhāṃ śūladharāṃ śailaputrīṃ yaśasvinīm||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "या देवी सर्वभूतेषु माँ शैलपुत्री रूपेण संस्थिता।\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः॥",
+          "meaning": "जो देवी समस्त प्राणियों में माँ शैलपुत्री के रूप में विराजमान हैं, उन्हें बारम्बार नमस्कार है।",
+          "transliteration": "Yā devī sarvabhūteṣu mā~ śailaputrī rūpeṇa saṃsthitā|\nNamastasyai namastasyai namastasyai namo namaḥ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "शैलपुत्री पूजा विधि:\n१. प्रातः स्नान कर लाल या श्वेत वस्त्र धारण करें।\n२. कलश स्थापना करें — ताम्र या मिट्टी के कलश में जल, सुपारी, सिक्का, अक्षत और आम के पत्ते रखें।\n३. कलश पर नारियल रखकर लाल कपड़े से बाँधें।\n४. माँ शैलपुत्री की प्रतिमा या चित्र स्थापित करें।\n५. श्वेत पुष्प, चन्दन, अक्षत और नैवेद्य अर्पित करें।\n६. घी का दीपक जलाएँ और धूप अर्पित करें।\n७. उपरोक्त मंत्रों का जप करें और देवी कवच का पाठ करें।\n८. आरती कर प्रसाद वितरित करें।",
+          "meaning": "नवरात्रि के प्रथम दिन माँ शैलपुत्री (पर्वतराज हिमालय की पुत्री) की पूजा होती है। ये माँ दुर्गा का प्रथम स्वरूप हैं। मूलाधार चक्र की अधिष्ठात्री देवी माँ शैलपुत्री की उपासना से साधक की योग साधना का शुभारम्भ होता है।",
+          "transliteration": "Śailaputrī pūjā vidhi:\n1. prātaḥ snāna kara lāla yā śveta vastra dhāraṇa kareṃ|\n2. kalaśa sthāpanā kareṃ — tāmra yā miṭṭī ke kalaśa meṃ jala, supārī, sikkā, akṣata aura āma ke patte rakheṃ|\n3. kalaśa para nāriyala rakhakara lāla kapar̤e se bā~dheṃ|\n4. mā~ śailaputrī kī pratimā yā citra sthāpita kareṃ|\n5. śveta puṣpa, candana, akṣata aura naivedya arpita kareṃ|\n6. ghī kā dīpaka jalāe~ aura dhūpa arpita kareṃ|\n7. uparokta maṃtroṃ kā japa kareṃ aura devī kavaca kā pāṭha kareṃ|\n8. āratī kara prasāda vitarita kareṃ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ देवी शैलपुत्र्यै नमः॥\nॐ ऐं ह्रीं क्लीं शैलपुत्र्यै नमः॥\nप्रथम दुर्गा त्वंहि भवसागर तारिणीम्।\nधन ऐश्वर्य दायिनीं शैलपुत्रीं प्रणमाम्यहम्॥",
+          "meaning": "माँ शैलपुत्री को नमस्कार। प्रथम दुर्गा आप ही भवसागर से तारने वाली हैं। धन और ऐश्वर्य देने वाली माँ शैलपुत्री को मैं प्रणाम करता हूँ। इनका वाहन वृषभ है और दाहिने हाथ में त्रिशूल तथा बाएँ हाथ में कमल सुशोभित है।",
+          "transliteration": "Oṃ devī śailaputryai namaḥ||\nOṃ aiṃ hrīṃ klīṃ śailaputryai namaḥ||\nPrathama durgā tvaṃhi bhavasāgara tāriṇīm|\nDhana aiśvarya dāyinīṃ śailaputrīṃ praṇamāmyaham||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "nav_day2",
+      "title": "द्वितीय दिन - ब्रह्मचारिणी पूजा",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/navratri/brahmacharini.jpg",
+      "orderIndex": 2,
+      "content": [
+        {
+          "shloka": "दधाना करपद्माभ्यामक्षमालाकमण्डलू।\nदेवी प्रसीदतु मयि ब्रह्मचारिण्यनुत्तमा॥",
+          "meaning": "जो अपने कर-कमलों में अक्षमाला (जपमाला) और कमण्डलु धारण करती हैं, वे अनुत्तम देवी ब्रह्मचारिणी मुझ पर प्रसन्न हों।",
+          "transliteration": "Dadhānā karapadmābhyāmakṣamālākamaṇḍalū|\nDevī prasīdatu mayi brahmacāriṇyanuttamā||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "या देवी सर्वभूतेषु माँ ब्रह्मचारिणी रूपेण संस्थिता।\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः॥",
+          "meaning": "जो देवी समस्त प्राणियों में माँ ब्रह्मचारिणी के रूप में विद्यमान हैं, उन्हें बारम्बार नमस्कार है।",
+          "transliteration": "Yā devī sarvabhūteṣu mā~ brahmacāriṇī rūpeṇa saṃsthitā|\nNamastasyai namastasyai namastasyai namo namaḥ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ब्रह्मचारिणी पूजा विधि:\n१. प्रातः स्नान कर स्वच्छ वस्त्र धारण करें।\n२. कलश और माँ ब्रह्मचारिणी के समक्ष दीपक जलाएँ।\n३. पंचामृत (दूध, दही, शहद, घी, शर्करा) से अभिषेक करें।\n४. श्वेत और पीले पुष्प, चमेली के फूल अर्पित करें।\n५. मिश्री (शर्करा) का भोग लगाएँ — यह माँ ब्रह्मचारिणी को अत्यन्त प्रिय है।\n६. उपरोक्त मंत्रों का जप और दुर्गा सप्तशती के द्वितीय अध्याय का पाठ करें।\n७. आरती कर प्रसाद बाँटें।",
+          "meaning": "माँ ब्रह्मचारिणी तप और त्याग की देवी हैं। इन्होंने हजारों वर्षों तक कठोर तपस्या कर भगवान शिव को पति रूप में प्राप्त किया। ये स्वाधिष्ठान चक्र की अधिष्ठात्री हैं। इनकी उपासना से तप, त्याग, सदाचार और संयम की वृद्धि होती है।",
+          "transliteration": "Brahmacāriṇī pūjā vidhi:\n1. prātaḥ snāna kara svaccha vastra dhāraṇa kareṃ|\n2. kalaśa aura mā~ brahmacāriṇī ke samakṣa dīpaka jalāe~|\n3. paṃcāmṛta (dūdha, dahī, śahada, ghī, śarkarā) se abhiṣeka kareṃ|\n4. śveta aura pīle puṣpa, camelī ke phūla arpita kareṃ|\n5. miśrī (śarkarā) kā bhoga lagāe~ — yaha mā~ brahmacāriṇī ko atyanta priya hai|\n6. uparokta maṃtroṃ kā japa aura durgā saptaśatī ke dvitīya adhyāya kā pāṭha kareṃ|\n7. āratī kara prasāda bā~ṭeṃ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ देवी ब्रह्मचारिण्यै नमः॥\nॐ ऐं ह्रीं क्लीं ब्रह्मचारिण्यै नमः॥\nतपश्चारिणी त्वंहि तापत्रय निवारिणीम्।\nब्रह्मरूपधरा ब्रह्मचारिणी प्रणमाम्यहम्॥",
+          "meaning": "माँ ब्रह्मचारिणी को नमस्कार। तपस्या करने वाली, तीनों तापों (आध्यात्मिक, आधिदैविक, आधिभौतिक) को दूर करने वाली, ब्रह्मरूपधारिणी माँ ब्रह्मचारिणी को मैं प्रणाम करता हूँ।",
+          "transliteration": "Oṃ devī brahmacāriṇyai namaḥ||\nOṃ aiṃ hrīṃ klīṃ brahmacāriṇyai namaḥ||\nTapaścāriṇī tvaṃhi tāpatraya nivāriṇīm|\nBrahmarūpadharā brahmacāriṇī praṇamāmyaham||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "nav_day3",
+      "title": "तृतीय दिन - चन्द्रघण्टा पूजा",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/navratri/chandraghanta.jpg",
+      "orderIndex": 3,
+      "content": [
+        {
+          "shloka": "पिण्डजप्रवरारूढा चण्डकोपास्त्रकैर्युता।\nप्रसादं तनुते मह्यं चन्द्रघण्टेति विश्रुता॥",
+          "meaning": "सिंह पर आरूढ़, प्रचण्ड कोप वाले अस्त्र-शस्त्रों से सुसज्जित, चन्द्रघण्टा नाम से विख्यात देवी मुझ पर कृपा करें।",
+          "transliteration": "Piṇḍajapravarārūḍhā caṇḍakopāstrakairyutā|\nPrasādaṃ tanute mahyaṃ candraghaṇṭeti viśrutā||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "या देवी सर्वभूतेषु माँ चन्द्रघण्टा रूपेण संस्थिता।\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः॥",
+          "meaning": "जो देवी समस्त प्राणियों में माँ चन्द्रघण्टा के रूप में विराजमान हैं, उन्हें बारम्बार नमस्कार है।",
+          "transliteration": "Yā devī sarvabhūteṣu mā~ candraghaṇṭā rūpeṇa saṃsthitā|\nNamastasyai namastasyai namastasyai namo namaḥ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "चन्द्रघण्टा पूजा विधि:\n१. स्नान करके पवित्र वस्त्र धारण करें।\n२. माँ के समक्ष घी का दीपक और अगरबत्ती जलाएँ।\n३. दूध से बनी वस्तुओं (खीर, पेड़ा) का भोग लगाएँ।\n४. लाल और श्वेत पुष्प, केसर, कुमकुम अर्पित करें।\n५. दुर्गा सप्तशती के तृतीय अध्याय का पाठ करें।\n६. चन्द्रघण्टा स्तुति और कवच का पाठ करें।\n७. आरती और प्रदक्षिणा के साथ पूजा सम्पन्न करें।",
+          "meaning": "माँ चन्द्रघण्टा के मस्तक पर घण्टे के आकार का अर्धचन्द्र है। ये दस भुजाओं वाली, सिंहवाहिनी और सदा युद्ध के लिए तत्पर रहने वाली देवी हैं। ये मणिपूर चक्र की अधिष्ठात्री हैं। इनकी कृपा से साधक में वीरता, निर्भयता और कल्याणकारी ऊर्जा का संचार होता है।",
+          "transliteration": "Candraghaṇṭā pūjā vidhi:\n1. snāna karake pavitra vastra dhāraṇa kareṃ|\n2. mā~ ke samakṣa ghī kā dīpaka aura agarabattī jalāe~|\n3. dūdha se banī vastuoṃ (khīra, per̤ā) kā bhoga lagāe~|\n4. lāla aura śveta puṣpa, kesara, kumakuma arpita kareṃ|\n5. durgā saptaśatī ke tṛtīya adhyāya kā pāṭha kareṃ|\n6. candraghaṇṭā stuti aura kavaca kā pāṭha kareṃ|\n7. āratī aura pradakṣiṇā ke sātha pūjā sampanna kareṃ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ देवी चन्द्रघण्टायै नमः॥\nॐ ऐं ह्रीं क्लीं चन्द्रघण्टायै नमः॥\nचन्द्रमुखी इष्टदात्री इष्टं मन्त्रं स्वरूपिणीम्।\nधनदात्री आनन्ददात्री चन्द्रघण्टा प्रणमाम्यहम्॥",
+          "meaning": "माँ चन्द्रघण्टा को नमस्कार। चन्द्रमुखी, इष्ट फल देने वाली, मंत्र स्वरूपिणी, धनदात्री और आनन्ददात्री माँ चन्द्रघण्टा को मैं प्रणाम करता हूँ।",
+          "transliteration": "Oṃ devī candraghaṇṭāyai namaḥ||\nOṃ aiṃ hrīṃ klīṃ candraghaṇṭāyai namaḥ||\nCandramukhī iṣṭadātrī iṣṭaṃ mantraṃ svarūpiṇīm|\nDhanadātrī ānandadātrī candraghaṇṭā praṇamāmyaham||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "nav_day4",
+      "title": "चतुर्थ दिन - कूष्माण्डा पूजा",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/navratri/kushmanda.jpg",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "सुरासम्पूर्णकलशं रुधिराप्लुतमेव च।\nदधाना हस्तपद्माभ्यां कूष्माण्डा शुभदास्तु मे॥",
+          "meaning": "अपने कर-कमलों में अमृत से भरा कलश और रक्त से भरा कलश धारण करने वाली माँ कूष्माण्डा मेरा शुभ करें।",
+          "transliteration": "Surāsampūrṇakalaśaṃ rudhirāplutameva ca|\nDadhānā hastapadmābhyāṃ kūṣmāṇḍā śubhadāstu me||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "या देवी सर्वभूतेषु माँ कूष्माण्डा रूपेण संस्थिता।\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः॥",
+          "meaning": "जो देवी सम्पूर्ण प्राणियों में माँ कूष्माण्डा के रूप में स्थित हैं, उन्हें बारम्बार नमस्कार है।",
+          "transliteration": "Yā devī sarvabhūteṣu mā~ kūṣmāṇḍā rūpeṇa saṃsthitā|\nNamastasyai namastasyai namastasyai namo namaḥ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कूष्माण्डा पूजा विधि:\n१. स्नान और ध्यान के पश्चात पूजा स्थल को शुद्ध करें।\n२. माँ कूष्माण्डा की प्रतिमा या चित्र के समक्ष दीपक जलाएँ।\n३. पीले पुष्प, हल्दी और केसर अर्पित करें।\n४. मालपुआ या कुम्हड़े की मिठाई का भोग लगाएँ — यह माँ को अति प्रिय है।\n५. दुर्गा सप्तशती के चतुर्थ अध्याय का पाठ करें।\n६. कूष्माण्डा बीज मंत्र का १०८ बार जप करें।\n७. आरती और परिक्रमा के साथ पूजा सम्पन्न करें।",
+          "meaning": "माँ कूष्माण्डा ने अपनी मन्द हँसी (ईषत् हास) से ब्रह्माण्ड की रचना की। 'कू' का अर्थ छोटा, 'ष्म' का अर्थ ऊष्मा और 'अण्ड' का अर्थ ब्रह्माण्डीय अण्ड है। ये अष्टभुजा वाली, सिंहवाहिनी और अनाहत चक्र की अधिष्ठात्री हैं। इनकी उपासना से रोग, शोक दूर होते हैं और आयु, बल एवं यश की वृद्धि होती है।",
+          "transliteration": "Kūṣmāṇḍā pūjā vidhi:\n1. snāna aura dhyāna ke paścāta pūjā sthala ko śuddha kareṃ|\n2. mā~ kūṣmāṇḍā kī pratimā yā citra ke samakṣa dīpaka jalāe~|\n3. pīle puṣpa, haldī aura kesara arpita kareṃ|\n4. mālapuā yā kumhar̤e kī miṭhāī kā bhoga lagāe~ — yaha mā~ ko ati priya hai|\n5. durgā saptaśatī ke caturtha adhyāya kā pāṭha kareṃ|\n6. kūṣmāṇḍā bīja maṃtra kā 108 bāra japa kareṃ|\n7. āratī aura parikramā ke sātha pūjā sampanna kareṃ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ देवी कूष्माण्डायै नमः॥\nॐ ऐं ह्रीं क्लीं कूष्माण्डायै नमः॥\nकूष्माण्डे त्वं जगत्सूते ब्रह्माण्डोदरसंस्थिते।\nसृष्टिस्थितिलयकारिणि कूष्माण्डे प्रणमाम्यहम्॥",
+          "meaning": "माँ कूष्माण्डा को नमस्कार। ब्रह्माण्ड को उत्पन्न करने वाली, ब्रह्माण्ड के उदर में स्थित, सृष्टि की उत्पत्ति, स्थिति और लय करने वाली माँ कूष्माण्डा को मैं प्रणाम करता हूँ।",
+          "transliteration": "Oṃ devī kūṣmāṇḍāyai namaḥ||\nOṃ aiṃ hrīṃ klīṃ kūṣmāṇḍāyai namaḥ||\nKūṣmāṇḍe tvaṃ jagatsūte brahmāṇḍodarasaṃsthite|\nSṛṣṭisthitilayakāriṇi kūṣmāṇḍe praṇamāmyaham||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "nav_day5",
+      "title": "पंचम दिन - स्कन्दमाता पूजा",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/navratri/skandamata.jpg",
+      "orderIndex": 5,
+      "content": [
+        {
+          "shloka": "सिंहासनगता नित्यं पद्माश्रितकरद्वया।\nशुभदास्तु सदा देवी स्कन्दमाता यशस्विनी॥",
+          "meaning": "सिंहासन पर विराजमान, दोनों हाथों में कमल धारण करने वाली, सदा शुभ प्रदान करने वाली, यशस्विनी देवी स्कन्दमाता की जय हो।",
+          "transliteration": "Siṃhāsanagatā nityaṃ padmāśritakaradvayā|\nŚubhadāstu sadā devī skandamātā yaśasvinī||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "या देवी सर्वभूतेषु माँ स्कन्दमाता रूपेण संस्थिता।\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः॥",
+          "meaning": "जो देवी समस्त प्राणियों में माँ स्कन्दमाता के रूप में विद्यमान हैं, उन्हें बारम्बार नमस्कार है।",
+          "transliteration": "Yā devī sarvabhūteṣu mā~ skandamātā rūpeṇa saṃsthitā|\nNamastasyai namastasyai namastasyai namo namaḥ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "स्कन्दमाता पूजा विधि:\n१. स्नान और ध्यान कर पूजा स्थल पर बैठें।\n२. माँ स्कन्दमाता (गोद में बालक कार्तिकेय) की प्रतिमा स्थापित करें।\n३. कमल के पुष्प और पीले फूल अर्पित करें।\n४. केले का भोग लगाएँ — माँ स्कन्दमाता को केला अत्यन्त प्रिय है।\n५. दुर्गा सप्तशती के पंचम अध्याय का पाठ करें।\n६. स्कन्दमाता बीज मंत्र 'ॐ ऐं ह्रीं क्लीं स्कन्दमातायै नमः' का १०८ बार जप करें।\n७. पंचमी तिथि पर कन्या पूजन करना विशेष शुभ है।\n८. आरती और प्रदक्षिणा से पूजा सम्पन्न करें।",
+          "meaning": "माँ स्कन्दमाता कार्तिकेय (स्कन्द) की माता हैं। ये कमलासन पर विराजमान, चतुर्भुजी और सिंहवाहिनी हैं। ये विशुद्धि चक्र की अधिष्ठात्री हैं। इनकी उपासना से सन्तान सुख, मोक्ष मार्ग और परम शान्ति प्राप्त होती है।",
+          "transliteration": "Skandamātā pūjā vidhi:\n1. snāna aura dhyāna kara pūjā sthala para baiṭheṃ|\n2. mā~ skandamātā (goda meṃ bālaka kārtikeya) kī pratimā sthāpita kareṃ|\n3. kamala ke puṣpa aura pīle phūla arpita kareṃ|\n4. kele kā bhoga lagāe~ — mā~ skandamātā ko kelā atyanta priya hai|\n5. durgā saptaśatī ke paṃcama adhyāya kā pāṭha kareṃ|\n6. skandamātā bīja maṃtra 'oṃ aiṃ hrīṃ klīṃ skandamātāyai namaḥ' kā 108 bāra japa kareṃ|\n7. paṃcamī tithi para kanyā pūjana karanā viśeṣa śubha hai|\n8. āratī aura pradakṣiṇā se pūjā sampanna kareṃ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ देवी स्कन्दमातायै नमः॥\nॐ ऐं ह्रीं क्लीं स्कन्दमातायै नमः॥\nसिंहासनगता देवी पुत्रकार्तिकेयधरा।\nपद्मधरा शुभदात्री स्कन्दमाता प्रणमाम्यहम्॥",
+          "meaning": "माँ स्कन्दमाता को नमस्कार। सिंहासन पर विराजमान, गोद में पुत्र कार्तिकेय धारण करने वाली, कमलधारिणी, शुभ देने वाली माँ स्कन्दमाता को मैं प्रणाम करता हूँ।",
+          "transliteration": "Oṃ devī skandamātāyai namaḥ||\nOṃ aiṃ hrīṃ klīṃ skandamātāyai namaḥ||\nSiṃhāsanagatā devī putrakārtikeyadharā|\nPadmadharā śubhadātrī skandamātā praṇamāmyaham||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "nav_day6",
+      "title": "षष्ठ दिन - कात्यायनी पूजा",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/navratri/katyayani.jpg",
+      "orderIndex": 6,
+      "content": [
+        {
+          "shloka": "चन्द्रहासोज्ज्वलकरा शार्दूलवरवाहना।\nकात्यायनी शुभं दद्यादेवी दानवघातिनी॥",
+          "meaning": "चन्द्रहास (चमकती तलवार) धारण करने वाली, सिंह पर आरूढ़, दानवों का संहार करने वाली देवी कात्यायनी शुभ प्रदान करें।",
+          "transliteration": "Candrahāsojjvalakarā śārdūlavaravāhanā|\nKātyāyanī śubhaṃ dadyādevī dānavaghātinī||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "या देवी सर्वभूतेषु माँ कात्यायनी रूपेण संस्थिता।\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः॥",
+          "meaning": "जो देवी सम्पूर्ण प्राणियों में माँ कात्यायनी के रूप में स्थित हैं, उन्हें बारम्बार नमस्कार है।",
+          "transliteration": "Yā devī sarvabhūteṣu mā~ kātyāyanī rūpeṇa saṃsthitā|\nNamastasyai namastasyai namastasyai namo namaḥ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कात्यायनी पूजा विधि:\n१. स्नान कर लाल वस्त्र धारण करें।\n२. माँ कात्यायनी की प्रतिमा या चित्र पर सिन्दूर और कुमकुम चढ़ाएँ।\n३. लाल पुष्प, लाल चुनरी और शृंगार सामग्री अर्पित करें।\n४. शहद का भोग लगाएँ — माँ कात्यायनी को मधु अति प्रिय है।\n५. दुर्गा सप्तशती के षष्ठ अध्याय का पाठ करें।\n६. विवाह योग्य कन्याएँ 'ॐ कात्यायन्यै नमः' का १०८ बार जप करें — मनोवांछित वर प्राप्ति हेतु।\n७. कन्या पूजन करें और आरती से पूजा सम्पन्न करें।",
+          "meaning": "माँ कात्यायनी महर्षि कात्यायन के यहाँ पुत्री रूप में प्रकट हुईं और महिषासुर का वध किया। ये चतुर्भुजी, सिंहवाहिनी और आज्ञा चक्र की अधिष्ठात्री हैं। अविवाहित कन्याएँ उत्तम वर प्राप्ति के लिए इनकी विशेष पूजा करती हैं। भगवान कृष्ण की प्राप्ति के लिए गोपियों ने भी कात्यायनी व्रत किया था।",
+          "transliteration": "Kātyāyanī pūjā vidhi:\n1. snāna kara lāla vastra dhāraṇa kareṃ|\n2. mā~ kātyāyanī kī pratimā yā citra para sindūra aura kumakuma car̤hāe~|\n3. lāla puṣpa, lāla cunarī aura śṛṃgāra sāmagrī arpita kareṃ|\n4. śahada kā bhoga lagāe~ — mā~ kātyāyanī ko madhu ati priya hai|\n5. durgā saptaśatī ke ṣaṣṭha adhyāya kā pāṭha kareṃ|\n6. vivāha yogya kanyāe~ 'oṃ kātyāyanyai namaḥ' kā 108 bāra japa kareṃ — manovāṃchita vara prāpti hetu|\n7. kanyā pūjana kareṃ aura āratī se pūjā sampanna kareṃ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ देवी कात्यायन्यै नमः॥\nॐ ऐं ह्रीं क्लीं कात्यायन्यै नमः॥\nकात्यायनी महामाये महायोगिन्यधीश्वरि।\nनन्दगोपसुतं देवि पतिं मे कुरु ते नमः॥",
+          "meaning": "महामाया, महायोगिनी, अधीश्वरी माँ कात्यायनी को नमस्कार। हे देवी, नन्दगोप के पुत्र (कृष्ण) के समान उत्तम पति प्रदान करें — यह गोपियों द्वारा किया गया प्राचीन मंत्र है।",
+          "transliteration": "Oṃ devī kātyāyanyai namaḥ||\nOṃ aiṃ hrīṃ klīṃ kātyāyanyai namaḥ||\nKātyāyanī mahāmāye mahāyoginyadhīśvari|\nNandagopasutaṃ devi patiṃ me kuru te namaḥ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "nav_day7",
+      "title": "सप्तम दिन - कालरात्रि पूजा",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/navratri/kalaratri.jpg",
+      "orderIndex": 7,
+      "content": [
+        {
+          "shloka": "एकवेणी जपाकर्णपूरा नग्ना खरास्थिता।\nलम्बोष्ठी कर्णिकाकर्णी तैलाभ्यक्तशरीरिणी॥\nवामपादोल्लसल्लोहलताकण्टकभूषणा।\nवर्धनमूर्धध्वजा कृष्णा कालरात्रिर्भयङ्करी॥",
+          "meaning": "एक वेणी में बँधे केश, जपा (गुड़हल) पुष्प कानों में, गदर्भ (गधे) पर आरूढ़, लम्बे ओष्ठ, लोहे के काँटों से भूषित, ध्वज उठाए, श्याम वर्ण वाली भयंकर माँ कालरात्रि।",
+          "transliteration": "Ekaveṇī japākarṇapūrā nagnā kharāsthitā|\nLamboṣṭhī karṇikākarṇī tailābhyaktaśarīriṇī||\nVāmapādollasallohalatākaṇṭakabhūṣaṇā|\nVardhanamūrdhadhvajā kṛṣṇā kālarātrirbhayaṅkarī||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "या देवी सर्वभूतेषु माँ कालरात्रि रूपेण संस्थिता।\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः॥",
+          "meaning": "जो देवी सम्पूर्ण प्राणियों में माँ कालरात्रि के रूप में स्थित हैं, उन्हें बारम्बार नमस्कार है।",
+          "transliteration": "Yā devī sarvabhūteṣu mā~ kālarātri rūpeṇa saṃsthitā|\nNamastasyai namastasyai namastasyai namo namaḥ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कालरात्रि पूजा विधि:\n१. स्नान कर नीले या लाल वस्त्र धारण करें।\n२. माँ कालरात्रि की प्रतिमा के समक्ष सरसों के तेल का दीपक जलाएँ।\n३. लाल पुष्प, कपूर और लौंग अर्पित करें।\n४. गुड़ (गन्ने का रस) का भोग लगाएँ — माँ को गुड़ अत्यन्त प्रिय है।\n५. दुर्गा सप्तशती के सप्तम अध्याय (रक्तबीज वध) का पाठ करें।\n६. कालरात्रि बीज मंत्र का १०८ बार जप करें।\n७. भय निवारण हेतु 'ॐ ऐं ह्रीं क्लीं कालरात्र्यै नमः' का जप करें।\n८. आरती कर प्रसाद वितरित करें।",
+          "meaning": "माँ कालरात्रि दुर्गा का सबसे भयंकर रूप हैं — काल (मृत्यु और अंधकार) का नाश करने वाली। दुष्टों के लिए भयंकर किन्तु भक्तों को सदा शुभ फल देने वाली होने से इन्हें 'शुभंकरी' भी कहते हैं। ये सहस्रार चक्र से सम्बन्धित हैं।",
+          "transliteration": "Kālarātri pūjā vidhi:\n1. snāna kara nīle yā lāla vastra dhāraṇa kareṃ|\n2. mā~ kālarātri kī pratimā ke samakṣa sarasoṃ ke tela kā dīpaka jalāe~|\n3. lāla puṣpa, kapūra aura lauṃga arpita kareṃ|\n4. gur̤a (ganne kā rasa) kā bhoga lagāe~ — mā~ ko gur̤a atyanta priya hai|\n5. durgā saptaśatī ke saptama adhyāya (raktabīja vadha) kā pāṭha kareṃ|\n6. kālarātri bīja maṃtra kā 108 bāra japa kareṃ|\n7. bhaya nivāraṇa hetu 'oṃ aiṃ hrīṃ klīṃ kālarātryai namaḥ' kā japa kareṃ|\n8. āratī kara prasāda vitarita kareṃ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ देवी कालरात्र्यै नमः॥\nॐ ऐं ह्रीं क्लीं कालरात्र्यै नमः॥\nकालरात्रि महारौद्रि ज्वालामुखी भयङ्करी।\nग्रहभूतपिशाचघ्नी कालरात्रि प्रणमाम्यहम्॥",
+          "meaning": "माँ कालरात्रि को नमस्कार। महारौद्री, ज्वालामुखी, भयंकर, ग्रह-भूत-पिशाचों का नाश करने वाली माँ कालरात्रि को मैं प्रणाम करता हूँ। इनकी कृपा से समस्त भय, बाधाएँ और नकारात्मक शक्तियाँ दूर होती हैं।",
+          "transliteration": "Oṃ devī kālarātryai namaḥ||\nOṃ aiṃ hrīṃ klīṃ kālarātryai namaḥ||\nKālarātri mahāraudri jvālāmukhī bhayaṅkarī|\nGrahabhūtapiśācaghnī kālarātri praṇamāmyaham||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "nav_day8",
+      "title": "अष्टम दिन - महागौरी पूजा",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/navratri/mahagauri.jpg",
+      "orderIndex": 8,
+      "content": [
+        {
+          "shloka": "श्वेते वृषे समारूढा श्वेताम्बरधरा शुचिः।\nमहागौरी शुभं दद्यान्महादेवप्रमोददा॥",
+          "meaning": "श्वेत वृषभ पर आरूढ़, श्वेत वस्त्र धारण करने वाली, पवित्र, महादेव को आनन्द प्रदान करने वाली माँ महागौरी शुभ प्रदान करें।",
+          "transliteration": "Śvete vṛṣe samārūḍhā śvetāmbaradharā śuciḥ|\nMahāgaurī śubhaṃ dadyānmahādevapramodadā||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "या देवी सर्वभूतेषु माँ महागौरी रूपेण संस्थिता।\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः॥",
+          "meaning": "जो देवी समस्त प्राणियों में माँ महागौरी के रूप में विद्यमान हैं, उन्हें बारम्बार नमस्कार है।",
+          "transliteration": "Yā devī sarvabhūteṣu mā~ mahāgaurī rūpeṇa saṃsthitā|\nNamastasyai namastasyai namastasyai namo namaḥ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "महागौरी पूजा विधि:\n१. प्रातः स्नान कर श्वेत वस्त्र धारण करें।\n२. माँ महागौरी की प्रतिमा या चित्र स्थापित करें।\n३. श्वेत पुष्प (चमेली, मोगरा), श्वेत चन्दन और कपूर अर्पित करें।\n४. नारियल का भोग लगाएँ — माँ को नारियल अत्यन्त प्रिय है।\n५. दुर्गा सप्तशती के अष्टम अध्याय का पाठ करें।\n६. महागौरी बीज मंत्र का १०८ बार जप करें।\n७. अष्टमी को कन्या पूजन (कुमारी पूजा) का विशेष महत्त्व है — नौ कन्याओं को भोजन कराएँ और दक्षिणा दें।\n८. आरती और परिक्रमा से पूजा सम्पन्न करें।",
+          "meaning": "माँ महागौरी अत्यन्त गौर वर्ण की हैं। कठोर तपस्या के कारण इनका शरीर काला पड़ गया था, तब शिव ने गंगाजल से इन्हें धोया और ये गौर वर्ण की हो गईं। ये चतुर्भुजी, वृषभवाहिनी और शुद्धि एवं शान्ति की प्रतीक हैं। इनकी उपासना से पूर्वजन्म के पाप नष्ट होते हैं।",
+          "transliteration": "Mahāgaurī pūjā vidhi:\n1. prātaḥ snāna kara śveta vastra dhāraṇa kareṃ|\n2. mā~ mahāgaurī kī pratimā yā citra sthāpita kareṃ|\n3. śveta puṣpa (camelī, mogarā), śveta candana aura kapūra arpita kareṃ|\n4. nāriyala kā bhoga lagāe~ — mā~ ko nāriyala atyanta priya hai|\n5. durgā saptaśatī ke aṣṭama adhyāya kā pāṭha kareṃ|\n6. mahāgaurī bīja maṃtra kā 108 bāra japa kareṃ|\n7. aṣṭamī ko kanyā pūjana (kumārī pūjā) kā viśeṣa mahattva hai — nau kanyāoṃ ko bhojana karāe~ aura dakṣiṇā deṃ|\n8. āratī aura parikramā se pūjā sampanna kareṃ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ देवी महागौर्यै नमः॥\nॐ ऐं ह्रीं क्लीं महागौर्यै नमः॥\nसर्वमंगलमांगल्ये शिवे सर्वार्थसाधिके।\nशरण्ये त्र्यम्बके गौरि नारायणि नमोऽस्तु ते॥",
+          "meaning": "सभी मंगलों की मंगलमयी, शिवा, सभी अर्थों को सिद्ध करने वाली, शरण देने वाली, त्रिनेत्री, गौरी, नारायणी — आपको नमस्कार। यह श्लोक दुर्गा जी का सबसे लोकप्रिय मंगल स्तोत्र है।",
+          "transliteration": "Oṃ devī mahāgauryai namaḥ||\nOṃ aiṃ hrīṃ klīṃ mahāgauryai namaḥ||\nSarvamaṃgalamāṃgalye śive sarvārthasādhike|\nŚaraṇye tryambake gauri nārāyaṇi namo'stu te||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "nav_day9",
+      "title": "नवम दिन - सिद्धिदात्री पूजा",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/navratri/siddhidatri.jpg",
+      "orderIndex": 9,
+      "content": [
+        {
+          "shloka": "सिद्धगन्धर्वयक्षाद्यैरसुरैरमरैरपि।\nसेव्यमाना सदा भूयात् सिद्धिदा सिद्धिदायिनी॥",
+          "meaning": "सिद्ध, गन्धर्व, यक्ष, असुर और देवताओं द्वारा सदा सेवित, सिद्धि प्रदान करने वाली माँ सिद्धिदात्री सदा कल्याण करें।",
+          "transliteration": "Siddhagandharvayakṣādyairasurairamarairapi|\nSevyamānā sadā bhūyāt siddhidā siddhidāyinī||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "या देवी सर्वभूतेषु माँ सिद्धिदात्री रूपेण संस्थिता।\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः॥",
+          "meaning": "जो देवी सम्पूर्ण प्राणियों में माँ सिद्धिदात्री के रूप में विराजमान हैं, उन्हें बारम्बार नमस्कार है।",
+          "transliteration": "Yā devī sarvabhūteṣu mā~ siddhidātrī rūpeṇa saṃsthitā|\nNamastasyai namastasyai namastasyai namo namaḥ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सिद्धिदात्री पूजा विधि:\n१. स्नान कर पीले या लाल वस्त्र धारण करें।\n२. माँ सिद्धिदात्री की कमलासनस्थ प्रतिमा स्थापित करें।\n३. सभी प्रकार के पुष्प, फल और नैवेद्य अर्पित करें।\n४. तिल का भोग लगाएँ — नवमी पर तिल से बने पदार्थ विशेष शुभ हैं।\n५. सम्पूर्ण दुर्गा सप्तशती या कम से कम नवम अध्याय का पाठ करें।\n६. नवार्ण मंत्र 'ॐ ऐं ह्रीं क्लीं चामुण्डायै विच्चे' का १०८ बार जप करें।\n७. नवमी को हवन और कन्या पूजन करें।\n८. विसर्जन या जोत का विसर्जन करें (यदि अन्तिम दिन हो)।",
+          "meaning": "माँ सिद्धिदात्री अष्ट सिद्धियों (अणिमा, महिमा, गरिमा, लघिमा, प्राप्ति, प्राकाम्य, ईशित्व, वशित्व) की दात्री हैं। ये कमलासन पर विराजमान, चतुर्भुजी और नवरात्रि की अन्तिम शक्ति हैं। भगवान शिव ने भी इन्हीं की कृपा से अर्धनारीश्वर रूप प्राप्त किया।",
+          "transliteration": "Siddhidātrī pūjā vidhi:\n1. snāna kara pīle yā lāla vastra dhāraṇa kareṃ|\n2. mā~ siddhidātrī kī kamalāsanastha pratimā sthāpita kareṃ|\n3. sabhī prakāra ke puṣpa, phala aura naivedya arpita kareṃ|\n4. tila kā bhoga lagāe~ — navamī para tila se bane padārtha viśeṣa śubha haiṃ|\n5. sampūrṇa durgā saptaśatī yā kama se kama navama adhyāya kā pāṭha kareṃ|\n6. navārṇa maṃtra 'oṃ aiṃ hrīṃ klīṃ cāmuṇḍāyai vicce' kā 108 bāra japa kareṃ|\n7. navamī ko havana aura kanyā pūjana kareṃ|\n8. visarjana yā jota kā visarjana kareṃ (yadi antima dina ho)|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ देवी सिद्धिदात्र्यै नमः॥\nॐ ऐं ह्रीं क्लीं सिद्धिदात्र्यै नमः॥\nसिद्धिदात्री मोक्षदात्री ज्ञानदात्री सुखप्रदे।\nसर्वसिद्धिप्रदायिन्यै सिद्धिदात्र्यै नमो नमः॥",
+          "meaning": "सिद्धि देने वाली, मोक्ष देने वाली, ज्ञान देने वाली, सुख प्रदान करने वाली, समस्त सिद्धियों को प्रदान करने वाली माँ सिद्धिदात्री को बारम्बार नमस्कार। नवरात्रि की नवमी तिथि पर इनकी पूजा से सभी मनोकामनाएँ पूर्ण होती हैं।",
+          "transliteration": "Oṃ devī siddhidātryai namaḥ||\nOṃ aiṃ hrīṃ klīṃ siddhidātryai namaḥ||\nSiddhidātrī mokṣadātrī jñānadātrī sukhaprade|\nSarvasiddhipradāyinyai siddhidātryai namo namaḥ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "nav_durga_saptashati",
+      "title": "दुर्गा सप्तशती",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/navratri/durga.jpg",
+      "orderIndex": 10,
+      "content": [
+        {
+          "shloka": "ॐ नमश्चण्डिकायै॥\nॐ ऐं ह्रीं क्लीं चामुण्डायै विच्चे॥\nसर्वमंगलमांगल्ये शिवे सर्वार्थसाधिके।\nशरण्ये त्र्यम्बके गौरि नारायणि नमोऽस्तु ते॥",
+          "meaning": "माँ चण्डिका को नमस्कार। यह नवार्ण मंत्र दुर्गा सप्तशती का मूल बीज मंत्र है। सभी मंगलों की मंगलमयी, शिवा, सभी अर्थ सिद्ध करने वाली, शरण देने वाली, तीन नेत्रों वाली, गौरी, नारायणी — आपको नमस्कार।",
+          "transliteration": "Oṃ namaścaṇḍikāyai||\nOṃ aiṃ hrīṃ klīṃ cāmuṇḍāyai vicce||\nSarvamaṃgalamāṃgalye śive sarvārthasādhike|\nŚaraṇye tryambake gauri nārāyaṇi namo'stu te||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "दुर्गा सप्तशती (श्री देवी महात्म्यम्) मार्कण्डेय पुराण का अंश है जिसमें 700 श्लोक और 13 अध्याय हैं। यह तीन चरित्रों में विभाजित है:\n\nप्रथम चरित्र (अध्याय 1) — मधु-कैटभ वध, महाकाली की कथा\nमध्यम चरित्र (अध्याय 2-4) — महिषासुर वध, महालक्ष्मी की कथा\nउत्तम चरित्र (अध्याय 5-13) — शुम्भ-निशुम्भ वध, महासरस्वती की कथा",
+          "meaning": "दुर्गा सप्तशती नवरात्रि में पाठ का सबसे प्रमुख ग्रन्थ है। नौ दिनों में इसका सम्पूर्ण पाठ या प्रतिदिन एक आवृत्ति की जाती है। यह शक्ति उपासना का सर्वोच्च ग्रन्थ है। एक पाठ में लगभग 2-3 घंटे लगते हैं।",
+          "transliteration": "Durgā saptaśatī (śrī devī mahātmyam) mārkaṇḍeya purāṇa kā aṃśa hai jisameṃ 700 śloka aura 13 adhyāya haiṃ| yaha tīna caritroṃ meṃ vibhājita hai:\n\nPrathama caritra (adhyāya 1) — madhu-kaiṭabha vadha, mahākālī kī kathā\nMadhyama caritra (adhyāya 2-4) — mahiṣāsura vadha, mahālakṣmī kī kathā\nUttama caritra (adhyāya 5-13) — śumbha-niśumbha vadha, mahāsarasvatī kī kathā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कवच (प्रथम अध्याय से पूर्व):\nॐ नमश्चण्डिकायै\nमार्कण्डेय उवाच — ॐ यद्गुह्यं परमं लोके सर्वरक्षाकरं नृणाम्।\nयन्न कस्यचिदाख्यातं तन्मे ब्रूहि पितामह॥\nब्रह्मोवाच — अस्ति गुह्यतमं विप्र सर्वभूतोपकारकम्।\nदेव्यास्तु कवचं पुण्यं तच्छृणुष्व महामुने॥",
+          "meaning": "मार्कण्डेय ने पूछा — हे पितामह, संसार में जो अत्यन्त गोपनीय और सभी मनुष्यों की रक्षा करने वाला है, जो किसी को नहीं बताया गया, वह मुझे बताइए। ब्रह्मा बोले — हे विप्र, सभी प्राणियों का कल्याण करने वाला अत्यन्त गोपनीय देवी कवच है, हे महामुने सुनो। देवी कवच सप्तशती पाठ से पूर्व पढ़ा जाता है।",
+          "transliteration": "Kavaca (prathama adhyāya se pūrva):\nOṃ namaścaṇḍikāyai\nMārkaṇḍeya uvāca — oṃ yadguhyaṃ paramaṃ loke sarvarakṣākaraṃ nṛṇām|\nYanna kasyacidākhyātaṃ tanme brūhi pitāmaha||\nBrahmovāca — asti guhyatamaṃ vipra sarvabhūtopakārakam|\nDevyāstu kavacaṃ puṇyaṃ tacchṛṇuṣva mahāmune||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अर्गला स्तोत्रम्:\nजयन्ती मंगला काली भद्रकाली कपालिनी।\nदुर्गा क्षमा शिवा धात्री स्वाहा स्वधा नमोऽस्तु ते॥\nजय त्वं देवि चामुण्डे जय भूतार्तिहारिणि।\nजय सर्वगते देवि कालरात्रि नमोऽस्तु ते॥",
+          "meaning": "जयन्ती, मंगला, काली, भद्रकाली, कपालिनी, दुर्गा, क्षमा, शिवा, धात्री, स्वाहा, स्वधा — आपको नमस्कार। हे चामुण्डा देवी आपकी जय, हे प्राणियों के कष्ट हरने वाली आपकी जय, हे सर्वव्यापिनी कालरात्रि देवी — आपको नमस्कार। अर्गला स्तोत्र कवच के बाद और सप्तशती के मूल पाठ से पूर्व पढ़ा जाता है।",
+          "transliteration": "Argalā stotram:\nJayantī maṃgalā kālī bhadrakālī kapālinī|\nDurgā kṣamā śivā dhātrī svāhā svadhā namo'stu te||\nJaya tvaṃ devi cāmuṇḍe jaya bhūtārtihāriṇi|\nJaya sarvagate devi kālarātri namo'stu te||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "दुर्गा सप्तशती पाठ विधि:\n१. स्नान कर आसन पर पूर्व या उत्तर मुख करके बैठें।\n२. दीपक जलाएँ और संकल्प करें — 'मम सकल मनोरथ सिद्ध्यर्थं श्री दुर्गासप्तशतीपाठमहं करिष्ये'।\n३. क्रम: कवच → अर्गला → कीलकम् → नवार्ण मंत्र जप (108 या 9 बार) → ध्यान → प्रथम अध्याय से त्रयोदश अध्याय → सिद्धकुञ्जिका स्तोत्र।\n४. पाठ के समय बीच में उठना नहीं चाहिए।\n५. यदि एक दिन में पूरा न हो तो तीन दिन (1, 2-4, 5-13), सात दिन या नौ दिन में विभाजित करें।\n६. प्रत्येक अध्याय के बाद नवार्ण मंत्र का जप करें।\n७. पाठ पूर्ण होने पर हवन, कन्या पूजन और प्रसाद वितरण करें।",
+          "meaning": "दुर्गा सप्तशती का विधिवत पाठ नवरात्रि में सर्वाधिक पुण्य प्रदान करता है। इसके पाठ से शत्रु बाधा, रोग, दारिद्र्य और समस्त विघ्न दूर होते हैं। नवरात्रि में इसके पाठ का फल अन्य समय की तुलना में सहस्र गुना अधिक माना जाता है।",
+          "transliteration": "Durgā saptaśatī pāṭha vidhi:\n1. snāna kara āsana para pūrva yā uttara mukha karake baiṭheṃ|\n2. dīpaka jalāe~ aura saṃkalpa kareṃ — 'mama sakala manoratha siddhyarthaṃ śrī durgāsaptaśatīpāṭhamahaṃ kariṣye'|\n3. krama: kavaca → argalā → kīlakam → navārṇa maṃtra japa (108 yā 9 bāra) → dhyāna → prathama adhyāya se trayodaśa adhyāya → siddhakuñjikā stotra|\n4. pāṭha ke samaya bīca meṃ uṭhanā nahīṃ cāhie|\n5. yadi eka dina meṃ pūrā na ho to tīna dina (1, 2-4, 5-13), sāta dina yā nau dina meṃ vibhājita kareṃ|\n6. pratyeka adhyāya ke bāda navārṇa maṃtra kā japa kareṃ|\n7. pāṭha pūrṇa hone para havana, kanyā pūjana aura prasāda vitaraṇa kareṃ|",
+          "imageUrl": null
+        }
+      ]
+    }
+  ]
+}

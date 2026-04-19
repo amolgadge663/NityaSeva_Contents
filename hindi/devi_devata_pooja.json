@@ -1,0 +1,474 @@
+{
+  "category": "Devi Devata Anusar Pooja",
+  "version": 1,
+  "items": [
+    {
+      "id": "pooja_ganesh",
+      "title": "गणेश पूजा विधि",
+      "orderIndex": 1,
+      "content": [
+        {
+          "shloka": "ॐ गं गणपतये नमः।\nवक्रतुण्ड महाकाय सूर्यकोटि समप्रभ।\nनिर्विघ्नं कुरु मे देव सर्वकार्येषु सर्वदा॥",
+          "meaning": "गणेश पूजा का आह्वान। सर्वप्रथम पूजा स्थल को शुद्ध करें। एक चौकी पर लाल वस्त्र बिछाकर गणेश जी की मूर्ति या चित्र स्थापित करें। मूर्ति के समक्ष दीपक, अगरबत्ती, फल, मोदक, दूर्वा घास और लाल पुष्प रखें।",
+          "transliteration": "Oṃ gaṃ gaṇapataye namaḥ|\nVakratuṇḍa mahākāya sūryakoṭi samaprabha|\nNirvighnaṃ kuru me deva sarvakāryeṣu sarvadā||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "गजाननं भूतगणादिसेवितं कपित्थजम्बूफलचारुभक्षणम्।\nउमासुतं शोकविनाशकारकं नमामि विघ्नेश्वर पादपङ्कजम्॥",
+          "meaning": "ध्यान: गणेश जी का ध्यान करें। कलश में जल भरकर स्थापित करें। पंचामृत (दूध, दही, घी, शहद, शक्कर) से गणेश जी का अभिषेक करें। फिर शुद्ध जल से स्नान कराएँ। वस्त्र अर्पित करें।",
+          "transliteration": "Gajānanaṃ bhūtagaṇādisevitaṃ kapitthajambūphalacārubhakṣaṇam|\nUmāsutaṃ śokavināśakārakaṃ namāmi vighneśvara pādapaṅkajam||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "एकदन्ताय विद्महे वक्रतुण्डाय धीमहि।\nतन्नो दन्ती प्रचोदयात्॥",
+          "meaning": "गणेश गायत्री मन्त्र का जाप करें। सिन्दूर, चन्दन, अक्षत (चावल) चढ़ाएँ। दूर्वा घास के 21 जोड़े अर्पित करें (गणेश जी को दूर्वा अत्यन्त प्रिय है)। लाल पुष्प, विशेषकर गेंदा और गुड़हल चढ़ाएँ। 21 मोदक या लड्डू का भोग लगाएँ।",
+          "transliteration": "Ekadantāya vidmahe vakratuṇḍāya dhīmahi|\nTanno dantī pracodayāt||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ गणानां त्वा गणपतिं हवामहे कविं कवीनामुपमश्रवस्तमम्।\nज्येष्ठराजं ब्रह्मणां ब्रह्मणस्पत आ नः शृण्वन्नूतिभिः सीद सादनम्॥",
+          "meaning": "गणपति अथर्वशीर्ष का पाठ करें। धूप, दीप दिखाएँ। 108 बार ॐ गं गणपतये नमः मन्त्र का जाप करें। आरती करें। प्रसाद वितरित करें। गणेश पूजा सभी शुभ कार्यों के आरम्भ में की जाती है। मंगलवार और चतुर्थी तिथि गणेश पूजा हेतु विशेष शुभ है।",
+          "transliteration": "Oṃ gaṇānāṃ tvā gaṇapatiṃ havāmahe kaviṃ kavīnāmupamaśravastamam|\nJyeṣṭharājaṃ brahmaṇāṃ brahmaṇaspata ā naḥ śṛṇvannūtibhiḥ sīda sādanam||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "त्वमेव प्रत्यक्षं तत्त्वमसि। त्वमेव केवलं कर्तासि।\nत्वमेव केवलं धर्तासि। त्वमेव केवलं हर्तासि।\nत्वमेव सर्वं खल्विदं ब्रह्मासि॥",
+          "meaning": "गणपति अथर्वशीर्ष से: तुम ही प्रत्यक्ष तत्त्व हो, तुम ही एकमात्र कर्ता, धर्ता और हर्ता हो, तुम ही सम्पूर्ण ब्रह्म हो। पूजा के अन्त में क्षमा प्रार्थना करें - हे गणपति! पूजा में जो भी त्रुटि हुई हो, उसे क्षमा करें। विसर्जन करें और प्रसाद ग्रहण करें।",
+          "transliteration": "Tvameva pratyakṣaṃ tattvamasi| tvameva kevalaṃ kartāsi|\nTvameva kevalaṃ dhartāsi| tvameva kevalaṃ hartāsi|\nTvameva sarvaṃ khalvidaṃ brahmāsi||",
+          "imageUrl": null
+        }
+      ],
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/pooja/ganesh.jpg"
+    },
+    {
+      "id": "pooja_shiva",
+      "title": "शिव पूजा विधि",
+      "orderIndex": 2,
+      "content": [
+        {
+          "shloka": "ॐ नमः शिवाय।\nकर्पूरगौरं करुणावतारं संसारसारं भुजगेन्द्रहारम्।\nसदा वसन्तं हृदयारविन्दे भवं भवानीसहितं नमामि॥",
+          "meaning": "शिव पूजा की तैयारी: शिवलिंग या शिव मूर्ति को स्वच्छ स्थान पर स्थापित करें। पूजा सामग्री में बेलपत्र, धतूरा, भाँग, दूध, जल, शहद, चन्दन, विभूति (भस्म), रुद्राक्ष माला और श्वेत पुष्प रखें।",
+          "transliteration": "Oṃ namaḥ śivāya|\nKarpūragauraṃ karuṇāvatāraṃ saṃsārasāraṃ bhujagendrahāram|\nSadā vasantaṃ hṛdayāravinde bhavaṃ bhavānīsahitaṃ namāmi||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ध्यायेन्नित्यं महेशं रजतगिरिनिभं चारुचन्द्रावतंसं\nरत्नाकल्पोज्ज्वलाङ्गं परशुमृगवराभीतिहस्तं प्रसन्नम्।\nपद्मासीनं समन्तात् स्तुतममरगणैर्व्याघ्रकृत्तिं वसानं\nविश्वाद्यं विश्ववन्द्यं निखिलभयहरं पञ्चवक्त्रं त्रिनेत्रम्॥",
+          "meaning": "शिव का ध्यान करें। शिवलिंग पर जलाभिषेक करें - सर्वप्रथम गंगाजल, फिर दूध, दही, शहद, घी, शक्कर (पंचामृत) से अभिषेक करें। प्रत्येक अभिषेक के समय ॐ नमः शिवाय का जाप करें।",
+          "transliteration": "Dhyāyennityaṃ maheśaṃ rajatagirinibhaṃ cārucandrāvataṃsaṃ\nRatnākalpojjvalāṅgaṃ paraśumṛgavarābhītihastaṃ prasannam|\nPadmāsīnaṃ samantāt stutamamaragaṇairvyāghrakṛttiṃ vasānaṃ\nViśvādyaṃ viśvavandyaṃ nikhilabhayaharaṃ pañcavaktraṃ trinetram||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम्।\nउर्वारुकमिव बन्धनान् मृत्योर्मुक्षीय मामृतात्॥",
+          "meaning": "महामृत्युञ्जय मन्त्र का 108 बार जाप करें। शिवलिंग पर चन्दन, विभूति लगाएँ। बेलपत्र के तीन पत्ते (त्रिदल) अर्पित करें - ये तीनों नेत्रों, तीनों गुणों और तीनों शक्तियों का प्रतीक हैं। धतूरा, आक के फूल और श्वेत पुष्प चढ़ाएँ।",
+          "transliteration": "Tryambakaṃ yajāmahe sugandhiṃ puṣṭivardhanam|\nUrvārukamiva bandhanān mṛtyormukṣīya māmṛtāt||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "नागेन्द्रहाराय त्रिलोचनाय भस्माङ्गरागाय महेश्वराय।\nनित्याय शुद्धाय दिगम्बराय तस्मै नकाराय नमः शिवाय॥",
+          "meaning": "शिव पंचाक्षर स्तोत्र का पाठ करें। धूप-दीप दिखाएँ। शिव को नैवेद्य अर्पित करें - फल, मिठाई और भाँग का प्रसाद। शिव आरती करें। सोमवार, प्रदोषकाल और श्रावण मास शिव पूजा हेतु अत्यन्त शुभ हैं।",
+          "transliteration": "Nāgendrahārāya trilocanāya bhasmāṅgarāgāya maheśvarāya|\nNityāya śuddhāya digambarāya tasmai nakārāya namaḥ śivāya||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "मन्त्रपुष्पं समर्पयामि।\nॐ नमः शिवाय॥",
+          "meaning": "पूजा के अन्त में रुद्राष्टक या शिव तांडव स्तोत्र का पाठ करें। मन्त्रपुष्पांजलि अर्पित करें। क्षमा प्रार्थना करें और प्रदक्षिणा करें। ध्यान रखें - शिवलिंग की पूर्ण परिक्रमा नहीं की जाती, अर्धचन्द्राकार परिक्रमा करें। प्रसाद वितरित करें।",
+          "transliteration": "Mantrapuṣpaṃ samarpayāmi|\nOṃ namaḥ śivāya||",
+          "imageUrl": null
+        }
+      ],
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/pooja/shiv.jpg"
+    },
+    {
+      "id": "pooja_vishnu",
+      "title": "विष्णु पूजा विधि",
+      "orderIndex": 3,
+      "content": [
+        {
+          "shloka": "ॐ नमो भगवते वासुदेवाय।\nशान्ताकारं भुजगशयनं पद्मनाभं सुरेशं\nविश्वाधारं गगनसदृशं मेघवर्णं शुभाङ्गम्।\nलक्ष्मीकान्तं कमलनयनं योगिभिर्ध्यानगम्यं\nवन्दे विष्णुं भवभयहरं सर्वलोकैकनाथम्॥",
+          "meaning": "विष्णु पूजा हेतु शालिग्राम या विष्णु मूर्ति स्थापित करें। पूजा सामग्री में तुलसी दल, पीत वस्त्र, पीले पुष्प, चन्दन, कमल, पंचामृत, फल और नैवेद्य रखें।",
+          "transliteration": "Oṃ namo bhagavate vāsudevāya|\nŚāntākāraṃ bhujagaśayanaṃ padmanābhaṃ sureśaṃ\nViśvādhāraṃ gaganasadṛśaṃ meghavarṇaṃ śubhāṅgam|\nLakṣmīkāntaṃ kamalanayanaṃ yogibhirdhyānagamyaṃ\nVande viṣṇuṃ bhavabhayaharaṃ sarvalokaikanātham||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ विष्णवे नमः। ॐ नारायणाय नमः।\nमङ्गलं भगवान् विष्णुः मङ्गलं गरुडध्वजः।\nमङ्गलं पुण्डरीकाक्षो मङ्गलायतनो हरिः॥",
+          "meaning": "विष्णु का ध्यान करें। शालिग्राम या मूर्ति का पंचामृत से अभिषेक करें। शुद्ध जल से स्नान कराएँ। पीत (पीले) वस्त्र अर्पित करें। चन्दन का तिलक लगाएँ। तुलसी दल अवश्य अर्पित करें - विष्णु को तुलसी अत्यन्त प्रिय है।",
+          "transliteration": "Oṃ viṣṇave namaḥ| oṃ nārāyaṇāya namaḥ|\nMaṅgalaṃ bhagavān viṣṇuḥ maṅgalaṃ garuḍadhvajaḥ|\nMaṅgalaṃ puṇḍarīkākṣo maṅgalāyatano hariḥ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ नारायणाय विद्महे वासुदेवाय धीमहि।\nतन्नो विष्णुः प्रचोदयात्॥",
+          "meaning": "विष्णु गायत्री मन्त्र का 108 बार जाप करें। विष्णु सहस्रनाम का पाठ करें। पीले पुष्प, कमल और तुलसी माला अर्पित करें। धूप-दीप दिखाएँ। फल, मिठाई, खीर आदि का भोग लगाएँ।",
+          "transliteration": "Oṃ nārāyaṇāya vidmahe vāsudevāya dhīmahi|\nTanno viṣṇuḥ pracodayāt||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कायेन वाचा मनसेन्द्रियैर्वा बुद्ध्यात्मना वा प्रकृतेः स्वभावात्।\nकरोमि यद्यत् सकलं परस्मै नारायणायेति समर्पयामि॥",
+          "meaning": "जो कुछ भी मैं करता हूँ - शरीर, वाणी, मन, इन्द्रियों, बुद्धि या स्वभावतः - वह सब नारायण को समर्पित करता हूँ। विष्णु की आरती करें। एकादशी व्रत विष्णु पूजा हेतु अत्यन्त फलदायी है।",
+          "transliteration": "Kāyena vācā manasendriyairvā buddhyātmanā vā prakṛteḥ svabhāvāt|\nKaromi yadyat sakalaṃ parasmai nārāyaṇāyeti samarpayāmi||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ नमो नारायणाय।\nत्वमेव माता च पिता त्वमेव त्वमेव बन्धुश्च सखा त्वमेव।\nत्वमेव विद्या द्रविणं त्वमेव त्वमेव सर्वं मम देवदेव॥",
+          "meaning": "हे देवदेव! आप ही माता हैं, पिता हैं, बन्धु हैं, सखा हैं, विद्या हैं, धन हैं - आप ही मेरा सब कुछ हैं। गुरुवार और एकादशी तिथि विष्णु पूजा हेतु सर्वोत्तम है। प्रसाद वितरित कर पूजा सम्पन्न करें।",
+          "transliteration": "Oṃ namo nārāyaṇāya|\nTvameva mātā ca pitā tvameva tvameva bandhuśca sakhā tvameva|\nTvameva vidyā draviṇaṃ tvameva tvameva sarvaṃ mama devadeva||",
+          "imageUrl": null
+        }
+      ],
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/pooja/vishnu.jpg"
+    },
+    {
+      "id": "pooja_durga",
+      "title": "दुर्गा पूजा विधि",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "ॐ ऐं ह्रीं क्लीं चामुण्डायै विच्चे।\nसर्वमङ्गलमाङ्गल्ये शिवे सर्वार्थसाधिके।\nशरण्ये त्र्यम्बके गौरि नारायणि नमोऽस्तु ते॥",
+          "meaning": "दुर्गा पूजा हेतु लाल वस्त्र पर माँ दुर्गा की मूर्ति या चित्र स्थापित करें। कलश स्थापना करें - मिट्टी के कलश में जल भरें, ऊपर नारियल रखें, चारों ओर आम के पत्ते लगाएँ। लाल पुष्प, सिन्दूर, चुनरी, श्रृंगार सामग्री, फल और नैवेद्य रखें।",
+          "transliteration": "Oṃ aiṃ hrīṃ klīṃ cāmuṇḍāyai vicce|\nSarvamaṅgalamāṅgalye śive sarvārthasādhike|\nŚaraṇye tryambake gauri nārāyaṇi namo'stu te||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "या देवी सर्वभूतेषु शक्तिरूपेण संस्थिता।\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः॥",
+          "meaning": "देवी का आह्वान और ध्यान करें। पंचामृत से अभिषेक करें। लाल वस्त्र और चुनरी अर्पित करें। सिन्दूर, कुमकुम, हल्दी, काजल, बिन्दी, चूड़ियाँ आदि सोलह श्रृंगार की सामग्री अर्पित करें।",
+          "transliteration": "Yā devī sarvabhūteṣu śaktirūpeṇa saṃsthitā|\nNamastasyai namastasyai namastasyai namo namaḥ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सृष्टिस्थितिविनाशानां शक्तिभूते सनातनि।\nगुणाश्रये गुणमये नारायणि नमोऽस्तु ते॥",
+          "meaning": "दुर्गा सप्तशती या चण्डीपाठ का पाठ करें। नवार्ण मन्त्र ॐ ऐं ह्रीं क्लीं चामुण्डायै विच्चे का 108 बार जाप करें। लाल पुष्प, विशेषकर गुड़हल और कमल अर्पित करें। धूप-दीप दिखाएँ। हलवा-पूरी, खीर या नारियल का भोग लगाएँ।",
+          "transliteration": "Sṛṣṭisthitivināśānāṃ śaktibhūte sanātani|\nGuṇāśraye guṇamaye nārāyaṇi namo'stu te||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "विद्यासु शास्त्रेषु विवेकदीपेषु वाद्येषु वाक्येषु च का त्वदन्या।\nममत्वगर्तेऽतिमहान्धकारे विभ्रामयत्येतदतीव विश्वम्॥",
+          "meaning": "दुर्गा आरती करें - जय अम्बे गौरी। नवरात्रि में नौ दिन नौ रूपों की पूजा करें: शैलपुत्री, ब्रह्मचारिणी, चन्द्रघण्टा, कूष्माण्डा, स्कन्दमाता, कात्यायनी, कालरात्रि, महागौरी और सिद्धिदात्री। प्रत्येक दिन विशेष रंग के वस्त्र धारण करें।",
+          "transliteration": "Vidyāsu śāstreṣu vivekadīpeṣu vādyeṣu vākyeṣu ca kā tvadanyā|\nMamatvagarte'timahāndhakāre vibhrāmayatyetadatīva viśvam||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "या देवी सर्वभूतेषु बुद्धिरूपेण संस्थिता।\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः॥",
+          "meaning": "अष्टमी या नवमी को हवन करें। कन्या पूजन करें - नौ कन्याओं को भोजन कराएँ और दक्षिणा दें। चैत्र और आश्विन नवरात्रि दुर्गा पूजा के सर्वप्रमुख पर्व हैं। शुक्रवार भी देवी पूजा हेतु शुभ है। प्रसाद वितरित कर पूजा सम्पन्न करें।",
+          "transliteration": "Yā devī sarvabhūteṣu buddhirūpeṇa saṃsthitā|\nNamastasyai namastasyai namastasyai namo namaḥ||",
+          "imageUrl": null
+        }
+      ],
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/pooja/durga.jpg"
+    },
+    {
+      "id": "pooja_lakshmi",
+      "title": "लक्ष्मी पूजा विधि",
+      "orderIndex": 5,
+      "content": [
+        {
+          "shloka": "ॐ श्रीं ह्रीं श्रीं कमले कमलालये प्रसीद प्रसीद।\nॐ श्रीं ह्रीं श्रीं महालक्ष्म्यै नमः॥",
+          "meaning": "लक्ष्मी पूजा हेतु स्वच्छ स्थान पर लाल या पीला वस्त्र बिछाएँ। लक्ष्मी जी की मूर्ति या चित्र स्थापित करें। साथ में गणेश जी भी स्थापित करें (लक्ष्मी पूजा में गणेश पूजा अनिवार्य है)। कलश स्थापित करें। सिक्के, स्वर्ण, चाँदी, कमल, धन की थैली आदि रखें।",
+          "transliteration": "Oṃ śrīṃ hrīṃ śrīṃ kamale kamalālaye prasīda prasīda|\nOṃ śrīṃ hrīṃ śrīṃ mahālakṣmyai namaḥ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "नमस्तेऽस्तु महामाये श्रीपीठे सुरपूजिते।\nशङ्खचक्रगदाहस्ते महालक्ष्मि नमोऽस्तु ते॥",
+          "meaning": "सर्वप्रथम गणेश पूजा करें, फिर लक्ष्मी जी का आह्वान करें। पंचामृत से अभिषेक करें। गंगाजल से स्नान कराएँ। लाल या पीला वस्त्र, सोलह श्रृंगार की सामग्री अर्पित करें। कमल के फूल अवश्य अर्पित करें।",
+          "transliteration": "Namaste'stu mahāmāye śrīpīṭhe surapūjite|\nŚaṅkhacakragadāhaste mahālakṣmi namo'stu te||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ महालक्ष्म्यै च विद्महे विष्णुपत्न्यै च धीमहि।\nतन्नो लक्ष्मीः प्रचोदयात्॥",
+          "meaning": "लक्ष्मी गायत्री मन्त्र का 108 बार जाप करें। श्री सूक्त का पाठ करें। कमल, गुलाब और गेंदा पुष्प अर्पित करें। चन्दन, कुमकुम लगाएँ। धूप-दीप दिखाएँ। खीर, मिठाई, फल का भोग लगाएँ।",
+          "transliteration": "Oṃ mahālakṣmyai ca vidmahe viṣṇupatnyai ca dhīmahi|\nTanno lakṣmīḥ pracodayāt||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सिद्धलक्ष्मीर्मोक्षलक्ष्मीर्जयलक्ष्मीः सरस्वती।\nश्रीलक्ष्मीर्वरलक्ष्मीश्च प्रसन्ना मम सर्वदा॥",
+          "meaning": "अष्टलक्ष्मी स्तोत्र का पाठ करें। लक्ष्मी जी की आरती करें - ॐ जय लक्ष्मी माता। दीपावली पर लक्ष्मी पूजा सर्वाधिक महत्त्वपूर्ण है। घर में दीप जलाएँ, स्वच्छता रखें।",
+          "transliteration": "Siddhalakṣmīrmokṣalakṣmīrjayalakṣmīḥ sarasvatī|\nŚrīlakṣmīrvaralakṣmīśca prasannā mama sarvadā||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "पद्मानने पद्मविपद्मपत्रे पद्मप्रिये पद्मदलायताक्षि।\nविश्वप्रिये विष्णुमनोऽनुकूले त्वत्पादपद्मं मयि सन्निधत्स्व॥",
+          "meaning": "हे कमल नयनी लक्ष्मी! अपने चरण कमल मुझ पर स्थापित करें। शुक्रवार, पूर्णिमा और दीपावली लक्ष्मी पूजा के लिये अत्यन्त शुभ हैं। पूजा के बाद बहीखाता पूजन करें। प्रसाद वितरित करें।",
+          "transliteration": "Padmānane padmavipadmapatre padmapriye padmadalāyatākṣi|\nViśvapriye viṣṇumano'nukūle tvatpādapadmaṃ mayi sannidhatsva||",
+          "imageUrl": null
+        }
+      ],
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/pooja/lakshmi.jpg"
+    },
+    {
+      "id": "pooja_saraswati",
+      "title": "सरस्वती पूजा विधि",
+      "orderIndex": 6,
+      "content": [
+        {
+          "shloka": "ॐ ऐं सरस्वत्यै नमः।\nया कुन्देन्दुतुषारहारधवला या शुभ्रवस्त्रावृता\nया वीणावरदण्डमण्डितकरा या श्वेतपद्मासना।\nया ब्रह्माच्युतशङ्करप्रभृतिभिर्देवैः सदा पूजिता\nसा मां पातु सरस्वती भगवती निःशेषजाड्यापहा॥",
+          "meaning": "सरस्वती पूजा हेतु श्वेत वस्त्र पर सरस्वती जी की मूर्ति स्थापित करें। श्वेत पुष्प, पुस्तकें, वीणा, कलम-दवात, विद्या सम्बन्धी सामग्री रखें। श्वेत चन्दन, अक्षत, मिठाई और फल भी रखें।",
+          "transliteration": "Oṃ aiṃ sarasvatyai namaḥ|\nYā kundendutuṣārahāradhavalā yā śubhravastrāvṛtā\nYā vīṇāvaradaṇḍamaṇḍitakarā yā śvetapadmāsanā|\nYā brahmācyutaśaṅkaraprabhṛtibhirdevaiḥ sadā pūjitā\nSā māṃ pātu sarasvatī bhagavatī niḥśeṣajāḍyāpahā||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सरस्वति नमस्तुभ्यं वरदे कामरूपिणि।\nविद्यारम्भं करिष्यामि सिद्धिर्भवतु मे सदा॥",
+          "meaning": "हे सरस्वती! आपको नमस्कार। मैं विद्या आरम्भ करता हूँ, मुझे सदा सिद्धि प्राप्त हो। मूर्ति का पंचामृत से अभिषेक करें। श्वेत वस्त्र अर्पित करें। श्वेत चन्दन का तिलक लगाएँ।",
+          "transliteration": "Sarasvati namastubhyaṃ varade kāmarūpiṇi|\nVidyārambhaṃ kariṣyāmi siddhirbhavatu me sadā||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ सरस्वत्यै विद्महे ब्रह्मपुत्र्यै च धीमहि।\nतन्नो वाणी प्रचोदयात्॥",
+          "meaning": "सरस्वती गायत्री मन्त्र का 108 बार जाप करें। सरस्वती स्तोत्र का पाठ करें। श्वेत कमल, चमेली और मोगरा पुष्प अर्पित करें। पुस्तकें, कलम, वीणा आदि की पूजा करें। धूप-दीप दिखाएँ।",
+          "transliteration": "Oṃ sarasvatyai vidmahe brahmaputryai ca dhīmahi|\nTanno vāṇī pracodayāt||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "शुक्लां ब्रह्मविचारसारपरमामाद्यां जगद्व्यापिनीं\nवीणापुस्तकधारिणीमभयदां जाड्यान्धकारापहाम्।\nहस्ते स्फाटिकमालिकां च दधतीं पद्मासने संस्थितां\nवन्दे तां परमेश्वरीं भगवतीं बुद्धिप्रदां शारदाम्॥",
+          "meaning": "सरस्वती वन्दना। आरती करें। बसन्त पञ्चमी सरस्वती पूजा का सर्वप्रमुख पर्व है। इस दिन पीले वस्त्र धारण करें। विद्यार्थियों को इस दिन विशेष रूप से पूजा करनी चाहिए।",
+          "transliteration": "Śuklāṃ brahmavicārasāraparamāmādyāṃ jagadvyāpinīṃ\nVīṇāpustakadhāriṇīmabhayadāṃ jāḍyāndhakārāpahām|\nHaste sphāṭikamālikāṃ ca dadhatīṃ padmāsane saṃsthitāṃ\nVande tāṃ parameśvarīṃ bhagavatīṃ buddhipradāṃ śāradām||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ ऐं नमः।",
+          "meaning": "पूजा के अन्त में सरस्वती माता से प्रार्थना करें कि हमें सद्बुद्धि, विद्या और ज्ञान प्रदान करें। बसन्त पञ्चमी के अतिरिक्त नवरात्रि का सातवाँ दिन भी सरस्वती पूजा हेतु शुभ है। प्रसाद वितरित करें।",
+          "transliteration": "Oṃ aiṃ namaḥ|",
+          "imageUrl": null
+        }
+      ],
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/pooja/saraswati.jpg"
+    },
+    {
+      "id": "pooja_hanuman",
+      "title": "हनुमान पूजा विधि",
+      "orderIndex": 7,
+      "content": [
+        {
+          "shloka": "ॐ हं हनुमते नमः।\nअतुलितबलधामं हेमशैलाभदेहं\nदनुजवनकृशानुं ज्ञानिनामग्रगण्यम्।\nसकलगुणनिधानं वानराणामधीशं\nरघुपतिप्रियभक्तं वातजातं नमामि॥",
+          "meaning": "हनुमान पूजा हेतु हनुमान जी की मूर्ति या चित्र स्थापित करें। पूजा सामग्री में सिन्दूर, चमेली का तेल, लाल पुष्प, लड्डू, बूँदी, केला और पान-सुपारी रखें।",
+          "transliteration": "Oṃ haṃ hanumate namaḥ|\nAtulitabaladhāmaṃ hemaśailābhadehaṃ\nDanujavanakṛśānuṃ jñānināmagragaṇyam|\nSakalaguṇanidhānaṃ vānarāṇāmadhīśaṃ\nRaghupatipriyabhaktaṃ vātajātaṃ namāmi||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "मनोजवं मारुततुल्यवेगं जितेन्द्रियं बुद्धिमतां वरिष्ठम्।\nवातात्मजं वानरयूथमुख्यं श्रीरामदूतं शरणं प्रपद्ये॥",
+          "meaning": "हनुमान जी का ध्यान करें। मूर्ति पर सिन्दूर और चमेली का तेल चढ़ाएँ (हनुमान जी को सिन्दूर अत्यन्त प्रिय है)। लाल पुष्प, विशेषकर गुड़हल चढ़ाएँ। लाल चोला (वस्त्र) अर्पित करें।",
+          "transliteration": "Manojavaṃ mārutatulyavegaṃ jitendriyaṃ buddhimatāṃ variṣṭham|\nVātātmajaṃ vānarayūthamukhyaṃ śrīrāmadūtaṃ śaraṇaṃ prapadye||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "बुद्धिर्बलं यशो धैर्यं निर्भयत्वमरोगता।\nअजाड्यं वाक्पटुत्वं च हनुमत् स्मरणात् भवेत्॥",
+          "meaning": "हनुमान जी के स्मरण से बुद्धि, बल, यश, धैर्य, निर्भयता, आरोग्यता, चतुरता और वाक्पटुता प्राप्त होती है। हनुमान चालीसा का पाठ करें। बजरंग बाण का पाठ विशेष फलदायी है।",
+          "transliteration": "Buddhirbalaṃ yaśo dhairyaṃ nirbhayatvamarogatā|\nAjāḍyaṃ vākpaṭutvaṃ ca hanumat smaraṇāt bhavet||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "दीनदयाल वीर हनुमान चेरी।\nसुनिये प्रभु जे जन के गुन नीके॥",
+          "meaning": "हनुमान जी की आरती करें। लड्डू, बूँदी, केला, गुड़ का भोग लगाएँ। पान-सुपारी अर्पित करें। मंगलवार और शनिवार हनुमान पूजा हेतु अत्यन्त शुभ हैं। हनुमान जयन्ती (चैत्र पूर्णिमा) पर विशेष पूजा करें।",
+          "transliteration": "Dīnadayāla vīra hanumāna cerī|\nSuniye prabhu je jana ke guna nīke||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "पवनतनय संकट हरन मंगल मूरति रूप।\nराम लखन सीता सहित हृदय बसहु सुर भूप॥",
+          "meaning": "हे पवनपुत्र! आप संकटों को हरने वाले, मंगल स्वरूप हैं। श्रीराम, लक्ष्मण और सीता सहित मेरे हृदय में सदा विराजें। पूजा के अन्त में सुन्दरकाण्ड का पाठ करें। प्रदक्षिणा करें और प्रसाद वितरित करें।",
+          "transliteration": "Pavanatanaya saṃkaṭa harana maṃgala mūrati rūpa|\nRāma lakhana sītā sahita hṛdaya basahu sura bhūpa||",
+          "imageUrl": null
+        }
+      ],
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/pooja/hanuman.jpg"
+    },
+    {
+      "id": "pooja_surya",
+      "title": "सूर्य पूजा विधि",
+      "orderIndex": 8,
+      "content": [
+        {
+          "shloka": "ॐ ह्रां ह्रीं ह्रौं सः सूर्याय नमः।\nजबा कुसुम सङ्काशं काश्यपेयं महाद्युतिम्।\nतमोऽरिं सर्वपापघ्नं प्रणतोऽस्मि दिवाकरम्॥",
+          "meaning": "जावा (गुड़हल) पुष्प के समान लाल, कश्यप के पुत्र, महातेजस्वी, अन्धकार के शत्रु, समस्त पापों का नाश करने वाले सूर्यदेव को मैं प्रणाम करता हूँ। प्रातःकाल सूर्योदय के समय पूर्व दिशा की ओर मुख करके पूजा करें।",
+          "transliteration": "Oṃ hrāṃ hrīṃ hrauṃ saḥ sūryāya namaḥ|\nJabā kusuma saṅkāśaṃ kāśyapeyaṃ mahādyutim|\nTamo'riṃ sarvapāpaghnaṃ praṇato'smi divākaram||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ मित्राय नमः। ॐ रवये नमः। ॐ सूर्याय नमः।\nॐ भानवे नमः। ॐ खगाय नमः। ॐ पूष्णे नमः।\nॐ हिरण्यगर्भाय नमः। ॐ मरीचये नमः। ॐ आदित्याय नमः।\nॐ सवित्रे नमः। ॐ अर्काय नमः। ॐ भास्कराय नमः।",
+          "meaning": "सूर्य के बारह नामों (द्वादश नाम) का जाप करते हुए सूर्य नमस्कार करें। ताम्बे के लोटे में जल, लाल चन्दन, लाल पुष्प, अक्षत और कुमकुम डालकर सूर्य को अर्घ्य दें।",
+          "transliteration": "Oṃ mitrāya namaḥ| oṃ ravaye namaḥ| oṃ sūryāya namaḥ|\nOṃ bhānave namaḥ| oṃ khagāya namaḥ| oṃ pūṣṇe namaḥ|\nOṃ hiraṇyagarbhāya namaḥ| oṃ marīcaye namaḥ| oṃ ādityāya namaḥ|\nOṃ savitre namaḥ| oṃ arkāya namaḥ| oṃ bhāskarāya namaḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ भूर्भुवः स्वः तत्सवितुर्वरेण्यं\nभर्गो देवस्य धीमहि धियो यो नः प्रचोदयात्॥",
+          "meaning": "गायत्री मन्त्र (सावित्री मन्त्र) का 108 बार जाप करें - यह सूर्यदेव का सर्वश्रेष्ठ मन्त्र है। आदित्य हृदय स्तोत्र का पाठ करें। लाल पुष्प, गुड़, गेहूँ और लाल वस्त्र अर्पित करें।",
+          "transliteration": "Oṃ bhūrbhuvaḥ svaḥ tatsaviturvareṇyaṃ\nBhargo devasya dhīmahi dhiyo yo naḥ pracodayāt||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "आदिदेव नमस्तुभ्यं प्रसीद मम भास्कर।\nदिवाकर नमस्तुभ्यं प्रभाकर नमोऽस्तु ते॥",
+          "meaning": "सूर्य देव की आरती करें। छठ पूजा सूर्य उपासना का सर्वोत्कृष्ट पर्व है। रथसप्तमी, मकर संक्रान्ति और रविवार सूर्य पूजा हेतु शुभ हैं। सूर्य पूजा से आरोग्य, तेज, यश और सफलता प्राप्त होती है।",
+          "transliteration": "Ādideva namastubhyaṃ prasīda mama bhāskara|\nDivākara namastubhyaṃ prabhākara namo'stu te||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ घृणिः सूर्य आदित्यः।",
+          "meaning": "सूर्य पूजा के अन्त में ताम्बे के पात्र से जल में लाल पुष्प डालकर सूर्य को पुनः अर्घ्य दें। तीन बार प्रदक्षिणा करें। गुड़ और गेहूँ का प्रसाद वितरित करें। नियमित सूर्य उपासना से नेत्र ज्योति, शारीरिक स्वास्थ्य और आत्मविश्वास बढ़ता है।",
+          "transliteration": "Oṃ ghṛṇiḥ sūrya ādityaḥ|",
+          "imageUrl": null
+        }
+      ],
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/pooja/surya.jpg"
+    },
+    {
+      "id": "pooja_tulsi",
+      "title": "तुलसी पूजा विधि",
+      "orderIndex": 9,
+      "content": [
+        {
+          "shloka": "यन्मूले सर्वतीर्थानि यन्मध्ये सर्वदेवताः।\nयदग्रे सर्ववेदाश्च तुलसी त्वां नमाम्यहम्॥",
+          "meaning": "जिसकी जड़ में सभी तीर्थ, मध्य में सभी देवता और अग्रभाग में सभी वेद विराजते हैं, ऐसी तुलसी को मैं नमन करता हूँ। तुलसी का पौधा घर के आँगन में स्थापित करें। तुलसी चौरा (वृन्दावन) को स्वच्छ करें।",
+          "transliteration": "Yanmūle sarvatīrthāni yanmadhye sarvadevatāḥ|\nYadagre sarvavedāśca tulasī tvāṃ namāmyaham||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "देवि त्वं निर्मिता पूर्वमर्चितासि मुनीश्वरैः।\nनमस्ते नमस्ते तुलसि सर्वेष्टप्रदायिनि॥",
+          "meaning": "सन्ध्या काल (सायं) में तुलसी पूजा करें। तुलसी चौरा के चारों ओर स्वच्छ जल छिड़कें। गोबर से लिपाई करें। रंगोली बनाएँ। दीपक जलाएँ - सरसों या तिल के तेल का दीपक विशेष शुभ है।",
+          "transliteration": "Devi tvaṃ nirmitā pūrvamarcitāsi munīśvaraiḥ|\nNamaste namaste tulasi sarveṣṭapradāyini||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "तुलस्यमृतजन्मासि सदा त्वं केशवप्रिये।\nकेशवार्थे चिनोमि त्वां वरदा भव शोभने॥",
+          "meaning": "हे तुलसी! तुम अमृत से उत्पन्न हो और सदा केशव (विष्णु) को प्रिय हो। मैं केशव के लिये तुम्हें चुनता हूँ। जल अर्पित करें। हल्दी-कुमकुम लगाएँ। लाल चुनरी या लाल धागा बाँधें। पुष्प, अक्षत, नैवेद्य अर्पित करें।",
+          "transliteration": "Tulasyamṛtajanmāsi sadā tvaṃ keśavapriye|\nKeśavārthe cinomi tvāṃ varadā bhava śobhane||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "तुलसी श्रीसखी शुभे पापहारिणि पुण्यदे।\nनमस्ते नारदनुते नारायणमनःप्रिये॥",
+          "meaning": "तुलसी आरती करें। कार्तिक मास में तुलसी पूजा का विशेष महत्त्व है। कार्तिक शुक्ल एकादशी (देवउठनी एकादशी) को तुलसी विवाह होता है - शालिग्राम से तुलसी का विवाह कराया जाता है।",
+          "transliteration": "Tulasī śrīsakhī śubhe pāpahāriṇi puṇyade|\nNamaste nāradanute nārāyaṇamanaḥpriye||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ तुलस्यै नमः।",
+          "meaning": "प्रतिदिन सन्ध्या काल में तुलसी में दीपक जलाना अत्यन्त शुभ है। तुलसी दल विष्णु पूजा में अनिवार्य है। तुलसी के बिना विष्णु पूजा अधूरी मानी जाती है। तुलसी औषधीय गुणों से भी परिपूर्ण है। प्रसाद वितरित करें।",
+          "transliteration": "Oṃ tulasyai namaḥ|",
+          "imageUrl": null
+        }
+      ],
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/pooja/tulsi.jpg"
+    },
+    {
+      "id": "pooja_navagraha",
+      "title": "नवग्रह पूजा विधि",
+      "orderIndex": 10,
+      "content": [
+        {
+          "shloka": "ॐ सूर्याय नमः। ॐ चन्द्राय नमः। ॐ मङ्गलाय नमः।\nॐ बुधाय नमः। ॐ बृहस्पतये नमः। ॐ शुक्राय नमः।\nॐ शनैश्चराय नमः। ॐ राहवे नमः। ॐ केतवे नमः॥",
+          "meaning": "नवग्रह पूजा में नौ ग्रहों - सूर्य, चन्द्र, मंगल, बुध, बृहस्पति, शुक्र, शनि, राहु और केतु की पूजा की जाती है। एक चौकी पर नवग्रह यन्त्र या नौ कलश स्थापित करें। प्रत्येक ग्रह के अनुसार अनाज, पुष्प और वस्त्र रखें।",
+          "transliteration": "Oṃ sūryāya namaḥ| oṃ candrāya namaḥ| oṃ maṅgalāya namaḥ|\nOṃ budhāya namaḥ| oṃ bṛhaspataye namaḥ| oṃ śukrāya namaḥ|\nOṃ śanaiścarāya namaḥ| oṃ rāhave namaḥ| oṃ ketave namaḥ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ब्रह्मा मुरारिस्त्रिपुरान्तकारी भानुः शशी भूमिसुतो बुधश्च।\nगुरुश्च शुक्रः शनिराहुकेतवः सर्वे ग्रहाः शान्तिकरा भवन्तु॥",
+          "meaning": "सभी ग्रह शान्तिकारी हों। प्रत्येक ग्रह हेतु विशेष सामग्री: सूर्य - गेहूँ, लाल पुष्प; चन्द्र - चावल, श्वेत पुष्प; मंगल - मसूर दाल, लाल पुष्प; बुध - मूँग दाल, हरे पुष्प; बृहस्पति - चना दाल, पीले पुष्प; शुक्र - सफ़ेद तिल, श्वेत पुष्प; शनि - उड़द, नीले/काले पुष्प; राहु - तिल, नीले पुष्प; केतु - कुश, सप्तरंगी पुष्प।",
+          "transliteration": "Brahmā murāristripurāntakārī bhānuḥ śaśī bhūmisuto budhaśca|\nGuruśca śukraḥ śanirāhuketavaḥ sarve grahāḥ śāntikarā bhavantu||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ ह्रां ह्रीं ह्रौं सः सूर्याय नमः।\nॐ श्रां श्रीं श्रौं सः चन्द्राय नमः।\nॐ क्रां क्रीं क्रौं सः भौमाय नमः।\nॐ ब्रां ब्रीं ब्रौं सः बुधाय नमः।\nॐ ग्रां ग्रीं ग्रौं सः गुरवे नमः।",
+          "meaning": "प्रत्येक ग्रह के बीज मन्त्र का 108 बार जाप करें। नवग्रह स्तोत्र का पाठ करें। प्रत्येक ग्रह को उचित रंग का वस्त्र, पुष्प और अनाज अर्पित करें। नौ दीपक जलाएँ। धूप दिखाएँ।",
+          "transliteration": "Oṃ hrāṃ hrīṃ hrauṃ saḥ sūryāya namaḥ|\nOṃ śrāṃ śrīṃ śrauṃ saḥ candrāya namaḥ|\nOṃ krāṃ krīṃ krauṃ saḥ bhaumāya namaḥ|\nOṃ brāṃ brīṃ brauṃ saḥ budhāya namaḥ|\nOṃ grāṃ grīṃ grauṃ saḥ gurave namaḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ भ्रां भ्रीं भ्रौं सः शुक्राय नमः।\nॐ प्रां प्रीं प्रौं सः शनैश्चराय नमः।\nॐ भ्रां भ्रीं भ्रौं सः राहवे नमः।\nॐ स्रां स्रीं स्रौं सः केतवे नमः॥",
+          "meaning": "शेष ग्रहों के बीज मन्त्र। नवग्रह पूजा विशेषकर ग्रह दोष निवारण, विवाह, गृह प्रवेश, व्यापार आरम्भ और ग्रहण काल में की जाती है। अमावस्या, पूर्णिमा और संक्रान्ति पर भी नवग्रह पूजा शुभ है।",
+          "transliteration": "Oṃ bhrāṃ bhrīṃ bhrauṃ saḥ śukrāya namaḥ|\nOṃ prāṃ prīṃ prauṃ saḥ śanaiścarāya namaḥ|\nOṃ bhrāṃ bhrīṃ bhrauṃ saḥ rāhave namaḥ|\nOṃ srāṃ srīṃ srauṃ saḥ ketave namaḥ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "नवग्रहाय नमः। ॐ शान्तिः शान्तिः शान्तिः।",
+          "meaning": "नवग्रह की आरती करें। हवन करें और नवग्रह समिधा से आहुतियाँ दें। प्रत्येक ग्रह से सम्बन्धित दान करें। नवग्रह शान्ति पूजा से ग्रहजनित कष्टों का निवारण होता है और जीवन में सुख-शान्ति आती है। प्रसाद वितरित करें।",
+          "transliteration": "Navagrahāya namaḥ| oṃ śāntiḥ śāntiḥ śāntiḥ|",
+          "imageUrl": null
+        }
+      ],
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/pooja/navgraha.jpg"
+    },
+    {
+      "id": "pooja_satyanarayan",
+      "title": "सत्यनारायण पूजा विधि",
+      "orderIndex": 11,
+      "content": [
+        {
+          "shloka": "ॐ नमो भगवते वासुदेवाय।\nनमः सत्यदेवाय सत्यधर्मपरायण।\nसत्यरूप नमस्तुभ्यं सत्यनारायण प्रभो॥",
+          "meaning": "सत्यनारायण पूजा हेतु एक चौकी पर पीला वस्त्र बिछाकर सत्यनारायण भगवान का चित्र स्थापित करें। कलश स्थापना करें। पूजा सामग्री में सवा किलो आटा, सवा किलो शक्कर, केला, घी, दूध, पंचामृत, तुलसी, फल और पंचमेवा रखें।",
+          "transliteration": "Oṃ namo bhagavate vāsudevāya|\nNamaḥ satyadevāya satyadharmaparāyaṇa|\nSatyarūpa namastubhyaṃ satyanārāyaṇa prabho||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अद्य पूर्णिमायां श्री सत्यनारायणदेवस्य पूजनं प्रसादसिद्ध्यर्थं\nकरिष्ये। ॐ श्री सत्यनारायणाय नमः।",
+          "meaning": "संकल्प करें। सबसे पहले गणेश पूजा, फिर कलश पूजा, नवग्रह पूजा करें। सत्यनारायण भगवान का आह्वान करें। षोडशोपचार पूजा करें - आवाहन, आसन, पाद्य, अर्घ्य, आचमनीय, स्नान, वस्त्र, यज्ञोपवीत, चन्दन, पुष्प, धूप, दीप, नैवेद्य, ताम्बूल, सुवर्ण दक्षिणा, प्रदक्षिणा।",
+          "transliteration": "Adya pūrṇimāyāṃ śrī satyanārāyaṇadevasya pūjanaṃ prasādasiddhyarthaṃ\nKariṣye| oṃ śrī satyanārāyaṇāya namaḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "विष्णोः सत्यनारायणस्य व्रतकथां वक्ष्यामि तां शृणु।\nश्रद्धया यः शृणोतीमां सर्वपापैः प्रमुच्यते॥",
+          "meaning": "पूजा के पश्चात सत्यनारायण कथा का पाठ करें। कथा में पाँच अध्याय हैं। कथा सुनते समय सभी को विधिपूर्वक बैठना चाहिए। कथा के मध्य में न उठें। प्रत्येक अध्याय के अन्त में ॐ नमो भगवते वासुदेवाय का जाप करें।",
+          "transliteration": "Viṣṇoḥ satyanārāyaṇasya vratakathāṃ vakṣyāmi tāṃ śṛṇu|\nŚraddhayā yaḥ śṛṇotīmāṃ sarvapāpaiḥ pramucyate||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "यानि कानि च पापानि ब्रह्महत्यादिकानि च।\nसत्यनारायणस्यैव पूजनात् तानि नश्यन्ति॥",
+          "meaning": "कथा के पश्चात आटे, शक्कर, घी और केले से बना प्रसाद (शीरा/चरणामृत) बनाएँ। आरती करें। सत्यनारायण पूजा पूर्णिमा तिथि पर विशेष रूप से की जाती है। गृह प्रवेश, विवाह, सन्तान प्राप्ति, मनोकामना पूर्ति हेतु यह व्रत अत्यन्त फलदायी है।",
+          "transliteration": "Yāni kāni ca pāpāni brahmahatyādikāni ca|\nSatyanārāyaṇasyaiva pūjanāt tāni naśyanti||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ श्री सत्यनारायणाय नमः। ॐ नमो नारायणाय।",
+          "meaning": "ध्यान रखें कि प्रसाद का अनादर न हो - कथा में प्रसाद के अनादर से कष्ट भोगने के प्रसंग हैं। सभी को प्रसाद ग्रहण कराएँ। पूजा में उपस्थित सभी लोगों को कथा सुननी चाहिए। व्रत करने वाला व्यक्ति उस दिन एक समय भोजन करे।",
+          "transliteration": "Oṃ śrī satyanārāyaṇāya namaḥ| oṃ namo nārāyaṇāya|",
+          "imageUrl": null
+        }
+      ],
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/pooja/satyanarayan.jpg"
+    },
+    {
+      "id": "pooja_vastu",
+      "title": "वास्तु पूजा विधि",
+      "orderIndex": 12,
+      "content": [
+        {
+          "shloka": "ॐ वास्तोष्पते प्रतिजानीह्यस्मान् स्वावेशो अनमीवो भवानः।\nयत्त्वेमहे प्रतितन्नो जुषस्व शं नो भव द्विपदे शं चतुष्पदे॥",
+          "meaning": "हे वास्तु के स्वामी! हमें स्वीकार करें, हमारा गृह निरोग और सुखमय हो। वास्तु पूजा नवीन गृह प्रवेश, भवन निर्माण आरम्भ या वास्तु दोष निवारण हेतु की जाती है। पूजा स्थल पर गणेश, नवग्रह और वास्तुपुरुष की स्थापना करें।",
+          "transliteration": "Oṃ vāstoṣpate pratijānīhyasmān svāveśo anamīvo bhavānaḥ|\nYattvemahe pratitanno juṣasva śaṃ no bhava dvipade śaṃ catuṣpade||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "नमस्ते वास्तुपुरुष भूशय्या प्रिय सर्वदा।\nमद्गृहे धनधान्यादि समृद्धिं कुरु सर्वदा॥",
+          "meaning": "हे वास्तुपुरुष! आपको नमस्कार। मेरे गृह में धन-धान्य की समृद्धि करें। सर्वप्रथम गणेश पूजा करें। फिर कलश स्थापना, नवग्रह पूजा करें। वास्तु पुरुष का आह्वान करें। पंचामृत, जल, चन्दन, अक्षत, पुष्प, धूप, दीप अर्पित करें।",
+          "transliteration": "Namaste vāstupuruṣa bhūśayyā priya sarvadā|\nMadgṛhe dhanadhānyādi samṛddhiṃ kuru sarvadā||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "वास्तुदेवं प्रसन्नं मे वास्तुसूत्रानुसारतः।\nगृहारम्भे करिष्यामि वास्तुशान्तिं यथाविधि॥",
+          "meaning": "वास्तु शान्ति मन्त्रों का पाठ करें। भवन के ईशान कोण (उत्तर-पूर्व) में कलश स्थापित करें। भवन की चारों दिशाओं में घी, शहद, दूध और जल छिड़कें। हवन करें - नवग्रह समिधा, तिल, घी, जौ और खीर से आहुतियाँ दें।",
+          "transliteration": "Vāstudevaṃ prasannaṃ me vāstusūtrānusārataḥ|\nGṛhārambhe kariṣyāmi vāstuśāntiṃ yathāvidhi||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः।\nसर्वे भद्राणि पश्यन्तु मा कश्चिद् दुःखभाग्भवेत्॥",
+          "meaning": "सब सुखी हों, सब निरोग हों, सब मंगल देखें, किसी को दुःख न हो। वास्तु शान्ति हवन के पश्चात गृह के प्रत्येक कक्ष में गंगाजल छिड़कें। तुलसी का पौधा ईशान कोण में लगाएँ। वास्तु पूजा के दिन ब्राह्मण भोज कराएँ और दान-दक्षिणा दें।",
+          "transliteration": "Sarve bhavantu sukhinaḥ sarve santu nirāmayāḥ|\nSarve bhadrāṇi paśyantu mā kaścid duḥkhabhāgbhavet||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ शान्तिः शान्तिः शान्तिः।\nस्वस्ति न इन्द्रो वृद्धश्रवाः स्वस्ति नः पूषा विश्ववेदाः।\nस्वस्ति नस्तार्क्ष्यो अरिष्टनेमिः स्वस्ति नो बृहस्पतिर्दधातु॥",
+          "meaning": "इन्द्र, पूषा, गरुड़ और बृहस्पति हमारा मंगल करें। वास्तु पूजा गृह प्रवेश से पूर्व अवश्य करें। ध्यान रखें कि गृह स्वच्छ हो, ईशान कोण में जल स्थान हो। पूजा के बाद दूध उबालें - यह शुभ संकेत है। गृहलक्ष्मी सबसे पहले दाहिना पैर रखकर प्रवेश करें। प्रसाद वितरित करें।",
+          "transliteration": "Oṃ śāntiḥ śāntiḥ śāntiḥ|\nSvasti na indro vṛddhaśravāḥ svasti naḥ pūṣā viśvavedāḥ|\nSvasti nastārkṣyo ariṣṭanemiḥ svasti no bṛhaspatirdadhātu||",
+          "imageUrl": null
+        }
+      ],
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/pooja/vastu.jpg"
+    }
+  ]
+}

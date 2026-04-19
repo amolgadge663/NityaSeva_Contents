@@ -1,0 +1,240 @@
+{
+  "category": "Adhik Maas (Purushottam Maas)",
+  "version": 1,
+  "items": [
+    {
+      "id": "adhik_mahatmya",
+      "title": "अधिक मास माहात्म्य",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/adhik_maas/vishnu.jpg",
+      "orderIndex": 1,
+      "content": [
+        {
+          "shloka": "पुरुषोत्तमो मासो यः सर्वपापप्रणाशनः ।\nयस्मिन्सम्पूजितो विष्णुः सर्वान्कामान्प्रयच्छति ॥",
+          "meaning": "पुरुषोत्तम मास (अधिक मास) सभी पापों का नाश करने वाला है। इस मास में जब भगवान विष्णु की विधिवत पूजा की जाती है, तो वे सभी मनोकामनाएँ पूर्ण करते हैं।",
+          "transliteration": "Puruṣottamo māso yaḥ sarvapāpapraṇāśanaḥ |\nYasminsampūjito viṣṇuḥ sarvānkāmānprayacchati ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अधिक मास, जिसे पुरुषोत्तम मास या मलमास भी कहते हैं, हिन्दू चान्द्र पञ्चांग में लगभग प्रत्येक 32.5 माह में आने वाला अतिरिक्त मास है। यह चान्द्र कैलेंडर (354 दिन) को सौर कैलेंडर (365 दिन) के साथ समन्वित करने के लिए जोड़ा जाता है।",
+          "meaning": "कथा है कि यह अतिरिक्त मास पहले अशुभ माना जाता था (मलमास = अशुद्ध मास) और कोई देवता इसकी अध्यक्षता नहीं करना चाहता था। भगवान विष्णु (पुरुषोत्तम) ने कृपापूर्वक इसे स्वीकार किया और घोषित किया कि इस मास में की गई पूजा अनन्त पुण्य प्रदान करती है।",
+          "transliteration": "Adhika māsa, jise puruṣottama māsa yā malamāsa bhī kahate haiṃ, hindū cāndra pañcāṃga meṃ lagabhaga pratyeka 32.5 māha meṃ āne vālā atirikta māsa hai| yaha cāndra kaileṃḍara (354 dina) ko saura kaileṃḍara (365 dina) ke sātha samanvita karane ke lie jor̤ā jātā hai|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अधिक मासे तु यत्पुण्यं तत्पुण्यं नान्यमासके ।\nतस्मादधिकमासे विष्णुमर्चयेद्भक्तिमान्नरः ॥",
+          "meaning": "अधिक मास में जो पुण्य अर्जित होता है, वह किसी अन्य मास में अर्जित नहीं हो सकता। इसलिए भक्तिमान व्यक्ति को अधिक मास में भगवान विष्णु की पूजा करनी चाहिए।",
+          "transliteration": "Adhika māse tu yatpuṇyaṃ tatpuṇyaṃ nānyamāsake |\nTasmādadhikamāse viṣṇumarcayedbhaktimānnaraḥ ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अधिक मास में कोई नया शुभ कार्य (विवाह, गृह प्रवेश, यज्ञोपवीत आदि) आरम्भ नहीं किया जाता। किन्तु यह आध्यात्मिक साधना के लिए सर्वाधिक पवित्र समय है — जप, दान, व्रत, पूजा, कथा-श्रवण और भागवत सप्ताह।",
+          "meaning": "जबकि सांसारिक कार्य वर्जित हैं, अधिक मास को आध्यात्मिक उन्नति का स्वर्णिम अवसर माना जाता है। इस मास में किया गया भक्ति का प्रत्येक कार्य भगवान पुरुषोत्तम की कृपा से बहुगुणित हो जाता है।",
+          "transliteration": "Adhika māsa meṃ koī nayā śubha kārya (vivāha, gṛha praveśa, yajñopavīta ādi) ārambha nahīṃ kiyā jātā| kintu yaha ādhyātmika sādhanā ke lie sarvādhika pavitra samaya hai — japa, dāna, vrata, pūjā, kathā-śravaṇa aura bhāgavata saptāha|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "एकादशं तु यद्दानमधिकमासे प्रदीयते ।\nकोटिगुणं फलं तस्य भगवान्पुरुषोत्तमः ॥",
+          "meaning": "अधिक मास में दिया गया दान भगवान पुरुषोत्तम की कृपा से करोड़ गुना फल देता है।",
+          "transliteration": "Ekādaśaṃ tu yaddānamadhikamāse pradīyate |\nKoṭiguṇaṃ phalaṃ tasya bhagavānpuruṣottamaḥ ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "adhik_vrat_katha",
+      "title": "अधिक मास व्रत कथा",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/adhik_maas/vishnu.jpg",
+      "orderIndex": 2,
+      "content": [
+        {
+          "shloka": "एक समय बारह मास बारह देवताओं को सौंपे गये। किन्तु तेरहवें मास (अधिक मास) का कोई अधिष्ठाता देवता नहीं था। दुखी और अपमानित अतिरिक्त मास भगवान विष्णु के पास वैकुण्ठ गया।",
+          "meaning": "मास ने कहा: 'हे प्रभु, मुझे मलमास (अशुद्ध मास) कहा जाता है। मेरे समय में कोई शुभ कार्य नहीं करता। सभी मुझसे घृणा करते हैं। कृपया मेरे रक्षक बनिये।' भगवान विष्णु करुणा से द्रवित होकर बोले...",
+          "transliteration": "Eka samaya bāraha māsa bāraha devatāoṃ ko sauṃpe gaye| kintu terahaveṃ māsa (adhika māsa) kā koī adhiṣṭhātā devatā nahīṃ thā| dukhī aura apamānita atirikta māsa bhagavāna viṣṇu ke pāsa vaikuṇṭha gayā|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "श्री भगवान् उवाच: मा शुचः अधिकमास, त्वं मम प्रियतमः सदा ।\nमम नाम्ना तु विख्यातो भविष्यसि जगत्त्रये ॥",
+          "meaning": "भगवान विष्णु ने कहा: 'शोक मत करो, हे अधिक मास। तुम मुझे सदा प्रिय हो। तुम तीनों लोकों में मेरे नाम — पुरुषोत्तम मास — से विख्यात होगे।'",
+          "transliteration": "Śrī bhagavān uvāca: mā śucaḥ adhikamāsa, tvaṃ mama priyatamaḥ sadā |\nMama nāmnā tu vikhyāto bhaviṣyasi jagattraye ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "'जो कोई तुम्हारे समय में व्रत करेगा, पूजा करेगा, दान देगा या पवित्र कथाएँ सुनेगा, वह वैकुण्ठ को प्राप्त करेगा। तुम्हारे मास में अर्जित पुण्य अन्य सभी मासों के पुण्य से अधिक होगा।'",
+          "meaning": "भगवान विष्णु ने अधिक मास को और आशीर्वाद दिया: 'जो तुम्हारे मास में श्रीमद्भागवत पढ़ेगा, वह जन्म-मृत्यु के चक्र से मुक्त होगा। जो पवित्र नदियों में स्नान कर तुलसी से मेरी पूजा करेगा, वह मेरे शाश्वत धाम को प्राप्त करेगा।'",
+          "transliteration": "'jo koī tumhāre samaya meṃ vrata karegā, pūjā karegā, dāna degā yā pavitra kathāe~ sunegā, vaha vaikuṇṭha ko prāpta karegā| tumhāre māsa meṃ arjita puṇya anya sabhī māsoṃ ke puṇya se adhika hogā|'",
+          "imageUrl": null
+        },
+        {
+          "shloka": "दृढ़धन्वा नामक एक राजा था जो न्यायप्रिय किन्तु सन्तानहीन था। नारद मुनि ने उसे अधिक मास में भगवान पुरुषोत्तम के प्रति पूर्ण भक्ति के साथ कठोर व्रत पालन करने का परामर्श दिया।",
+          "meaning": "राजा ने उपवास किया, तुलसी के साथ प्रतिदिन पूजा की, भागवत पुराण पढ़ा और ब्राह्मणों को उदारतापूर्वक दान दिया। उसकी भक्ति से प्रसन्न होकर भगवान विष्णु प्रकट हुए और उसे सद्गुणी पुत्र तथा मृत्यु के बाद वैकुण्ठ का वरदान दिया।",
+          "transliteration": "Dṛr̤hadhanvā nāmaka eka rājā thā jo nyāyapriya kintu santānahīna thā| nārada muni ne use adhika māsa meṃ bhagavāna puruṣottama ke prati pūrṇa bhakti ke sātha kaṭhora vrata pālana karane kā parāmarśa diyā|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "इति अधिक-मास-व्रत-कथायां पुरुषोत्तम-मास-माहात्म्यं सम्पूर्णम् ॥",
+          "meaning": "इस प्रकार पुरुषोत्तम मास की महिमा का वर्णन करने वाली अधिक मास व्रत कथा सम्पूर्ण हुई। जो इस कथा को भक्तिपूर्वक पढ़ता या सुनता है, उसे भगवान विष्णु का आशीर्वाद प्राप्त होता है।",
+          "transliteration": "Iti adhika-māsa-vrata-kathāyāṃ puruṣottama-māsa-māhātmyaṃ sampūrṇam ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "adhik_puja_vidhi",
+      "title": "अधिक मास पूजा विधि",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/adhik_maas/vishnu.jpg",
+      "orderIndex": 3,
+      "content": [
+        {
+          "shloka": "ॐ नमो भगवते वासुदेवाय ।\nॐ नमो नारायणाय ।\nॐ पुरुषोत्तमाय नमः ॥",
+          "meaning": "भगवान वासुदेव को नमस्कार। भगवान नारायण को नमस्कार। भगवान पुरुषोत्तम को नमस्कार। ये तीन मंत्र अधिक मास पूजा की आधारशिला हैं।",
+          "transliteration": "Oṃ namo bhagavate vāsudevāya |\nOṃ namo nārāyaṇāya |\nOṃ puruṣottamāya namaḥ ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अधिक मास की दैनिक पूजा विधि:\n1) सूर्योदय से पूर्व जागें और स्नान करें।\n2) भगवान विष्णु की मूर्ति या शालिग्राम शिला के साथ पूजा वेदी स्थापित करें।\n3) तुलसी, पुष्प, चन्दन लेप और नैवेद्य अर्पित करें।\n4) घी का दीपक जलाएँ — यह पूरे मास जलता रहना चाहिए।\n5) विष्णु सहस्रनाम या पुरुषोत्तम स्तोत्र का पाठ करें।",
+          "meaning": "पूजा प्रतिदिन पूरे मास एक ही समय पर की जानी चाहिए। विस्तृत अनुष्ठानों की अपेक्षा निरन्तरता और भक्ति अधिक महत्त्वपूर्ण है। भगवान विष्णु को तुलसी और जल का साधारण अर्पण भी अपार पुण्य प्रदान करता है।",
+          "transliteration": "Adhika māsa kī dainika pūjā vidhi:\n1) sūryodaya se pūrva jāgeṃ aura snāna kareṃ|\n2) bhagavāna viṣṇu kī mūrti yā śāligrāma śilā ke sātha pūjā vedī sthāpita kareṃ|\n3) tulasī, puṣpa, candana lepa aura naivedya arpita kareṃ|\n4) ghī kā dīpaka jalāe~ — yaha pūre māsa jalatā rahanā cāhie|\n5) viṣṇu sahasranāma yā puruṣottama stotra kā pāṭha kareṃ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ श्री विष्णवे नमः । ॐ गोविन्दाय नमः ।\nॐ माधवाय नमः । ॐ त्रिविक्रमाय नमः ।",
+          "meaning": "ये भगवान विष्णु के द्वादश नाम हैं, प्रत्येक एक मास से जुड़ा है। अधिक मास में सभी 12 नामों का पाठ विशेष महत्त्व रखता है।",
+          "transliteration": "Oṃ śrī viṣṇave namaḥ | oṃ govindāya namaḥ |\nOṃ mādhavāya namaḥ | oṃ trivikramāya namaḥ |",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अधिक मास की विशेष गतिविधियाँ:\n- श्रीमद्भागवत पुराण का पाठ (30 दिनों में पूर्ण)\n- प्रतिदिन विष्णु सहस्रनाम का पाठ\n- एकादशी व्रत का कड़ाई से पालन\n- अन्न, वस्त्र और धन का दान\n- ब्राह्मणों और गरीबों को भोजन कराना\n- प्रतिदिन विष्णु मन्दिर दर्शन\n- प्रतिदिन शालिग्राम को 108 तुलसी दल अर्पित करना",
+          "meaning": "भगवान कृष्ण गीता में कहते हैं: 'मासों में मैं मार्गशीर्ष हूँ।' किन्तु पुरुषोत्तम मास में वे स्वयं अधिष्ठाता देवता हैं — जो इसे भक्ति के लिए सर्वोच्च मास बनाता है।",
+          "transliteration": "Adhika māsa kī viśeṣa gatividhiyā~:\n- śrīmadbhāgavata purāṇa kā pāṭha (30 dinoṃ meṃ pūrṇa)\n- pratidina viṣṇu sahasranāma kā pāṭha\n- ekādaśī vrata kā kar̤āī se pālana\n- anna, vastra aura dhana kā dāna\n- brāhmaṇoṃ aura garīboṃ ko bhojana karānā\n- pratidina viṣṇu mandira darśana\n- pratidina śāligrāma ko 108 tulasī dala arpita karanā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कायेन वाचा मनसेन्द्रियैर्वा बुद्ध्यात्मना वा प्रकृतेः स्वभावात् ।\nकरोमि यद्यत्सकलं परस्मै नारायणायेति समर्पयामि ॥",
+          "meaning": "मैं अपने शरीर, वाणी, मन, इन्द्रियों, बुद्धि या आत्मा से — चाहे स्वभाव से हो या संकल्प से — जो कुछ भी करता हूँ, वह सब भगवान नारायण को समर्पित करता हूँ। यह समापन प्रार्थना प्रत्येक अधिक मास पूजा के बाद की जाती है।",
+          "transliteration": "Kāyena vācā manasendriyairvā buddhyātmanā vā prakṛteḥ svabhāvāt |\nKaromi yadyatsakalaṃ parasmai nārāyaṇāyeti samarpayāmi ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "adhik_daan_vidhi",
+      "title": "अधिक मास दान विधि",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/adhik_maas/vishnu.jpg",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "दानेन तपसा चैव शौचेनातिथ्य-पूजनैः ।\nअधिक-मास-व्रतं सम्यक्कुर्वन्नाप्नोति तत्फलम् ॥",
+          "meaning": "दान, तप, शुचिता और अतिथि-पूजन के द्वारा जो अधिक मास व्रत का यथाविधि पालन करता है, वह पूर्ण फल प्राप्त करता है।",
+          "transliteration": "Dānena tapasā caiva śaucenātithya-pūjanaiḥ |\nAdhika-māsa-vrataṃ samyakkurvannāpnoti tatphalam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अधिक मास में अनुशंसित दान:\n1. अन्नदान — भूखों को भोजन (सर्वश्रेष्ठ दान)\n2. वस्त्रदान — जरूरतमन्दों को वस्त्र\n3. गोदान — गाय दान (या गोशाला सहायता)\n4. जलदान — पेयजल की व्यवस्था\n5. दीपदान — मन्दिरों में तेल के दीपक\n6. शय्यादान — गरीबों को बिस्तर\n7. घटदान — जल से भरा ताँबे का पात्र, वस्त्र से ढका, ऊपर नारियल रखा",
+          "meaning": "अधिक मास में दान किसी भी अन्य मास की अपेक्षा अनन्त गुना अधिक पुण्यदायी माना जाता है। दानदाता को विनम्रतापूर्वक और प्रतिदान की आशा के बिना दान देना चाहिए। घटदान अधिक मास का सबसे विशिष्ट दान है।",
+          "transliteration": "Adhika māsa meṃ anuśaṃsita dāna:\n1. annadāna — bhūkhoṃ ko bhojana (sarvaśreṣṭha dāna)\n2. vastradāna — jarūratamandoṃ ko vastra\n3. godāna — gāya dāna (yā gośālā sahāyatā)\n4. jaladāna — peyajala kī vyavasthā\n5. dīpadāna — mandiroṃ meṃ tela ke dīpaka\n6. śayyādāna — garīboṃ ko bistara\n7. ghaṭadāna — jala se bharā tā~be kā pātra, vastra se ḍhakā, ūpara nāriyala rakhā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "घटदान विधि:\nएक स्वच्छ ताँबे या पीतल का पात्र लें। उसमें जल भरें। अन्दर पान का पत्ता और सिक्का रखें। नये वस्त्र से ढकें। ऊपर नारियल रखें। हल्दी और कुमकुम से सजाएँ। अधिक मास की पूर्णिमा पर ब्राह्मण या मन्दिर को दान करें।",
+          "meaning": "घट (पात्र) ब्रह्माण्ड का प्रतीक है। जल अस्तित्व के सागर का प्रतिनिधित्व करता है। नारियल जीवात्मा का प्रतीक है। इसे दान करके व्यक्ति प्रतीकात्मक रूप से अपने आपको भगवान को अर्पित करता है और कर्म बन्धन से मुक्त होता है।",
+          "transliteration": "Ghaṭadāna vidhi:\nEka svaccha tā~be yā pītala kā pātra leṃ| usameṃ jala bhareṃ| andara pāna kā pattā aura sikkā rakheṃ| naye vastra se ḍhakeṃ| ūpara nāriyala rakheṃ| haldī aura kumakuma se sajāe~| adhika māsa kī pūrṇimā para brāhmaṇa yā mandira ko dāna kareṃ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "दाने तपसि यज्ञे च पातकं नैव विद्यते ।\nअधिक मासे विशेषेण दानं नित्यं प्रकल्पयेत् ॥",
+          "meaning": "दान, तप और यज्ञ में कोई पाप नहीं है। अधिक मास में विशेष रूप से प्रतिदिन दान करना चाहिए।",
+          "transliteration": "Dāne tapasi yajñe ca pātakaṃ naiva vidyate |\nAdhika māse viśeṣeṇa dānaṃ nityaṃ prakalpayet ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अन्नदानं परं दानं विद्यादानं ततः परम् ।\nअन्नेन क्षणिकाः तृप्तिः यावज्जीवं च विद्यया ॥",
+          "meaning": "अन्नदान श्रेष्ठ दान है और विद्यादान उससे भी श्रेष्ठ है। अन्न से क्षणिक तृप्ति होती है किन्तु विद्या से आजीवन तृप्ति मिलती है।",
+          "transliteration": "Annadānaṃ paraṃ dānaṃ vidyādānaṃ tataḥ param |\nAnnena kṣaṇikāḥ tṛptiḥ yāvajjīvaṃ ca vidyayā ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "adhik_mantra",
+      "title": "अधिक मास मंत्र संग्रह",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/adhik_maas/vishnu.jpg",
+      "orderIndex": 5,
+      "content": [
+        {
+          "shloka": "ॐ नमो भगवते वासुदेवाय ॥",
+          "meaning": "बारह अक्षरों का द्वादशाक्षरी मंत्र — सबसे पवित्र विष्णु मंत्र। अधिक मास में इसे प्रतिदिन 108 बार जपने से मोक्ष प्राप्त होता है।",
+          "transliteration": "Oṃ namo bhagavate vāsudevāya ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ नमो नारायणाय ॥",
+          "meaning": "आठ अक्षरों का अष्टाक्षरी मंत्र — भगवान नारायण का मंत्र। इसे सम्पूर्ण वैदिक ज्ञान का सार माना जाता है और पुरुषोत्तम मास में यह विशेष शक्तिशाली है।",
+          "transliteration": "Oṃ namo nārāyaṇāya ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ पुरुषोत्तमाय विद्महे श्री पद्मनाभाय धीमहि ।\nतन्नो विष्णुः प्रचोदयात् ॥",
+          "meaning": "हम भगवान पुरुषोत्तम (सर्वोच्च पुरुष) को जानते हैं, श्री पद्मनाभ (जिनकी नाभि से कमल प्रकट हुआ) का ध्यान करते हैं। भगवान विष्णु हमें प्रेरित और मार्गदर्शन करें। यह पुरुषोत्तम गायत्री मंत्र है।",
+          "transliteration": "Oṃ puruṣottamāya vidmahe śrī padmanābhāya dhīmahi |\nTanno viṣṇuḥ pracodayāt ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "शान्ताकारं भुजगशयनं पद्मनाभं सुरेशं\nविश्वाधारं गगनसदृशं मेघवर्णं शुभाङ्गम् ।\nलक्ष्मीकान्तं कमलनयनं योगिभिर्ध्यानगम्यं\nवन्दे विष्णुं भवभयहरं सर्वलोकैकनाथम् ॥",
+          "meaning": "शान्त स्वरूप, शेषनाग पर शयन करने वाले, पद्मनाभ, सुरेश, विश्वाधार, आकाश सदृश, मेघवर्ण, शुभाङ्ग, लक्ष्मीकान्त, कमलनयन, योगियों के ध्यान से प्राप्य, संसार-भय-हारी, सर्वलोकैकनाथ विष्णु को मैं वन्दन करता हूँ।",
+          "transliteration": "Śāntākāraṃ bhujagaśayanaṃ padmanābhaṃ sureśaṃ\nViśvādhāraṃ gaganasadṛśaṃ meghavarṇaṃ śubhāṅgam |\nLakṣmīkāntaṃ kamalanayanaṃ yogibhirdhyānagamyaṃ\nVande viṣṇuṃ bhavabhayaharaṃ sarvalokaikanātham ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "मंगलं भगवान्विष्णुः मंगलं गरुडध्वजः ।\nमंगलं पुण्डरीकाक्षः मंगलायतनो हरिः ॥",
+          "meaning": "भगवान विष्णु मंगलमय हैं, गरुड ध्वज वाले मंगलमय हैं, पुण्डरीकाक्ष (कमलनयन) मंगलमय हैं, हरि सम्पूर्ण मंगल के आश्रय हैं। यह मंगल श्लोक प्रत्येक अधिक मास पूजा के समापन पर कहा जाता है।",
+          "transliteration": "Maṃgalaṃ bhagavānviṣṇuḥ maṃgalaṃ garuḍadhvajaḥ |\nMaṃgalaṃ puṇḍarīkākṣaḥ maṃgalāyatano hariḥ ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "adhik_aarti",
+      "title": "पुरुषोत्तम मास आरती",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/adhik_maas/vishnu.jpg",
+      "orderIndex": 6,
+      "content": [
+        {
+          "shloka": "ॐ जय जगदीश हरे, स्वामी जय जगदीश हरे ।\nभक्त जनों के संकट, दास जनों के संकट,\nक्षण में दूर करे । ॐ जय जगदीश हरे ॥",
+          "meaning": "जगत के स्वामी की जय हो। भक्तों और सेवकों के संकट क्षण भर में दूर हो जाते हैं। जगत के स्वामी की जय हो।",
+          "transliteration": "Oṃ jaya jagadīśa hare, svāmī jaya jagadīśa hare |\nBhakta janoṃ ke saṃkaṭa, dāsa janoṃ ke saṃkaṭa,\nKṣaṇa meṃ dūra kare | oṃ jaya jagadīśa hare ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जो ध्यावे फल पावे, दुख बिनसे मन का ।\nसुख सम्पति घर आवे, कष्ट मिटे तन का ।\nॐ जय जगदीश हरे ॥",
+          "meaning": "जो ध्यान करता है वह फल पाता है, मन का दुख नष्ट हो जाता है। घर में सुख-सम्पत्ति आती है और शरीर का कष्ट मिट जाता है।",
+          "transliteration": "Jo dhyāve phala pāve, dukha binase mana kā |\nSukha sampati ghara āve, kaṣṭa miṭe tana kā |\nOṃ jaya jagadīśa hare ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "मात पिता तुम मेरे, शरण गहूँ मैं किसकी ।\nतुम बिन और न दूजा, आस करूँ मैं जिसकी ।\nॐ जय जगदीश हरे ॥",
+          "meaning": "तुम मेरे माता-पिता हो। मैं किसकी शरण लूँ? तुम्हारे अतिरिक्त और कोई नहीं जिससे मैं आशा कर सकूँ।",
+          "transliteration": "Māta pitā tuma mere, śaraṇa gahū~ maiṃ kisakī |\nTuma bina aura na dūjā, āsa karū~ maiṃ jisakī |\nOṃ jaya jagadīśa hare ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "तुम पूरण परमात्मा, तुम अन्तर्यामी ।\nपार-ब्रह्म परमेश्वर, तुम सब के स्वामी ।\nॐ जय जगदीश हरे ॥",
+          "meaning": "तुम पूर्ण परमात्मा हो, तुम सबके अन्तर्यामी हो। तुम पार-ब्रह्म परमेश्वर हो, तुम सबके स्वामी हो।",
+          "transliteration": "Tuma pūraṇa paramātmā, tuma antaryāmī |\nPāra-brahma parameśvara, tuma saba ke svāmī |\nOṃ jaya jagadīśa hare ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "विषय-विकार मिटाओ, पाप हरो देवा ।\nश्रद्धा भक्ति बढ़ाओ, सन्तन की सेवा ।\nॐ जय जगदीश हरे ॥\n\nॐ जय जगदीश हरे, स्वामी जय जगदीश हरे ।\nभक्त जनों के संकट, क्षण में दूर करे ।\nॐ जय जगदीश हरे ॥",
+          "meaning": "विषय-विकार मिटाइए, पाप हरिए हे देवा। श्रद्धा-भक्ति बढ़ाइए और सन्तों की सेवा कीजिए। यह आरती अधिक मास में प्रतिदिन सायंकाल पूजा के समय गाई जाती है।",
+          "transliteration": "Viṣaya-vikāra miṭāo, pāpa haro devā |\nŚraddhā bhakti bar̤hāo, santana kī sevā |\nOṃ jaya jagadīśa hare ||\n\nOṃ jaya jagadīśa hare, svāmī jaya jagadīśa hare |\nBhakta janoṃ ke saṃkaṭa, kṣaṇa meṃ dūra kare |\nOṃ jaya jagadīśa hare ||",
+          "imageUrl": null
+        }
+      ]
+    }
+  ]
+}

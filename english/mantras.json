@@ -6,57 +6,650 @@
       "id": "mantra_gayatri",
       "title": "Gayatri Mantra",
       "language": "english",
-      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/matra_devi.jpg",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/gayatri.jpg",
       "orderIndex": 1,
       "content": [
         {
-          "shloka": "Sarve Bhavantu Sukhinah",
-          "transliteration": "Sarve bhavantu sukhinaḥ",
-          "meaning": "May all beings be happy."
+          "shloka": "Om Bhur Bhuvah Svah\nTat Savitur Varenyam\nBhargo Devasya Dhimahi\nDhiyo Yo Nah Prachodayat",
+          "meaning": "We meditate upon the divine light of the radiant Sun (Savitur). May that supreme brilliance illuminate our intellect and guide us on the path of righteousness.",
+          "transliteration": "Om Bhūr Bhuvaḥ Svaḥ\nTat Savitūr Vareṇyam\nBhargo Devasya Dhīmahi\nDhiyo Yo Naḥ Prachodayāt",
+          "imageUrl": null
         },
         {
-          "shloka": "Sarve Santu Niramayah",
-          "transliteration": "Sarve santu nirāmayāḥ",
-          "meaning": "May all be free from illness."
+          "shloka": "Om Apo Jyotiraso Amritam Brahma\nBhur Bhuvah Svar Om",
+          "meaning": "Om, the essence of water, light, taste, and immortality is Brahman. The three worlds - earth, atmosphere, and heaven - are all Om.",
+          "transliteration": "Om Āpo Jyotīraso Amṛtam Brahma\nBhūr Bhuvaḥ Svar Om",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Aya Atu Varada Devi\nAksharam Brahmasammitam\nGayatrim Chandasam Mata\nIdam Brahma Jushashva Nah",
+          "meaning": "O boon-giving Goddess, come to us. You are the imperishable one, equal to Brahman. O Gayatri, mother of all Vedic metres, accept our offerings and bless us.",
+          "transliteration": "Āyā Ātu Varadā Devī\nAkṣaraṁ Brahmasaṁmitam\nGāyatrīṁ Chandasāṁ Mātā\nIdaṁ Brahma Juṣasva Naḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ojosi Sahosi Balamasi\nBhrajosi Devanam Dhama Namasi\nVishvamasi Vishvayuh Sarvamasi\nSarvayuh Abhibhuh Om",
+          "meaning": "You are vigor, you are endurance, you are strength. You are brilliance, the abode of the gods. You are the universe, the life of the universe. You are everything, the life of all. You are the supreme ruler. Om.",
+          "transliteration": "Ojosi Sahosi Balamasi\nBhrājosi Devānāṁ Dhāma Nāmasi\nViśvamasi Viśvāyuḥ Sarvamasi\nSarvāyuḥ Abhibhūḥ Om",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Mukta Vidruma Hema Nila\nDhavala Chchayair Mukha Tristhaneya\nTrinetram Cha Yuktam Indu Shakalam\nMaulim Hamsasthaam Smaraami Gayatrim",
+          "meaning": "I meditate upon Goddess Gayatri who has five faces of the colors of pearl, coral, gold, blue, and white, who has three eyes, who wears the crescent moon on her crown, and who is seated upon a swan.",
+          "transliteration": "Muktā Vidruma Hema Nīla\nDhavala Cchāyair Mukhā Tristhāneyā\nTrinetrāṁ Cha Yuktam Indu Śakalaṁ\nMaulim Haṁsasthāṁ Smarāmi Gāyatrīm",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Gayatrim Chandasam Mata\nIdam Brahma Jushashva Me\nYadahnat Kurute Papam\nTadahnat Pratimuchyate",
+          "meaning": "O Gayatri, mother of all Vedic metres, bless me with the knowledge of Brahman. Whatever sins are committed during the day are destroyed by the recitation of the Gayatri Mantra at dusk.",
+          "transliteration": "Gāyatrīṁ Chandasāṁ Mātā\nIdaṁ Brahma Juṣasva Me\nYadahnāt Kurute Pāpaṁ\nTadahnāt Pratimuchyate",
+          "imageUrl": null
         }
       ]
     },
     {
-      "id": "mantra_mahamrityunjay",
-      "title": "Maha Mrityunjaya Mantra",
+      "id": "mantra_mahamrityunjaya",
+      "title": "Mahamrityunjaya Mantra",
       "language": "english",
-      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/aarti/shiv.jpg",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/shiv.jpg",
       "orderIndex": 2,
       "content": [
         {
-          "shloka": "Om Tryambakam Yajamahe",
-          "meaning": "A mantra of protection and freedom from fear."
+          "shloka": "Om Tryambakam Yajamahe\nSugandhim Pushtivardhanam\nUrvarukamiva Bandhanan\nMrityormukshiya Mamritat",
+          "meaning": "We worship the three-eyed Lord Shiva, who is fragrant and nourishes all beings. May He liberate us from the bondage of death, just as a ripe cucumber is severed from its vine. May He grant us immortality.",
+          "transliteration": "Om Tryambakaṁ Yajāmahe\nSugandhiṁ Puṣṭivardhanam\nUrvārukamiva Bandhanān\nMṛtyormukṣīya Māmṛtāt",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Haum Joom Sah\nBhur Bhuvah Svah\nOm Tryambakam Yajamahe\nSugandhim Pushtivardhanam\nUrvarukamiva Bandhanan\nMrityormukshiya Mamritat\nSvah Bhuvah Bhuh Om\nSah Joom Haum Om",
+          "meaning": "This is the extended Mahamrityunjaya Mantra with the beeja (seed) mantras. The seed syllables Haum, Joom, and Sah invoke Lord Shiva's protective energy. The three worlds are invoked, and the core mantra is enclosed within these sacred syllables for enhanced spiritual power.",
+          "transliteration": "Om Hauṁ Jūṁ Saḥ\nBhūr Bhuvaḥ Svaḥ\nOm Tryambakaṁ Yajāmahe\nSugandhiṁ Puṣṭivardhanam\nUrvārukamiva Bandhanān\nMṛtyormukṣīya Māmṛtāt\nSvaḥ Bhuvaḥ Bhūḥ Om\nSaḥ Jūṁ Hauṁ Om",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Dhyayet Satatam Mahesham\nRajata Giri Nibham Charu Chandravatamsam\nRatnakalpojjvalingam Parashu Mrigavarabhi\nTi Prashastam Prasannam",
+          "meaning": "One should always meditate upon Lord Maheshvara (Shiva), who shines like a silver mountain, who is adorned with the beautiful crescent moon, who is radiant with jeweled ornaments, who holds an axe and a deer in his hands, and who is ever gracious.",
+          "transliteration": "Dhyāyet Satataṁ Maheśaṁ\nRajata Giri Nibhaṁ Chāru Chandrāvatamsam\nRatnākalpojjvaliṅgaṁ Paraśu Mṛgavarābhī\nTi Praśāstaṁ Prasannam",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Karpur Gauram Karunavataram\nSansara Saram Bhujagendra Haram\nSada Vasantam Hridayaravinde\nBhavam Bhavani Sahitam Namami",
+          "meaning": "I bow to Lord Shiva who is white as camphor, the incarnation of compassion, the essence of the world, who wears the king of serpents as a garland, who always dwells in the lotus of the heart, and who is accompanied by Goddess Bhavani (Parvati).",
+          "transliteration": "Karpūra Gauraṁ Karuṇāvatāraṁ\nSaṁsāra Sāraṁ Bhujagendrā Hāram\nSadā Vasantaṁ Hṛdayāravinde\nBhavaṁ Bhavānī Sahitaṁ Namāmi",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Mahamrityunjaya Mantra Japa\nSamarpayami\nAnena Japena Shri Mrityunjaya\nDevata Priyatam",
+          "meaning": "I offer the fruits of this Mahamrityunjaya Mantra recitation. May Lord Mrityunjaya (the conqueror of death) be pleased with this chanting. This is the traditional concluding prayer recited after completing the japa (repetition) of the mantra.",
+          "transliteration": "Mahāmṛtyuñjaya Mantra Japa\nSamarpayāmi\nAnena Japena Śrī Mṛtyuñjaya\nDevatā Prīyatām",
+          "imageUrl": null
         }
       ]
     },
     {
-      "id": "mantra_ram",
-      "title": "Shri Ram Mantra",
+      "id": "mantra_ganesh",
+      "title": "Ganesh Mantra (Om Gam Ganapataye)",
       "language": "english",
-      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/ram.jpg",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/ganesh.jpg",
       "orderIndex": 3,
       "content": [
         {
-          "shloka": "Shri Ram Jai Ram Jai Jai Ram",
-          "meaning": "Chanting Ram’s name brings peace and devotion."
+          "shloka": "Om Gam Ganapataye Namah",
+          "meaning": "Salutations to Lord Ganesha, the remover of all obstacles. 'Gam' is the seed syllable of Ganesha. By chanting this mantra, one invokes the blessings of Lord Ganesha for success in all undertakings.",
+          "transliteration": "Om Gaṁ Gaṇapataye Namaḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Vakratunda Mahakaya\nSuryakoti Samaprabha\nNirvighnam Kuru Me Deva\nSarva Karyeshu Sarvada",
+          "meaning": "O Lord with the curved trunk and massive body, whose splendor is equal to a billion suns, please remove all obstacles from my endeavors, always and in all my tasks.",
+          "transliteration": "Vakratuṇḍa Mahākāya\nSūryakoṭi Samaprabha\nNirvighnaṁ Kuru Me Deva\nSarva Kāryeṣu Sarvadā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ekadantam Mahakayam\nTaptakanchana Sannibham\nLambodaram Vishaladaksham\nVandeyam Ganananayakam",
+          "meaning": "I bow to the leader of the ganas (celestial attendants) who has one tusk, a massive form, who shines like molten gold, who has a large belly and broad eyes.",
+          "transliteration": "Ekadantaṁ Mahākāyaṁ\nTaptakāñchana Sannibham\nLambodaraṁ Viśālākṣaṁ\nVandehaṁ Gaṇanāyakam",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Gajaananam Bhuta Ganadi Sevitam\nKapittha Jambu Phala Sara Bhakshitam\nUmasutam Shoka Vinasha Karanam\nNamami Vigneshvara Pada Pankajam",
+          "meaning": "I bow at the lotus feet of Lord Vigneshvara (remover of obstacles), who has an elephant face, who is served by the host of celestial beings, who eats the essence of kapitha and jambu fruits, who is the son of Uma (Parvati), and who destroys all sorrows.",
+          "transliteration": "Gajānanaṁ Bhūta Gaṇādi Sevitaṁ\nKapittha Jambū Phala Sāra Bhakṣitam\nUmāsutaṁ Śoka Vināśa Kāraṇaṁ\nNamāmi Vighneśvara Pāda Paṅkajam",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Shri Ganeshaya Namah\nSumukhashchaikadantashcha\nKapilo Gajakarnakah\nLambodarashcha Vikato\nVighnanasho Ganadhipah",
+          "meaning": "Salutations to Lord Ganesha. He who has a beautiful face, he who has one tusk, he who is tawny-colored, he who has elephant ears, he who has a large belly, he who is extraordinary, he who destroys obstacles, and he who is the lord of the ganas.",
+          "transliteration": "Om Śrī Gaṇeśāya Namaḥ\nSumukhāścaikadantaśca\nKapilo Gajakarṇakaḥ\nLambodaraśca Vikaṭo\nVighnanāśo Gaṇādhipaḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Agajanana Padmarkam\nGajanana Maharnisham\nAneka Dantam Bhaktanam\nEka Dantam Upasmahe",
+          "meaning": "We meditate upon the one-tusked Lord who is like the lotus born from the mountain (Parvati), who has the face of an elephant, who is worshipped day and night, and who grants many boons to his devotees.",
+          "transliteration": "Agajānana Padmārkaṁ\nGajānana Maharniśam\nAneka Dantaṁ Bhaktānāṁ\nEka Dantam Upāsmahe",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "mantra_saraswati",
+      "title": "Saraswati Mantra",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/saraswati.jpg",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "Om Aim Saraswatyai Namah",
+          "meaning": "Salutations to Goddess Saraswati. 'Aim' is the beeja (seed) mantra of Saraswati, the goddess of knowledge, wisdom, arts, and learning. Chanting this mantra invokes her blessings for intellectual growth and creative expression.",
+          "transliteration": "Om Aiṁ Sarasvatyai Namaḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Saraswati Namastubhyam\nVarade Kamarupini\nVidyarambham Karishyami\nSiddhir Bhavatu Me Sada",
+          "meaning": "O Goddess Saraswati, salutations to you, the giver of boons and the fulfiller of desires. I am beginning my studies; may I always attain success in my learning.",
+          "transliteration": "Sarasvatī Namastubhyaṁ\nVarade Kāmarūpiṇī\nVidyārambhaṁ Kariṣyāmi\nSiddhir Bhavatu Me Sadā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ya Kundendu Tushara Hara Dhavala\nYa Shubhra Vastravrita\nYa Veena Varadanda Manditakara\nYa Shveta Padmasana\nYa Brahmachyuta Shankara Prabhritibhir\nDevaih Sada Pujita\nSa Mam Patu Saraswati Bhagavati\nNishshesha Jadyapaha",
+          "meaning": "May Goddess Saraswati protect me - she who is as white as the jasmine flower, the moon, and the frost; who is dressed in pure white garments; whose hands are adorned with the veena and the gesture of blessing; who is seated on a white lotus; who is always worshipped by Brahma, Vishnu, Shankara, and other gods; and who removes all forms of ignorance.",
+          "transliteration": "Yā Kundendu Tuṣāra Hāra Dhavalā\nYā Śubhra Vastrāvṛtā\nYā Vīṇā Varadaṇḍa Maṇḍitakarā\nYā Śveta Padmāsanā\nYā Brahmāchyuta Śaṅkara Prabhṛtibhir\nDevaiḥ Sadā Pūjitā\nSā Māṁ Pātu Sarasvatī Bhagavatī\nNiḥśeṣa Jāḍyāpahā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Shuklam Brahmavichara Sara\nParamam Adyam Jagadvyapinim\nVeena Pustaka Dharineem Abhayadam\nJadyandhakarapaha\nHaste Sphatikamalikam Vidadhatim\nPadmasane Samsthitam\nVande Tam Parameshvarim Bhagavatim\nBuddhipradam Sharadam",
+          "meaning": "I worship that supreme Goddess Sharada (Saraswati), who is dressed in white, who embodies the essence of Brahman knowledge, who pervades the entire universe, who holds the veena and book, who dispels the darkness of ignorance, who holds a crystal rosary, who is seated on the lotus, and who bestows intelligence.",
+          "transliteration": "Śuklāṁ Brahmavichāra Sāra\nParamām Ādyāṁ Jagadvyāpinīṁ\nVīṇā Pustaka Dhāriṇīṁ Abhayadāṁ\nJāḍyāndhakārāpahā\nHaste Sphaṭikamālikāṁ Vidadhatīṁ\nPadmāsane Saṁsthitām\nVande Tāṁ Parameśvarīṁ Bhagavatīṁ\nBuddhipradāṁ Śāradām",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Mahasaraswati Vidhmahe\nMahatapasey Cha Dhimahi\nTanno Saraswati Prachodayat",
+          "meaning": "We know the great Saraswati, we meditate upon the one who performs great penance. May Goddess Saraswati illuminate and inspire our minds. This is the Saraswati Gayatri mantra.",
+          "transliteration": "Mahāsarasvatī Vidmahe\nMahātapasey Cha Dhīmahi\nTanno Sarasvatī Prachodayāt",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "mantra_vishnu",
+      "title": "Vishnu Mantra (Om Namo Narayanaya)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/vishnu.jpg",
+      "orderIndex": 5,
+      "content": [
+        {
+          "shloka": "Om Namo Narayanaya",
+          "meaning": "Salutations to Lord Narayana (Vishnu). This is the sacred eight-syllable mantra (Ashtakshara) dedicated to Lord Vishnu, the preserver of the universe. It signifies complete surrender to the Supreme Lord.",
+          "transliteration": "Om Namo Nārāyaṇāya",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Namo Bhagavate Vasudevaya",
+          "meaning": "Salutations to Lord Vasudeva (Krishna, the son of Vasudeva). This twelve-syllable mantra (Dvadasakshari) is one of the most powerful Vishnu mantras, invoking the all-pervading Supreme Being who dwells in all creatures.",
+          "transliteration": "Om Namo Bhagavate Vāsudevāya",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Shantakaram Bhujagashayanam\nPadmanabham Suresham\nVishvadharam Gaganasadrisham\nMeghavarnam Shubhangam\nLakshmi Kantam Kamalanayanam\nYogirbhih Dhyana Gamyam\nVande Vishnum Bhava Bhaya Haram\nSarva Lokaika Natham",
+          "meaning": "I bow to Lord Vishnu, the embodiment of peace, who reclines on the great serpent Shesha, from whose navel the lotus springs, who is the lord of the gods, who sustains the universe, who is vast as the sky, whose complexion is like the clouds, whose body is auspicious, who is the beloved of Lakshmi, whose eyes are like lotuses, who is accessible through meditation by yogis, who destroys the fear of worldly existence, and who is the sole lord of all worlds.",
+          "transliteration": "Śāntākāraṁ Bhujagaśayanaṁ\nPadmanābhaṁ Sureśam\nViśvādhāraṁ Gaganasadṛśaṁ\nMeghavarṇaṁ Śubhāṅgam\nLakṣmī Kāntaṁ Kamalanayanam\nYogirbhiḥ Dhyāna Gamyam\nVande Viṣṇuṁ Bhava Bhaya Haraṁ\nSarva Lokaika Nātham",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Mangalam Bhagavan Vishnuh\nMangalam Garudadhvajah\nMangalam Pundari Kakshah\nMangalaya Tano Harih",
+          "meaning": "Auspiciousness unto Lord Vishnu, auspiciousness unto the one who has Garuda as His banner, auspiciousness unto the one who has lotus-like eyes. May Lord Hari (Vishnu) bring auspiciousness to all.",
+          "transliteration": "Maṅgalaṁ Bhagavān Viṣṇuḥ\nMaṅgalaṁ Garuḍadhvajaḥ\nMaṅgalaṁ Puṇḍarī Kākṣaḥ\nMaṅgalāya Tano Hariḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kayena Vacha Manasendriyairva\nBuddhyatmanava Prakriteh Svabhavat\nKaromi Yadyat Sakalam Parasmai\nNarayanayeti Samarpayami",
+          "meaning": "Whatever I do with my body, speech, mind, senses, intellect, soul, or through my natural tendencies - I offer all of it to Lord Narayana. This is the mantra of complete surrender (Samarpanam).",
+          "transliteration": "Kāyena Vāchā Manasendriyairvā\nBuddhyātmanāvā Prakṛteḥ Svabhāvāt\nKaromi Yadyat Sakalaṁ Parasmai\nNārāyaṇāyeti Samarpayāmi",
+          "imageUrl": null
         }
       ]
     },
     {
       "id": "mantra_durga",
-      "title": "Durga Mantra",
+      "title": "Durga Mantra (Om Dum Durgayei)",
       "language": "english",
-      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/chalisa/durga.jpg",
-      "orderIndex": 4,
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/durga.jpg",
+      "orderIndex": 6,
       "content": [
         {
-          "shloka": "Om Dum Durgayai Namah",
-          "meaning": "A mantra invoking strength, courage, and protection."
+          "shloka": "Om Dum Durgayei Namah",
+          "meaning": "Salutations to Goddess Durga. 'Dum' is the beeja (seed) mantra of Durga, the invincible one. This mantra invokes the protective and empowering energy of the Divine Mother who vanquishes all evil forces.",
+          "transliteration": "Om Duṁ Durgāyei Namaḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sarva Mangala Mangalye\nShive Sarvartha Sadhike\nSharanye Tryambake Gauri\nNarayani Namostute",
+          "meaning": "O auspicious of all that is auspicious, O consort of Lord Shiva, O one who fulfills all purposes, O the one who provides refuge, O three-eyed Goddess Gauri, O Narayani, I bow to you again and again.",
+          "transliteration": "Sarva Maṅgala Māṅgalye\nŚive Sarvārtha Sādhike\nŚaraṇye Tryambake Gaurī\nNārāyaṇi Namostute",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ya Devi Sarva Bhuteshu\nMatri Rupena Samsthita\nYa Devi Sarva Bhuteshu\nShakti Rupena Samsthita\nYa Devi Sarva Bhuteshu\nShanti Rupena Samsthita\nNamastasyai Namastasyai\nNamastasyai Namo Namah",
+          "meaning": "To the Goddess who resides in all beings in the form of Mother, to the Goddess who resides in all beings in the form of Power, to the Goddess who resides in all beings in the form of Peace - salutations to Her, salutations to Her, salutations to Her, again and again.",
+          "transliteration": "Yā Devī Sarva Bhūteṣu\nMātṛ Rūpeṇa Saṁsthitā\nYā Devī Sarva Bhūteṣu\nŚakti Rūpeṇa Saṁsthitā\nYā Devī Sarva Bhūteṣu\nŚānti Rūpeṇa Saṁsthitā\nNamastasyai Namastasyai\nNamastasyai Namo Namaḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Jatavedasamina Vahanoha\nMagnim Durgani Vishva\nSindhum Duritaty Agnih\nParvaktara Hamartyat",
+          "meaning": "I invoke the fire of awareness, Jatavedas (the all-knowing fire). May Goddess Durga, like a ship, carry us across all difficulties and dangers in life, just as fire burns away all impurities.",
+          "transliteration": "Jātavedasamīnā Vāhanoha\nMagniṁ Durgāṇi Viśvā\nSindhuṁ Duritatyāgniḥ\nParvaktārā Hamārtyāt",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Jaya Jaya Mahi Surasura Pujite\nSarvasiddhi Dayini Kale\nKala Ratri Mahadevi\nDurgadevi Namostute",
+          "meaning": "Glory, glory to the great Goddess who is worshipped by both gods and demons. O giver of all spiritual powers, O Goddess of the dark night, O Great Goddess Durga, I bow to you with reverence.",
+          "transliteration": "Om Jaya Jaya Mahī Surāsura Pūjite\nSarvasiddhi Dāyinī Kāle\nKāla Rātrī Mahādevī\nDurgādevī Namostute",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Srishti Sthiti Vinashanam\nShaktibhute Sanatani\nGunashraye Gunamaye\nNarayani Namostute",
+          "meaning": "O eternal Goddess who is the power behind creation, preservation, and destruction, who is the refuge of the three qualities (gunas) and who is the embodiment of these qualities, O Narayani, salutations to you.",
+          "transliteration": "Sṛṣṭi Sthiti Vināśānāṁ\nŚaktibhūte Sanātanī\nGuṇāśraye Guṇamaye\nNārāyaṇi Namostute",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "mantra_lakshmi",
+      "title": "Lakshmi Mantra (Om Shreem)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/lakshmi.jpg",
+      "orderIndex": 7,
+      "content": [
+        {
+          "shloka": "Om Shreem Mahalakshmiyei Namah",
+          "meaning": "Salutations to the great Goddess Lakshmi. 'Shreem' is the beeja (seed) mantra of Lakshmi, the goddess of wealth, prosperity, fortune, and abundance. Chanting this mantra invokes her divine grace for material and spiritual prosperity.",
+          "transliteration": "Om Śrīṁ Mahālakṣmyai Namaḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Namastestu Mahamaye\nShripithe Surapujite\nShankha Chakra Gadahaste\nMahalakshmi Namostute",
+          "meaning": "Salutations to the Great Goddess of Illusion, who resides in the abode of Sri, who is worshipped by the gods, who holds the conch, discus, and mace in her hands. O Mahalakshmi, I bow to you.",
+          "transliteration": "Namastestu Mahāmāye\nŚrīpīṭhe Surapūjite\nŚaṅkha Chakra Gadāhaste\nMahālakṣmi Namostute",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sarvajne Sarvavarade\nSarvadushtabhayankari\nSarva Duhkha Hare Devi\nMahalakshmi Namostute",
+          "meaning": "O all-knowing Goddess, O grantor of all boons, O one who strikes fear in the wicked, O Goddess who removes all sorrows, O Mahalakshmi, I bow to you with reverence.",
+          "transliteration": "Sarvajñe Sarvavarade\nSarvaduṣṭabhayaṅkarī\nSarva Duḥkha Hare Devī\nMahālakṣmi Namostute",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Siddhi Buddhi Prade Devi\nBhukti Mukti Pradayini\nMantra Murte Sada Devi\nMahalakshmi Namostute",
+          "meaning": "O Goddess who bestows spiritual attainment and wisdom, O giver of worldly enjoyment and liberation, O Goddess who is the embodiment of mantras, O Mahalakshmi, I bow to you always.",
+          "transliteration": "Siddhi Buddhi Prade Devī\nBhukti Mukti Pradāyinī\nMantra Mūrte Sadā Devī\nMahālakṣmi Namostute",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Padmanane Padmauroo\nPadmakshi Padmasambhave\nTanme Bhajasi Padmakshi\nYena Sokhyam Labhamyaham",
+          "meaning": "O one with a lotus face, lotus thighs, lotus eyes, and born from the lotus. O lotus-eyed Goddess, please bless me so that I may attain eternal happiness and well-being.",
+          "transliteration": "Padmānane Padmaūroo\nPadmākṣi Padmasambhave\nTanme Bhajasi Padmākṣī\nYena Saukhyaṁ Labhāmyaham",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Mahalakshmi Cha Vidmahe\nVishnu Patnyai Cha Dhimahi\nTanno Lakshmih Prachodayat",
+          "meaning": "We know the great Lakshmi, we meditate upon the consort of Lord Vishnu. May Goddess Lakshmi illuminate and inspire our minds. This is the Lakshmi Gayatri mantra for invoking prosperity.",
+          "transliteration": "Mahālakṣmī Cha Vidmahe\nViṣṇu Patnyai Cha Dhīmahi\nTanno Lakṣmīḥ Prachodayāt",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "mantra_hanuman",
+      "title": "Hanuman Mantra",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/hanuman.jpg",
+      "orderIndex": 8,
+      "content": [
+        {
+          "shloka": "Om Ham Hanumate Namah",
+          "meaning": "Salutations to Lord Hanuman. 'Ham' is the beeja (seed) mantra of Hanuman. This mantra invokes the immense strength, devotion, courage, and selfless service embodied by Lord Hanuman, the greatest devotee of Lord Rama.",
+          "transliteration": "Om Haṁ Hanumate Namaḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Manojavam Marutatulyavegam\nJitendriyam Buddhimatam Varishtham\nVatatmajam Vanarayuthamukhyam\nShri Ramadutam Sharanam Prapadye",
+          "meaning": "I take refuge in Lord Hanuman, who is swift as the mind, who equals the wind god in speed, who is the master of the senses, who is foremost among the intelligent, who is the son of the wind god, who is the chief among the monkey warriors, and who is the messenger of Lord Rama.",
+          "transliteration": "Manojavaṁ Mārutatulyavegaṁ\nJitendriyaṁ Buddhimatāṁ Variṣṭham\nVātātmajaṁ Vānarayūthamukhyaṁ\nŚrī Rāmadūtaṁ Śaraṇaṁ Prapadye",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Buddhi Heen Tanu Janike\nSumirau Pavan Kumar\nBal Buddhi Vidya Dehu Mohi\nHarahu Kalesh Vikar",
+          "meaning": "Knowing myself to be devoid of intelligence and strength, I remember you, O son of the Wind God. Please grant me strength, intelligence, and knowledge, and remove all my afflictions and impurities.",
+          "transliteration": "Buddhi Hīn Tanu Jānike\nSumirau Pavan Kumār\nBal Buddhi Vidyā Dehu Mohi\nHarahu Kaleś Vikār",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Atul Bala Dhamam Hemashailabha Deham\nDanujvana Krishanum Jnaneenam Agraganyam\nSakala Guna Nidhanam Vanaranam Adhisham\nRaghu Pati Priya Bhaktam Vatajatam Namami",
+          "meaning": "I bow to the son of the wind god, whose strength is immeasurable, whose body shines like a golden mountain, who is like fire to the forest of demons, who is foremost among the wise, who is a treasure of all virtues, who is the chief of the vanaras, and who is the beloved devotee of Lord Rama.",
+          "transliteration": "Atul Bala Dhāmaṁ Hemaśailābha Dehaṁ\nDanujvana Kṛśānuṁ Jñānīnāṁ Agragaṇyam\nSakala Guṇa Nidhānaṁ Vānarāṇāṁ Adhīśaṁ\nRaghu Pati Priya Bhaktaṁ Vātajātaṁ Namāmi",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Namo Hanumate Bhaybhanjanaya\nSukham Kuru Phat Svaha\nOm Namo Hanumate Rudravataraya\nSarva Shtroon Samharakaraaya\nSarvavyadhi Nivarakaya Svaha",
+          "meaning": "Om, salutations to Hanuman, destroyer of fear, grant me happiness. Om, salutations to Hanuman, the incarnation of Rudra, the destroyer of all enemies, the remover of all diseases, Svaha.",
+          "transliteration": "Om Namo Hanumate Bhaybhañjanāya\nSukhaṁ Kuru Phaṭ Svāhā\nOm Namo Hanumate Rudrāvatārāya\nSarva Śatrūn Saṁhārakārāya\nSarvavyādhi Nivārakāya Svāhā",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "mantra_shanti",
+      "title": "Shanti Mantra (Om Sahana Vavatu)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/om.jpg",
+      "orderIndex": 9,
+      "content": [
+        {
+          "shloka": "Om Sahana Vavatu\nSaha Nau Bhunaktu\nSaha Viryam Karavavahai\nTejasvinavadhitamastu\nMa Vidvishavahai\nOm Shantih Shantih Shantih",
+          "meaning": "May the Lord protect us both (teacher and student). May He nourish us both. May we work together with great energy. May our study be enlightening and fruitful. May we never have hostility towards each other. Om, peace, peace, peace.",
+          "transliteration": "Om Saha Nāvavatu\nSaha Nau Bhunaktu\nSaha Vīryaṁ Karavāvahai\nTejasvi Nāvadhītamastu\nMā Vidviṣāvahai\nOm Śāntiḥ Śāntiḥ Śāntiḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Asato Ma Sadgamaya\nTamaso Ma Jyotirgamaya\nMrityor Ma Amritam Gamaya\nOm Shantih Shantih Shantih",
+          "meaning": "Lead me from the unreal to the real. Lead me from darkness to light. Lead me from death to immortality. Om, peace, peace, peace. This is from the Brihadaranyaka Upanishad.",
+          "transliteration": "Om Asato Mā Sadgamaya\nTamaso Mā Jyotirgamaya\nMṛtyor Mā Amṛtaṁ Gamaya\nOm Śāntiḥ Śāntiḥ Śāntiḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Purnamadah Purnamidam\nPurnat Purnamudachyate\nPurnasya Purnamadaya\nPurnamevavashishyate\nOm Shantih Shantih Shantih",
+          "meaning": "That (Brahman) is whole. This (universe) is whole. From the whole, the whole arises. When the whole is taken from the whole, the whole still remains. Om, peace, peace, peace. This is the Isha Upanishad invocation.",
+          "transliteration": "Om Pūrṇamadaḥ Pūrṇamidaṁ\nPūrṇāt Pūrṇamudachyate\nPūrṇasya Pūrṇamādāya\nPūrṇamevāvaśiṣyate\nOm Śāntiḥ Śāntiḥ Śāntiḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Sarve Bhavantu Sukhinah\nSarve Santu Niramayah\nSarve Bhadrani Pashyantu\nMa Kashchid Duhkha Bhag Bhavet\nOm Shantih Shantih Shantih",
+          "meaning": "May all beings be happy. May all beings be free from illness. May all beings see what is auspicious. May no one suffer. Om, peace, peace, peace. This universal prayer expresses the highest ideal of Vedic spirituality.",
+          "transliteration": "Om Sarve Bhavantu Sukhinaḥ\nSarve Santu Nirāmayāḥ\nSarve Bhadrāṇi Paśyantu\nMā Kaśchid Duḥkha Bhāg Bhavet\nOm Śāntiḥ Śāntiḥ Śāntiḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Dyauh Shantih Antariksha Shantih\nPrithvi Shantih Apah Shantih\nOshadhayah Shantih\nVanaspatayah Shantih\nVishvedevah Shantih\nBrahma Shantih\nSarvam Shantih Shantirev Shantih\nSa Ma Shantiredhi\nOm Shantih Shantih Shantih",
+          "meaning": "May there be peace in the heavens, peace in the atmosphere, peace on earth, peace in water, peace in plants, peace in trees, peace in all the gods, peace in Brahman, peace in everything. May that peace, real peace, be mine. Om, peace, peace, peace.",
+          "transliteration": "Om Dyauḥ Śāntiḥ Antarikṣa Śāntiḥ\nPṛthvī Śāntiḥ Āpaḥ Śāntiḥ\nOṣadhayaḥ Śāntiḥ\nVanaspatayaḥ Śāntiḥ\nViśvedevāḥ Śāntiḥ\nBrahma Śāntiḥ\nSarvaṁ Śāntiḥ Śāntireva Śāntiḥ\nSā Mā Śāntiredhi\nOm Śāntiḥ Śāntiḥ Śāntiḥ",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "mantra_navgraha",
+      "title": "Navgraha Mantra",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/navgraha.jpg",
+      "orderIndex": 10,
+      "content": [
+        {
+          "shloka": "Om Suryaya Namah\nJapa Kusuma Sankasham\nKashyapeyam Mahadyutim\nTamo Arim Sarva Papghnam\nPranato Asmi Divaakaram",
+          "meaning": "Salutations to Surya (Sun). I bow to the one who is radiant like the Japa flower (hibiscus), who is the son of Kashyapa, who possesses great brilliance, who is the enemy of darkness and destroyer of all sins. I prostrate before the Lord of the Day.",
+          "transliteration": "Om Sūryāya Namaḥ\nJapā Kusuma Saṅkāśaṁ\nKāśyapeyaṁ Mahādyutim\nTamo Ariṁ Sarva Pāpaghnaṁ\nPraṇato Asmi Divākaram",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Chandraya Namah\nDadhi Shankha Tushaarabham\nKshirodarnava Sambhavam\nNamami Shashinam Somam\nShambhor Makuta Bhushanam",
+          "meaning": "Salutations to Chandra (Moon). I bow to the Moon who is as white as yogurt, conch shell, and frost, who emerged from the ocean of milk, who is adorned with moonbeams, and who is the ornament on Lord Shambhu's (Shiva's) crown.",
+          "transliteration": "Om Chandrāya Namaḥ\nDadhi Śaṅkha Tuṣārābhaṁ\nKṣīrodārnava Sambhavam\nNamāmi Śaśinaṁ Somaṁ\nŚambhor Makuṭa Bhūṣaṇam",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Mangalaya Namah\nDharaniigarbha Sambhutam\nVidyut Kanti Samaprabham\nKumaram Shakti Hastam Cha\nMangalam Pranamamy Aham",
+          "meaning": "Salutations to Mangala (Mars). I bow to Mars who is born from the womb of the Earth, who shines with the radiance of lightning, who is youthful, who holds the Shakti weapon in his hand. I prostrate before the auspicious one.",
+          "transliteration": "Om Maṅgalāya Namaḥ\nDharaṇīgarbha Sambhūtaṁ\nVidyut Kānti Samaprabhām\nKumāraṁ Śakti Hastaṁ Cha\nMaṅgalaṁ Praṇamāmyaham",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Budhaya Namah\nPriyangukalika Shyamam\nRupenaa Pratimam Budham\nSaumyam Saumya Gunopetam\nTam Budham Pranamamy Aham",
+          "meaning": "Salutations to Budha (Mercury). I bow to Mercury who is dark like the bud of the priyangu plant, whose beauty is unequaled, who is gentle and endowed with gentle qualities. I prostrate before Budha.",
+          "transliteration": "Om Budhāya Namaḥ\nPriyaṅgukalikā Śyāmaṁ\nRūpeṇā Pratimaṁ Budham\nSaumyaṁ Saumya Guṇopetaṁ\nTaṁ Budhaṁ Praṇamāmyaham",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Gurave Namah\nDevanaam Cha Rishinaam Cha\nGurum Kaanchana Sannibham\nBuddhi Bhutam Trilokesham\nTam Namami Brihaspatim",
+          "meaning": "Salutations to Guru (Jupiter/Brihaspati). I bow to the Guru of gods and sages, who shines like gold, who is the embodiment of wisdom, and who is the lord of the three worlds. I prostrate before Brihaspati.",
+          "transliteration": "Om Gurave Namaḥ\nDevānāṁ Cha Ṛṣīṇāṁ Cha\nGuruṁ Kāñchana Sannibham\nBuddhi Bhūtaṁ Trilokeśaṁ\nTaṁ Namāmi Bṛhaspatim",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Shukraya Namah\nHima Kunda Mrinalabham\nDaityanam Paramam Gurum\nSarva Shastra Pravaktaram\nBhargavam Pranamamy Aham",
+          "meaning": "Salutations to Shukra (Venus). I bow to the one who is as white as snow, jasmine, and lotus stem, who is the supreme guru of the demons, who is the expounder of all scriptures. I prostrate before Bhargava (Shukracharya).",
+          "transliteration": "Om Śukrāya Namaḥ\nHima Kunda Mṛṇālābhaṁ\nDaityānāṁ Paramaṁ Guruṁ\nSarva Śāstra Pravaktāraṁ\nBhārgavaṁ Praṇamāmyaham",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Shanaischaraya Namah\nNilanjana Samabhasam\nRavi Putram Yamagrajam\nChhaya Martanda Sambhutam\nTam Namami Shanaischaraam",
+          "meaning": "Salutations to Shani (Saturn). I bow to the one who is dark as collyrium, who is the son of Surya (Sun), who is the elder brother of Yama (Lord of Death), who is born of Chhaya and the Sun. I prostrate before Shani, the slow-moving one.",
+          "transliteration": "Om Śanaiścharāya Namaḥ\nNīlāñjana Samābhāsaṁ\nRavi Putraṁ Yamāgrajaṁ\nChāyā Mārtaṇḍa Sambhūtaṁ\nTaṁ Namāmi Śanaiścharām",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Rahave Namah\nArdha Kayam Mahaveeryam\nChandraditya Vimardanam\nSimhika Garbha Sambhutam\nTam Rahum Pranamamy Aham",
+          "meaning": "Salutations to Rahu (North Lunar Node). I bow to the one who has half a body, who possesses great valor, who oppresses the Sun and Moon (causing eclipses), who is born from the womb of Simhika. I prostrate before Rahu.",
+          "transliteration": "Om Rāhave Namaḥ\nArdha Kāyaṁ Mahāvīryaṁ\nCandrāditya Vimardanaṁ\nSiṁhikā Garbha Sambhūtaṁ\nTaṁ Rāhuṁ Praṇamāmyaham",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Ketave Namah\nPalaasha Pushpa Sankaasham\nTaraka Graha Mastakam\nRaudram Raudratmakam Ghoram\nTam Ketum Pranamamy Aham",
+          "meaning": "Salutations to Ketu (South Lunar Node). I bow to the one who is like the palasha flower in appearance, who is the head among the stellar planets, who is fierce and terrifying in nature. I prostrate before Ketu.",
+          "transliteration": "Om Ketave Namaḥ\nPalāśa Puṣpa Saṅkāśaṁ\nTārakā Graha Mastakam\nRaudraṁ Raudrātmakaṁ Ghoraṁ\nTaṁ Ketuṁ Praṇamāmyaham",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "mantra_panchakshara",
+      "title": "Panchakshara Mantra (Om Namah Shivaya)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/shiv.jpg",
+      "orderIndex": 11,
+      "content": [
+        {
+          "shloka": "Om Namah Shivaya",
+          "meaning": "Salutations to Lord Shiva. This five-syllable mantra (Na-Mah-Shi-Va-Ya) is the most sacred mantra in Shaivism. The five syllables represent the five elements: Na (earth), Mah (water), Shi (fire), Va (air), Ya (space). It is the path to liberation and union with Shiva.",
+          "transliteration": "Om Namaḥ Śivāya",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Nagendraharaya Trilochanaya\nBhasmangaragaya Maheshvaraya\nNityaya Shuddhaya Digambaraya\nTasmai Nakaraya Namah Shivaya",
+          "meaning": "Salutations to the one represented by the syllable 'Na' - Lord Shiva, who wears the king of serpents as a garland, who has three eyes, whose body is smeared with sacred ash, who is the Great Lord, who is eternal, pure, and who is clad in the directions (sky-clad).",
+          "transliteration": "Nāgendrahārāya Trilochanāya\nBhasmāṅgarāgāya Maheśvarāya\nNityāya Śuddhāya Digambarāya\nTasmai Nakārāya Namaḥ Śivāya",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Mandakini Salilachandana Charchitaya\nNandiishvara Pramatha Natha Maheshvaraya\nMandarapushpa Bahupushpa Supujitaya\nTasmai Makaraya Namah Shivaya",
+          "meaning": "Salutations to the one represented by the syllable 'Ma' - Lord Shiva, who is anointed with the water of the Ganges and sandalwood paste, who is the lord of Nandi and the Pramatha ganas, the Great Lord, who is beautifully worshipped with mandara and many other flowers.",
+          "transliteration": "Mandākinī Salilachandana Charchitāya\nNandīśvara Pramatha Nātha Maheśvarāya\nMandārapuṣpa Bahupuṣpa Supūjitāya\nTasmai Makārāya Namaḥ Śivāya",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Shivaya Gauri Vadanabja Brinda\nSuryaya Dakshadhvara Nashakaya\nShri Nilakanthaya Vrisha Dhvajaya\nTasmai Shikaraya Namah Shivaya",
+          "meaning": "Salutations to the one represented by the syllable 'Shi' - Lord Shiva, who is the sun that causes the lotus face of Gauri (Parvati) to bloom, who destroyed the sacrifice of Daksha, who has a blue throat (Nilakantha), and whose banner bears the bull.",
+          "transliteration": "Śivāya Gaurī Vadanābja Bṛnda\nSūryāya Dakṣādhvara Nāśakāya\nŚrī Nīlakaṇṭhāya Vṛṣa Dhvajāya\nTasmai Śikārāya Namaḥ Śivāya",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Vasishtha Kumbhodbhava Gautamarya\nMunindra Devarchita Shekharaya\nChandrarka Vaishvanara Lochanaya\nTasmai Vakaraya Namah Shivaya",
+          "meaning": "Salutations to the one represented by the syllable 'Va' - Lord Shiva, who is worshipped by sages Vasishtha, Agastya, Gautama, and other great sages and gods, whose crown is adorned by them, and whose three eyes are the Moon, Sun, and Fire.",
+          "transliteration": "Vasiṣṭha Kumbhodbhava Gautamārya\nMunīndra Devārchita Śekharāya\nChandrārka Vaiśvānara Lochanāya\nTasmai Vakārāya Namaḥ Śivāya",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Yagna Svarupaya Jataadharaya\nPinaka Hastaya Sanatanaya\nDivyaya Devaya Digambaraya\nTasmai Yakaraya Namah Shivaya",
+          "meaning": "Salutations to the one represented by the syllable 'Ya' - Lord Shiva, who is the embodiment of sacrifice (yagna), who bears matted locks, who holds the Pinaka bow in his hand, who is eternal, divine, a great god, and sky-clad.",
+          "transliteration": "Yajña Svarūpāya Jaṭādharāya\nPināka Hastāya Sanātanāya\nDivyāya Devāya Digambarāya\nTasmai Yakārāya Namaḥ Śivāya",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "mantra_ashtakshara",
+      "title": "Ashtakshara Mantra (Om Namo Narayanaya)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/vishnu.jpg",
+      "orderIndex": 12,
+      "content": [
+        {
+          "shloka": "Om Namo Narayanaya",
+          "meaning": "This is the Ashtakshara (eight-syllable) Mantra - the most sacred mantra in Vaishnavism. The eight syllables are Om-Na-Mo-Na-Ra-Ya-Na-Ya. It signifies total surrender to Lord Narayana, the supreme refuge of all beings, the one who pervades all of creation.",
+          "transliteration": "Om Namo Nārāyaṇāya",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Narayanam Padmabhuvam Vashishtham\nShaktim Cha Tatputra Parasharamcha\nVyasam Shukam Gaudapadam Mahantam\nGovinda Yogindra Mathasya Shishyam",
+          "meaning": "I salute Narayana, Padmabhuva (Brahma), Vasishtha, Shakti, and his son Parashara, Vyasa, Shuka, the great Gaudapada, and his disciple, the supreme yogi Govinda. This is the Guru Parampara (lineage) invocation of the Ashtakshara tradition.",
+          "transliteration": "Nārāyaṇaṁ Padmabhuvaṁ Vasiṣṭhaṁ\nŚaktiṁ Cha Tatputra Parāśaraṁcha\nVyāsaṁ Śukaṁ Gauḍapadaṁ Mahāntaṁ\nGovinda Yogīndra Mathāsya Śiṣyam",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Namo Narayanaya Ashtakshara\nMaha Mantrena Sarva Papaat\nPramuchyate Iti Vaidikamanah",
+          "meaning": "By the great eight-syllable mantra 'Om Namo Narayanaya,' one is freed from all sins. This is the declaration of the Vedic tradition. The mantra is considered the essence of all Vedic teachings and the direct path to moksha (liberation).",
+          "transliteration": "Om Namo Nārāyaṇāya Aṣṭākṣara\nMahā Mantreṇa Sarva Pāpāt\nPramuchyate Iti Vaidikamanāḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Narayana Para Jyotih\nAtma Narayanah Parah\nNarayana Param Brahma\nNarayana Namostute",
+          "meaning": "Narayana is the supreme light. Narayana is the supreme Self. Narayana is the supreme Brahman. Salutations to Lord Narayana. He is the ultimate reality beyond all manifestation.",
+          "transliteration": "Nārāyaṇa Parā Jyotiḥ\nĀtmā Nārāyaṇaḥ Paraḥ\nNārāyaṇa Paraṁ Brahma\nNārāyaṇa Namostute",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Namo Narayana Vidmahe\nVasudevaya Dhimahi\nTanno Vishnuh Prachodayat",
+          "meaning": "We know Narayana, we meditate upon Vasudeva. May Lord Vishnu illuminate and inspire our intellect. This is the Narayana Gayatri, recited as part of the Ashtakshara sadhana to deepen one's connection with the Supreme.",
+          "transliteration": "Namo Nārāyaṇa Vidmahe\nVāsudevāya Dhīmahi\nTanno Viṣṇuḥ Prachodayāt",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ksheera Sagara Shayanam\nBhujanga Shayana Uttamam\nPadmanabham Suresham Cha\nNarayanam Aham Bhaje",
+          "meaning": "I worship Lord Narayana, who reclines on the ocean of milk, who rests upon the supreme serpent Shesha, from whose navel the lotus emerges, and who is the lord of all the gods.",
+          "transliteration": "Kṣīra Sāgara Śayanaṁ\nBhujanga Śayana Uttamam\nPadmanābhaṁ Sureśaṁ Cha\nNārāyaṇaṁ Ahaṁ Bhaje",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "mantra_dhanvantari",
+      "title": "Dhanvantari Mantra (Health)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/vishnu.jpg",
+      "orderIndex": 13,
+      "content": [
+        {
+          "shloka": "Om Namo Bhagavate\nVasudevaya Dhanvantaraye\nAmrita Kalasha Hastaya\nSarva Amaya Vinashanaya\nTrilokanathaya\nShri Mahavishnave Namah",
+          "meaning": "Salutations to the Supreme Lord Vasudeva, in the form of Dhanvantari, who holds the vessel of nectar (amrita) in his hands, who destroys all diseases, who is the lord of the three worlds, and who is the great Lord Vishnu.",
+          "transliteration": "Om Namo Bhagavate\nVāsudevāya Dhanvantaraye\nAmṛta Kalaśa Hastāya\nSarva Āmaya Vināśanāya\nTrilokanāthāya\nŚrī Mahāviṣṇave Namaḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Dham Dhanvantaraye Namah",
+          "meaning": "Salutations to Lord Dhanvantari. 'Dham' is the beeja (seed) mantra of Dhanvantari. This simple yet powerful mantra is chanted for healing and good health. Dhanvantari is the divine physician and the originator of Ayurveda.",
+          "transliteration": "Om Dhaṁ Dhanvantaraye Namaḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Shankham Chakram Jalaukam Cha\nDadhad Amrita Bhaajanam\nChatur Bhujam Sukha Sthanam\nDhanvantarim Namamy Aham",
+          "meaning": "I bow to Lord Dhanvantari, who holds a conch, discus, leech, and a pot of divine nectar in his four hands, and who is the abode of happiness and well-being.",
+          "transliteration": "Om Śaṅkhaṁ Chakraṁ Jalaukāṁ Cha\nDadhad Amṛta Bhājanam\nChatur Bhujaṁ Sukha Sthānaṁ\nDhanvantariṁ Namāmyaham",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Achyutananda Govinda\nNamochante Narasimha\nRogaan Me Nashaya Asheshan\nAshunaam Iva Marutah",
+          "meaning": "O Achyuta (the infallible), O Ananda (bliss), O Govinda, O Narasimha, I bow to you. Destroy all my diseases completely, just as the wind sweeps away all things in its path.",
+          "transliteration": "Achyutānanda Govinda\nNamochante Narasiṁha\nRogān Me Nāśaya Aśeṣān\nĀśunāṁ Iva Mārutaḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Dhanvantari Dhyana Shloka:\nNeelambhoja Shyamala Komala Angam\nPrasanna Vaktram Nalinayataksham\nSamasta Roga Prashama Pranasham\nDhanvantarim Loka Hitam Namami",
+          "meaning": "Dhanvantari Meditation Verse: I bow to Lord Dhanvantari, whose body is soft and dark like a blue lotus, whose face is serene, whose eyes are long like lotus petals, who alleviates all diseases, and who is devoted to the welfare of all the worlds.",
+          "transliteration": "Dhanvantari Dhyāna Śloka:\nNīlāmbhoja Śyāmala Komala Aṅgaṁ\nPrasanna Vaktraṁ Nalināyatākṣam\nSamasta Roga Praśama Praṇāśaṁ\nDhanvantariṁ Loka Hitaṁ Namāmi",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "mantra_santan_gopal",
+      "title": "Santan Gopal Mantra",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/krishna.jpg",
+      "orderIndex": 14,
+      "content": [
+        {
+          "shloka": "Om Shreem Hreem Kleem Glaum\nDevakisuta Govinda\nVaasudeva Jagatpate\nDehime Tanayam Krishna\nTvaamaham Sharanam Gatah",
+          "meaning": "Om, with the sacred seed syllables Shreem, Hreem, Kleem, and Glaum - O son of Devaki, O Govinda, O Vasudeva, O Lord of the Universe, O Krishna, please bless me with a child. I have taken refuge in you.",
+          "transliteration": "Om Śrīṁ Hrīṁ Klīṁ Glauṁ\nDevakīsuta Govinda\nVāsudeva Jagatpate\nDehime Tanayaṁ Kṛṣṇa\nTvāmahaṁ Śaraṇaṁ Gataḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Kleem Gopalveshdharine\nVasudevaya Hooh Phat Svaha",
+          "meaning": "Om, I invoke Lord Vasudeva who is adorned in the form of a cowherd boy (Gopala). This is the beeja mantra form of the Santan Gopal Mantra. It is chanted for the blessing of progeny and protection of children.",
+          "transliteration": "Om Klīṁ Gopālavesdhāriṇe\nVāsudevāya Hūṁ Phaṭ Svāhā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Shloka Dhyanam:\nVasudeva Sutam Devam\nKamsa Chanura Mardanam\nDevaki Paramanandam\nKrishnam Vande Jagadgurum",
+          "meaning": "Meditation Verse: I worship Lord Krishna, the son of Vasudeva, the destroyer of Kamsa and Chanura, the supreme bliss of Devaki, and the spiritual teacher of the entire universe.",
+          "transliteration": "Śloka Dhyānam:\nVasudeva Sutaṁ Devaṁ\nKaṁsa Chāṇūra Mardanam\nDevakī Paramānandaṁ\nKṛṣṇaṁ Vande Jagadgurum",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Krishna Krishna Mahayogin\nBhaktanam Abhayankara\nGovinda Paramananda\nSarvam Me Vasha Manaya",
+          "meaning": "O Krishna, O great Yogi, O protector who removes the fear of devotees, O Govinda, O Supreme Bliss, bring everything under my benevolent control and bless me with fulfillment.",
+          "transliteration": "Kṛṣṇa Kṛṣṇa Mahāyogin\nBhaktānāṁ Abhayaṅkara\nGovinda Paramānanda\nSarvaṁ Me Vaśa Mānaya",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Phalashruti:\nSantan Gopal Mantrasya\nJapena Putra Labhanam\nSarva Kama Pradayinam\nSarva Saubhagya Dayakam",
+          "meaning": "Fruit of Recitation: By the chanting of the Santan Gopal Mantra, one obtains the blessing of children. This mantra fulfills all desires and bestows all kinds of good fortune and auspiciousness.",
+          "transliteration": "Phalaśruti:\nSantān Gopāl Mantrasya\nJapena Putra Lābhanaṁ\nSarva Kāma Pradāyinaṁ\nSarva Saubhāgya Dāyakam",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "mantra_guru",
+      "title": "Guru Mantra (Gurur Brahma)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/mantras/om.jpg",
+      "orderIndex": 15,
+      "content": [
+        {
+          "shloka": "Gurur Brahma Gurur Vishnu\nGurur Devo Maheshvarah\nGuruh Sakshat Parabrahma\nTasmai Shri Gurave Namah",
+          "meaning": "The Guru is Brahma (the Creator), the Guru is Vishnu (the Preserver), the Guru is Lord Maheshvara (Shiva, the Destroyer). The Guru is verily the Supreme Brahman itself. Salutations to that glorious Guru.",
+          "transliteration": "Gurur Brahmā Gurur Viṣṇuḥ\nGurur Devo Maheśvaraḥ\nGuruḥ Sākṣāt Parabrahma\nTasmai Śrī Gurave Namaḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Akhanda Mandalakaram\nVyaptam Yena Characharam\nTatpadam Darshitam Yena\nTasmai Shri Gurave Namah",
+          "meaning": "Salutations to the Guru who has revealed that state which pervades the entire unbroken form of the universe, comprising both the moving and the unmoving. The Guru shows us the truth of existence that permeates all things.",
+          "transliteration": "Akhaṇḍa Maṇḍalākāraṁ\nVyāptaṁ Yena Charācharam\nTatpadaṁ Darśitaṁ Yena\nTasmai Śrī Gurave Namaḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ajnana Timirandhasya\nJnananjana Shalakaya\nChakshur Unmilitam Yena\nTasmai Shri Gurave Namah",
+          "meaning": "Salutations to the Guru who, with the collyrium stick of knowledge, has opened the eyes of one blinded by the darkness of ignorance. The Guru is the remover of spiritual darkness.",
+          "transliteration": "Ajñāna Timirāndhasya\nJñānāñjana Śalākayā\nChakṣur Unmīlitaṁ Yena\nTasmai Śrī Gurave Namaḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Dhyana Mulam Guror Murtih\nPuja Mulam Guroh Padam\nMantra Mulam Guror Vakyam\nMoksha Mulam Guroh Kripa",
+          "meaning": "The root of meditation is the Guru's form. The root of worship is the Guru's feet. The root of mantra is the Guru's word. The root of liberation is the Guru's grace. All spiritual practice originates from the Guru.",
+          "transliteration": "Dhyāna Mūlaṁ Guror Mūrtiḥ\nPūjā Mūlaṁ Guroḥ Padam\nMantra Mūlaṁ Guror Vākyaṁ\nMokṣa Mūlaṁ Guroḥ Kṛpā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Brahmanandam Parama Sukhadam\nKevalam Jnana Murtim\nDvandvatitam Gagana Sadrisham\nTattvamasyadi Lakshyam\nEkam Nityam Vimalam Achalam\nSarvadhee Sakshi Bhutam\nBhavatitam Triguna Rahitam\nSadgurum Tam Namami",
+          "meaning": "I salute the true Guru who is the bliss of Brahman, who bestows supreme happiness, who is the embodiment of pure knowledge, who transcends all dualities, who is vast as the sky, who is the goal of the great Vedic statement 'Thou art That,' who is one, eternal, pure, immovable, the witness of all intellects, who is beyond worldly existence and free from the three qualities (gunas).",
+          "transliteration": "Brahmānandaṁ Parama Sukhadaṁ\nKevalaṁ Jñāna Mūrtim\nDvandvātītaṁ Gagana Sadṛśaṁ\nTattvamasyādi Lakṣyam\nEkaṁ Nityaṁ Vimalaṁ Achalaṁ\nSarvadhī Sākṣi Bhūtam\nBhāvātītaṁ Triguṇa Rahitaṁ\nSadguruṁ Taṁ Namāmi",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Guru Gita Sara:\nGurureva Jagat Sarvam\nBrahma Vishnu Shivamakam\nGuroh Parataram Nasti\nTasmat Sampujayed Gurum",
+          "meaning": "Essence of Guru Gita: The Guru is the entire universe, the Guru is Brahma, Vishnu, and Shiva combined. There is nothing higher than the Guru. Therefore, one should worship the Guru with utmost devotion.",
+          "transliteration": "Guru Gītā Sāra:\nGurureva Jagat Sarvaṁ\nBrahmā Viṣṇu Śivātmakam\nGuroḥ Parataraṁ Nāsti\nTasmāt Sampūjayed Gurum",
+          "imageUrl": null
         }
       ]
     }

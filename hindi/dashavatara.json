@@ -1,0 +1,336 @@
+{
+  "category": "Dashavatara (10 Avatars of Vishnu)",
+  "version": 1,
+  "items": [
+    {
+      "id": "avatar_matsya",
+      "title": "मत्स्य अवतार (मछली)",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/dashavatara/matsya.jpg",
+      "orderIndex": 1,
+      "content": [
+        {
+          "shloka": "प्रलय पयोधि जले धृतवान् असि वेदम्\nविहित वहित्र चरित्रम् अखेदम्\nकेशव धृत मीन शरीर जय जगदीश हरे",
+          "meaning": "प्रलय के जल में आपने वेदों को धारण किया। अथक रूप से नौका का संचालन किया। हे केशव, मीन शरीर धारी — जय जगदीश हरे!",
+          "transliteration": "Pralaya payodhi jale dhṛtavān asi vedam\nVihita vahitra caritram akhedam\nKeśava dhṛta mīna śarīra jaya jagadīśa hare",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ मत्स्य रूपाय विद्महे\nजलेश्वराय धीमहि\nतन्नो विष्णुः प्रचोदयात्",
+          "meaning": "ॐ, हम मत्स्य रूप का ध्यान करते हैं। जलेश्वर का चिन्तन करते हैं। भगवान विष्णु हमें प्रेरित करें।",
+          "transliteration": "Oṃ matsya rūpāya vidmahe\nJaleśvarāya dhīmahi\nTanno viṣṇuḥ pracodayāt",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सत्यव्रत राज कृपां विधाय\nमत्स्य रूपेण जलं प्रवेश्य\nवेदान् समुद्धृत्य ददौ विधात्रे\nश्री मत्स्य देवाय नमः सदा मे",
+          "meaning": "राजा सत्यव्रत पर कृपा करके, मत्स्य रूप में जल में प्रवेश कर, वेदों का उद्धार कर ब्रह्मा को दिया — श्री मत्स्य देव को सदैव मेरा नमस्कार।",
+          "transliteration": "Satyavrata rāja kṛpāṃ vidhāya\nMatsya rūpeṇa jalaṃ praveśya\nVedān samuddhṛtya dadau vidhātre\nŚrī matsya devāya namaḥ sadā me",
+          "imageUrl": null
+        },
+        {
+          "shloka": "शङ्ख चक्र गदा पद्म धारिणम्\nमीन रूप धरं भगवन्तम्\nसप्तर्षि नौका परिरक्षकम्\nमत्स्य अवतारं प्रणमामि नित्यम्",
+          "meaning": "शंख, चक्र, गदा, पद्म धारी, मीन रूप धारण करने वाले भगवान, सप्तर्षियों की नौका के रक्षक — मत्स्य अवतार को मैं नित्य प्रणाम करता हूँ।",
+          "transliteration": "Śaṅkha cakra gadā padma dhāriṇam\nMīna rūpa dharaṃ bhagavantam\nSaptarṣi naukā parirakṣakam\nMatsya avatāraṃ praṇamāmi nityam",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "avatar_kurma",
+      "title": "कूर्म अवतार (कछुआ)",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/dashavatara/kurma.jpg",
+      "orderIndex": 2,
+      "content": [
+        {
+          "shloka": "केशव धृत कच्छप रूप जय जगदीश हरे\nमन्दर गिरिम् अनेन निधाय पृष्ठे\nक्षीर सागर मध्ये स्थितम् अच्युतम्",
+          "meaning": "हे केशव, कछुआ रूप धारी, जय जगदीश हरे! मन्दर पर्वत को पीठ पर रखकर, क्षीरसागर के मध्य में स्थित अच्युत।",
+          "transliteration": "Keśava dhṛta kacchapa rūpa jaya jagadīśa hare\nMandara girim anena nidhāya pṛṣṭhe\nKṣīra sāgara madhye sthitam acyutam",
+          "imageUrl": null
+        },
+        {
+          "shloka": "समुद्र मन्थनम् कूर्म अवतारम्\nप्रणमामि अनन्तम् अमृत दातारम्",
+          "meaning": "समुद्र मन्थन के कूर्म अवतार को, अमृत दाता अनन्त को मैं प्रणाम करता हूँ।",
+          "transliteration": "Samudra manthanam kūrma avatāram\nPraṇamāmi anantam amṛta dātāram",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ कूर्माय नमः\nअमृत समुद्र मन्थने आधार भूताय\nविष्णवे परब्रह्मणे नमः",
+          "meaning": "ॐ कूर्म को नमस्कार। अमृत समुद्र मन्थन में आधार बनने वाले विष्णु, परब्रह्म को नमस्कार।",
+          "transliteration": "Oṃ kūrmāya namaḥ\nAmṛta samudra manthane ādhāra bhūtāya\nViṣṇave parabrahmaṇe namaḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "देवासुर समागमे कूर्म रूपधरः प्रभुः\nरत्न चतुर्दशं दातुं जगतां हितकाम्यया",
+          "meaning": "देव और असुरों के समागम में प्रभु ने कूर्म रूप धारण किया, जगत के हित की कामना से चौदह रत्न प्रदान करने के लिए।",
+          "transliteration": "Devāsura samāgame kūrma rūpadharaḥ prabhuḥ\nRatna caturdaśaṃ dātuṃ jagatāṃ hitakāmyayā",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "avatar_varaha",
+      "title": "वराह अवतार (वाराह)",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/dashavatara/varaha.jpg",
+      "orderIndex": 3,
+      "content": [
+        {
+          "shloka": "वसति दशन शिखरे धरणी तव लग्ना\nशशिनि कलङ्क कलेव निमग्ना\nकेशव धृत शूकर रूप जय जगदीश हरे",
+          "meaning": "आपकी दाढ़ की नोक पर पृथ्वी विराजमान है, चन्द्रमा पर कलंक के समान। हे केशव, शूकर रूप धारी — जय जगदीश हरे!",
+          "transliteration": "Vasati daśana śikhare dharaṇī tava lagnā\nŚaśini kalaṅka kaleva nimagnā\nKeśava dhṛta śūkara rūpa jaya jagadīśa hare",
+          "imageUrl": null
+        },
+        {
+          "shloka": "हिरण्याक्षम् निहत्य महाबलम्\nभूमिं समुद्धृत्य रसातलात्\nवराह मूर्तिं परमेश्वरम्\nप्रणमामि लोकेश्वरम् अच्युतम्",
+          "meaning": "महाबली हिरण्याक्ष का वध कर, रसातल से पृथ्वी का उद्धार कर — वराह मूर्ति परमेश्वर, लोकेश्वर अच्युत को मैं प्रणाम करता हूँ।",
+          "transliteration": "Hiraṇyākṣam nihatya mahābalam\nBhūmiṃ samuddhṛtya rasātalāt\nVarāha mūrtiṃ parameśvaram\nPraṇamāmi lokeśvaram acyutam",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ नमः श्री वराहाय\nभूमि उद्धारण कारणाय\nहिरण्याक्ष विनाशाय नमः",
+          "meaning": "ॐ श्री वराह को नमस्कार, भूमि उद्धार के कारण, हिरण्याक्ष के विनाशक को नमस्कार।",
+          "transliteration": "Oṃ namaḥ śrī varāhāya\nBhūmi uddhāraṇa kāraṇāya\nHiraṇyākṣa vināśāya namaḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "धरणीं गदां चक्रं शङ्खं च बिभ्रत्\nदंष्ट्रा अग्रे धरां धारयन् भगवान्\nआदि वराहः परिपालयेत् नः",
+          "meaning": "पृथ्वी, गदा, चक्र और शंख धारण करते हुए, दाढ़ की नोक पर धरा को धारण करने वाले भगवान — आदि वराह हमारा पालन करें।",
+          "transliteration": "Dharaṇīṃ gadāṃ cakraṃ śaṅkhaṃ ca bibhrat\nDaṃṣṭrā agre dharāṃ dhārayan bhagavān\nĀdi varāhaḥ paripālayet naḥ",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "avatar_narasimha",
+      "title": "नरसिंह अवतार (नरसिम्हा)",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/dashavatara/narasimha.jpg",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "तव कर कमल वरे नखम् अद्भुत शृङ्गम्\nदलित हिरण्यकशिपु तनु भृङ्गम्\nकेशव धृत नरहरि रूप जय जगदीश हरे",
+          "meaning": "आपके सुन्दर कमल हाथों के नख अद्भुत शस्त्र हैं जिन्होंने हिरण्यकशिपु के शरीर को भृंग की तरह चीर दिया। हे केशव, नरहरि रूप धारी — जय!",
+          "transliteration": "Tava kara kamala vare nakham adbhuta śṛṅgam\nDalita hiraṇyakaśipu tanu bhṛṅgam\nKeśava dhṛta narahari rūpa jaya jagadīśa hare",
+          "imageUrl": null
+        },
+        {
+          "shloka": "उग्रं वीरं महाविष्णुं ज्वलन्तं सर्वतोमुखम्\nनृसिंहं भीषणं भद्रं मृत्युर् मृत्युं नमाम्यहम्",
+          "meaning": "उग्र, वीर, महाविष्णु, सर्वदिशाओं में ज्वलनशील — नृसिंह, भयंकर किन्तु मंगलकारी, मृत्यु के भी मृत्यु — मैं उन्हें नमस्कार करता हूँ।",
+          "transliteration": "Ugraṃ vīraṃ mahāviṣṇuṃ jvalantaṃ sarvatomukham\nNṛsiṃhaṃ bhīṣaṇaṃ bhadraṃ mṛtyur mṛtyuṃ namāmyaham",
+          "imageUrl": null
+        },
+        {
+          "shloka": "स्तम्भात् आविर्भूतो भगवान् नृसिंहः\nप्रह्लाद वरदो दैत्येश नाशनः\nसन्ध्या समये न दिनं न रात्रिः",
+          "meaning": "स्तम्भ से प्रकट हुए भगवान नृसिंह, प्रह्लाद को वरदान देने वाले, दैत्यराज के नाशक — सन्ध्या समय में, न दिन न रात्रि।",
+          "transliteration": "Stambhāt āvirbhūto bhagavān nṛsiṃhaḥ\nPrahlāda varado daityeśa nāśanaḥ\nSandhyā samaye na dinaṃ na rātriḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ नमः श्री नृसिंहाय\nप्रह्लाद रक्षकाय नमः\nहिरण्यकशिपु हन्त्रे नमः",
+          "meaning": "ॐ श्री नृसिंह को नमस्कार, प्रह्लाद के रक्षक को नमस्कार, हिरण्यकशिपु के हन्ता को नमस्कार।",
+          "transliteration": "Oṃ namaḥ śrī nṛsiṃhāya\nPrahlāda rakṣakāya namaḥ\nHiraṇyakaśipu hantre namaḥ",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "avatar_vamana",
+      "title": "वामन अवतार (वामन)",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/dashavatara/vamana.jpg",
+      "orderIndex": 5,
+      "content": [
+        {
+          "shloka": "छलयसि विक्रमणे बलिम् अद्भुत वामन\nपद नख नीर जनित जन पावन\nकेशव धृत वामन रूप जय जगदीश हरे",
+          "meaning": "हे अद्भुत वामन, आपने विक्रम से बलि को छला। आपके पैर के नख से उत्पन्न जल (गंगा) जनों को पवित्र करता है। हे केशव — जय!",
+          "transliteration": "Chalayasi vikramaṇe balim adbhuta vāmana\nPada nakha nīra janita jana pāvana\nKeśava dhṛta vāmana rūpa jaya jagadīśa hare",
+          "imageUrl": null
+        },
+        {
+          "shloka": "त्रिभुवन मापयित्वा द्वि पदाभ्यां\nबलि राज्यं हरन्नधिरोह्य विष्णुः\nत्रिविक्रमो भगवान् वामनाख्यः",
+          "meaning": "दो पगों से तीनों लोकों को नापकर, बलि का राज्य हरते हुए, भगवान विष्णु त्रिविक्रम वामन कहलाए।",
+          "transliteration": "Tribhuvana māpayitvā dvi padābhyāṃ\nBali rājyaṃ harannadhirohya viṣṇuḥ\nTrivikramo bhagavān vāmanākhyaḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ वामनाय नमः\nत्रिविक्रमाय नमः\nउपेन्द्र रूपाय विष्णवे नमः",
+          "meaning": "ॐ वामन को नमस्कार। त्रिविक्रम को नमस्कार। उपेन्द्र रूप विष्णु को नमस्कार।",
+          "transliteration": "Oṃ vāmanāya namaḥ\nTrivikramāya namaḥ\nUpendra rūpāya viṣṇave namaḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "आदित्या गर्भ सम्भूतं कश्यपस्य महात्मनः\nवामनम् अद्भुतं वन्दे विष्णोः पदं परं सदा",
+          "meaning": "अदिति के गर्भ और महात्मा कश्यप से उत्पन्न, अद्भुत वामन को मैं वन्दन करता हूँ — विष्णु का परम पद सदैव।",
+          "transliteration": "Ādityā garbha sambhūtaṃ kaśyapasya mahātmanaḥ\nVāmanam adbhutaṃ vande viṣṇoḥ padaṃ paraṃ sadā",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "avatar_parashurama",
+      "title": "परशुराम अवतार",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/dashavatara/parashurama.jpg",
+      "orderIndex": 6,
+      "content": [
+        {
+          "shloka": "क्षत्रिय रुधिर मये जगदपगत पापम्\nस्नपयसि पयसि शमित भव तापम्\nकेशव धृत भृगुपति रूप जय जगदीश हरे",
+          "meaning": "क्षत्रियों के रक्त से जगत् को पाप-मुक्त कर, जल से स्नान कराकर भव-ताप शांत किया। हे केशव, भृगुपति रूप धारी — जय!",
+          "transliteration": "Kṣatriya rudhira maye jagadapagata pāpam\nSnapayasi payasi śamita bhava tāpam\nKeśava dhṛta bhṛgupati rūpa jaya jagadīśa hare",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जमदग्नि सुतं वीरं परशुधरम् अच्युतम्\nकार्तवीर्य विनाशाय प्रणमामि भृगुवर्षभम्",
+          "meaning": "जमदग्नि के पुत्र, वीर, परशु धारी अच्युत — कार्तवीर्य के विनाश के लिए भृगुकुल श्रेष्ठ को मैं प्रणाम करता हूँ।",
+          "transliteration": "Jamadagni sutaṃ vīraṃ paraśudharam acyutam\nKārtavīrya vināśāya praṇamāmi bhṛguvarṣabham",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ परशुरामाय नमः\nभृगुनन्दनाय विष्णवे\nधर्म संस्थापनाय नमः",
+          "meaning": "ॐ परशुराम को नमस्कार। भृगुनन्दन विष्णु को, धर्म संस्थापक को नमस्कार।",
+          "transliteration": "Oṃ paraśurāmāya namaḥ\nBhṛgunandanāya viṣṇave\nDharma saṃsthāpanāya namaḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "एकविंशति वारं पृथिवीं कृत्वा निःक्षत्रियां\nसमन्तपञ्चके दत्तवान् भूमिं कश्यपाय महीम्",
+          "meaning": "इक्कीस बार पृथ्वी को क्षत्रियहीन करके, समन्तपञ्चक में भूमि कश्यप को दान कर दी।",
+          "transliteration": "Ekaviṃśati vāraṃ pṛthivīṃ kṛtvā niḥkṣatriyāṃ\nSamantapañcake dattavān bhūmiṃ kaśyapāya mahīm",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "avatar_rama",
+      "title": "राम अवतार (अयोध्या के राजकुमार)",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/dashavatara/rama.jpg",
+      "orderIndex": 7,
+      "content": [
+        {
+          "shloka": "वितरसि दिक्षु रणे दिक्पति कमनीयम्\nदशमुख मौलि बलिं रमणीयम्\nकेशव धृत राम शरीर जय जगदीश हरे",
+          "meaning": "आपने युद्ध में दिशाओं के पालकों को दशमुख के सुन्दर सिरों की बलि वितरित की। हे केशव, राम शरीर धारी — जय!",
+          "transliteration": "Vitarasi dikṣu raṇe dikpati kamanīyam\nDaśamukha mauli baliṃ ramaṇīyam\nKeśava dhṛta rāma śarīra jaya jagadīśa hare",
+          "imageUrl": null
+        },
+        {
+          "shloka": "श्री राम राम रामेति रसे जिह्वे सदा मम\nआपदां अपहर्तारं दातारं सर्वसम्पदाम्",
+          "meaning": "श्री राम, राम, राम — मेरी जिह्वा पर सदैव यही रस रहे। सभी विपत्तियों को हरने वाले, सभी सम्पत्तियों के दाता।",
+          "transliteration": "Śrī rāma rāma rāmeti rase jihve sadā mama\nĀpadāṃ apahartāraṃ dātāraṃ sarvasampadām",
+          "imageUrl": null
+        },
+        {
+          "shloka": "मर्यादा पुरुषोत्तमं रघुकुल तिलकम्\nरावणान्तकम् सेतुबन्ध रचयितारम्\nश्री रामचन्द्रं प्रणमामि सततम्",
+          "meaning": "मर्यादा पुरुषोत्तम, रघुकुल तिलक, रावण का अन्त करने वाले, सेतुबन्ध के रचयिता — श्री रामचन्द्र को मैं सदा प्रणाम करता हूँ।",
+          "transliteration": "Maryādā puruṣottamaṃ raghukula tilakam\nRāvaṇāntakam setubandha racayitāram\nŚrī rāmacandraṃ praṇamāmi satatam",
+          "imageUrl": null
+        },
+        {
+          "shloka": "रामं दशरथिं विद्धि मां विष्णुं सनातनम्\nसीता लक्ष्मीर् न सन्देहः धर्म संस्थापनाय च",
+          "meaning": "राम, दशरथ पुत्र, को मुझे — सनातन विष्णु — जानो। सीता साक्षात् लक्ष्मी हैं, इसमें सन्देह नहीं, और यह अवतार धर्म संस्थापन के लिए है।",
+          "transliteration": "Rāmaṃ daśarathiṃ viddhi māṃ viṣṇuṃ sanātanam\nSītā lakṣmīr na sandehaḥ dharma saṃsthāpanāya ca",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "avatar_krishna",
+      "title": "कृष्ण अवतार (दिव्य ग्वाला)",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/dashavatara/krishna.jpg",
+      "orderIndex": 8,
+      "content": [
+        {
+          "shloka": "वसुदेव सुतं देवं कंस चाणूर मर्दनम्\nदेवकी परमानन्दं कृष्णं वन्दे जगद्गुरुम्",
+          "meaning": "वसुदेव पुत्र, देव, कंस-चाणूर मर्दन करने वाले, देवकी के परमानन्द, जगद्गुरु कृष्ण को मैं वन्दन करता हूँ।",
+          "transliteration": "Vasudeva sutaṃ devaṃ kaṃsa cāṇūra mardanam\nDevakī paramānandaṃ kṛṣṇaṃ vande jagadgurum",
+          "imageUrl": null
+        },
+        {
+          "shloka": "यदा यदा हि धर्मस्य ग्लानिर् भवति भारत\nअभ्युत्थानम् अधर्मस्य तदात्मानं सृजाम्यहम्",
+          "meaning": "हे भारत, जब-जब धर्म की हानि और अधर्म की वृद्धि होती है, तब-तब मैं स्वयं को प्रकट करता हूँ।",
+          "transliteration": "Yadā yadā hi dharmasya glānir bhavati bhārata\nAbhyutthānam adharmasya tadātmānaṃ sṛjāmyaham",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कृष्णं वन्दे जगद्गुरुं गोविन्दं गोपी वल्लभम्\nमुरली मनोहरं देवं नन्द गोप कुमारकम्",
+          "meaning": "जगद्गुरु कृष्ण, गोविन्द, गोपीवल्लभ, मुरलीमनोहर, नन्द गोप के कुमार देव को मैं वन्दन करता हूँ।",
+          "transliteration": "Kṛṣṇaṃ vande jagadguruṃ govindaṃ gopī vallabham\nMuralī manoharaṃ devaṃ nanda gopa kumārakam",
+          "imageUrl": null
+        },
+        {
+          "shloka": "परित्राणाय साधूनां विनाशाय च दुष्कृताम्\nधर्मसंस्थापनार्थाय सम्भवामि युगे युगे",
+          "meaning": "साधुओं की रक्षा, दुष्टों के विनाश और धर्म की संस्थापना के लिए मैं हर युग में प्रकट होता हूँ।",
+          "transliteration": "Paritrāṇāya sādhūnāṃ vināśāya ca duṣkṛtām\nDharmasaṃsthāpanārthāya sambhavāmi yuge yuge",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "avatar_buddha",
+      "title": "बुद्ध अवतार (बुद्ध)",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/dashavatara/buddha.jpg",
+      "orderIndex": 9,
+      "content": [
+        {
+          "shloka": "निन्दसि यज्ञ विधेर् अह ह श्रुति जातम्\nसदय हृदय दर्शित पशु घातम्\nकेशव धृत बुद्ध शरीर जय जगदीश हरे",
+          "meaning": "आपने श्रुतिजन्य यज्ञ विधि की निन्दा की, सदय हृदय से पशु वध दिखाया। हे केशव, बुद्ध शरीर धारी — जय जगदीश हरे!",
+          "transliteration": "Nindasi yajña vidher aha ha śruti jātam\nSadaya hṛdaya darśita paśu ghātam\nKeśava dhṛta buddha śarīra jaya jagadīśa hare",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अहिंसा परमो धर्मः सर्व प्राणि हिते रतः\nबुद्ध रूपिणं विष्णुं वन्दे करुणा सागरम्",
+          "meaning": "अहिंसा परम धर्म है, सभी प्राणियों के हित में रत — बुद्ध रूपी विष्णु, करुणा सागर को मैं वन्दन करता हूँ।",
+          "transliteration": "Ahiṃsā paramo dharmaḥ sarva prāṇi hite rataḥ\nBuddha rūpiṇaṃ viṣṇuṃ vande karuṇā sāgaram",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ बुद्धाय नमः\nकरुणा मूर्तये नमः\nविष्णोः अवतराय नमः",
+          "meaning": "ॐ बुद्ध को नमस्कार। करुणा मूर्ति को नमस्कार। विष्णु के अवतार को नमस्कार।",
+          "transliteration": "Oṃ buddhāya namaḥ\nKaruṇā mūrtaye namaḥ\nViṣṇoḥ avatarāya namaḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सर्व भूत दयावन्तं शान्तं समदर्शिनम्\nधर्म चक्र प्रवर्तकम् बुद्धं प्रणमाम्यहम्",
+          "meaning": "सभी प्राणियों पर दयालु, शान्त, समदर्शी, धर्मचक्र प्रवर्तक बुद्ध को मैं प्रणाम करता हूँ।",
+          "transliteration": "Sarva bhūta dayāvantaṃ śāntaṃ samadarśinam\nDharma cakra pravartakam buddhaṃ praṇamāmyaham",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "avatar_kalki",
+      "title": "कल्कि अवतार (भविष्य का योद्धा)",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/dashavatara/kalki.jpg",
+      "orderIndex": 10,
+      "content": [
+        {
+          "shloka": "म्लेच्छ निवह निधने कलयसि करवालम्\nधूम केतुं इव किम् अपि करालम्\nकेशव धृत कल्कि शरीर जय जगदीश हरे",
+          "meaning": "म्लेच्छों के समूह के विनाश के लिए आप खड्ग चलाते हैं, धूमकेतु के समान भयंकर। हे केशव, कल्कि शरीर धारी — जय जगदीश हरे!",
+          "transliteration": "Mleccha nivaha nidhane kalayasi karavālam\nDhūma ketuṃ iva kim api karālam\nKeśava dhṛta kalki śarīra jaya jagadīśa hare",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कलियुग अन्ते सम्भविष्यति भगवान्\nश्वेत अश्व आरूढः खड्ग धारी\nविष्णुयशा ग्रामे शम्भल नाम्नि\nधर्म संस्थापनं करिष्यति कल्की",
+          "meaning": "कलियुग के अन्त में भगवान प्रकट होंगे, श्वेत अश्व पर आरूढ, खड्गधारी, विष्णुयशा के ग्राम शम्भल में — कल्कि धर्म की पुनर्स्थापना करेंगे।",
+          "transliteration": "Kaliyuga ante sambhaviṣyati bhagavān\nŚveta aśva ārūḍhaḥ khaḍga dhārī\nViṣṇuyaśā grāme śambhala nāmni\nDharma saṃsthāpanaṃ kariṣyati kalkī",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ कल्किने नमः\nधर्म युद्ध प्रवर्तकाय\nकलियुग अन्तकाय विष्णवे नमः",
+          "meaning": "ॐ कल्कि को नमस्कार। धर्म युद्ध प्रवर्तक, कलियुग अन्तक विष्णु को नमस्कार।",
+          "transliteration": "Oṃ kalkine namaḥ\nDharma yuddha pravartakāya\nKaliyuga antakāya viṣṇave namaḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सत्य युगस्य आदि कर्ता कल्कि भगवान्\nअधर्म विनाशाय धर्म रक्षाय च\nविष्णोः दशमो अवतारः कल्किः\nनमामि तं भावि युगावतारम्",
+          "meaning": "सत्ययुग का आरम्भ करने वाले कल्कि भगवान, अधर्म के विनाश और धर्म की रक्षा के लिए — विष्णु का दसवाँ अवतार कल्कि, मैं उस भावी युगावतार को नमस्कार करता हूँ।",
+          "transliteration": "Satya yugasya ādi kartā kalki bhagavān\nAdharma vināśāya dharma rakṣāya ca\nViṣṇoḥ daśamo avatāraḥ kalkiḥ\nNamāmi taṃ bhāvi yugāvatāram",
+          "imageUrl": null
+        }
+      ]
+    }
+  ]
+}

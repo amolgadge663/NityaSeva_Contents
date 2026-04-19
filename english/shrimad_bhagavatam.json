@@ -1,0 +1,552 @@
+{
+  "category": "Shrimad Bhagavatam",
+  "version": 1,
+  "items": [
+    {
+      "id": "bhag_sk01",
+      "title": "Skandha 1 - Creation",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhagavatam/vishnu.jpg",
+      "orderIndex": 1,
+      "content": [
+        {
+          "shloka": "Janmaadyasya yatah anvayaaditaratashcha artheshvabhidnyah svaraat.\nTene Brahma hridaa ya aadikavaye muhyanti yat soorayah.",
+          "meaning": "The Supreme Truth from whom the creation, sustenance and dissolution of the universe proceeds, who is self-effulgent, who revealed the Vedas to Brahma, and before whom even the learned are bewildered.",
+          "transliteration": "Janmādyasya yato'nvayāditarataścārtheṣvabhijñaḥ svarāṭ|\nTene brahma hṛdā ya ādikavaye muhyanti yatsūrayaḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Dharmah projjhitakaitavo'tra paramo nirmatsaraanaam sataam.\nVedyam vaastavamattra vastu shivadam taapa-trayonmoolanam.",
+          "meaning": "In this Bhagavatam, the highest dharma, free from all deceit, is revealed for those who are free from envy. The real truth is presented here, which is auspicious and uproots the threefold miseries.",
+          "transliteration": "Dharmaḥ projjhitakaitavo'tra paramo nirmatsarāṇāṃ satām|\nVedyaṃ vāstavamatra vastu śivadaṃ tāpatrayonmūlanam|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Nigamakalpatarorgalitam phalam, shukamukhaadamritadravasanyutam.\nPibata Bhaagavatam rasamaalayam, muhuraho rasikaa bhuvi bhaavukaah.",
+          "meaning": "O thoughtful devotees, relish the Shrimad Bhagavatam, the ripened fruit of the Vedic tree, flowing from the lips of Shuka, full of immortal nectar.",
+          "transliteration": "Nigamakalpatarorgalitaṃ phalaṃ śukamukhādamṛtadravasaṃyutam|\nPibata bhāgavataṃ rasamālayaṃ muhuraho rasikā bhuvi bhāvukāḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Naimishe'nimishakshetre, rishayah shaunakadayah.\nSatram svargaaya lokaaya, sahasrasamam aasata.",
+          "meaning": "In the holy forest of Naimisharanya, the sages headed by Shaunaka assembled for a thousand-year sacrifice for the attainment of the heavenly realm.",
+          "transliteration": "Naimiṣe'nimiṣakṣetre ṛṣayaḥ śaunakādayaḥ|\nSatraṃ svargāya lokāya sahasrasamamāsata|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Soota uvaacha - yam pravrajantamanupetamapetakrtyam, dvaipaayanoo viraha-kaatara aajuhaava.\nPutreti tanmayatayaa taravo'bhinedus, tam sarva bhoota hridayam munimaanato'smi.",
+          "meaning": "Suta said: I offer my reverence to the sage Shuka, to whom Vyasa called out in grief 'O son!' as he departed. The trees echoed in response, for he is the soul dwelling in the hearts of all beings.",
+          "transliteration": "Sūta uvāca - yaṃ pravrajantamanupetamapetakṛtyaṃ dvaipāyano virahakātara ājuhāva|\nPutreti tanmayatayā taravo'bhinedustaṃ sarvabhūtahṛdayaṃ munimānato'smi|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Shreenivaaasam sarasaanam, dhaamabandam nijochitam.\nShravanam kirtanam Vishnoh, smaranam paadasevanam.",
+          "meaning": "Hearing, chanting, and remembering Lord Vishnu, serving His lotus feet -- these are the primary forms of devotional service unto the Lord, the abode of Lakshmi.",
+          "transliteration": "Śravaṇaṃ kīrtanaṃ viṣṇoḥ smaraṇaṃ pādasevanam|\nArcanaṃ vandanaṃ dāsyaṃ sakhyamātmanivedanam|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "bhag_sk02",
+      "title": "Skandha 2 - The Cosmic Manifestation",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhagavatam/vishnu.jpg",
+      "orderIndex": 2,
+      "content": [
+        {
+          "shloka": "Shree Shuka uvaacha - itham sma prishtah sa tu Baadaraayanih,\nKshattraa munernaamadheyam muneh Tulasiidala.",
+          "meaning": "Shri Shuka said: Thus questioned by the sage, the son of Vyasa (Badarayana), began narrating the glories of the Supreme Lord.",
+          "transliteration": "Sa vai puṃsāṃ paro dharmo yato bhaktiradhokṣaje|\nAhaitukyapratihatā yayātmā suprasīdati|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sa vai pumsaam paro dharmo yato bhaktir adhokshaje.\nAhaituky apratihataa yayaatmaa supraseedati.",
+          "meaning": "The supreme occupation for all humanity is that which leads to devotion to the transcendent Lord. Such devotion must be unmotivated and uninterrupted to completely satisfy the self.",
+          "transliteration": "Vāsudeve bhagavati bhaktiyogaḥ prayojitaḥ|\nJanayatyāśu vairāgyaṃ jñānaṃ ca yadahaitukam|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Vaasudeve bhagavati bhaktiyogah prayojitah.\nJanayatyaashu vairaagyam dnyaanam cha yadahaitukim.",
+          "meaning": "By engaging in devotional service to Lord Vasudeva, one immediately acquires causeless knowledge and detachment from the material world.",
+          "transliteration": "Etāvadeva jijñāsyaṃ tattvajijñāsunā'tmanaḥ|\nAnvayavyatirekeṇa yatsyātsarvatra sarvadā|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Etaavadeva jidnyaasyam tattva-jidnyaasunaatmanah.\nAnvaya vyatirekena yat syaat sarvatra sarvadaa.",
+          "meaning": "A person who is searching for the ultimate truth must search for it everywhere and at all times, through the processes of positive confirmation and negative elimination.",
+          "transliteration": "Ahamevāsamevāgre nānyadyatsadasatparam|\nPaścādahaṃ yadetacca yo'vaśiṣyeta so'smyaham|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Aham evaasam evaagre naanyad yat sadasatparam.\nPashchaad aham yad etaccha yo'vashishyeta so'smyaham.",
+          "meaning": "Before the creation, only I existed. There was nothing else, neither gross nor subtle. After creation, I alone exist, and at the time of dissolution, what remains is I alone.",
+          "transliteration": "Ete cāṃśakalāḥ puṃsaḥ kṛṣṇastu bhagavānsvayam|\nIndrārivyākulaṃ lokaṃ mṛḍayanti yuge yuge|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ete chaamshakalaa pumsah, Krishnastu Bhagavaan svayam.\nIndraarivyaakulam lokam, mridayanti yuge yuge.",
+          "meaning": "All the incarnations listed are either plenary portions or portions of plenary portions of the Lord, but Lord Krishna is the Supreme Personality of Godhead Himself. He appears in every age to protect the world.",
+          "transliteration": "Śrīnivāsaṃ sarasānāṃ dhāmabandhaṃ nijocitam|\nPraṇamya śirasā viṣṇuṃ sarvalokaikanāyakam|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "bhag_sk03",
+      "title": "Skandha 3 - The Status Quo",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhagavatam/vishnu.jpg",
+      "orderIndex": 3,
+      "content": [
+        {
+          "shloka": "Uddhava uvaacha - noonam bhagavato Vishnoh, anudhyaanam mahatmanaam.\nBidambitam na vidushaam, aatmani sthitam eeshwaram.",
+          "meaning": "Uddhava said: The great souls who meditate on Lord Vishnu are never deceived, for they have the Supreme Lord established within their hearts.",
+          "transliteration": "Uddhava uvāca - nūnaṃ bhagavato viṣṇoḥ anudhyānaṃ mahātmanām|\nBiḍambitaṃ na viduṣāṃ ātmani sthitamīśvaram|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kapilo uvaacha - athaaham sarva-tattvaanaam, srishtim pratyaya-hetu cha.\nVakshye vidhaanam yat proktam, prabhoH praakritam aakritim.",
+          "meaning": "Lord Kapila said: Now I shall explain the creation of all material elements, the cause of their manifestation, and the original form of the Lord as described by the wise.",
+          "transliteration": "Kapila uvāca - athāhaṃ sarvatattvānāṃ sṛṣṭiṃ pratyayahetu ca|\nVakṣye vidhānaṃ yatproktaṃ prabhoḥ prākṛtamākṛtim|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Devahootir uvaacha - nirviNNaa nitaraam bhoomann, asad-indriya-tarshaNaat.\nYena sambhavyamaNena, prakriti purushasya cha.",
+          "meaning": "Devahuti said: O Lord, I am completely disgusted with the insatiable desires of the senses. Please explain the relationship between Prakriti (nature) and Purusha (the Supreme Person).",
+          "transliteration": "Devahūtiruvāca - nirviṇṇā nitarāṃ bhūmannasadindriyatarṣaṇāt|\nYena sambhāvyamānena prakṛtipuruṣasya ca|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sattvam rajas tama iti, prakriter gunaas tair yuktah, parah purusha eka ihaasya dhatte.\nSthity-aadaye hari-viranchee-hareti samjnaah, shreyaamsi tatra khalu sattva-tanor nriNaam syuh.",
+          "meaning": "The three modes of material nature -- goodness, passion and ignorance -- bind the eternal soul. For creation, preservation and destruction, the Lord takes the names of Brahma, Vishnu and Shiva. True welfare for humans lies in the mode of goodness, in Vishnu.",
+          "transliteration": "Sattvaṃ rajastama iti prakṛterguṇāstairyuktaḥ paraḥ puruṣa eka ihāsya dhatte|\nSthityādaye hariviriñcihareti saṃjñāḥ śreyāṃsi tatra khalu sattvatanornṛṇāṃ syuḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Tam tvaam ahaam deva-deva-usha, preshtham sarvabhoomi-shayam.\nPrapadye Bhagavaan Vishnum, sarva-lokaika-naaatha tam.",
+          "meaning": "I take refuge in You, O Lord Vishnu, the most beloved, who reclines upon the earth as the protector, the one and only master of all the worlds.",
+          "transliteration": "Taṃ tvāmahaṃ devadeveśa preṣṭhaṃ sarvabhūmiśayam|\nPrapadye bhagavānviṣṇuṃ sarvalokaikanātha tam|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Aho bhaagaravataih saakshaad, bhavataa karunayaa hi.\nDarshitam bhagavad-rupam, sarva-siddhi-pradaayakam.",
+          "meaning": "O blessed one, by your compassion you have directly shown the form of the Lord that bestows all perfections.",
+          "transliteration": "Aho bhāgavataiḥ sākṣāt bhavatā karuṇayā hi|\nDarśitaṃ bhagavadrūpaṃ sarvasiddhipradāyakam|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "bhag_sk04",
+      "title": "Skandha 4 - The Creation of the Fourth Order",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhagavatam/vishnu.jpg",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "Dhruva uvaacha - yo'ntah pravisya mama vaacham imaam prasuptaam,\nSanjivayatyakhilashaktidharah svadhaamanaa.",
+          "meaning": "Dhruva said: O Lord who has entered within me and awakened my dormant speech by the power of Your divine energy.",
+          "transliteration": "Dhruva uvāca - yo'ntaḥ praviśya mama vācamimāṃ prasuptāṃ\nSañjīvayatyakhilaśaktidharaḥ svadhāmnā|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Na kuNThayanti nirdosham, janam ahaitukee dayaa.\nSo'ham sarva-suhrit Saakshaad, Bhagavaan Narayano harih.",
+          "meaning": "The causeless mercy of the Lord does not diminish for the faultless. That Supreme Lord, the true friend of all, is Bhagavan Narayana, Hari Himself.",
+          "transliteration": "Na kuṇṭhayanti nirdoṣaṃ janamahaitukī dayā|\nSo'haṃ sarvasuhṛtsākṣād bhagavānnārāyaṇo hariḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Priithuruvaaca - dharma-aartha-kaama-moksha aakhyam, yo bhavaat katamat prabho.\nAaraadhanam bhagavatah, sarveshaam api sammitam.",
+          "meaning": "King Prithu said: O Lord, worship of the Supreme Lord is approved by all as the means to attain dharma, artha, kama, and moksha.",
+          "transliteration": "Pṛthuruvāca - dharmārthakāmamokṣākhyaṃ yo bhavātkatamatprabho|\nĀrādhanaṃ bhagavataḥ sarveṣāmapi sammatam|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Tad aham te'bhidhaasyaami, mahaapaaurusham eeritam.\nAsya shraddha-dhanaanasya, abodhyam shruyataam mama.",
+          "meaning": "I shall now explain to you the great narrative of the Supreme Person. O faithful one, please hear this most instructive teaching from me.",
+          "transliteration": "Tasyaiva hetoḥ prayateta kovido na labhyate yadbhramatāmuparyadhaḥ|\nTallabhyate duḥkhavadanyataḥ sukhaṃ kālena sarvatra gabhīraraṃhasā|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Tasyaiva hetoh prayateta kovido, na labhyate yad bhramataam upary adhah.\nTal labhyate duhkhavad anyatah sukham, kaaleena sarvatra gabhiira-ramhasaa.",
+          "meaning": "An intelligent person should strive only for that which cannot be obtained by wandering through the higher and lower worlds, for happiness and distress come of their own accord through the force of time.",
+          "transliteration": "Tadahaṃ te'bhidhāsyāmi mahāpauruṣamīritam|\nAsya śraddhādhanānasya abodhyaṃ śrūyatāṃ mama|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Naraayanaaya pareshaaya, praakritaat purushottamaaya.\nNamaami Devam harim cha, jagataam jeevanam prabhum.",
+          "meaning": "I offer my obeisance to Lord Narayana, the Supreme Person beyond material nature, to Lord Hari who is the life of all the worlds and the ultimate master.",
+          "transliteration": "Nārāyaṇāya pareśāya prākṛtātpuruṣottamāya|\nNamāmi devaṃ hariṃ ca jagatāṃ jīvanaṃ prabhum|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "bhag_sk05",
+      "title": "Skandha 5 - The Creative Impetus",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhagavatam/vishnu.jpg",
+      "orderIndex": 5,
+      "content": [
+        {
+          "shloka": "Rishabha uvaacha - naaayam deho deha-bhaajaam nri-loke,\nKashtaan kaamaan arhate vid-bhujaam ye.",
+          "meaning": "Lord Rishabha said: This human body in this world is not meant for gratifying the senses like animals. It is meant for austerity that leads to the purification of existence.",
+          "transliteration": "Ṛṣabha uvāca - nāyaṃ deho dehabhājāṃ nṛloke\nKaṣṭānkāmānarhate viḍbhujāṃ ye|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Tapo divyam putrakaa yena sattvam, shuddhyed yasmaat brahma-saukhyam tv anantam.\nMahat-sevaam dvaaramaahurvimuktes, tamo-dvaaram yoshitaam sangi-sangam.",
+          "meaning": "O my sons, perform divine austerities by which the heart is purified. From that purification comes infinite spiritual bliss. Service to the great souls is the doorway to liberation, while association with the worldly-minded is the gateway to darkness.",
+          "transliteration": "Tapo divyaṃ putrakā yena sattvaṃ śuddhyedyasmādbrahmasaukhyaṃ tvanantam|\nMahatsevāṃ dvāramāhurvimuktestamodvāraṃ yoṣitāṃ saṅgisaṅgam|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Paramahamsa-samhitaam bhaagavateem, aatmano gatimadhyaasya krita-krit-tyavaan.",
+          "meaning": "Having fully embraced the Bhagavata way as the supreme destination of the soul, one becomes truly fulfilled in all duties.",
+          "transliteration": "Paramahaṃsasaṃhitāṃ bhāgavatīm ātmano gatimadhyāsya kṛtakṛtyavān|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Bharata uvaacha - samunnaddhah shuddhaam asya vastooshtam,\nPrabhur isha sarvatra paripoornah sadaa harih.",
+          "meaning": "Bharata said: The Lord Hari, the master and controller, always remains completely pure and full everywhere in His essential nature.",
+          "transliteration": "Bharata uvāca - samunnaddhaḥ śuddhāmasya vastūṣṭam|\nPrabhurīśa sarvatra paripūrṇaḥ sadā hariḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Rahoogana uvaacha - aho nri-janma-aakhila-janma-shobhanam, kim janmabhih tvapara-janma-shumbhibhih.\nNa yad-dhridaa-paadhitayaa mukundasya, padaaravinde ratir aatmanaam bhavet.",
+          "meaning": "King Rahugana said: Oh, how glorious is human birth among all births! What use are other births if one does not develop attachment to the lotus feet of Mukunda through hearing His glories?",
+          "transliteration": "Rahūgaṇa uvāca - aho nṛjanmākhilajanmaśobhanaṃ kiṃ janmabhistvaparajanmaśumbhibhiḥ|\nNa yaddhṛdāpādhitayā mukundasya padāravinde ratirātmanāṃ bhavet|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Prabhu Vishnor bhoomi-maataa prajaanaam, rakshaam karoti saatatam dayaaluh.\nBhaaraavataara-praNayee sureshvaro, jaget prakaasham paripaalayat sadaa.",
+          "meaning": "Lord Vishnu, compassionate protector and mother of all beings, constantly guards all creatures. The lord of the gods, who descends to relieve the earth's burden, forever illuminates and sustains the world.",
+          "transliteration": "Prabhu viṣṇorbhūmimātā prajānāṃ rakṣāṃ karoti satataṃ dayāluḥ|\nBhārāvatārapraṇayī sureśvaro jagatprakāśaṃ paripālayatsadā|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "bhag_sk06",
+      "title": "Skandha 6 - Prescribed Duties",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhagavatam/vishnu.jpg",
+      "orderIndex": 6,
+      "content": [
+        {
+          "shloka": "Ajaamilah ucchaarito Naaraayana-naama tasmaat,\nMukto mrityu-mukhaat turaagam abhoot sataam.",
+          "meaning": "Ajamila was delivered from the mouth of death simply by uttering the name of Narayana. Thus the power of the Lord's holy name instantly purifies even the gravest sinner.",
+          "transliteration": "Ajāmilaḥ uccārito nārāyaṇanāma tasmāt|\nMukto mṛtyumukhātturāgamabhūtsatām|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Etaavaan eva loke'smin, pumsaam dharmah parah smritah.\nBhakti-yogo Bhagavati, tan-naama-grahannaadibhih.",
+          "meaning": "In this world, the supreme dharma for all human beings is devotional service to the Supreme Lord, beginning with chanting His holy names.",
+          "transliteration": "Etāvāneva loke'sminpuṃsāṃ dharmaḥ paraḥ smṛtaḥ|\nBhaktiyogo bhagavati tannāmagrahaṇādibhiḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Naama-sankirtanam Vishnoh, sarva-paapa-praanashanam.\nPranaamah sarva-kashtebhyah, traanam sevaa manish phalam.",
+          "meaning": "The chanting of the holy name of Lord Vishnu destroys all sins. Obeisance to Him is the refuge from all difficulties, and His service is the fruit of wisdom.",
+          "transliteration": "Nāmasaṃkīrtanaṃ viṣṇoḥ sarvapāpapraṇāśanam|\nPraṇāmaḥ sarvakaṣṭebhyaḥ trāṇaṃ sevā manīṣa phalam|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Pumsaam ato vividha-karmabhiranvitaanaam, yadvai na ched vishaya-shanga vivarjitaanaam.\nSa vai pumso bhavati saumya yadeva shuddham.",
+          "meaning": "For people engaged in various activities, if they are free from attachment to sense objects, their consciousness becomes purified and auspicious.",
+          "transliteration": "Puṃsāmato vividhakarmabhiranvitānā yadvai na cedviṣayaśaṅga vivarjitānām|\nSa vai puṃso bhavati saumya yadeva śuddham|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Devaanaam priya-bandhaanaam, daityaa vaishnaava-maaninah.\nVishnu-bhaktaah sma vidhura, sevyaa haaridra sambhavaah.",
+          "meaning": "The devotees of Lord Vishnu are the dear friends of the gods. Even among the demons, those who honor the Vaishnava tradition and serve the Lord with devotion are worthy of respect.",
+          "transliteration": "Devānāṃ priyabandhānāṃ daityā vaiṣṇavamāninaḥ|\nViṣṇubhaktāḥ sma vidhurā sevyā hāridra sambhavāḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Vritra uvaacha - aham hare tava paadaika-moola-daasaanudaaso bhavitaasmi bhooyah.\nManah smaretaasu-pater guNaamste, grinita vaak karma karotu kaayah.",
+          "meaning": "Vritrasura said: O Lord Hari, I wish to become the servant of the servant of Your lotus feet. May my mind always remember Your qualities, my voice sing Your glories, and my body serve You.",
+          "transliteration": "Vṛtra uvāca - ahaṃ hare tava pādaikamūladāsānudāso bhavitāsmi bhūyaḥ|\nManaḥ smaretāsupaterguṇāṃste gṛṇīta vākkarma karotu kāyaḥ|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "bhag_sk07",
+      "title": "Skandha 7 - The Science of God",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhagavatam/vishnu.jpg",
+      "orderIndex": 7,
+      "content": [
+        {
+          "shloka": "Prahlaada uvaacha - shravanam kirtanam Vishnoh, smaranam paadasevanam.\nArchanam vandanam daasyam, sakhyam aatma-nivedanam.",
+          "meaning": "Prahlada said: Hearing about Lord Vishnu, chanting His glories, remembering Him, serving His lotus feet, worshipping, offering prayers, becoming His servant, becoming His friend, and surrendering oneself completely -- these are the nine forms of devotion.",
+          "transliteration": "Prahlāda uvāca - śravaṇaṃ kīrtanaṃ viṣṇoḥ smaraṇaṃ pādasevanam|\nArcanaṃ vandanaṃ dāsyaṃ sakhyamātmanivedanam|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Iti pumsaarpitaa Vishnau, bhaktishchen nava-lakshaNaa.\nKriyetaa Bhagavatyaddaa, tan manye'dhitam uttamam.",
+          "meaning": "One who engages in these nine forms of devotional service to the Supreme Lord Vishnu, I consider to have learned the greatest lesson of life.",
+          "transliteration": "Iti puṃsārpitā viṣṇau bhaktiścennavalakṣaṇā|\nKriyeta bhagavatyaddhā tanmanye'dhītamuttamam|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Guru-shushrooshaayaa bhaktyaa, sarva-labdhaarpanam gurou.\nSadho sangena saadhoonaam, eeshvaraanugraheNa vaa.",
+          "meaning": "Through devotion to the service of the Guru, by offering all one's gains to the Guru, through the association of saintly persons, and by the grace of the Lord.",
+          "transliteration": "Guruśuśrūṣayā bhaktyā sarvalabdhārpaṇaṃ gurau|\nSādhusaṅgena sādhūnāmīśvarānugraheṇa vā|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Narasimha uvaacha - om namo bhagavate narasimhaaya.\nNamaste vajra-nakhaa saakshaad, daiva-simhaaya te namah.",
+          "meaning": "Lord Narasimha said: Om, obeisance to Lord Narasimha. Salutations to You whose nails are like thunderbolts, salutations to You, the divine lion of the gods.",
+          "transliteration": "Narasiṃha uvāca - oṃ namo bhagavate narasiṃhāya|\nNamaste vajranakhā sākṣāddaivasiṃhāya te namaḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Trineekritya jagat sarvam, raajaante sthaapitam yashaH.\nPrahlaadaH satatam Vishnum, smaran muktimavaapa ha.",
+          "meaning": "Conquering all worldly attachments, Prahlada established eternal glory. By constantly remembering Lord Vishnu, he attained liberation.",
+          "transliteration": "Tṛṇīkṛtya jagatsarvaṃ rājante sthāpitaṃ yaśaḥ|\nPrahlādaḥ satataṃ viṣṇuṃ smaranmuktimavāpa ha|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Naarada uvaacha - yo Naraayano devam, nityam smaaritum eeshvaraH.\nBhaktyaa sarva-guNopeto, moksham praapnoti shaashvatam.",
+          "meaning": "Narada said: One who always remembers Lord Narayana with devotion, endowed with all virtues, attains eternal liberation.",
+          "transliteration": "Nārada uvāca - yo nārāyaṇo devaṃ nityaṃ smāritumīśvaraḥ|\nBhaktyā sarvaguṇopeto mokṣaṃ prāpnoti śāśvatam|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "bhag_sk08",
+      "title": "Skandha 8 - Withdrawal of the Cosmic Creations",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhagavatam/vishnu.jpg",
+      "orderIndex": 8,
+      "content": [
+        {
+          "shloka": "Gajendra uvaacha - om namo Bhagavate tasmai, yata etach-chidaatmakam.\nPurushaayaneshaayaa, trigunaaya namo namah.",
+          "meaning": "Gajendra prayed: Om, I offer my obeisances to that Supreme Lord, from whom this conscious universe has emanated, who is the shelter of all, and who manifests in three modes. Again and again I bow to Him.",
+          "transliteration": "Gajendra uvāca - oṃ namo bhagavate tasmai yata etaccidātmakam|\nPuruṣāyaneśāya triguṇāya namo namaḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Shree Bhagavaan uvaacha - yoham evaagre'bhavam aatmaa, sarva-bhutaanaam eeshvarah.\nAhamevaasam evaagre, naanyat kimcha antaram bahih.",
+          "meaning": "The Supreme Lord said: I alone existed before creation as the Self of all beings and the supreme controller. I alone was there -- nothing else existed, neither within nor without.",
+          "transliteration": "Śrī bhagavānuvāca - yo'hamevāgre'bhavamātmā sarvabhūtānāmīśvaraḥ|\nAhamevāsamevāgre nānyatkiñcāntaraṃ bahiḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ksheerodashaayee Bhagavaan, vaaman-aavataarah prabhuh.\nTrayo lokaah pade yesha, vishnur vishvam-bhaavayan.",
+          "meaning": "The Lord who reclines on the ocean of milk incarnated as Vamana. In three steps He measured the three worlds, Lord Vishnu sustaining the entire universe.",
+          "transliteration": "Kṣīrodaśāyī bhagavānvāmanāvatāraḥ prabhuḥ|\nTrayo lokāḥ pade yeśa viṣṇurviśvaṃ bhāvayan|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Balir uvaacha - kim dattamaparam taavat, sarvasva-arpaNam mama.\nTripadee-bhoomimaatram tu, yad yaachitam iheeshvara.",
+          "meaning": "Bali said: What greater gift can I offer than everything I have? You asked for just three steps of land, O Lord, yet I offer my entire being.",
+          "transliteration": "Baliruvāca - kiṃ dattamaparaṃ tāvatsarvasvārpaṇaṃ mama|\nTripadībhūmimātraṃ tu yadyācitamiheśvara|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Manthaana-mandaram krit-vaa, netram krit-vaa cha Vaasukeem.\nDevaa-asuraaih samaamilya, amritam manthitam tayaa.",
+          "meaning": "Using Mount Mandara as the churning rod and Vasuki as the rope, the gods and demons churned together and obtained the nectar of immortality.",
+          "transliteration": "Manthānamandaraṃ kṛtvā netraṃ kṛtvā ca vāsukīm|\nDevāsuraiḥ samāmilya amṛtaṃ manthitaṃ tayā|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Mohinee-roopam aadaaya, Bhagavaan harimaayayaa.\nDevebhyo'mritam adatta, daityaanaam mohayam cha taan.",
+          "meaning": "Assuming the enchanting form of Mohini, the Lord by His divine illusion distributed the nectar to the gods while bewildering the demons.",
+          "transliteration": "Mohinīrūpamādāya bhagavānharimāyayāḥ|\nDevebhyo'mṛtamadatta daityānāṃ mohayaṃśca tān|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "bhag_sk09",
+      "title": "Skandha 9 - Liberation",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhagavatam/vishnu.jpg",
+      "orderIndex": 9,
+      "content": [
+        {
+          "shloka": "Shree Shuka uvaacha - soorya-vamshe samudbhooto, raamaavaataarah prabhuh.\nMaryaadaa purushottamah, seetaayaah patir eeshvarah.",
+          "meaning": "Shri Shuka said: Born in the Solar dynasty, Lord Rama incarnated as the Supreme Person, the upholder of righteousness, the husband of Sita, and the Lord of all.",
+          "transliteration": "Śrī śuka uvāca - sūryavaṃśe samudbhūto rāmāvatāraḥ prabhuḥ|\nMaryādā puruṣottamaḥ sītāyāḥ patirīśvaraḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Raamo vigrahavaan dharmah, saadhuunaam abhayapradah.\nRodasyorantaram vyaapta, aaditya iva tejasaa.",
+          "meaning": "Rama is dharma incarnate, the giver of fearlessness to the righteous. He pervades the space between heaven and earth, radiant like the sun.",
+          "transliteration": "Rāmo vigrahavāndharmaḥ sādhūnāmabhayapradaḥ|\nRodasyorantaraṃ vyāpta āditya iva tejasā|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ambareesha-mahaaraajah, Vishnu-bhakto paraatparah.\nSarvadaa Hari-charanau, sevate nishchala-dhiyaa.",
+          "meaning": "The great King Ambarisha, the supreme devotee of Lord Vishnu, always served the lotus feet of Lord Hari with unwavering mind.",
+          "transliteration": "Ambarīṣamahārājaḥ viṣṇubhakto parātparaḥ|\nSarvadā haricaraṇau sevate niścaladhiyā|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sa vai manah Krishna-padaaravindayor, vacaamsi vaikuNTha-guNaanuvarNane.\nKarau Harer mandira-maaarjanaadishu, shrutim chakaraachyuta-sat-kathodaye.",
+          "meaning": "He engaged his mind on the lotus feet of Krishna, his words in describing the qualities of Vaikuntha, his hands in cleansing the temple of Hari, and his ears in hearing the sacred stories of the infallible Lord.",
+          "transliteration": "Sa vai manaḥ kṛṣṇapadāravindayorvacāṃsi vaikuṇṭhaguṇānuvarṇane|\nKarau harermandiramārjanādiṣu śrutiṃ cakārācyutasatkathodaye|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ikshvaaku-vamshe bahavo, maharaajaa babhuvire.\nVishnoh paadaanucharam, dharmam rakshanti ye sadaa.",
+          "meaning": "In the Ikshvaku dynasty, many great kings arose who always followed the path of Lord Vishnu and protected dharma.",
+          "transliteration": "Ikṣvākuvaṃśe bahavo mahārājā babhūvire|\nViṣṇoḥ pādānucaraṃ dharmaṃ rakṣanti ye sadā|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Shree Ramachandra Bhagavaan, avateerNo nri-loke.\nDharmam sthaapaayan lokaanaam, rakshaarthee sadaa vibhuh.",
+          "meaning": "Lord Ramachandra, the Supreme Lord, descended into the human world. He established dharma and eternally protects all beings.",
+          "transliteration": "Śrī rāmacandra bhagavānavatīrṇo nṛloke|\nDharmaṃ sthāpayanlokānāṃ rakṣārthī sadā vibhuḥ|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "bhag_sk10",
+      "title": "Skandha 10 - The Summum Bonum",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhagavatam/krishna.jpg",
+      "orderIndex": 10,
+      "content": [
+        {
+          "shloka": "Krishnam vande Jagadgurum, Devakee-nandanam prabhum.\nVasudevasutam devam, Kamsa-chaaNuura-mardanam.",
+          "meaning": "I worship Krishna, the Guru of the universe, the son of Devaki, Lord Vasudeva's son, the slayer of Kamsa and Chanura.",
+          "transliteration": "Kṛṣṇaṃ vande jagadguruṃ devakīnandanaṃ prabhum|\nVasudevasutaṃ devaṃ kaṃsacāṇūramardanam|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Jayati jayati devo Devakee-nandano'sau, jayati jayati Krishno Vrishni-vamsha-pradeepaH.\nJayati jayati megha-shyaamalah komalaa'ngo, jayati jayati prithvee-bhaara-naasho mukundah.",
+          "meaning": "Glory to the son of Devaki! Glory to Krishna, the light of the Vrishni dynasty! Glory to Him whose dark-cloud complexion adorns a tender form! Glory to Mukunda, who relieves the burden of the earth!",
+          "transliteration": "Jayati jayati devo devakīnandano'sau jayati jayati kṛṣṇo vṛṣṇivaṃśapradīpaḥ|\nJayati jayati meghaśyāmalaḥ komalāṅgo jayati jayati pṛthvībhāranāśo mukundaḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Aadau devakidevi-garbha-jananam, Gopee-griheshu prabho.\nBaala-leela ramaneeya natana, Govardhanoddharanam.",
+          "meaning": "First the birth from Devaki's womb, then His presence in the homes of the Gopis, the beautiful childhood pastimes of dance and play, and the lifting of Govardhana Hill.",
+          "transliteration": "Ādau devakīdevigarbhajananaṃ gopīgṛheṣu prabho|\nBālalīlā ramaṇīya naṭanaṃ govardhanoddhāraṇam|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Gopee uvaacha - jayati te'dhikam janmanaa vrajah, shrayata indiraa shashvadatra hi.\nDayita drishyataam dikshutaavritas, tvayi dhritaasavastvaam vicinvate.",
+          "meaning": "The Gopis said: O beloved, the land of Vraja is glorified by Your birth. Goddess Lakshmi always resides here. O dear one, we who hold You as our very life are searching for You everywhere.",
+          "transliteration": "Gopī uvāca - jayati te'dhikaṃ janmanā vrajaḥ śrayata indirā śaśvadatra hi|\nDayita dṛśyatāṃ dikṣu tāvṛtāstvayi dhṛtāsavastvāṃ vicinvate|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Tat te'nukampaam sushameekshamaano, bhunjaana evaatma-kritam vipaakam.\nHrid-vaag-vapurbhir vidadhan namaste, jeevetaa yo mukti-pade sa daaya-bhaak.",
+          "meaning": "One who sincerely awaits Your compassion while patiently enduring the results of past deeds, offering obeisances with heart, words, and body, is certainly a rightful heir to liberation.",
+          "transliteration": "Tatte'nukampāṃ susamīkṣamāṇo bhuñjāna evātmakṛtaṃ vipākam|\nHṛdvāgvapurbhirvidadhannamaste jīveta yo muktipade sa dāyabhāk|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sarva-dharmaan parityajya, maam-ekam sharanam vraja.\nKrishnaaya vasudevaaya, haraye paramaatmane.\nPraNata-klesha-naashaaya, govindaaya namo namah.",
+          "meaning": "Abandon all dharmas and take refuge in Me alone. Obeisances to Krishna, the son of Vasudeva, to Hari the Supreme Self, to Govinda who destroys the afflictions of those who bow before Him.",
+          "transliteration": "Sarvadharmānparityajya māmekaṃ śaraṇaṃ vraja|\nKṛṣṇāya vāsudevāya haraye paramātmane|\nPraṇatakleśanāśāya govindāya namo namaḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Shree Krishna Govinda Hare Muraare, he Naatha Naaraayana Vaasudeva.\nJihve pibasvaamritam-etad eva, Govinda Daamodara Maadhaveti.",
+          "meaning": "O Krishna, Govinda, Hari, Murari! O Lord, Narayana, Vasudeva! O tongue, drink this nectar alone: Govinda, Damodara, Madhava!",
+          "transliteration": "Śrīkṛṣṇa govinda hare murāre he nātha nārāyaṇa vāsudeva|\nJihve pibasvāmṛtametadeva govinda dāmodara mādhaveti|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "bhag_sk11",
+      "title": "Skandha 11 - General History",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhagavatam/krishna.jpg",
+      "orderIndex": 11,
+      "content": [
+        {
+          "shloka": "Shree Bhagavaan uvaacha - na rodhayati maam yogo, na saankhyam dharma eva cha.\nNa svaadhyaayas-tapas-tyaago, yathaa bhaktihi mamorjitaa.",
+          "meaning": "The Lord said: Neither Yoga, nor Sankhya, nor dharma, nor study, nor austerity, nor renunciation captures Me as does intense devotional service unto Me.",
+          "transliteration": "Śrī bhagavānuvāca - na rodhayati māṃ yogo na sāṅkhyaṃ dharma eva ca|\nNa svādhyāyastapastyāgo yathā bhaktirmamorjitā|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Bhaktyaaham ekayaa graahyah, shraddhayaa'tma priyah sataam.\nBhaktih punaati man-nishtaa, shva-paakaan api sambhavaat.",
+          "meaning": "I am attainable only through devotion and faith. I am dear to the saintly souls. Devotion fixed upon Me purifies even the lowest-born from their very birth.",
+          "transliteration": "Bhaktyāhamekayā grāhyaḥ śraddhayā'tma priyaḥ satām|\nBhaktiḥ punāti manniṣṭhā śvapākānapi sambhavāt|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Uddhava uvaacha - Krishnasya kripa-maatreNa, kevalam sharanaagatih.\nSarva-siddhi-kareem divyaam, praapayet paramaam gatim.",
+          "meaning": "Uddhava said: By the mere grace of Krishna, through complete surrender alone, one attains the divine perfection that leads to the supreme destination.",
+          "transliteration": "Uddhava uvāca - kṛṣṇasya kṛpāmātreṇa kevalaṃ śaraṇāgatiḥ|\nSarvasiddhikarīṃ divyāṃ prāpayetparamāṃ gatim|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Avadhoot uvaacha - chaturvimshati-guruunaam, shikshaam grihNan vicharatah.\nPrithivyaam ahamekaatmaa, dheeramanaagatah svayam.",
+          "meaning": "The Avadhuta said: I have learned from twenty-four teachers as I wandered the earth. I am one soul, patient and self-sufficient.",
+          "transliteration": "Avadhūta uvāca - caturviṃśatigurūṇāṃ śikṣāṃ gṛhṇanvicarataḥ|\nPṛthivyāmahamekātmā dhīramānāgataḥ svayam|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Madbhaktah pujya-abhidheyo, daridro'pi hi bhaktimaan.\nSarva-devaadhi-devo'sau, bhagavaan Vaasudevo'dhikah.",
+          "meaning": "My devotee is to be honored and respected, even if poor, for the devoted soul is supreme. Lord Vasudeva is the God of all gods, the greatest of all.",
+          "transliteration": "Madbhaktaḥ pūjyābhidheyo daridro'pi hi bhaktimān|\nSarvadevādhidevo'sau bhagavānvāsudevo'dhikaḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Tyaktvaa suhrid-bhaavaanaam, chittamaaveshya Madhave.\nSarva-karmaaNi Krishnaaya, arpayitvaayamishvarah.",
+          "meaning": "Withdrawing the mind from worldly attachments and fixing it on Madhava, offering all actions to Krishna -- this is the way of the Lord.",
+          "transliteration": "Tyaktvā suhṛdbhāvānāṃ cittamāveśya mādhave|\nSarvakarmāṇi kṛṣṇāya arpayitvāyamīśvaraḥ|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "bhag_sk12",
+      "title": "Skandha 12 - The Age of Deterioration",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhagavatam/vishnu.jpg",
+      "orderIndex": 12,
+      "content": [
+        {
+          "shloka": "Shree Shuka uvaacha - kaler dosha-nidhe raajan, asti hyeko mahaan guNah.\nKirtanaadev Krishnasya, mukta-sangah param vrajet.",
+          "meaning": "Shri Shuka said: O King, the age of Kali is an ocean of faults, yet it has one great quality: simply by chanting the names of Krishna, one can become free from all bondage and attain the supreme destination.",
+          "transliteration": "Śrī śuka uvāca - kalerdoṣanidhe rājannasti hyeko mahānguṇaḥ|\nKīrtanādeva kṛṣṇasya muktasaṅgaḥ paraṃ vrajet|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kritey yad-dhyaayato Vishnum, tretaayaam yajato makhaih.\nDvaaparey paricharyaayaam, kalau tad-dhari kirtanaat.",
+          "meaning": "What was achieved in Satya Yuga by meditation on Vishnu, in Treta Yuga by performing grand sacrifices, and in Dvapara Yuga by temple worship, is achieved in Kali Yuga simply by chanting the names of Lord Hari.",
+          "transliteration": "Kṛte yaddhyāyato viṣṇuṃ tretāyāṃ yajato makhaiḥ|\nDvāpare paricaryāyāṃ kalau taddharikīrtanāt|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Naama-sankirtanam yasya, sarva-paapa-pranaashanam.\nPraNaamo duhkha-shamanas, tam namaami Harim param.",
+          "meaning": "I bow to the Supreme Lord Hari, whose holy name-chanting destroys all sins, and whose obeisance removes all suffering.",
+          "transliteration": "Nāmasaṃkīrtanaṃ yasya sarvapāpapraṇāśanam|\nPraṇāmo duḥkhaśamanastaṃ namāmi hariṃ param|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sootha uvaacha - ittham sma prishtah sa tu badaraayaNih,\nShrutvaa sva-dhaamaanam athaapy achintayat.\nBhaagavata-mukhyam rasam aalayam nityam,\nPibanti ye bhaavikaah sarva-muktidaah.",
+          "meaning": "Suta said: Thus questioned, the son of Vyasa contemplated his own divine abode. Those devotees who constantly drink the nectar of the Bhagavatam attain liberation.",
+          "transliteration": "Sūta uvāca - itthaṃ sma pṛṣṭaḥ sa tu bādarāyaṇiḥ\nŚrutvā svadhāmānamathāpyacintayat|\nBhāgavatamukhyaṃ rasamālayaṃ nityaṃ\nPibanti ye bhāvikāḥ sarvamuktidāḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sarva-vedaanta-saaram hi, Shree Bhaagavatamishyate.\nTadrasaamritaatripta-syaat, anyatra syaat ratih kvachit.",
+          "meaning": "The Shrimad Bhagavatam is considered the essence of all Vedanta. One who is satisfied by tasting its nectar will never find attraction elsewhere.",
+          "transliteration": "Sarvavedāntasāraṃ hi śrībhāgavatamiṣyate|\nTadrasāmṛtātṛptasyātanyatra syātratiḥ kvacit|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Shreemat Bhaagavatam puraanam amalam, yad Vaishnavaanaam priyam.\nYasmin paaramaahamsyam ekam amalam, dnyaanam param geeyate.",
+          "meaning": "The Shrimad Bhagavatam is the spotless Purana, most dear to the Vaishnavas. In it, the supreme and pure knowledge of the Paramahamsas is sung.",
+          "transliteration": "Śrīmadbhāgavataṃ purāṇamamalaṃ yadvaiṣṇavānāṃ priyam|\nYasminpāramahaṃsyamekamamalaṃ jñānaṃ paraṃ gīyate|",
+          "imageUrl": null
+        }
+      ]
+    }
+  ]
+}

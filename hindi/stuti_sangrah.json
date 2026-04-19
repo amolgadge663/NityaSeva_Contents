@@ -1,0 +1,474 @@
+{
+  "category": "Stuti Sangrah",
+  "version": 1,
+  "items": [
+    {
+      "id": "stuti_ganesh",
+      "title": "गणेश स्तुति",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/stuti/ganesh.jpg",
+      "orderIndex": 1,
+      "content": [
+        {
+          "shloka": "वक्रतुण्ड महाकाय सूर्यकोटि समप्रभ ।\nनिर्विघ्नं कुरु मे देव सर्वकार्येषु सर्वदा ॥",
+          "meaning": "हे टेढ़ी सूंड वाले, विशाल शरीर वाले, करोड़ों सूर्यों के समान तेजस्वी! हे देव, मेरे सभी कार्यों में सदा विघ्न दूर कीजिए।",
+          "transliteration": "Vakratuṇḍa mahākāya sūryakoṭi samaprabha |\nNirvighnaṃ kuru me deva sarvakāryeṣu sarvadā ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अगजानन पद्मार्कं गजाननं अहर्निशम् ।\nअनेकदन्तं भक्तानां एकदन्तं उपास्महे ॥",
+          "meaning": "हम उन एकदन्त की उपासना करते हैं जो पार्वती पुत्र हैं, कमल के समान मुख वाले हैं, गज के मुख वाले हैं, और अनेक भक्तों द्वारा दिन-रात पूजे जाते हैं।",
+          "transliteration": "Agajānana padmārkaṃ gajānanaṃ aharniśam |\nAnekadantaṃ bhaktānāṃ ekadantaṃ upāsmahe ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "गजाननं भूतगणादिसेवितं\nकपित्थ जम्बूफलसार भक्षितम् ।\nउमासुतं शोकविनाशकारणं\nनमामि विघ्नेश्वर पादपङ्कजम् ॥",
+          "meaning": "भूतगणों द्वारा सेवित, कपित्थ और जामुन फल का सार खाने वाले, उमा के पुत्र, शोक के विनाशकर्ता, ऐसे विघ्नेश्वर के चरण कमलों को मैं नमस्कार करता हूँ।",
+          "transliteration": "Gajānanaṃ bhūtagaṇādisevitaṃ\nKapittha jambūphalasāra bhakṣitam |\nUmāsutaṃ śokavināśakāraṇaṃ\nNamāmi vighneśvara pādapaṅkajam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "प्रणम्य शिरसा देवं गौरीपुत्रं विनायकम् ।\nभक्तावासं स्मरे नित्यं आयुः कामार्थसिद्धये ॥",
+          "meaning": "गौरी पुत्र विनायक देव को शिर झुकाकर प्रणाम करके, भक्तों के हृदय में वास करने वाले उन्हें मैं प्रतिदिन स्मरण करता हूँ, आयु, कामना और अर्थ की सिद्धि के लिए।",
+          "transliteration": "Praṇamya śirasā devaṃ gaurīputraṃ vināyakam |\nBhaktāvāsaṃ smare nityaṃ āyuḥ kāmārthasiddhaye ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "एकदन्तं महाकायं तप्तकाञ्चन सन्निभम् ।\nलम्बोदरं विशालाक्षं वन्देहं गणपतिं सदा ॥",
+          "meaning": "एक दाँत वाले, विशाल शरीर वाले, तपे हुए सोने के समान चमकने वाले, लंबे उदर वाले, विशाल नेत्रों वाले गणपति को मैं सदा वंदन करता हूँ।",
+          "transliteration": "Ekadantaṃ mahākāyaṃ taptakāñcana sannibham |\nLambodaraṃ viśālākṣaṃ vandehaṃ gaṇapatiṃ sadā ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "stuti_shiva",
+      "title": "शिव स्तुति",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/stuti/shiv.jpg",
+      "orderIndex": 2,
+      "content": [
+        {
+          "shloka": "प्रभुं प्राणनाथं विभुं विश्वनाथं\nजगन्नाथ नाथं सदानन्द भाजम् ।\nभवद्भव्य भूतेश्वरं भूतनाथं\nशिवं शङ्करं शम्भु मीशानमीडे ॥",
+          "meaning": "मैं प्रभु प्राणनाथ, सर्वव्यापी विश्वनाथ, जगन्नाथ के भी नाथ, सदा आनन्द में रहने वाले, भूत-भविष्य के ईश्वर, भूतनाथ, शिव, शंकर, शम्भु, ईशान की स्तुति करता हूँ।",
+          "transliteration": "Prabhuṃ prāṇanāthaṃ vibhuṃ viśvanāthaṃ\nJagannātha nāthaṃ sadānanda bhājam |\nBhavadbhavya bhūteśvaraṃ bhūtanāthaṃ\nŚivaṃ śaṅkaraṃ śambhu mīśānamīḍe ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "वन्दे देव उमापतिं सुरगुरुं वन्दे जगत्कारणं\nवन्दे पन्नग भूषणं मृगधरं वन्दे पशूनां पतिम् ।\nवन्दे सूर्य शशाङ्क वह्नि नयनं वन्दे मुकुन्दप्रियं\nवन्दे भक्त जनाश्रयं च वरदं वन्दे शिवं शङ्करम् ॥",
+          "meaning": "मैं उमापति देव को, देवगुरु को, जगत के कारण को वन्दन करता हूँ। सर्पों से भूषित, मृग धारण करने वाले, पशुपति को वन्दन करता हूँ। सूर्य, चन्द्र, अग्नि नेत्र वाले, मुकुन्दप्रिय को वन्दन करता हूँ। भक्तों के आश्रय, वरदाता शिव शंकर को वन्दन करता हूँ।",
+          "transliteration": "Vande deva umāpatiṃ suraguruṃ vande jagatkāraṇaṃ\nVande pannaga bhūṣaṇaṃ mṛgadharaṃ vande paśūnāṃ patim |\nVande sūrya śaśāṅka vahni nayanaṃ vande mukundapriyaṃ\nVande bhakta janāśrayaṃ ca varadaṃ vande śivaṃ śaṅkaram ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "नमो भूतनाथं नमो देवदेवं\nनमो काल कालं नमो दिव्यतेजाः ।\nनमो कामकालं नमो शूलपाणिं\nनमस्ते नमस्ते नमस्ते नमस्ते ॥",
+          "meaning": "भूतनाथ को नमस्कार, देवों के देव को नमस्कार। काल के भी काल को नमस्कार, दिव्य तेज वाले को नमस्कार। काम और काल से परे को नमस्कार, त्रिशूलधारी को नमस्कार। बारम्बार नमस्कार, नमस्कार, नमस्कार।",
+          "transliteration": "Namo bhūtanāthaṃ namo devadevaṃ\nNamo kāla kālaṃ namo divyatejāḥ |\nNamo kāmakālaṃ namo śūlapāṇiṃ\nNamaste namaste namaste namaste ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कर्पूरगौरं करुणावतारं\nसंसारसारं भुजगेन्द्रहारम् ।\nसदा वसन्तं हृदयारविन्दे\nभवं भवानीसहितं नमामि ॥",
+          "meaning": "कपूर के समान गौरवर्ण, करुणा के अवतार, संसार के सार, सर्पराज का हार धारण करने वाले, सदा हृदय कमल में विराजमान, भवानी सहित भव को मैं नमस्कार करता हूँ।",
+          "transliteration": "Karpūragauraṃ karuṇāvatāraṃ\nSaṃsārasāraṃ bhujagendrahāram |\nSadā vasantaṃ hṛdayāravinde\nBhavaṃ bhavānīsahitaṃ namāmi ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "शिवाय गौरी वदनाब्ज वृन्द\nसूर्याय दक्षाध्वर नाशकाय ।\nश्री नीलकण्ठाय वृष ध्वजाय\nतस्मै शि काराय नमो नमः ॥",
+          "meaning": "गौरी के मुखकमल के सूर्य शिव को, दक्ष यज्ञ के विनाशक को, श्री नीलकण्ठ को, वृषभ ध्वज वाले को, उन शंकर को बारम्बार नमस्कार।",
+          "transliteration": "Śivāya gaurī vadanābja vṛnda\nSūryāya dakṣādhvara nāśakāya |\nŚrī nīlakaṇṭhāya vṛṣa dhvajāya\nTasmai śi kārāya namo namaḥ ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "stuti_vishnu",
+      "title": "विष्णु स्तुति",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/stuti/vishnu.jpg",
+      "orderIndex": 3,
+      "content": [
+        {
+          "shloka": "शान्ताकारं भुजगशयनं पद्मनाभं सुरेशं\nविश्वाधारं गगनसदृशं मेघवर्णं शुभाङ्गम् ।\nलक्ष्मीकान्तं कमलनयनं योगिभिर्ध्यानगम्यं\nवन्दे विष्णुं भवभयहरं सर्वलोकैकनाथम् ॥",
+          "meaning": "शान्त स्वरूप वाले, शेषनाग पर शयन करने वाले, नाभि में कमल धारण करने वाले, देवों के ईश्वर, विश्व के आधार, आकाश के समान विशाल, मेघ के समान वर्ण वाले, शुभ अंगों वाले, लक्ष्मी के प्रिय, कमलनयन, योगियों के ध्यान द्वारा प्राप्य, भवभय हरने वाले, सर्वलोकों के एकमात्र स्वामी विष्णु को मैं वन्दन करता हूँ।",
+          "transliteration": "Śāntākāraṃ bhujagaśayanaṃ padmanābhaṃ sureśaṃ\nViśvādhāraṃ gaganasadṛśaṃ meghavarṇaṃ śubhāṅgam |\nLakṣmīkāntaṃ kamalanayanaṃ yogibhirdhyānagamyaṃ\nVande viṣṇuṃ bhavabhayaharaṃ sarvalokaikanātham ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "मेघ श्यामं पीतकौशेय वासं\nश्रीवत्साङ्कं कौस्तुभोद् भासिताङ्गम् ।\nपुण्डरीकायत चारुनेत्रं\nविष्णुं वन्दे सर्वलोकैकनाथम् ॥",
+          "meaning": "मेघ के समान श्याम, पीत रेशमी वस्त्र धारण करने वाले, श्रीवत्स चिह्न वाले, कौस्तुभ मणि से शोभित अंगों वाले, कमल के समान सुन्दर नेत्रों वाले, सर्वलोकों के एकमात्र स्वामी विष्णु को मैं वन्दन करता हूँ।",
+          "transliteration": "Megha śyāmaṃ pītakauśeya vāsaṃ\nŚrīvatsāṅkaṃ kaustubhod bhāsitāṅgam |\nPuṇḍarīkāyata cārunetraṃ\nViṣṇuṃ vande sarvalokaikanātham ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "नमः समस्ताभूतानां आदिभूताय भूभृते ।\nअनेक रूप रूपाय विष्णवे प्रभविष्णवे ॥",
+          "meaning": "समस्त प्राणियों के आदि, पृथ्वी को धारण करने वाले, अनेक रूपों वाले, प्रभावशाली विष्णु को नमस्कार।",
+          "transliteration": "Namaḥ samastābhūtānāṃ ādibhūtāya bhūbhṛte |\nAneka rūpa rūpāya viṣṇave prabhaviṣṇave ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "त्वमेव माता च पिता त्वमेव\nत्वमेव बन्धुश्च सखा त्वमेव ।\nत्वमेव विद्या द्रविणं त्वमेव\nत्वमेव सर्वं मम देव देव ॥",
+          "meaning": "तुम ही माता हो और पिता भी तुम्हीं हो, तुम ही बन्धु हो और मित्र भी तुम्हीं हो, तुम ही विद्या हो और धन भी तुम्हीं हो, तुम ही सब कुछ हो मेरे देवों के देव।",
+          "transliteration": "Tvameva mātā ca pitā tvameva\nTvameva bandhuśca sakhā tvameva |\nTvameva vidyā draviṇaṃ tvameva\nTvameva sarvaṃ mama deva deva ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कायेन वाचा मनसेन्द्रियैर्वा\nबुद्ध्यात्मना वा प्रकृतेः स्वभावात् ।\nकरोमि यद्यत् सकलं परस्मै\nनारायणायेति समर्पयामि ॥",
+          "meaning": "शरीर, वाणी, मन, इन्द्रियों, बुद्धि, आत्मा अथवा स्वभाववश जो कुछ भी मैं करता हूँ, वह सब मैं भगवान नारायण को समर्पित करता हूँ।",
+          "transliteration": "Kāyena vācā manasendriyairvā\nBuddhyātmanā vā prakṛteḥ svabhāvāt |\nKaromi yadyat sakalaṃ parasmai\nNārāyaṇāyeti samarpayāmi ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "stuti_durga",
+      "title": "दुर्गा स्तुति",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/stuti/durga.jpg",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "सर्वमङ्गल माङ्गल्ये शिवे सर्वार्थ साधिके ।\nशरण्ये त्र्यम्बके गौरि नारायणि नमोऽस्तुते ॥",
+          "meaning": "सभी मङ्गलों में मङ्गलस्वरूपा, शिवा, सभी अर्थों को सिद्ध करने वाली, शरणदायिनी, त्रिनेत्रा, गौरी, नारायणी को मेरा नमस्कार।",
+          "transliteration": "Sarvamaṅgala māṅgalye śive sarvārtha sādhike |\nŚaraṇye tryambake gauri nārāyaṇi namo'stute ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "या देवी सर्वभूतेषु शक्तिरूपेण संस्थिता ।\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः ॥",
+          "meaning": "जो देवी सभी प्राणियों में शक्ति रूप में विराजमान हैं, उन्हें बारम्बार नमस्कार, नमस्कार, नमस्कार।",
+          "transliteration": "Yā devī sarvabhūteṣu śaktirūpeṇa saṃsthitā |\nNamastasyai namastasyai namastasyai namo namaḥ ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "या देवी सर्वभूतेषु बुद्धिरूपेण संस्थिता ।\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः ॥",
+          "meaning": "जो देवी सभी प्राणियों में बुद्धि रूप में विराजमान हैं, उन्हें बारम्बार नमस्कार, नमस्कार, नमस्कार।",
+          "transliteration": "Yā devī sarvabhūteṣu buddhirūpeṇa saṃsthitā |\nNamastasyai namastasyai namastasyai namo namaḥ ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "या देवी सर्वभूतेषु क्षुधारूपेण संस्थिता ।\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः ॥",
+          "meaning": "जो देवी सभी प्राणियों में क्षुधा (भूख) रूप में विराजमान हैं, उन्हें बारम्बार नमस्कार, नमस्कार, नमस्कार।",
+          "transliteration": "Yā devī sarvabhūteṣu kṣudhārūpeṇa saṃsthitā |\nNamastasyai namastasyai namastasyai namo namaḥ ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "या देवी सर्वभूतेषु लक्ष्मीरूपेण संस्थिता ।\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः ॥",
+          "meaning": "जो देवी सभी प्राणियों में लक्ष्मी (सम्पत्ति) रूप में विराजमान हैं, उन्हें बारम्बार नमस्कार, नमस्कार, नमस्कार।",
+          "transliteration": "Yā devī sarvabhūteṣu lakṣmīrūpeṇa saṃsthitā |\nNamastasyai namastasyai namastasyai namo namaḥ ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सृष्टि स्थिति विनाशानां शक्तिभूते सनातनि ।\nगुणाश्रये गुणमये नारायणि नमोऽस्तुते ॥",
+          "meaning": "सृष्टि, स्थिति और विनाश की सनातन शक्ति, तीनों गुणों की आश्रयदात्री, गुणमयी नारायणी को मेरा नमस्कार।",
+          "transliteration": "Sṛṣṭi sthiti vināśānāṃ śaktibhūte sanātani |\nGuṇāśraye guṇamaye nārāyaṇi namo'stute ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "stuti_lakshmi",
+      "title": "लक्ष्मी स्तुति",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/stuti/lakshmi.jpg",
+      "orderIndex": 5,
+      "content": [
+        {
+          "shloka": "नमस्तेऽस्तु महामाये श्रीपीठे सुरपूजिते ।\nशङ्खचक्रगदाहस्ते महालक्ष्मि नमोऽस्तुते ॥",
+          "meaning": "हे महामाया, श्री पीठ पर विराजमान, देवताओं द्वारा पूजित, शंख, चक्र और गदा धारण करने वाली महालक्ष्मी को मेरा नमस्कार।",
+          "transliteration": "Namaste'stu mahāmāye śrīpīṭhe surapūjite |\nŚaṅkhacakragadāhaste mahālakṣmi namo'stute ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सर्वज्ञ सर्ववरदे सर्वदुष्ट भयङ्करि ।\nसर्वदुःखहरे देवि महालक्ष्मि नमोऽस्तुते ॥",
+          "meaning": "सर्वज्ञा, सभी वर देने वाली, सभी दुष्टों के लिए भयंकर, सभी दुःखों को हरने वाली देवी महालक्ष्मी को मेरा नमस्कार।",
+          "transliteration": "Sarvajña sarvavarade sarvaduṣṭa bhayaṅkari |\nSarvaduḥkhahare devi mahālakṣmi namo'stute ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सिद्धिबुद्धिप्रदे देवि भुक्तिमुक्ति प्रदायिनि ।\nमन्त्रमूर्ते सदा देवि महालक्ष्मि नमोऽस्तुते ॥",
+          "meaning": "सिद्धि और बुद्धि प्रदान करने वाली, भोग और मोक्ष देने वाली, मन्त्रस्वरूपा, नित्य देवी महालक्ष्मी को मेरा नमस्कार।",
+          "transliteration": "Siddhibuddhiprade devi bhuktimukti pradāyini |\nMantramūrte sadā devi mahālakṣmi namo'stute ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "पद्मासन स्थिते देवि परब्रह्म स्वरूपिणि ।\nपरमेशि जगन्मातर् महालक्ष्मि नमोऽस्तुते ॥",
+          "meaning": "पद्मासन में विराजित, परब्रह्म स्वरूपिणी, परमेश्वरी, जगत की माता, महालक्ष्मी को मेरा नमस्कार।",
+          "transliteration": "Padmāsana sthite devi parabrahma svarūpiṇi |\nParameśi jaganmātar mahālakṣmi namo'stute ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "श्वेताम्बरधरे देवि नानालङ्कार भूषिते ।\nजगत्स्थिते जगन्मातर् महालक्ष्मि नमोऽस्तुते ॥",
+          "meaning": "श्वेत वस्त्र धारण करने वाली, नाना अलंकारों से भूषित, जगत में व्याप्त, जगत की माता, महालक्ष्मी को मेरा नमस्कार।",
+          "transliteration": "Śvetāmbaradhare devi nānālaṅkāra bhūṣite |\nJagatsthite jaganmātar mahālakṣmi namo'stute ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "stuti_saraswati",
+      "title": "सरस्वती स्तुति",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/stuti/saraswati.jpg",
+      "orderIndex": 6,
+      "content": [
+        {
+          "shloka": "या कुन्देन्दु तुषारहारधवला या शुभ्रवस्त्रावृता\nया वीणावरदण्डमण्डितकरा या श्वेतपद्मासना ।\nया ब्रह्माच्युत शंकरप्रभृतिभिर्देवैसदा वन्दिता\nसा मां पातु सरस्वती भगवती निःशेषजाड्यापहा ॥",
+          "meaning": "जो कुन्द के फूल, चन्द्रमा और तुषार हार के समान श्वेत हैं, जो शुभ्र वस्त्र धारण करती हैं, जिनके हाथ वीणा और वरदण्ड से सुशोभित हैं, जो श्वेत पद्म पर विराजती हैं, जिन्हें ब्रह्मा, विष्णु, शंकर आदि देवता सदा वन्दन करते हैं, वे समस्त जड़ता को नष्ट करने वाली भगवती सरस्वती मेरी रक्षा करें।",
+          "transliteration": "Yā kundendu tuṣārahāradhavalā yā śubhravastrāvṛtā\nYā vīṇāvaradaṇḍamaṇḍitakarā yā śvetapadmāsanā |\nYā brahmācyuta śaṃkaraprabhṛtibhirdevaisadā vanditā\nSā māṃ pātu sarasvatī bhagavatī niḥśeṣajāḍyāpahā ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सरस्वति नमस्तुभ्यं वरदे कामरूपिणि ।\nविद्यारम्भं करिष्यामि सिद्धिर्भवतु मे सदा ॥",
+          "meaning": "हे सरस्वती, आपको नमस्कार। हे वरदायिनी, कामरूपिणी, मैं विद्या आरम्भ कर रहा हूँ, मुझे सदा सिद्धि प्राप्त हो।",
+          "transliteration": "Sarasvati namastubhyaṃ varade kāmarūpiṇi |\nVidyārambhaṃ kariṣyāmi siddhirbhavatu me sadā ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "शुक्लां ब्रह्मविचार सारपरमां आद्यां जगद्व्यापिनीं\nवीणा पुस्तक धारिणीं अभयदां जाड्यान्धकारापहाम् ।\nहस्ते स्फाटिक मालिकां विदधतीं पद्मासने संस्थिताम्\nवन्दे तां परमेश्वरीं भगवतीं बुद्धिप्रदां शारदाम् ॥",
+          "meaning": "श्वेत वर्ण वाली, ब्रह्मविचार की परम सार, आद्या, जगद्व्यापिनी, वीणा-पुस्तक धारिणी, अभयदायिनी, अज्ञान के अन्धकार को दूर करने वाली, हाथ में स्फटिक माला धारण करती हुई, पद्मासन पर विराजमान, बुद्धिप्रदा परमेश्वरी भगवती शारदा को मैं वन्दन करता हूँ।",
+          "transliteration": "Śuklāṃ brahmavicāra sāraparamāṃ ādyāṃ jagadvyāpinīṃ\nVīṇā pustaka dhāriṇīṃ abhayadāṃ jāḍyāndhakārāpahām |\nHaste sphāṭika mālikāṃ vidadhatīṃ padmāsane saṃsthitām\nVande tāṃ parameśvarīṃ bhagavatīṃ buddhipradāṃ śāradām ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "पद्मपत्र विशालाक्षि पद्मकेसर वर्णिनि ।\nनित्यं पद्मालयां देवीं सा मां पातु सरस्वतीम् ॥",
+          "meaning": "कमल की पंखुड़ी के समान विशाल नेत्रों वाली, कमल केसर के समान वर्ण वाली, नित्य कमल में निवास करने वाली देवी सरस्वती मेरी रक्षा करें।",
+          "transliteration": "Padmapatra viśālākṣi padmakesara varṇini |\nNityaṃ padmālayāṃ devīṃ sā māṃ pātu sarasvatīm ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "stuti_ram",
+      "title": "राम स्तुति",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/stuti/ram.jpg",
+      "orderIndex": 7,
+      "content": [
+        {
+          "shloka": "श्री रामचन्द्र कृपालु भजु मन\nहरण भवभय दारुणम् ।\nनवकंज लोचन कंज मुख\nकर कंज पद कंजारुणम् ॥",
+          "meaning": "हे मन, कृपालु श्री रामचन्द्र का भजन कर जो संसार के भयंकर भय को हरने वाले हैं। जिनके नेत्र नवीन कमल सदृश हैं, मुख कमल के समान है, हाथ और चरण कमल के समान लालिमायुक्त हैं।",
+          "transliteration": "Śrī rāmacandra kṛpālu bhaju mana\nHaraṇa bhavabhaya dāruṇam |\nNavakaṃja locana kaṃja mukha\nKara kaṃja pada kaṃjāruṇam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कन्दर्प अगणित अमित छबि\nनव नील नीरज सुन्दरम् ।\nपटपीत मानहुँ तडित रुचि\nशुचि नौमि जनक सुतावरम् ॥",
+          "meaning": "जिनकी छबि अगणित कामदेवों से भी अधिक है, जो नवीन नीलकमल के समान सुन्दर हैं, जिनका पीतवस्त्र बिजली की आभा सा चमकता है, ऐसे पवित्र जानकी वर को मैं प्रणाम करता हूँ।",
+          "transliteration": "Kandarpa agaṇita amita chabi\nNava nīla nīraja sundaram |\nPaṭapīta mānahu~ taḍita ruci\nŚuci naumi janaka sutāvaram ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "भजु दीन बन्धु दिनेश दानव\nदैत्यवंश निकन्दनम् ।\nरघुनन्द आनन्दकन्द कोशल\nचन्द दशरथ नन्दनम् ॥",
+          "meaning": "दीनबन्धु, सूर्यवंशी, दानव और दैत्यवंश के विनाशक, रघुनन्दन, आनन्दकन्द, कोशलचन्द्र, दशरथ नन्दन का भजन करो।",
+          "transliteration": "Bhaju dīna bandhu dineśa dānava\nDaityavaṃśa nikandanam |\nRaghunanda ānandakanda kośala\nCanda daśaratha nandanam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "शिर मुकुट कुण्डल तिलक चारु\nउदारु अंग विभूषणम् ।\nआजानु भुज शर चाप धर\nसंग्राम जित खरदूषणम् ॥",
+          "meaning": "शिर पर मुकुट, कुण्डल, सुन्दर तिलक और उदार अंगों पर विभूषण धारण करने वाले, घुटनों तक लंबी भुजाओं वाले, धनुष-बाण धारण करने वाले, जिन्होंने संग्राम में खर-दूषण को जीता।",
+          "transliteration": "Śira mukuṭa kuṇḍala tilaka cāru\nUdāru aṃga vibhūṣaṇam |\nĀjānu bhuja śara cāpa dhara\nSaṃgrāma jita kharadūṣaṇam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "मन जाहि राछो अवगुण छाड़न\nजासु वेद ब्रजान अविराम ।\nरामा रमेशु महेशु वाणी\nशेषु सहस गुण गावैं ॥",
+          "meaning": "हे मन, छल-कपट और अवगुण छोड़कर उनकी शरण जा जिनकी महिमा वेद निरन्तर गाते हैं, जिनके सहस्र गुणों को लक्ष्मी, विष्णु, महेश, सरस्वती और शेषनाग भी गाते हैं।",
+          "transliteration": "Mana jāhi rācho avaguṇa chār̤ana\nJāsu veda brajāna avirāma |\nRāmā rameśu maheśu vāṇī\nŚeṣu sahasa guṇa gāvaiṃ ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "stuti_krishna",
+      "title": "कृष्ण स्तुति",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/stuti/krishna.jpg",
+      "orderIndex": 8,
+      "content": [
+        {
+          "shloka": "वसुदेवसुतं देवं कंसचाणूरमर्दनम् ।\nदेवकी परमानन्दं कृष्णं वन्दे जगद्गुरुम् ॥",
+          "meaning": "वसुदेव के पुत्र, कंस और चाणूर का मर्दन करने वाले, देवकी के परमानन्द, जगद्गुरु कृष्ण को मैं वन्दन करता हूँ।",
+          "transliteration": "Vasudevasutaṃ devaṃ kaṃsacāṇūramardanam |\nDevakī paramānandaṃ kṛṣṇaṃ vande jagadgurum ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कृष्णाय वासुदेवाय देवकीनन्दनाय च ।\nनन्दगोपकुमाराय गोविन्दाय नमो नमः ॥",
+          "meaning": "कृष्ण को, वासुदेव को, देवकी नन्दन को, नन्दगोप कुमार को, गोविन्द को बारम्बार नमस्कार।",
+          "transliteration": "Kṛṣṇāya vāsudevāya devakīnandanāya ca |\nNandagopakumārāya govindāya namo namaḥ ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "आधारम्बुजमध्यगं नयनयोराधारमाधौ स्थितं\nआलोक्यं मधुराद्रिसुन्दर तनुं गोपाङ्गनावेष्टितम् ।\nकुन्देन्दुप्रतिगात्रि दन्तवलितं पीताम्बरान्वितं\nगोविन्दं कलवेणुमाश्रित पदं दिव्यं नमामि श्रियम् ॥",
+          "meaning": "कमल के मध्य में स्थित, नेत्रों के आधार, मधुर पर्वत सदृश सुन्दर शरीर वाले, गोपियों से घिरे, कुन्द और चन्द्र से भी उज्ज्वल दन्तपंक्ति वाले, पीताम्बर धारी, कलवेणु धारण करने वाले, आश्रय देने वाले, दिव्य श्री गोविन्द को मैं नमस्कार करता हूँ।",
+          "transliteration": "Ādhārambujamadhyagaṃ nayanayorādhāramādhau sthitaṃ\nĀlokyaṃ madhurādrisundara tanuṃ gopāṅganāveṣṭitam |\nKundendupratigātri dantavalitaṃ pītāmbarānvitaṃ\nGovindaṃ kalaveṇumāśrita padaṃ divyaṃ namāmi śriyam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "मन्दारकृत सुन्दरं परिवृतं गोवर्धनोद्धारकं\nगोपी चेत हरम्दरं कुच कुटिरं श्रीवत्स चित्रं महः ।\nशारदेन्दुवदनारविन्दमजितं कंसारेदर्पापहं\nश्रीकृष्णं स्मरामि सदा हृदिकयं वन्दे जगन्मोहनम् ॥",
+          "meaning": "मन्दार पुष्पों से सुशोभित, गोवर्धन उठाने वाले, गोपियों के चित्त को हरने वाले, श्रीवत्स चिह्नयुक्त, शरद चन्द्र सदृश मुखकमल वाले, अजेय, कंस के दर्प का नाश करने वाले, जगन्मोहन श्रीकृष्ण को मैं सदा हृदय में स्मरण करता हूँ।",
+          "transliteration": "Mandārakṛta sundaraṃ parivṛtaṃ govardhanoddhārakaṃ\nGopī ceta haramdaraṃ kuca kuṭiraṃ śrīvatsa citraṃ mahaḥ |\nŚāradenduvadanāravindamajitaṃ kaṃsāredarpāpahaṃ\nŚrīkṛṣṇaṃ smarāmi sadā hṛdikayaṃ vande jaganmohanam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अच्युतं केशवं रामनारायणं\nकृष्णदामोदरं वासुदेवं हरिम् ।\nश्रीधरं माधवं गोपिकावल्लभं\nजानकीनायकं रामचन्द्रं भजे ॥",
+          "meaning": "अच्युत, केशव, राम, नारायण, कृष्ण, दामोदर, वासुदेव, हरि, श्रीधर, माधव, गोपिकावल्लभ, जानकीनायक रामचन्द्र को मैं भजता हूँ।",
+          "transliteration": "Acyutaṃ keśavaṃ rāmanārāyaṇaṃ\nKṛṣṇadāmodaraṃ vāsudevaṃ harim |\nŚrīdharaṃ mādhavaṃ gopikāvallabhaṃ\nJānakīnāyakaṃ rāmacandraṃ bhaje ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "stuti_hanuman",
+      "title": "हनुमान स्तुति",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/stuti/hanuman.jpg",
+      "orderIndex": 9,
+      "content": [
+        {
+          "shloka": "मनोजवं मारुततुल्यवेगं\nजितेन्द्रियं बुद्धिमतां वरिष्ठम् ।\nवातात्मजं वानरयूथमुख्यं\nश्रीरामदूतं शरणं प्रपद्ये ॥",
+          "meaning": "मन के समान वेगवान, वायु के समान गतिशील, जितेन्द्रिय, बुद्धिमानों में श्रेष्ठ, वायुपुत्र, वानरसेना के प्रमुख, श्रीराम के दूत की मैं शरण लेता हूँ।",
+          "transliteration": "Manojavaṃ mārutatulyavegaṃ\nJitendriyaṃ buddhimatāṃ variṣṭham |\nVātātmajaṃ vānarayūthamukhyaṃ\nŚrīrāmadūtaṃ śaraṇaṃ prapadye ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "बुद्धिर्बलं यशो धैर्यं निर्भयत्वं अरोगता ।\nअजाड्यं वाक् पटुत्वं च हनुमत्स्मरणात् भवेत् ॥",
+          "meaning": "हनुमान जी के स्मरण से बुद्धि, बल, यश, धैर्य, निर्भयता, आरोग्य, स्फूर्ति और वाक्पटुता प्राप्त होती है।",
+          "transliteration": "Buddhirbalaṃ yaśo dhairyaṃ nirbhayatvaṃ arogatā |\nAjāḍyaṃ vāk paṭutvaṃ ca hanumatsmaraṇāt bhavet ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अतुलित बलधामं हेमशैलाभ देहं\nदनुजवन कृशानुं ज्ञानिनां अग्रगण्यम् ।\nसकल गुण निधानं वानराणां अधीशं\nरघुपति प्रिय भक्तं वातजातं नमामि ॥",
+          "meaning": "अतुलनीय बल के धाम, सुवर्ण पर्वत सदृश देह वाले, राक्षसरूपी वन के लिए अग्नि समान, ज्ञानियों में अग्रगण्य, समस्त गुणों के निधान, वानरों के स्वामी, रघुपति के प्रिय भक्त, पवनपुत्र को मैं नमस्कार करता हूँ।",
+          "transliteration": "Atulita baladhāmaṃ hemaśailābha dehaṃ\nDanujavana kṛśānuṃ jñānināṃ agragaṇyam |\nSakala guṇa nidhānaṃ vānarāṇāṃ adhīśaṃ\nRaghupati priya bhaktaṃ vātajātaṃ namāmi ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अञ्जना नन्दनं वीरं जानकी शोक नाशनम् ।\nकपीशं अक्षहङ्कारं वन्दे लङ्का भयङ्करम् ॥",
+          "meaning": "अंजना के वीर पुत्र, जानकी के शोक का नाश करने वाले, वानरों के ईश, अक्षकुमार के संहारक, लंका के लिए भयंकर हनुमान को मैं वन्दन करता हूँ।",
+          "transliteration": "Añjanā nandanaṃ vīraṃ jānakī śoka nāśanam |\nKapīśaṃ akṣahaṅkāraṃ vande laṅkā bhayaṅkaram ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "उल्लङ्घ्य सिन्धोः सलिलं सलीलं\nयः शोकवह्निं जनकात्मजायाः ।\nआदाय तेनैव ददाह लङ्कां\nनमामि तं प्राञ्जलिराञ्जनेयम् ॥",
+          "meaning": "जिन्होंने सागर के जल को सहज ही लांघ लिया, जानकी के शोकाग्नि को बुझाया और उसी अग्नि से लंका को जला दिया, उन अंजनीपुत्र को मैं हाथ जोड़कर नमस्कार करता हूँ।",
+          "transliteration": "Ullaṅghya sindhoḥ salilaṃ salīlaṃ\nYaḥ śokavahniṃ janakātmajāyāḥ |\nĀdāya tenaiva dadāha laṅkāṃ\nNamāmi taṃ prāñjalirāñjaneyam ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "stuti_surya",
+      "title": "सूर्य स्तुति",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/stuti/surya.jpg",
+      "orderIndex": 10,
+      "content": [
+        {
+          "shloka": "जपाकुसुम सङ्काशं काश्यपेयं महाद्युतिम् ।\nतमोरिं सर्वपापघ्नं प्रणतोऽस्मि दिवाकरम् ॥",
+          "meaning": "जपाकुसुम (गुड़हल) के समान कान्तिमान, कश्यप के पुत्र, महान तेजस्वी, अन्धकार के शत्रु, सभी पापों का नाश करने वाले दिवाकर सूर्यदेव को मैं प्रणाम करता हूँ।",
+          "transliteration": "Japākusuma saṅkāśaṃ kāśyapeyaṃ mahādyutim |\nTamoriṃ sarvapāpaghnaṃ praṇato'smi divākaram ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "उदयाद्रि मणि श्रेष्ठं उदयाम्भास्करं जगतः ।\nदीपाय तस्मै सूर्याय प्रणतोऽस्मि दिवाकरम् ॥",
+          "meaning": "उदयाचल पर्वत की श्रेष्ठ मणि, जगत को प्रकाशित करने वाले भास्कर, विश्व के दीपक ऐसे सूर्य दिवाकर को मैं प्रणाम करता हूँ।",
+          "transliteration": "Udayādri maṇi śreṣṭhaṃ udayāmbhāskaraṃ jagataḥ |\nDīpāya tasmai sūryāya praṇato'smi divākaram ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "आदित्यस्य नमस्कारान् ये कुर्वन्ति दिने दिने ।\nआयुः प्रज्ञा बलं वीर्यं तेजस्तेषां च जायते ॥",
+          "meaning": "जो प्रतिदिन सूर्य को नमस्कार करते हैं, उन्हें दीर्घायु, प्रज्ञा, बल, वीर्य और तेज प्राप्त होता है।",
+          "transliteration": "Ādityasya namaskārān ye kurvanti dine dine |\nĀyuḥ prajñā balaṃ vīryaṃ tejasteṣāṃ ca jāyate ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "भानु भास्कर मार्ताण्ड चण्ड रश्मि दिवाकर ।\nआयुः आरोग्यमैश्वर्यं विद्यां देहि दिवाकर ॥",
+          "meaning": "हे भानु, भास्कर, मार्ताण्ड, तीव्र किरणों वाले दिवाकर, मुझे आयु, आरोग्य, ऐश्वर्य और विद्या प्रदान करें।",
+          "transliteration": "Bhānu bhāskara mārtāṇḍa caṇḍa raśmi divākara |\nĀyuḥ ārogyamaiśvaryaṃ vidyāṃ dehi divākara ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ध्येयः सदा सवितृ मण्डल मध्यवर्ती\nनारायणः सरसिजा सन सन्निविष्ठः ।\nकेयूरवान् मकरकुण्डलवान् किरीटी\nहारी हिरण्मय वपुः धृत शङ्ख चक्रः ॥",
+          "meaning": "सदा सूर्यमण्डल के मध्य में विराजमान नारायण का ध्यान करना चाहिए, जो कमल पर बैठे हैं, बाजूबन्द, मकरकुण्डल, मुकुट धारण किए हुए हैं, हार पहने, स्वर्णमय शरीर वाले, शंख और चक्र धारण करने वाले हैं।",
+          "transliteration": "Dhyeyaḥ sadā savitṛ maṇḍala madhyavartī\nNārāyaṇaḥ sarasijā sana sanniviṣṭhaḥ |\nKeyūravān makarakuṇḍalavān kirīṭī\nHārī hiraṇmaya vapuḥ dhṛta śaṅkha cakraḥ ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "stuti_devi_aparadh",
+      "title": "देवी अपराधक्षमापन",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/stuti/durga.jpg",
+      "orderIndex": 11,
+      "content": [
+        {
+          "shloka": "न मन्त्रं नो यन्त्रं तदपि च न जाने स्तुतिमहो\nन चाह्वानं ध्यानं तदपि च न जाने स्तुतिकथाः ।\nन जाने मुद्रास्ते तदपि च न जाने विलपनं\nपरं जाने मातस्त्वदनुसरणं क्लेशहरणम् ॥",
+          "meaning": "न मन्त्र जानता हूँ, न यन्त्र, न स्तुति का महत्त्व जानता हूँ। न आवाहन, न ध्यान, न स्तुति-कथाएँ जानता हूँ। न मुद्राएँ जानता हूँ, न विलाप करना जानता हूँ। परन्तु हे माता, इतना जानता हूँ कि आपका अनुसरण सभी क्लेशों को हरने वाला है।",
+          "transliteration": "Na mantraṃ no yantraṃ tadapi ca na jāne stutimaho\nNa cāhvānaṃ dhyānaṃ tadapi ca na jāne stutikathāḥ |\nNa jāne mudrāste tadapi ca na jāne vilapanaṃ\nParaṃ jāne mātastvadanusaraṇaṃ kleśaharaṇam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "विधेरज्ञानेन द्रविणविरहेण आलसतया\nविधेयाशक्यत्वात् तव चरणयोः या च्युतिरभूत् ।\nतदेतत् क्षन्तव्यं जननि सकलोपाधिकरुणाः\nविपद्रेवा नित्यं त्वदीय चरणौ एव शरणम् ॥",
+          "meaning": "विधि के अज्ञान से, धन के अभाव से, आलस्य से, असमर्थता से आपके चरणों में जो भी चूक हुई हो, हे जननी, सब कुछ क्षमा करें। आप सभी के प्रति करुणामयी हैं। विपत्ति में सदा आपके चरण ही मेरी शरण हैं।",
+          "transliteration": "Vidherajñānena draviṇaviraheṇa ālasatayā\nVidheyāśakyatvāt tava caraṇayoḥ yā cyutirabhūt |\nTadetat kṣantavyaṃ janani sakalopādhikaruṇāḥ\nVipadrevā nityaṃ tvadīya caraṇau eva śaraṇam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अपराध सहस्राणि क्रियन्तेऽहर्निशं मया ।\nदासोऽयमिति मां मत्वा क्षमस्व परमेश्वरि ॥",
+          "meaning": "दिन-रात मुझसे सहस्रों अपराध होते रहते हैं। मुझे अपना दास समझकर क्षमा करें, हे परमेश्वरी।",
+          "transliteration": "Aparādha sahasrāṇi kriyante'harniśaṃ mayā |\nDāso'yamiti māṃ matvā kṣamasva parameśvari ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "पृथिव्यां पुत्रास्ते जननि बहवः सन्ति सरलाः\nपरं तेषां मध्ये विरलतरोऽहं तव सुतः ।\nमदीयो यामपराधो यद्वा अम्बा अगरीयो\nतदेतत् क्षन्तव्यं जननि तव दास्यः शरणागत ॥",
+          "meaning": "हे जननी, पृथ्वी पर आपके बहुत से सरल पुत्र हैं, परन्तु उनमें मैं एक विरला पथभ्रष्ट पुत्र हूँ। मेरा जो भी अपराध हो, हे अम्बा, चाहे कितना भी बड़ा हो, उसे क्षमा करें। आपका दास शरण आया है।",
+          "transliteration": "Pṛthivyāṃ putrāste janani bahavaḥ santi saralāḥ\nParaṃ teṣāṃ madhye viralataro'haṃ tava sutaḥ |\nMadīyo yāmaparādho yadvā ambā agarīyo\nTadetat kṣantavyaṃ janani tava dāsyaḥ śaraṇāgata ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कुपुत्रो जायेत क्वचिदपि कुमाता न भवति ।\nतस्मात्त्वम्मौलः कुलजलनिधे सर्वजगताः ।\nगतिस्ते मे नान्या त्वदपि जननि क्षान्तिरभयं\nसमालोच्य अम्ब त्वमपि नितरां नोहि परतः ॥",
+          "meaning": "कुपुत्र कभी हो सकता है, किन्तु कुमाता कभी नहीं होती। अतः हे सम्पूर्ण जगत के कुल की समुद्र, मेरी गति आपके अतिरिक्त कोई नहीं। हे जननी, क्षमा और अभय दें। हे अम्बा, विचार करें, आपसे परे कोई नहीं।",
+          "transliteration": "Kuputro jāyeta kvacidapi kumātā na bhavati |\nTasmāttvammaulaḥ kulajalanidhe sarvajagatāḥ |\nGatiste me nānyā tvadapi janani kṣāntirabhayaṃ\nSamālocya amba tvamapi nitarāṃ nohi parataḥ ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "stuti_shiv_aparadh",
+      "title": "शिव अपराधक्षमापन",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/stuti/shiv.jpg",
+      "orderIndex": 12,
+      "content": [
+        {
+          "shloka": "आदौ कर्मप्रसङ्गात् कलयति कलशन् जाठरे स्थितः\nविन्ध्यन् जन्तुर्विपन्नोः जाठरजठरेण प्रत्यहं जातबोधः ।\nतातोज्झात्वा नमोहं भवति भव भवोद्भव क्लेशपात्रं\nतस्मात्प्राच्यां प्रसीद प्रभु मम परहिंसामामराधि महेशात् ॥",
+          "meaning": "आरम्भ से ही पूर्वकर्म के प्रभाव से जीव गर्भ में कष्ट पाता है। जन्म के बाद संसार की अग्नि में तपकर, मोहवश आपको भूलकर, दुःख का पात्र बनता है। अतः हे प्रभु महेश, कृपा करें और मुझे संसार-चक्र से मुक्ति दें।",
+          "transliteration": "Ādau karmaprasaṅgāt kalayati kalaśan jāṭhare sthitaḥ\nVindhyan janturvipannoḥ jāṭharajaṭhareṇa pratyahaṃ jātabodhaḥ |\nTātojjhātvā namohaṃ bhavati bhava bhavodbhava kleśapātraṃ\nTasmātprācyāṃ prasīda prabhu mama parahiṃsāmāmarādhi maheśāt ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "बाल्यात् क्रीडासक्तः तरुणतरयोः कामिनी वशः\nवृद्धस्त्व्याधिग्रस्ताः परमिथिहितः केनचिदपि ।\nप्रणेता भक्तिः श्रद्धा शिव शिव शिवेति परिवञ्चनाशिव\nतत्स्तामात्प्राच्यं प्रसीद भव मामेवमखिलम् ॥",
+          "meaning": "बचपन में खेल में लीन, युवावस्था में कामिनी के वश, वृद्धावस्था में रोगों से ग्रस्त - किसी भी समय न भक्ति उपजी, न श्रद्धा, न 'शिव शिव' का उच्चारण किया। अतः हे भगवान, इस सबके बावजूद मुझ पर कृपा करें।",
+          "transliteration": "Bālyāt krīḍāsaktaḥ taruṇatarayoḥ kāminī vaśaḥ\nVṛddhastvyādhigrastāḥ paramithihitaḥ kenacidapi |\nPraṇetā bhaktiḥ śraddhā śiva śiva śiveti parivañcanāśiva\nTatstāmātprācyaṃ prasīda bhava māmevamakhilam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "न पूजयामि ते देवं न च अर्चयामि सर्वदा ।\nन वन्दामि महादेव क्षमस्व परमेश्वर ॥",
+          "meaning": "मैंने न आपकी पूजा की, न कभी अर्चना की, न कभी वन्दना की। हे महादेव, हे परमेश्वर, मुझे क्षमा करें।",
+          "transliteration": "Na pūjayāmi te devaṃ na ca arcayāmi sarvadā |\nNa vandāmi mahādeva kṣamasva parameśvara ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "गात्रम्पङ्के प्रणम्यासि जलमप्याचरणान् मनः ।\nपुष्पं नैवोपहाराय न धूपं न च दीपकम् ।\nक्षमस्व ननु दैव्य सदाशिव सर्वं अपराधम् ॥",
+          "meaning": "शरीर ने कीचड़ में साष्टांग नहीं किया, मन ने जल भी अर्पण नहीं किया। न पुष्प चढ़ाया, न धूप, न दीपक। हे दैव सदाशिव, मेरे सभी अपराध क्षमा करें।",
+          "transliteration": "Gātrampaṅke praṇamyāsi jalamapyācaraṇān manaḥ |\nPuṣpaṃ naivopahārāya na dhūpaṃ na ca dīpakam |\nKṣamasva nanu daivya sadāśiva sarvaṃ aparādham ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "आवाहनात् न जानामि विसर्जनात् न जानामि ।\nपूजां चैव न जानामि क्षम्यतां परमेश्वर ।\nमन्त्रहीनं क्रियाहीनं भक्तिहीनं महेश्वर ।\nयत्पूजितं मया देव परिपूर्णं तदस्तु मे ॥",
+          "meaning": "मैं आवाहन करना नहीं जानता, विसर्जन करना नहीं जानता, पूजा करना भी नहीं जानता, हे परमेश्वर क्षमा करें। मन्त्रहीन, क्रियाहीन, भक्तिहीन जो भी पूजा मैंने की है हे महेश्वर, हे देव, वह पूर्ण हो जाए।",
+          "transliteration": "Āvāhanāt na jānāmi visarjanāt na jānāmi |\nPūjāṃ caiva na jānāmi kṣamyatāṃ parameśvara |\nMantrahīnaṃ kriyāhīnaṃ bhaktihīnaṃ maheśvara |\nYatpūjitaṃ mayā deva paripūrṇaṃ tadastu me ||",
+          "imageUrl": null
+        }
+      ]
+    }
+  ]
+}

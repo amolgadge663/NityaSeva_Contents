@@ -1,0 +1,318 @@
+{
+  "category": "Sahasranama v Sahasranamavali",
+  "version": 1,
+  "items": [
+    {
+      "id": "sahas_vishnu",
+      "title": "विष्णु सहस्रनाम",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/sahasranama/vishnu.jpg",
+      "orderIndex": 1,
+      "content": [
+        {
+          "shloka": "विश्वं विष्णुर्वषट्कारो भूतभव्यभवत्प्रभुः |\nभूतकृत् भूतभृत् भावो भूतात्मा भूतभावनः ||",
+          "meaning": "जो विश्वस्वरूप आहे, सर्वव्यापी विष्णू, वषट्कार स्वरूप, भूत-भविष्य-वर्तमानाचे स्वामी. प्राण्यांचे रचयिता, प्राण्यांचे पालनकर्ता, अस्तित्व स्वरूप, सर्व प्राण्यांचा आत्मा, सर्व प्राण्यांचे पोषक.",
+          "transliteration": "Vishvam Vishnur-Vashatkaaro Bhoota-Bhavya-Bhavat-Prabhuh |\nBhootakrit Bhootabhrit Bhaavo Bhootaatmaa Bhootabhaavanah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "भूतात्मा परमात्मा च मुक्तानां परमा गतिः |\nअव्ययः पुरुषः साक्षी क्षेत्रज्ञो अक्षर एव च ||",
+          "meaning": "प्राण्यांचा आत्मा, परमात्मा, मुक्त आत्म्यांची परमगती. अविनाशी, पुरुष, साक्षी, क्षेत्रज्ञ, अक्षर.",
+          "transliteration": "Bhootaatmaa Paramaatmaa cha Muktaanaam Paramaa Gatih |\nAvyayah Purushah Saakshee Kshetrajno Akshara eva cha ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "योगो योगविदां नेता प्रधानपुरुषेश्वरः |\nनारसिंहवपुः श्रीमान् केशवः पुरुषोत्तमः ||",
+          "meaning": "योगस्वरूप, योग्यांचे नेते, प्रधान आणि पुरुषांचे ईश्वर. नरसिंह स्वरूप, श्रीमान, केशव, पुरुषोत्तम.",
+          "transliteration": "Yogo Yogavidaam Netaa Pradhaana-Purusheshvarah |\nNaarasimhavapuh Shreemaan Keshavah Purushottamah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सर्वः शर्वः शिवः स्थाणुर्भूतादिर्निधिरव्ययः |\nसम्भवो भावनः भर्ता प्रभवः प्रभुरीश्वरः ||",
+          "meaning": "सर्वस्व, संहारकर्ता, कल्याणकारी, स्थिर स्तंभ. प्राण्यांचे आदि, अविनाशी निधी, सृष्टीचे कारण, पालनकर्ता, प्रभव, प्रभू, ईश्वर.",
+          "transliteration": "Sarvah Sharvah Shivah Sthaanur-Bhootaadir-Nidhir-Avyayah |\nSambhavo Bhaavanah Bhartaa Prabhavah Prabhur-Eeshvarah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "स्वयम्भूः शम्भुरादित्यः पुष्कराक्षो महास्वनः |\nअनादिनिधनो धाता विधाता धातुरुत्तमः ||",
+          "meaning": "स्वयंभू, शंभू, आदित्य, कमलनयन, महान ध्वनी असणारे. अनादि-अनंत, विधाता, निर्माता, सर्वश्रेष्ठ धातू.",
+          "transliteration": "Svayambhooh Shambhur-Aadityah Pushkaraaksho Mahaasvanah |\nAnaadi-Nidhano Dhaataa Vidhaataa Dhaatur-uttamah ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "sahas_shiva",
+      "title": "शिव सहस्रनाम",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/sahasranama/shiv.jpg",
+      "orderIndex": 2,
+      "content": [
+        {
+          "shloka": "स्थिरः स्थाणुः प्रभुर्भानुः प्रवरो वरदो वरः |\nसर्वात्मा सर्वविख्यातः सर्वः सर्वकरो भवः ||",
+          "meaning": "स्थिर, स्तंभस्वरूप, प्रभू, प्रकाशमान, सर्वश्रेष्ठ, वरदाता, श्रेष्ठ. सर्वांचा आत्मा, सर्वत्र प्रसिद्ध, सर्वस्व, सर्वकर्ता, अस्तित्वस्वरूप.",
+          "transliteration": "Sthirah Sthaanuh Prabhur-Bhaanuh Pravaro Varado Varah |\nSarvaatmaa Sarva-vikhyaatah Sarvah Sarvakaro Bhavah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जटी चर्मी शिखण्डी च सर्वाङ्गः सर्वभावनः |\nहरिश्च हरिणाक्षश्च सर्वभूतहरः प्रभुः ||",
+          "meaning": "जटाधारी, चर्मधारी, शिखंडधारी, सर्वांग, सर्वांचे पोषक. हरित वर्णाचे, हरिणनेत्र, सर्व प्राण्यांना हरणारे, प्रभू.",
+          "transliteration": "Jatee Charmee Shikhandee cha Sarvaangah Sarvabhaavanah |\nHarishcha Harinaakshashcha Sarva-bhoota-harah Prabhuh ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "प्रवृत्तिश्च निवृत्तिश्च नियतः शाश्वतो ध्रुवः |\nश्मशानवासी भगवान् खेचरो गोचरो अर्दनः ||",
+          "meaning": "प्रवृत्ती आणि निवृत्ती, नियमबद्ध, शाश्वत, ध्रुव. स्मशानवासी, भगवान, आकाशविहारी, इंद्रियगोचर, शत्रुदमन.",
+          "transliteration": "Pravrittishcha Nivrittishcha Niyatah Shaashvato Dhruvah |\nShmashaanavAsee Bhagavaan Khecharoh Gocharoh Ardanah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "रुद्रो भूतपतिर्स्थाणुरहिर्बुध्न्यो दिगम्बरः |\nअष्टमूर्तिर्महादेवो वृषाङ्कः वृषवाहनः ||",
+          "meaning": "रुद्र, भूतांचे पती, स्तंभस्वरूप, तळाचा सर्प, दिगंबर. अष्टमूर्ती, महादेव, वृषभचिन्हित, वृषभवाहन.",
+          "transliteration": "Rudro Bhootapatir-Sthaanur-Ahirbudhnyoh Digambarah |\nAshtamoorti-Mahaadevo Vrishaankah Vrishavaahanah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ईशानः पिङ्गलः शूलहस्तो धरणीधरः |\nउमापतिः पशुपतिः राजराजेश्वरः प्रभुः ||",
+          "meaning": "ईशान, पिंगलवर्णी, त्रिशूलधारी, धरणीधर. उमापती, पशुपती, राजराजेश्वर, प्रभू.",
+          "transliteration": "Eeshaanah Pingalah Shoolahasto Dharaneedharah |\nUmaapatih Pashupatih Raajaraajeshvarah Prabhuh ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "sahas_lalita",
+      "title": "ललिता सहस्रनाम",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/sahasranama/durga.jpg",
+      "orderIndex": 3,
+      "content": [
+        {
+          "shloka": "श्री माता श्री महाराज्ञी श्रीमत्सिंहासनेश्वरी |\nचिदग्निकुण्डसम्भूता देवकार्यसमुद्यता ||",
+          "meaning": "पवित्र माता, महाराज्ञी, सिंहासनाची अधीश्वरी. चिदग्निकुंडातून प्रकट झालेली, देवकार्यासाठी उत्साहित.",
+          "transliteration": "Shree Maataa Shree Mahaaraajnee Shreemat-Simhaasaneshvaree |\nChidagni-Kunda-Sambhootaa Deva-Kaarya-Samudyataa ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "उद्यद्भानुसहस्राभा चतुर्बाहुसमन्विता |\nरागस्वरूपपाशाढ्या क्रोधाकाराङ्कुशोज्ज्वला ||",
+          "meaning": "सहस्र उगवत्या सूर्यांसारखी तेजस्वी, चार भुजांनी संपन्न. कामस्वरूप पाशधारिणी, क्रोधस्वरूप अंकुशाने प्रदीप्त.",
+          "transliteration": "Udyad-Bhaanu-Sahasraabhaa Chatur-Baahu-Samanvitaa |\nRaagasvaroopa-Paashaadhyaa Krodhaakaar-Ankushojjvalaa ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "मनोरूपेक्षुकोदण्डा पञ्चतन्मात्रसायका |\nनिजारुणप्रभापूरमज्जद्ब्रह्माण्डमण्डला ||",
+          "meaning": "ज्यांचे इक्षुधनुष्य हे मन आहे, पाच बाण हे पाच तन्मात्रा आहेत. ज्यांच्या अरुण प्रभेत संपूर्ण ब्रह्मांड निमग्न आहे.",
+          "transliteration": "Mano-Roopekshu-Kodandaa Pancha-Tanmaatra-Saayakaa |\nNijaaruna-Prabhaa-Poora-Majjad-Brahmaanda-Mandalaa ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "चम्पकाशोकपुन्नागसौगन्धिकलसत्कचा |\nकुरुविन्दमणिश्रेणिकनत्कोटीरमण्डिता ||",
+          "meaning": "चंपक, अशोक, पुन्नाग, सौगंधिक फुलांनी सुगंधित केश. कुरुविंद मण्यांच्या रांगांनी तळपणाऱ्या मुकुटाने अलंकृत.",
+          "transliteration": "Champakaashoka-Punnaaga-Saugandhika-Lasat-Kachaa |\nKuruvinda-Mani-Shreni-Kanat-Koteera-Manditaa ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अष्टमीचन्द्रविभ्राजद्धलिकास्थलशोभिता |\nमुखचन्द्रकलङ्काभमृगनाभिविशेषका ||",
+          "meaning": "अष्टमीच्या चंद्रासारखे तळपणारे कपाळ. चंद्रावरील कलंकासारखा मुखावर कस्तुरी टिळक शोभणारी.",
+          "transliteration": "Ashtamee-Chandra-Vibhraajad-Dhalikaa-Sthala-Shobhitaa |\nMukha-Chandra-Kalankaabha-Mriganaabhi-Visheshakaa ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "sahas_lakshmi",
+      "title": "लक्ष्मी अष्टोत्तर शतनाम",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/sahasranama/lakshmi.jpg",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "ॐ प्रकृत्यै नमः | ॐ विकृत्यै नमः | ॐ विद्यायै नमः |\nॐ सर्वभूतहितप्रदायै नमः | ॐ श्रद्धायै नमः | ॐ विभूत्यै नमः ||",
+          "meaning": "मूळ प्रकृतीला नमस्कार, रूपांतर करणाऱ्याला नमस्कार, विद्येला नमस्कार. सर्व प्राण्यांच्या कल्याणासाठी वरदायिनीला, श्रद्धेला, दिव्य वैभवाला नमस्कार.",
+          "transliteration": "Om Prakrityai Namah | Om Vikrityai Namah | Om Vidyaayai Namah |\nOm Sarvabhootahitapradaayai Namah | Om Shraddhaayai Namah | Om Vibhootyai Namah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ सुरभ्यै नमः | ॐ परमात्मिकायै नमः | ॐ वाच्यै नमः |\nॐ पद्मालयायै नमः | ॐ पद्मायै नमः | ॐ शुचये नमः ||",
+          "meaning": "कामधेनूला नमस्कार, परमात्मिकेला नमस्कार, वाणीस्वरूपाला नमस्कार. कमलवासिनीला, कमलस्वरूपाला, शुचिस्वरूपाला नमस्कार.",
+          "transliteration": "Om Surabhyai Namah | Om Paramaatmikaayai Namah | Om Vaachyai Namah |\nOm Padmaalayaayai Namah | Om Padmaayai Namah | Om Shuchaye Namah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ स्वाहायै नमः | ॐ स्वधायै नमः | ॐ सुधायै नमः |\nॐ धन्यायै नमः | ॐ हिरण्मयै नमः | ॐ लक्ष्म्यै नमः ||",
+          "meaning": "स्वाहादेवीला नमस्कार, स्वधादेवीला नमस्कार, अमृतस्वरूपाला नमस्कार. धन्य देवीला, सुवर्णमयीला, लक्ष्मीला नमस्कार.",
+          "transliteration": "Om Svaahayai Namah | Om Svadhaayai Namah | Om Sudhaayai Namah |\nOm Dhanyaayai Namah | Om Hiranmayai Namah | Om Lakshmyai Namah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ नित्यपुष्टायै नमः | ॐ विभावर्यै नमः | ॐ आदित्यायै नमः |\nॐ दित्त्यै नमः | ॐ दीपायै नमः | ॐ वसुन्धायै नमः ||",
+          "meaning": "नित्य पुष्ट देवीला नमस्कार, सामर्थ्यवान देवीला, अदितिकन्येला नमस्कार. तेजस्वी देवीला, ज्योतिस्वरूपाला, पृथ्वीला नमस्कार.",
+          "transliteration": "Om Nityapushtaayai Namah | Om Vibhaavaryai Namah | Om Aadityaayai Namah |\nOm Dittyai Namah | Om Deepaayai Namah | Om Vasundhaayai Namah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ वसुन्धरायै नमः | ॐ कमलायै नमः | ॐ कान्तायै नमः |\nॐ कामाक्ष्यै नमः | ॐ क्रोधसम्भवायै नमः | ॐ अनुग्रहप्रदायै नमः ||",
+          "meaning": "पृथ्वीदेवीला नमस्कार, कमलस्वरूपाला, कांतिमयीला नमस्कार. सुंदर नेत्रांच्या देवीला, कामातून जन्मलेल्या, अनुग्रहदात्रीला नमस्कार.",
+          "transliteration": "Om Vasundharaayai Namah | Om Kamalaayai Namah | Om Kaantaayai Namah |\nOm Kaamaakshyai Namah | Om Krodhasambhavaayai Namah | Om Anugrahapradaayai Namah ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "sahas_ganesh_108",
+      "title": "गणेश अष्टोत्तर शतनाम",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/sahasranama/ganesh.jpg",
+      "orderIndex": 5,
+      "content": [
+        {
+          "shloka": "ॐ विनायकाय नमः | ॐ विघ्नराजाय नमः | ॐ गौरीपुत्राय नमः |\nॐ गणेश्वराय नमः | ॐ स्कन्दाग्रजाय नमः | ॐ अव्ययाय नमः ||",
+          "meaning": "महानायकाला नमस्कार, विघ्नांच्या राजाला, गौरीपुत्राला नमस्कार. गणांच्या ईश्वराला, स्कंदाच्या ज्येष्ठ बंधूला, अविनाशी गणपतीला नमस्कार.",
+          "transliteration": "Om Vinaayakaaya Namah | Om Vighnarajaaya Namah | Om Gaureeputraaya Namah |\nOm Ganeshvaraaya Namah | Om Skandaagrajaaya Namah | Om Avyayaaya Namah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ पूताय नमः | ॐ दक्षाय नमः | ॐ अध्यक्षाय नमः |\nॐ द्विजप्रियाय नमः | ॐ अग्निगर्भच्छिदे नमः | ॐ इन्द्रश्रीप्रदाय नमः ||",
+          "meaning": "पवित्राला नमस्कार, कुशलाला, अध्यक्षाला नमस्कार. द्विजप्रियाला, अग्निगर्भ विदारकाला, इंद्राची श्री प्रदान करणाऱ्याला नमस्कार.",
+          "transliteration": "Om Pootaaya Namah | Om Dakshaaya Namah | Om Adhyakshaaya Namah |\nOm Dvijapriyaaya Namah | Om Agnigarbhachhide Namah | Om Indrashreepradaaya Namah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ वनस्पतये नमः | ॐ अव्यग्राय नमः | ॐ सर्वसिद्धिप्रदाय नमः |\nॐ सर्वतनयाय नमः | ॐ सर्वरिप्रियाय नमः | ॐ सर्वात्मकाय नमः ||",
+          "meaning": "वनपतीला नमस्कार, निर्भय गणपतीला, सर्व सिद्धी देणाऱ्याला नमस्कार. सर्वांच्या पुत्राला, रात्रिप्रियाला, सर्वात्मकाला नमस्कार.",
+          "transliteration": "Om Vanaspataye Namah | Om Avyagraaya Namah | Om Sarvasiddhipradaaya Namah |\nOm Sarvatanayaaya Namah | Om Sarvaripriyaaya Namah | Om Sarvaatmakaaya Namah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ सृष्टिकर्त्रे नमः | ॐ देवाय नमः | ॐ एकदन्ताय नमः |\nॐ चतुर्भुजाय नमः | ॐ शक्तिघ्नाय नमः | ॐ शम्भवाय नमः ||",
+          "meaning": "सृष्टिकर्त्याला नमस्कार, दिव्य देवाला, एकदंताला नमस्कार. चतुर्भुजाला, शक्तिदैत्यनाशकाला, शंभुपुत्राला नमस्कार.",
+          "transliteration": "Om Srishtikartre Namah | Om Devaaya Namah | Om Ekadantaaya Namah |\nOm Chaturbhujaaya Namah | Om Shaktighnnaaya Namah | Om Shambhavaaya Namah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ गजाननाय नमः | ॐ सुरेश्वराय नमः | ॐ लम्बोदराय नमः |\nॐ गजकर्णकाय नमः | ॐ विकटाय नमः | ॐ विघ्ननाशिने नमः ||",
+          "meaning": "गजमुखाला नमस्कार, देवांच्या ईश्वराला, लंबोदराला नमस्कार. गजकर्णाला, विशाल गणपतीला, विघ्ननाशकाला नमस्कार.",
+          "transliteration": "Om Gajaananaaya Namah | Om Sureshvaraaya Namah | Om Lambodaraaya Namah |\nOm Gajakarnnakaaya Namah | Om Vikataaya Namah | Om Vighnanaashine Namah ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "sahas_hanuman_108",
+      "title": "हनुमान अष्टोत्तर शतनाम",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/sahasranama/hanuman.jpg",
+      "orderIndex": 6,
+      "content": [
+        {
+          "shloka": "ॐ हनुमन्ते नमः | ॐ आञ्जनेयाय नमः | ॐ वायुपुत्राय नमः |\nॐ महाबलाय नमः | ॐ रामेष्ठाय नमः | ॐ फाल्गुणसखाय नमः ||",
+          "meaning": "हनुमानाला नमस्कार, अंजनीपुत्राला, वायुपुत्राला नमस्कार. महाबळी, रामाच्या प्रिय, अर्जुनाच्या सखा हनुमंताला नमस्कार.",
+          "transliteration": "Om Hanumante Namah | Om Aanjaneyaaya Namah | Om Vaayuputraaya Namah |\nOm Mahaabalaya Namah | Om Raameshthhaaya Namah | Om Phaalguna-Sakhaaya Namah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ पिङ्गाक्षाय नमः | ॐ अमितविक्रमाय नमः | ॐ उदधिक्रमाय नमः |\nॐ सीताशोकनिवारणाय नमः | ॐ लक्ष्मणप्राणदात्रे नमः | ॐ दशग्रीवदर्पहने नमः ||",
+          "meaning": "पिंगलनेत्र, अमित पराक्रमी, सागर उल्लंघणकर्त्याला नमस्कार. सीतेचे शोक दूर करणारा, लक्ष्मणाचे प्राण पुनर्स्थापित करणारा, रावणाचा गर्व हरणाऱ्याला नमस्कार.",
+          "transliteration": "Om Pingaakshaaya Namah | Om Amitavikramaaya Namah | Om Udadhikramaaya Namah |\nOm Seetaashokanivaaaranaaya Namah | Om Lakshmanapraanaadaatre Namah | Om Dashagreevadarpahne Namah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ चिरञ्जीविने नमः | ॐ रामभक्ताय नमः | ॐ दैत्यकार्यविघातकाय नमः |\nॐ अक्षहन्त्रे नमः | ॐ काञ्चनाभाय नमः | ॐ पञ्चवक्त्राय नमः ||",
+          "meaning": "चिरंजीवी, रामभक्त, दैत्यांचे कार्य विफल करणाऱ्याला नमस्कार. अक्षकुमार वधकर्ता, सुवर्णकांती, पंचमुखी हनुमंताला नमस्कार.",
+          "transliteration": "Om Chiranjeevine Namah | Om Raama-Bhaktaaya Namah | Om Daitya-Kaarya-Vighaatakaaya Namah |\nOm Akshahantre Namah | Om Kaanchanaabhaaya Namah | Om Pancha-Vaktraaya Namah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ महातपसे नमः | ॐ लङ्किनीदहनाय नमः | ॐ श्रीमते नमः |\nॐ सिंहिकाप्राणभञ्जाय नमः | ॐ गन्धमादनशैलस्थाय नमः | ॐ लङ्किनीभञ्जनाय नमः ||",
+          "meaning": "महातपस्वी, लंकिनी दहनकर्ता, श्रीमान हनुमंताला नमस्कार. सिंहिकेच्या प्राणनाशक, गंधमादन पर्वतवासी, लंकिनी पराभवकर्त्याला नमस्कार.",
+          "transliteration": "Om Mahaatapase Namah | Om Lankineedahanaaya Namah | Om Shreemate Namah |\nOm Simhikaapraanabhanjjaaya Namah | Om Gandhamaadana-Shailasthaaya Namah | Om Lankinee-Bhanjanaaya Namah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ श्रीमद्रामचरणसेविने नमः | ॐ वज्रदेहाय नमः | ॐ सर्वरोगहराय नमः |\nॐ परवीरघ्नाय नमः | ॐ सर्वशक्तिमताय नमः | ॐ सर्वमन्त्रस्वरूपाय नमः ||",
+          "meaning": "श्रीरामांच्या चरणसेवक, वज्रदेहधारी, सर्व रोग हरणाऱ्याला नमस्कार. शत्रुवीरनाशक, सर्वशक्तिमान, सर्वमंत्रस्वरूपाला नमस्कार.",
+          "transliteration": "Om Shreemad-Raamacharanasevine Namah | Om Vajradehaaya Namah | Om Sarva-Rogaharaaya Namah |\nOm Paraveeraghnnaaya Namah | Om Sarvashaktimataya Namah | Om Sarva-Mantra-Svaruupaaya Namah ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "sahas_krishna_108",
+      "title": "कृष्ण अष्टोत्तर शतनाम",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/sahasranama/krishna.jpg",
+      "orderIndex": 7,
+      "content": [
+        {
+          "shloka": "ॐ कृष्णाय नमः | ॐ कमलनाथाय नमः | ॐ वासुदेवाय नमः |\nॐ सनातनाय नमः | ॐ वसुदेवात्मजाय नमः | ॐ पुण्याय नमः ||",
+          "meaning": "कृष्णाला नमस्कार, कमलनाथाला (लक्ष्मीपतीला), वासुदेवाला नमस्कार. सनातन, वसुदेवपुत्र, पुण्यमूर्तीला नमस्कार.",
+          "transliteration": "Om Krishnaaya Namah | Om Kamala-Naathaaya Namah | Om Vasudevaaya Namah |\nOm Sanaatanaaya Namah | Om Vasudevaatmajaaya Namah | Om Punyaaya Namah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ लीलामानुषविग्रहाय नमः | ॐ श्रीवत्सकौस्तुभधराय नमः | ॐ यशोदावत्सलाय नमः |\nॐ हरये नमः | ॐ चतुर्भुजात्तचक्रासिगदाशङ्खाम्बुजायुधाय नमः ||",
+          "meaning": "लीलेने मानवरूप धारण करणाऱ्याला, श्रीवत्स-कौस्तुभधारीला, यशोदावत्सलाला नमस्कार. हरीला, चतुर्भुज चक्र-तलवार-गदा-शंख-कमलधारीला नमस्कार.",
+          "transliteration": "Om Leelaa-Maanushavigrahaya Namah | Om Shreevatsa-Kaustubhadharaaya Namah | Om Yashodaavatsalaaya Namah |\nOm Haraye Namah | Om Chaturbhujaattachakraasi-Gadaashankha-Ambujaayudhaaya Namah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ देवकीनन्दनाय नमः | ॐ श्रीशाय नमः | ॐ नन्दगोपप्रियात्मजाय नमः |\nॐ यमुनावेगसंहर्त्रे नमः | ॐ बलभद्रप्रियानुजाय नमः ||",
+          "meaning": "देवकीनंदनाला, श्रीपतीला, नंदगोपांच्या प्रिय पुत्राला नमस्कार. यमुनेच्या वेगात क्रीडा करणाऱ्या, बलरामांच्या प्रिय अनुजाला नमस्कार.",
+          "transliteration": "Om Devakee-Nandanaaya Namah | Om Shreeshaaya Namah | Om Nandagopa-Priyaatmajaaya Namah |\nOm Yamunaavegasamhartre Namah | Om Balabhadra-Priyaanujaaya Namah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ पूतनाजीवितहराय नमः | ॐ शकटासुरभञ्जनाय नमः | ॐ नन्दव्रजजनानन्दिने नमः |\nॐ सच्चिदानन्दविग्रहाय नमः | ॐ नवनीतविलिप्ताङ्गाय नमः | ॐ नवनीतनटाय नमः ||",
+          "meaning": "पूतनावधकर्त्याला, शकटासुर भंजकाला, नंदव्रजवासीयांच्या आनंदाला नमस्कार. सच्चिदानंद विग्रहाला, लोण्याने लिप्त, लोण्यासाठी नाचणाऱ्या कृष्णाला नमस्कार.",
+          "transliteration": "Om Pootanaa-Jeevitaharaaya Namah | Om Shakataasura-Bhanjanaaya Namah | Om Nandavraja-Janaanandine Namah |\nOm Sachchidaananda-Vigrahaaya Namah | Om Navaneeeta-Viliptaangaaya Namah | Om Navaneeta-Nataaya Namah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ अनघाय नमः | ॐ नवनीतनवाहरिणे नमः | ॐ मुचुकुन्दप्रसादकाय नमः |\nॐ षोडशस्त्रीसहस्रेशाय नमः | ॐ त्रिभङ्गीमुरलीधराय नमः | ॐ मधुराय नमः ||",
+          "meaning": "निष्पाप, नवनीत चोरणाऱ्या, मुचुकुंदावर कृपा करणाऱ्याला नमस्कार. सोळा सहस्र पत्नींच्या पतीला, त्रिभंगी मुरलीधराला, मधुर कृष्णाला नमस्कार.",
+          "transliteration": "Om Anaghaaya Namah | Om Navaneeta-Navaaaharine Namah | Om Muchukunda-Prasaadakaaya Namah |\nOm Shodasha-Stree-Sahasreshaaya Namah | Om Tribhangee-Muralee-dharaaya Namah | Om Madhuraaya Namah ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "sahas_durga_108",
+      "title": "दुर्गा अष्टोत्तर शतनाम",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/sahasranama/durga.jpg",
+      "orderIndex": 8,
+      "content": [
+        {
+          "shloka": "ॐ दुर्गायै नमः | ॐ शिवायै नमः | ॐ महालक्ष्म्यै नमः |\nॐ महागौर्यै नमः | ॐ चण्डिकायै नमः | ॐ सर्वज्ञायै नमः ||",
+          "meaning": "दुर्गेला नमस्कार, शिवेला, महालक्ष्मीला नमस्कार. महागौरीला, चंडिकेला, सर्वज्ञ देवीला नमस्कार.",
+          "transliteration": "Om Durgaayai Namah | Om Shivaayai Namah | Om Mahaaalakshmyai Namah |\nOm Mahaagauryai Namah | Om Chandikaayai Namah | Om Sarvajnaayai Namah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ सर्वलोकेश्यै नमः | ॐ सर्वकर्मफलप्रदायै नमः | ॐ सर्वतीर्थमयै नमः |\nॐ पुण्यायै नमः | ॐ देवयोनयै नमः | ॐ अयोनिजायै नमः ||",
+          "meaning": "सर्वलोकांच्या ईश्वरीला, सर्वकर्मफलदात्रीला, सर्वतीर्थमयीला नमस्कार. पुण्यमूर्तीला, दिव्य उत्पत्तीच्या, स्वयंजात देवीला नमस्कार.",
+          "transliteration": "Om Sarvalokeshyai Namah | Om Sarvakarma-Phalapradaayai Namah | Om Sarvateertha-Mayai Namah |\nOm Punyaayai Namah | Om Deva-Yonayai Namah | Om Ayonijaayai Namah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ भूमिजायै नमः | ॐ निर्गुणायै नमः | ॐ निष्कलायै नमः |\nॐ अनेकहस्तयुधायुधायै नमः | ॐ अनेकरूपविशिष्टायै नमः | ॐ अनेकाभयनाशिने नमः ||",
+          "meaning": "भूमिजात देवीला, निर्गुणाला, निष्कलाला नमस्कार. अनेक हातांत शस्त्रे धारण करणाऱ्या, अनेक रूपांनी विशिष्ट, अनेक भयांचा नाश करणाऱ्या देवीला नमस्कार.",
+          "transliteration": "Om Bhoomijaayai Namah | Om Nirgunaayai Namah | Om Nishkalaayai Namah |\nOm Anekahasta-Yudhaaayudhaayai Namah | Om Anekaroopa-vishishtaayai Namah | Om Anekaa-bhaya-naashine Namah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ अनेकास्त्रविशिष्टायै नमः | ॐ अनेकासुरवन्दित्यै नमः | ॐ अनेकशस्त्रहस्तायै नमः |\nॐ अनेकशस्त्रधारिणै नमः | ॐ अनेकविद्याशिष्टायै नमः | ॐ महिषासुरमर्दिन्यै नमः ||",
+          "meaning": "अनेक अस्त्रांनी विशिष्ट, अनेक देवांनी वंदित, अनेक शस्त्रांनी सज्ज हस्त असलेल्या देवीला नमस्कार. अनेक शस्त्रधारिणी, अनेक विद्यांत पारंगत, महिषासुरमर्दिनी देवीला नमस्कार.",
+          "transliteration": "Om Anekaastravishishtaayai Namah | Om Anekaasuravandit-yai Namah | Om Anekashastrahastaa-yai Namah |\nOm Anekashastradhaarinai Namah | Om Anekavidyaashish-taayai Namah | Om Mahishaasura-mardinyai Namah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ महिषघ्न्यै नमः | ॐ कामाक्ष्यै नमः | ॐ महाकाल्यै नमः |\nॐ भद्रकालिकायै नमः | ॐ स्वाहायै नमः | ॐ स्वधायै नमः ||",
+          "meaning": "महिषवधकर्त्रीला, कामाक्षीला, महाकालीला नमस्कार. भद्रकालीला, स्वाहादेवीला, स्वधादेवीला नमस्कार.",
+          "transliteration": "Om Mahishaghn-yai Namah | Om Kaamaakshyai Namah | Om Mahaakalyai Namah |\nOm Bhadrakaalikayai Namah | Om Svaahayai Namah | Om Svadhayai Namah ||",
+          "imageUrl": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "category": "Sahasranama v Sahasranamavali",
+  "version": 1,
+  "items": [
+    {
+      "id": "sahas_vishnu",
+      "title": "विष्णु सहस्रनाम",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/sahasranama/vishnu.jpg",
+      "orderIndex": 1,
+      "content": [
+        {
+          "shloka": "विश्वं विष्णुर्वषट्कारो भूतभव्यभवत्प्रभुः।\nभूतकृत् भूतभृत् भावो भूतात्मा भूतभावनः॥",
+          "meaning": "जो विश्व स्वरूप हैं, सर्वव्यापी विष्णु, वषट्कार स्वरूप, भूत-भविष्य-वर्तमान के स्वामी। प्राणियों के रचयिता, प्राणियों के पालनकर्ता, अस्तित्व स्वरूप, सभी प्राणियों की आत्मा, सभी प्राणियों के पोषक।",
+          "transliteration": "Viśvaṃ viṣṇurvaṣaṭkāro bhūtabhavyabhavatprabhuḥ|\nBhūtakṛt bhūtabhṛt bhāvo bhūtātmā bhūtabhāvanaḥ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "भूतात्मा परमात्मा च मुक्तानां परमा गतिः।\nअव्ययः पुरुषः साक्षी क्षेत्रज्ञो अक्षर एव च॥",
+          "meaning": "प्राणियों की आत्मा, परमात्मा, मुक्त आत्माओं की परम गति। अविनाशी, पुरुष, साक्षी, क्षेत्रज्ञ, अक्षर।",
+          "transliteration": "Bhūtātmā paramātmā ca muktānāṃ paramā gatiḥ|\nAvyayaḥ puruṣaḥ sākṣī kṣetrajño akṣara eva ca||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "योगो योगविदां नेता प्रधानपुरुषेश्वरः।\nनारसिंहवपुः श्रीमान् केशवः पुरुषोत्तमः॥",
+          "meaning": "योग स्वरूप, योगियों के नेता, प्रधान और पुरुष के ईश्वर। नरसिंह स्वरूप, श्रीमान, केशव, पुरुषोत्तम।",
+          "transliteration": "Yogo yogavidāṃ netā pradhānapuruṣeśvaraḥ|\nNārasiṃhavapuḥ śrīmān keśavaḥ puruṣottamaḥ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सर्वः शर्वः शिवः स्थाणुर्भूतादिर्निधिरव्ययः।\nसम्भवो भावनः भर्ता प्रभवः प्रभुरीश्वरः॥",
+          "meaning": "सब कुछ, संहारकर्ता, कल्याणकारी, स्थिर स्तम्भ। प्राणियों के आदि, अविनाशी निधि, सृष्टि का कारण, पालनकर्ता, प्रभव, प्रभु, ईश्वर।",
+          "transliteration": "Sarvaḥ śarvaḥ śivaḥ sthāṇurbhūtādirnidhiravyayaḥ|\nSambhavo bhāvanaḥ bhartā prabhavaḥ prabhurīśvaraḥ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "स्वयम्भूः शम्भुरादित्यः पुष्कराक्षो महास्वनः।\nअनादिनिधनो धाता विधाता धातुरुत्तमः॥",
+          "meaning": "स्वयम्भू, शम्भु, आदित्य, कमलनयन, महान ध्वनि वाले। अनादि-अनन्त, विधाता, निर्माता, सर्वश्रेष्ठ धातु।",
+          "transliteration": "Svayambhūḥ śambhurādityaḥ puṣkarākṣo mahāsvanaḥ|\nAnādinidhano dhātā vidhātā dhāturuttamaḥ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अप्रमेयो हृषीकेशो पद्मनाभोऽमरप्रभुः।\nविश्वकर्मा मनुष्ट्वष्टा स्थविष्ठः स्थविरोध्रुवः॥",
+          "meaning": "अप्रमेय, इन्द्रियों के स्वामी हृषीकेश, पद्मनाभ, अमरों के प्रभु। विश्वकर्मा, मनु, विश्व के शिल्पकार, सबसे विशाल, सबसे प्राचीन और अचल।",
+          "transliteration": "Aprameyo hṛṣīkeśo padmanābho'maraprabhuḥ|\nViśvakarmā manuṣṭvaṣṭā sthaviṣṭhaḥ sthavirodhruvaḥ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अग्राह्यः शाश्वतः कृष्णो लोहिताक्षः प्रतर्दनः।\nप्रभूतः त्रिककुब्धाम पवित्रं मंगलं परम्॥",
+          "meaning": "अग्राह्य, शाश्वत, कृष्ण, लोहिताक्ष, प्रतर्दन। प्रभूत, तीन दिशाओं का आधार, पवित्र, परम मंगल।",
+          "transliteration": "Agrāhyaḥ śāśvataḥ kṛṣṇo lohitākṣaḥ pratardanaḥ|\nPrabhūtaḥ trikakubdhāma pavitraṃ maṃgalaṃ param||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ईशानः प्राणदः प्राणो ज्येष्ठः श्रेष्ठः प्रजापतिः।\nहिरण्यगर्भो भूगर्भो माधवो मधुसूदनः॥",
+          "meaning": "ईशान, प्राणदाता, प्राण, ज्येष्ठ, श्रेष्ठ, प्रजापति। हिरण्यगर्भ, भूगर्भ, माधव, मधुसूदन।",
+          "transliteration": "Īśānaḥ prāṇadaḥ prāṇo jyeṣṭhaḥ śreṣṭhaḥ prajāpatiḥ|\nHiraṇyagarbho bhūgarbho mādhavo madhusūdanaḥ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ईश्वरो विक्रमी धन्वी मेधावी विक्रमः क्रमः।\nअनुत्तमो दुराधर्षो कृतज्ञः कृतिरात्मनः॥",
+          "meaning": "ईश्वर, विक्रमी, धनुर्धारी, मेधावी, विक्रम, क्रम। अनुत्तम, दुर्धर्ष, कृतज्ञ, कर्ता, आत्म स्वरूप।",
+          "transliteration": "Īśvaro vikramī dhanvī medhāvī vikramaḥ kramaḥ|\nAnuttamo durādharṣo kṛtajñaḥ kṛtirātmanaḥ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सुरेशः शरणं शर्म विश्वरेताः प्रजाभवः।\nअहः संवत्सरो व्यालः प्रत्ययः सर्वदर्शनः॥",
+          "meaning": "देवेश्वर, शरण, आनन्द, विश्व के बीज, प्रजाओं के उत्पत्तिकर्ता। दिन, संवत्सर, सर्प, विश्वास, सर्वदर्शी।",
+          "transliteration": "Sureśaḥ śaraṇaṃ śarma viśvaretāḥ prajābhavaḥ|\nAhaḥ saṃvatsaro vyālaḥ pratyayaḥ sarvadarśanaḥ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "sahas_shiva",
+      "title": "शिव सहस्रनाम",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/sahasranama/shiv.jpg",
+      "orderIndex": 2,
+      "content": [
+        {
+          "shloka": "स्थिरः स्थाणुः प्रभुर्भानुः प्रवरो वरदो वरः।\nसर्वात्मा सर्वविख्यातः सर्वः सर्वकरो भवः॥",
+          "meaning": "स्थिर, स्थाणु, प्रभु, भानु, प्रवर, वरद, वर। सर्वात्मा, सर्वविख्यात, सर्वस्वरूप, सर्वकर्ता, भव।",
+          "transliteration": "Sthiraḥ sthāṇuḥ prabhurbhānuḥ pravaro varado varaḥ|\nSarvātmā sarvavikhyātaḥ sarvaḥ sarvakaro bhavaḥ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जटी चर्मी शिखण्डी च सर्वांगः सर्वभावनः।\nहरिश्च हरिणाक्षश्च सर्वभूतहरः प्रभुः॥",
+          "meaning": "जटाधारी, चर्मधारी, शिखण्डी, सर्वांग, सर्वभावन। हरि, हरिणाक्ष, सभी प्राणियों का हरण करने वाले प्रभु।",
+          "transliteration": "Jaṭī carmī śikhaṇḍī ca sarvāṃgaḥ sarvabhāvanaḥ|\nHariśca hariṇākṣaśca sarvabhūtaharaḥ prabhuḥ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "प्रवृत्तिश्च निवृत्तिश्च नियतः शाश्वतो ध्रुवः।\nश्मशानवासी भगवान् खेचरः गोचरः अर्दनः॥",
+          "meaning": "प्रवृत्ति और निवृत्ति, नियत, शाश्वत, ध्रुव। श्मशानवासी भगवान, आकाशचारी, गोचर, अर्दन।",
+          "transliteration": "Pravṛttiśca nivṛttiśca niyataḥ śāśvato dhruvaḥ|\nŚmaśānavāsī bhagavān khecaraḥ gocaraḥ ardanaḥ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अभिवाद्यो महाकर्मा तपस्वी भूतभावनाः।\nउन्मत्तवेषःप्रच्छन्न जितकामो जितेन्द्रियः॥",
+          "meaning": "अभिवादनीय, महाकर्मा, तपस्वी, भूतभावन। उन्मत्त वेषधारी, प्रच्छन्न, कामजयी, इन्द्रियजयी।",
+          "transliteration": "Abhivādyo mahākarmā tapasvī bhūtabhāvanāḥ|\nUnmattaveṣaḥpracchanna jitakāmo jitendriyaḥ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कालकालः कृपालुर्व्यासकेशो महाबलाः।\nशिवप्रियः श्वेतलोहितः शैवः शरवणभवः॥",
+          "meaning": "काल के भी काल, कृपालु, बिखरे केशों वाले, महाबली। शिवप्रिय, श्वेत-लोहित, शैव, शरवणभव।",
+          "transliteration": "Kālakālaḥ kṛpālurvyāsakeśo mahābalāḥ|\nŚivapriyaḥ śvetalohitaḥ śaivaḥ śaravaṇabhavaḥ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "त्रिनेत्रश्च शुभेक्षणः कुण्डली कुण्डलीश्वरः।\nमेघजोबलिप्रियः सौख्यदः शान्तिदः सृष्टिकृत्॥",
+          "meaning": "त्रिनेत्र, शुभ दृष्टि वाले, कुण्डलधारी, कुण्डलीश्वर। मेघज, बलिप्रिय, सुखदाता, शान्तिदाता, सृष्टिकर्ता।",
+          "transliteration": "Trinetraśca śubhekṣaṇaḥ kuṇḍalī kuṇḍalīśvaraḥ|\nMeghajobalipriyaḥ saukhyadaḥ śāntidaḥ sṛṣṭikṛt||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "रुद्रो भूतपतिर्स्थाणुरहिर्बुध्न्यः दिगम्बरः।\nअष्टमूर्तिमहादेवः वृषांकः वृषवाहनः॥",
+          "meaning": "रुद्र, भूतपति, स्थाणु, अहिर्बुध्न्य, दिगम्बर। अष्टमूर्ति महादेव, वृषभांक, वृषभवाहन।",
+          "transliteration": "Rudro bhūtapatirsthāṇurahirbudhnyaḥ digambaraḥ|\nAṣṭamūrtimahādevaḥ vṛṣāṃkaḥ vṛṣavāhanaḥ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ईशानः पिंगलः शूलहस्तो धरणीधरः।\nउमापतिः पशुपतिः राजराजेश्वरः प्रभुः॥",
+          "meaning": "ईशान, पिंगल, शूलधारी, धरणीधर। उमापति, पशुपति, राजराजेश्वर, प्रभु।",
+          "transliteration": "Īśānaḥ piṃgalaḥ śūlahasto dharaṇīdharaḥ|\nUmāpatiḥ paśupatiḥ rājarājeśvaraḥ prabhuḥ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "महादेवः महेश्वरः चन्द्रशेखर चन्द्रमौलिः।\nविश्वाः विश्वम्भरेश्वरः वेदान्तसारसन्दोहः॥",
+          "meaning": "महादेव, महेश्वर, चन्द्रशेखर, चन्द्रमौलि। विश्वस्वरूप, विश्वम्भरेश्वर, वेदान्तसार के सन्दोह।",
+          "transliteration": "Mahādevaḥ maheśvaraḥ candraśekhara candramauliḥ|\nViśvāḥ viśvambhareśvaraḥ vedāntasārasandohaḥ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कपर्दी नीललोहितः शंकरः शूलपाणिर्व्योमकेशो।\nभगनेत्रभिदनन्तः महानिधिः प्रियंकरः॥",
+          "meaning": "कपर्दी, नीललोहित, शंकर, शूलपाणि, व्योमकेश। भग के नेत्रों को नष्ट करने वाले, अनन्त, महानिधि, प्रियंकर।",
+          "transliteration": "Kapardī nīlalohitaḥ śaṃkaraḥ śūlapāṇirvyomakeśo|\nBhaganetrabhidanantaḥ mahānidhiḥ priyaṃkaraḥ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "sahas_lalita",
+      "title": "ललिता सहस्रनाम",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/sahasranama/durga.jpg",
+      "orderIndex": 3,
+      "content": [
+        {
+          "shloka": "श्रीमाता श्रीमहाराज्ञी श्रीमत्सिंहासनेश्वरी।\nचिदग्निकुण्डसम्भूता देवकार्यसमुद्यता॥",
+          "meaning": "श्रीमाता, श्रीमहाराज्ञी, श्रीमत् सिंहासन की ईश्वरी। चित् अग्निकुण्ड से उत्पन्न, देवताओं के कार्य के लिए उद्यत।",
+          "transliteration": "Śrīmātā śrīmahārājñī śrīmatsiṃhāsaneśvarī|\nCidagnikuṇḍasambhūtā devakāryasamudyatā||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "उद्यद्भानुसहस्राभा चतुर्बाहुसमन्विता।\nरागस्वरूपपाशाढ्या क्रोधाकाराङ्कुशोज्ज्वला॥",
+          "meaning": "सहस्र उदित सूर्यों के समान प्रभा वाली, चार भुजाओं से सुसज्जित। राग स्वरूपी पाश से सम्पन्न, क्रोध स्वरूपी अंकुश से उज्ज्वल।",
+          "transliteration": "Udyadbhānusahasrābhā caturbāhusamanvitā|\nRāgasvarūpapāśāḍhyā krodhākārāṅkuśojjvalā||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "मनोरूपेक्षुकोदण्डा पञ्चतन्मात्रसायका।\nनिजारुणप्रभापूरमज्जद्ब्रह्माण्डमण्डला॥",
+          "meaning": "मन रूपी इक्षुदण्ड (गन्ने का धनुष) वाली, पाँच तन्मात्राओं के बाण वाली। जिनकी अरुण प्रभा में सम्पूर्ण ब्रह्माण्ड मण्डल डूबा हुआ है।",
+          "transliteration": "Manorūpekṣukodaṇḍā pañcatanmātrasāyakā|\nNijāruṇaprabhāpūramajjadbrahmāṇḍamaṇḍalā||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "चम्पकाशोकपुन्नागसौगन्धिकलसत्कचा।\nकुरुविन्दमणिश्रेणीकनत्कोटीरमण्डिता॥",
+          "meaning": "चम्पक, अशोक, पुन्नाग और सौगन्धिक पुष्पों से सुशोभित केशों वाली। कुरुविन्द मणियों की पंक्ति से चमकते मुकुट से मण्डित।",
+          "transliteration": "Campakāśokapunnāgasaugandhikalasatkacā|\nKuruvindamaṇiśreṇīkanatkoṭīramaṇḍitā||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अष्टमीचन्द्रविभ्राजदलिकास्थलशोभिता।\nमुखचन्द्रकलांकाभमृगानाभिविशेषका॥",
+          "meaning": "अष्टमी के चन्द्रमा जैसे चमकते ललाट स्थल से शोभित। मुख चन्द्रमा पर कस्तूरी के तिलक वाली जो चन्द्रमा के कलंक जैसा दिखता है।",
+          "transliteration": "Aṣṭamīcandravibhrājadalikāsthalaśobhitā|\nMukhacandrakalāṃkābhamṛgānābhiviśeṣakā||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "वदनस्मरमांगल्यगृहतोरणचिल्लिका।\nवक्त्रलक्ष्मीपरिवाहचलन्मीनाभलोचना॥",
+          "meaning": "जिनका मुख कामदेव के मंगल गृह का तोरण है। जिनके मछली जैसे नेत्र मुख की लक्ष्मी की धारा में तैरते हैं।",
+          "transliteration": "Vadanasmaramāṃgalyagṛhatoraṇacillikā|\nVaktralakṣmīparivāhacalanmīnābhalocanā||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "नवचम्पकपुष्पाभानासादण्डविराजिता।\nताराकान्तितिरस्कारिनासाभरणभासुरा॥",
+          "meaning": "नव चम्पक पुष्प जैसी सुन्दर नासिका से विराजित। तारों की कान्ति को तिरस्कृत करने वाले नासाभरण से भासुर।",
+          "transliteration": "Navacampakapuṣpābhānāsādaṇḍavirājitā|\nTārākāntitiraskārināsābharaṇabhāsurā||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कदम्बमंजरीक्लिप्तकर्णपूरमनोहरा।\nताटंकयुगलीभूतताअपनोदूपमण्डला॥",
+          "meaning": "कदम्ब की मंजरियों से बने कर्णपूर से मनोहर। जिनके कर्णाभूषणों के युगल सूर्य-चन्द्र के मण्डलों को मात करते हैं।",
+          "transliteration": "Kadambamaṃjarīkliptakarṇapūramanoharā|\nTāṭaṃkayugalībhūtatāapanodūpamaṇḍalā||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "पद्मरागशिलादर्शपरिभाविकपोलभूः।\nनवविद्रुमबिम्बश्रीन्यक्कारिरदनच्छदा॥",
+          "meaning": "जिनके कपोल पद्मराग मणि के दर्पण को लज्जित करते हैं। जिनके अधर नव विद्रुम (मूँगा) और बिम्बफल की शोभा को परास्त करते हैं।",
+          "transliteration": "Padmarāgaśilādarśaparibhāvikapolabhūḥ|\nNavavidrumabimbaśrīnyakkāriradanacchadā||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "शुद्धविद्यांकुराकारद्विजपंक्तिद्वयोज्ज्वला।\nकर्पूरवीटिकामोदसमाकर्षिदिगन्तरा॥",
+          "meaning": "जिनकी दन्त पंक्ति शुद्ध विद्या के अंकुरों जैसी उज्ज्वल है। जिनकी कर्पूरयुक्त ताम्बूल की सुगन्ध सभी दिशाओं को आकर्षित करती है।",
+          "transliteration": "Śuddhavidyāṃkurākāradvijapaṃktidvayojjvalā|\nKarpūravīṭikāmodasamākarṣidigantarā||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "sahas_lakshmi",
+      "title": "लक्ष्मी अष्टोत्तर शतनाम",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/sahasranama/lakshmi.jpg",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "ॐ प्रकृत्यै नमः। ॐ विकृत्यै नमः। ॐ विद्यायै नमः।\nॐ सर्वभूतहितप्रदायै नमः। ॐ श्रद्धायै नमः। ॐ विभूत्यै नमः।",
+          "meaning": "प्रकृति को नमन, विकृति को नमन, विद्या को नमन। सर्व प्राणियों का हित करने वाली को नमन, श्रद्धा को नमन, विभूति को नमन।",
+          "transliteration": "Oṃ prakṛtyai namaḥ| oṃ vikṛtyai namaḥ| oṃ vidyāyai namaḥ|\nOṃ sarvabhūtahitapradāyai namaḥ| oṃ śraddhāyai namaḥ| oṃ vibhūtyai namaḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ सुरभ्यै नमः। ॐ परमात्मिकायै नमः। ॐ वाच्यै नमः।\nॐ पद्मालयायै नमः। ॐ पद्मायै नमः। ॐ शुचये नमः।",
+          "meaning": "सुरभि को नमन, परमात्मिका को नमन, वाच्या को नमन। पद्मालया को नमन, पद्मा को नमन, शुचि को नमन।",
+          "transliteration": "Oṃ surabhyai namaḥ| oṃ paramātmikāyai namaḥ| oṃ vācyai namaḥ|\nOṃ padmālayāyai namaḥ| oṃ padmāyai namaḥ| oṃ śucaye namaḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ स्वाहायै नमः। ॐ स्वधायै नमः। ॐ सुधायै नमः।\nॐ धन्यायै नमः। ॐ हिरण्मयै नमः। ॐ लक्ष्म्यै नमः।",
+          "meaning": "स्वाहा को नमन, स्वधा को नमन, सुधा (अमृत) को नमन। धन्या को नमन, हिरण्मयी (स्वर्णमयी) को नमन, लक्ष्मी को नमन।",
+          "transliteration": "Oṃ svāhāyai namaḥ| oṃ svadhāyai namaḥ| oṃ sudhāyai namaḥ|\nOṃ dhanyāyai namaḥ| oṃ hiraṇmayai namaḥ| oṃ lakṣmyai namaḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ नित्यपुष्टायै नमः। ॐ विभावर्यै नमः। ॐ आदित्यायै नमः।\nॐ दित्त्यै नमः। ॐ दीपायै नमः। ॐ वसुन्धायै नमः।",
+          "meaning": "नित्यपुष्टा को नमन, विभावरी को नमन, आदित्या को नमन। दीप्ति को नमन, दीपा को नमन, वसुन्धा को नमन।",
+          "transliteration": "Oṃ nityapuṣṭāyai namaḥ| oṃ vibhāvaryai namaḥ| oṃ ādityāyai namaḥ|\nOṃ dittyai namaḥ| oṃ dīpāyai namaḥ| oṃ vasundhāyai namaḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ वसुन्धरायै नमः। ॐ कमलायै नमः। ॐ कान्तायै नमः।\nॐ कामाक्ष्यै नमः। ॐ क्रोधसम्भवायै नमः। ॐ अनुग्रहप्रदायै नमः।",
+          "meaning": "वसुन्धरा को नमन, कमला को नमन, कान्ता को नमन। कामाक्षी को नमन, क्रोधसम्भवा को नमन, अनुग्रहप्रदा को नमन।",
+          "transliteration": "Oṃ vasundharāyai namaḥ| oṃ kamalāyai namaḥ| oṃ kāntāyai namaḥ|\nOṃ kāmākṣyai namaḥ| oṃ krodhasambhavāyai namaḥ| oṃ anugrahapradāyai namaḥ|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "sahas_ganesh_108",
+      "title": "गणेश अष्टोत्तर शतनाम",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/sahasranama/ganesh.jpg",
+      "orderIndex": 5,
+      "content": [
+        {
+          "shloka": "ॐ विनायकाय नमः। ॐ विघ्नराजाय नमः। ॐ गौरीपुत्राय नमः।\nॐ गणेश्वराय नमः। ॐ स्कन्दाग्रजाय नमः। ॐ अव्ययाय नमः।",
+          "meaning": "विनायक को नमन, विघ्नराज को नमन, गौरीपुत्र को नमन। गणेश्वर को नमन, स्कन्द के अग्रज को नमन, अव्यय को नमन।",
+          "transliteration": "Oṃ vināyakāya namaḥ| oṃ vighnarājāya namaḥ| oṃ gaurīputrāya namaḥ|\nOṃ gaṇeśvarāya namaḥ| oṃ skandāgrajāya namaḥ| oṃ avyayāya namaḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ पूताय नमः। ॐ दक्षाय नमः। ॐ अध्यक्षाय नमः।\nॐ द्विजप्रियाय नमः। ॐ अग्निगर्भच्छिदे नमः। ॐ इन्द्रश्रीप्रदाय नमः।",
+          "meaning": "पूत को नमन, दक्ष को नमन, अध्यक्ष को नमन। द्विजप्रिय को नमन, अग्निगर्भच्छिद को नमन, इन्द्रश्रीप्रद को नमन।",
+          "transliteration": "Oṃ pūtāya namaḥ| oṃ dakṣāya namaḥ| oṃ adhyakṣāya namaḥ|\nOṃ dvijapriyāya namaḥ| oṃ agnigarbhacchide namaḥ| oṃ indraśrīpradāya namaḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ वनस्पतये नमः। ॐ अव्यग्राय नमः। ॐ सर्वसिद्धिप्रदाय नमः।\nॐ सर्वतनयाय नमः। ॐ सर्वरिप्रियाय नमः। ॐ सर्वात्मकाय नमः।",
+          "meaning": "वनस्पति को नमन, निर्भय को नमन, सर्वसिद्धिप्रद को नमन। सर्वतनय को नमन, सर्वरिप्रिय को नमन, सर्वात्मक को नमन।",
+          "transliteration": "Oṃ vanaspataye namaḥ| oṃ avyagrāya namaḥ| oṃ sarvasiddhipradāya namaḥ|\nOṃ sarvatanayāya namaḥ| oṃ sarvaripriyāya namaḥ| oṃ sarvātmakāya namaḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ सृष्टिकर्त्रे नमः। ॐ देवाय नमः। ॐ एकदन्ताय नमः।\nॐ चतुर्भुजाय नमः। ॐ शक्तिघ्नाय नमः। ॐ शम्भवाय नमः।",
+          "meaning": "सृष्टिकर्ता को नमन, देव को नमन, एकदन्त को नमन। चतुर्भुज को नमन, शक्तिघ्न को नमन, शम्भव (शिवपुत्र) को नमन।",
+          "transliteration": "Oṃ sṛṣṭikartre namaḥ| oṃ devāya namaḥ| oṃ ekadantāya namaḥ|\nOṃ caturbhujāya namaḥ| oṃ śaktighnāya namaḥ| oṃ śambhavāya namaḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ गजाननाय नमः। ॐ सुरेश्वराय नमः। ॐ लम्बोदराय नमः।\nॐ गजकर्णकाय नमः। ॐ विकटाय नमः। ॐ विघ्ननाशिने नमः।",
+          "meaning": "गजानन को नमन, सुरेश्वर को नमन, लम्बोदर को नमन। गजकर्ण को नमन, विकट को नमन, विघ्ननाशी को नमन।",
+          "transliteration": "Oṃ gajānanāya namaḥ| oṃ sureśvarāya namaḥ| oṃ lambodarāya namaḥ|\nOṃ gajakarṇakāya namaḥ| oṃ vikaṭāya namaḥ| oṃ vighnanāśine namaḥ|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "sahas_hanuman_108",
+      "title": "हनुमान अष्टोत्तर शतनाम",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/sahasranama/hanuman.jpg",
+      "orderIndex": 6,
+      "content": [
+        {
+          "shloka": "ॐ हनुमन्ते नमः। ॐ आञ्जनेयाय नमः। ॐ वायुपुत्राय नमः।\nॐ महाबलाय नमः। ॐ रामेष्ठाय नमः। ॐ फाल्गुनसखाय नमः।",
+          "meaning": "हनुमान को नमन, अंजनी के पुत्र को नमन, वायुपुत्र को नमन। महाबली को नमन, राम के प्रिय को नमन, अर्जुन के सखा को नमन।",
+          "transliteration": "Oṃ hanumante namaḥ| oṃ āñjaneyāya namaḥ| oṃ vāyuputrāya namaḥ|\nOṃ mahābalāya namaḥ| oṃ rāmeṣṭhāya namaḥ| oṃ phālgunasakhāya namaḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ पिंगाक्षाय नमः। ॐ अमितविक्रमाय नमः। ॐ उदधिक्रमाय नमः।\nॐ सीताशोकनिवारणाय नमः। ॐ लक्ष्मणप्राणदात्रे नमः। ॐ दशग्रीवदर्पह्ने नमः।",
+          "meaning": "पिंगाक्ष को नमन, अमितविक्रम को नमन, समुद्र लांघने वाले को नमन। सीता के शोक का निवारण करने वाले को नमन, लक्ष्मण को प्राणदान करने वाले को नमन, रावण के दर्प को नष्ट करने वाले को नमन।",
+          "transliteration": "Oṃ piṃgākṣāya namaḥ| oṃ amitavikramāya namaḥ| oṃ udadhikramāya namaḥ|\nOṃ sītāśokanivāraṇāya namaḥ| oṃ lakṣmaṇaprāṇadātre namaḥ| oṃ daśagrīvadarpahne namaḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ चिरंजीविने नमः। ॐ रामभक्ताय नमः। ॐ दैत्यकार्यविघातकाय नमः।\nॐ अक्षहन्त्रे नमः। ॐ काञ्चनाभाय नमः। ॐ पञ्चवक्त्राय नमः।",
+          "meaning": "चिरंजीवी को नमन, रामभक्त को नमन, दैत्यों के कार्यों का विघ्न करने वाले को नमन। अक्षकुमार के वधकर्ता को नमन, स्वर्णाभ को नमन, पंचमुख को नमन।",
+          "transliteration": "Oṃ ciraṃjīvine namaḥ| oṃ rāmabhaktāya namaḥ| oṃ daityakāryavighātakāya namaḥ|\nOṃ akṣahantre namaḥ| oṃ kāñcanābhāya namaḥ| oṃ pañcavaktrāya namaḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ महातपसे नमः। ॐ लंकिनीदहनाय नमः। ॐ श्रीमते नमः।\nॐ सिंहिकाप्राणभञ्जाय नमः। ॐ गन्धमादनशैलस्थाय नमः। ॐ लंकिनीभञ्जनाय नमः।",
+          "meaning": "महातपस्वी को नमन, लंका को जलाने वाले को नमन, श्रीमान को नमन। सिंहिका का वध करने वाले को नमन, गन्धमादन पर्वत पर विराजमान को नमन, लंकिनी को पराजित करने वाले को नमन।",
+          "transliteration": "Oṃ mahātapase namaḥ| oṃ laṃkinīdahanāya namaḥ| oṃ śrīmate namaḥ|\nOṃ siṃhikāprāṇabhañjāya namaḥ| oṃ gandhamādanaśailasthāya namaḥ| oṃ laṃkinībhañjanāya namaḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ श्रीमद्रामचरणसेविने नमः। ॐ वज्रदेहाय नमः। ॐ सर्वरोगहराय नमः।\nॐ परवीरघ्नाय नमः। ॐ सर्वशक्तिमताय नमः। ॐ सर्वमन्त्रस्वरूपाय नमः।",
+          "meaning": "श्रीराम के चरणों की सेवा करने वाले को नमन, वज्र शरीर को नमन, सर्व रोगहारी को नमन। शत्रुवीरों का वध करने वाले को नमन, सर्वशक्तिमान को नमन, सर्वमन्त्रस्वरूप को नमन।",
+          "transliteration": "Oṃ śrīmadrāmacaraṇasevine namaḥ| oṃ vajradehāya namaḥ| oṃ sarvarogaharāya namaḥ|\nOṃ paravīraghnāya namaḥ| oṃ sarvaśaktimatāya namaḥ| oṃ sarvamantrasvarūpāya namaḥ|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "sahas_krishna_108",
+      "title": "कृष्ण अष्टोत्तर शतनाम",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/sahasranama/krishna.jpg",
+      "orderIndex": 7,
+      "content": [
+        {
+          "shloka": "ॐ कृष्णाय नमः। ॐ कमलनाथाय नमः। ॐ वासुदेवाय नमः।\nॐ सनातनाय नमः। ॐ वसुदेवात्मजाय नमः। ॐ पुण्याय नमः।",
+          "meaning": "कृष्ण को नमन, कमलनाथ (लक्ष्मीपति) को नमन, वासुदेव को नमन। सनातन को नमन, वसुदेव के पुत्र को नमन, पुण्यस्वरूप को नमन।",
+          "transliteration": "Oṃ kṛṣṇāya namaḥ| oṃ kamalanāthāya namaḥ| oṃ vāsudevāya namaḥ|\nOṃ sanātanāya namaḥ| oṃ vasudevātmajāya namaḥ| oṃ puṇyāya namaḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ लीलामानुषविग्रहाय नमः। ॐ श्रीवत्सकौस्तुभधराय नमः। ॐ यशोदावत्सलाय नमः।\nॐ हरये नमः। ॐ चतुर्भुजात्तचक्रासिगदाशंखाम्बुजायुधाय नमः।",
+          "meaning": "लीला से मानव शरीर धारण करने वाले को नमन, श्रीवत्स और कौस्तुभ धारी को नमन, यशोदा के वत्सल को नमन। हरि को नमन, चतुर्भुजधारी चक्र-तलवार-गदा-शंख-कमल आयुधों वाले को नमन।",
+          "transliteration": "Oṃ līlāmānuṣavigrahāya namaḥ| oṃ śrīvatsakaustubhadharāya namaḥ| oṃ yaśodāvatsalāya namaḥ|\nOṃ haraye namaḥ| oṃ caturbhujāttacakrāsigadāśaṃkhāmbujāyudhāya namaḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ देवकीनन्दनाय नमः। ॐ श्रीशाय नमः। ॐ नन्दगोपप्रियात्मजाय नमः।\nॐ यमुनावेगसंहर्त्रे नमः। ॐ बलभद्रप्रियानुजाय नमः।",
+          "meaning": "देवकी के नन्दन को नमन, श्री के स्वामी को नमन, नन्दगोप के प्रिय पुत्र को नमन। यमुना के वेग में क्रीड़ा करने वाले को नमन, बलराम के प्रिय अनुज को नमन।",
+          "transliteration": "Oṃ devakīnandanāya namaḥ| oṃ śrīśāya namaḥ| oṃ nandagopapriyātmajāya namaḥ|\nOṃ yamunāvegasaṃhartre namaḥ| oṃ balabhadrapriyānujāya namaḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ पूतनाजीवितहराय नमः। ॐ शकटासुरभञ्जनाय नमः। ॐ नन्दव्रजजनानन्दिने नमः।\nॐ सच्चिदानन्दविग्रहाय नमः। ॐ नवनीतविलिप्तांगाय नमः। ॐ नवनीतनटाय नमः।",
+          "meaning": "पूतना का प्राणहरण करने वाले को नमन, शकटासुर को तोड़ने वाले को नमन, नन्दव्रज के लोगों को आनन्द देने वाले को नमन। सच्चिदानन्द विग्रह को नमन, नवनीत (मक्खन) से लिप्त अंगों वाले को नमन, मक्खन के लिए नाचने वाले को नमन।",
+          "transliteration": "Oṃ pūtanājīvitaharāya namaḥ| oṃ śakaṭāsurabhañjanāya namaḥ| oṃ nandavrajajanānandine namaḥ|\nOṃ saccidānandavigrahāya namaḥ| oṃ navanītaviliptāṃgāya namaḥ| oṃ navanītanaṭāya namaḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ अनघाय नमः। ॐ नवनीतनवाहरिणे नमः। ॐ मुचुकुन्दप्रसादकाय नमः।\nॐ षोडशस्त्रीसहस्रेशाय नमः। ॐ त्रिभंगीमुरलीधराय नमः। ॐ मधुराय नमः।",
+          "meaning": "निष्पाप को नमन, नवनीत चुराने वाले को नमन, मुचुकुन्द पर कृपा करने वाले को नमन। सोलह हजार रानियों के स्वामी को नमन, त्रिभंगी मुरलीधर को नमन, मधुर स्वरूप को नमन।",
+          "transliteration": "Oṃ anaghāya namaḥ| oṃ navanītanavāhariṇe namaḥ| oṃ mucukundaprasādakāya namaḥ|\nOṃ ṣoḍaśastrīsahasreśāya namaḥ| oṃ tribhaṃgīmuralīdharāya namaḥ| oṃ madhurāya namaḥ|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "sahas_durga_108",
+      "title": "दुर्गा अष्टोत्तर शतनाम",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/sahasranama/durga.jpg",
+      "orderIndex": 8,
+      "content": [
+        {
+          "shloka": "ॐ दुर्गायै नमः। ॐ शिवायै नमः। ॐ महालक्ष्म्यै नमः।\nॐ महागौर्यै नमः। ॐ चण्डिकायै नमः। ॐ सर्वज्ञायै नमः।",
+          "meaning": "दुर्गा को नमन, शिवा को नमन, महालक्ष्मी को नमन। महागौरी को नमन, चण्डिका को नमन, सर्वज्ञा को नमन।",
+          "transliteration": "Oṃ durgāyai namaḥ| oṃ śivāyai namaḥ| oṃ mahālakṣmyai namaḥ|\nOṃ mahāgauryai namaḥ| oṃ caṇḍikāyai namaḥ| oṃ sarvajñāyai namaḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ सर्वलोकेश्यै नमः। ॐ सर्वकर्मफलप्रदायै नमः। ॐ सर्वतीर्थमयै नमः।\nॐ पुण्यायै नमः। ॐ देवयोनयै नमः। ॐ अयोनिजायै नमः।",
+          "meaning": "सर्वलोकेश्वरी को नमन, सर्वकर्मफलप्रदा को नमन, सर्वतीर्थमयी को नमन। पुण्या को नमन, देवयोनि को नमन, अयोनिजा (स्वयम्भू) को नमन।",
+          "transliteration": "Oṃ sarvalokeśyai namaḥ| oṃ sarvakarmaphalapradāyai namaḥ| oṃ sarvatīrthamayai namaḥ|\nOṃ puṇyāyai namaḥ| oṃ devayonayai namaḥ| oṃ ayonijāyai namaḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ भूमिजायै नमः। ॐ निर्गुणायै नमः। ॐ निष्कलायै नमः।\nॐ अनेकहस्तयुधायुधायै नमः। ॐ अनेकरूपविशिष्टायै नमः। ॐ अनेकाभयनाशिने नमः।",
+          "meaning": "भूमिजा को नमन, निर्गुणा को नमन, निष्कला को नमन। अनेक हाथों में अस्त्र-शस्त्र धारण करने वाली को नमन, अनेक रूपों से विशिष्ट को नमन, अनेक भयों का नाश करने वाली को नमन।",
+          "transliteration": "Oṃ bhūmijāyai namaḥ| oṃ nirguṇāyai namaḥ| oṃ niṣkalāyai namaḥ|\nOṃ anekahastayudhāyudhāyai namaḥ| oṃ anekarūpaviśiṣṭāyai namaḥ| oṃ anekābhayanāśine namaḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ अनेकास्त्रविशिष्टायै नमः। ॐ अनेकासुरवन्दित्यै नमः। ॐ अनेकाशस्त्रहस्तायै नमः।\nॐ अनेकाशस्त्रधारिणै नमः। ॐ अनेकाविद्याशिष्टायै नमः। ॐ महिषासुरमर्दिन्यै नमः।",
+          "meaning": "अनेक अस्त्रों से विशिष्ट को नमन, अनेक देवताओं द्वारा वन्दित को नमन, अनेक शस्त्र हस्त वाली को नमन। अनेक शस्त्र धारिणी को नमन, अनेक विद्याओं में प्रवीण को नमन, महिषासुर मर्दिनी को नमन।",
+          "transliteration": "Oṃ anekāstraviśiṣṭāyai namaḥ| oṃ anekāsuravandityai namaḥ| oṃ anekāśastrahastāyai namaḥ|\nOṃ anekāśastradhāriṇai namaḥ| oṃ anekāvidyāśiṣṭāyai namaḥ| oṃ mahiṣāsuramardinyai namaḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ महिषघ्न्यै नमः। ॐ कामाक्ष्यै नमः। ॐ महाकाल्यै नमः।\nॐ भद्रकालिकायै नमः। ॐ स्वाहायै नमः। ॐ स्वधायै नमः।",
+          "meaning": "महिषवधकर्त्री को नमन, कामाक्षी को नमन, महाकाली को नमन। भद्रकालिका को नमन, स्वाहा को नमन, स्वधा को नमन।",
+          "transliteration": "Oṃ mahiṣaghnyai namaḥ| oṃ kāmākṣyai namaḥ| oṃ mahākālyai namaḥ|\nOṃ bhadrakālikāyai namaḥ| oṃ svāhāyai namaḥ| oṃ svadhāyai namaḥ|",
+          "imageUrl": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,492 @@
+{
+  "category": "Dnyaneshwari",
+  "version": 1,
+  "items": [
+    {
+      "id": "dnya_ch01",
+      "title": "Chapter 1 - Arjuna's Despondency",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/dnyaneshwari/dnyaneshwar.jpg",
+      "orderIndex": 1,
+      "content": [
+        {
+          "shloka": "Om namoji adya, vedarupa tumchi ya.\nDeva tuchi Ganapati, sakala mati pradnyaa.",
+          "meaning": "O Lord, the primordial one, You are the embodiment of the Vedas. O Ganapati, You are the source of all wisdom and intelligence.",
+          "transliteration": "Oṃ namojī ādyā, vedarūpā tumhī yā|\nDevā tūci gaṇapatī, sakaḻa mati prajñā|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Aarti vidhiche aale, pandavanche sthiti bhalee.\nArjuna dekhi swajanaa, mana bhetale vedanaa.",
+          "meaning": "When the time of the great war arrived, the Pandavas stood ready. But Arjuna, seeing his own kinsmen on the battlefield, was overcome with grief and anguish.",
+          "transliteration": "Āratī vidhīce āle, pāṃḍavāṃce sthitī bhalī|\nArjunā dekhī svajanāṃ, manā bheṭale vedanā|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Arjuna bolatse Krishnaa, mana majhe dukhee jaanaa.\nSwajana maaruni kaaya milave, paapa aahe hey sarva gave.",
+          "meaning": "Arjuna speaks to Krishna: 'Know that my mind is full of sorrow. What shall I gain by killing my own kinsmen? This is nothing but sin.'",
+          "transliteration": "Arjuna bolatase kṛṣṇā, mana mājhe duḥkhī jāṇā|\nSvajana mārunī kāya miḻave, pāpa āhe he sarva gāve|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kuladharma asa jaati, kula naashi paapa gheti.\nStreeyancha ashaucha hote, varnasankara janmate.",
+          "meaning": "When the family dharma is destroyed, sin overtakes the entire clan. Women are dishonored, and from that disorder is born the confusion of castes.",
+          "transliteration": "Kuladharma asā jātī, kula nāśī pāpa ghetī|\nStriyāṃcā aśauca hote, varṇasaṃkara janmate|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Dhanusha tyaaguni Arjuna, basala rathee karunaa.\nNetra bhaRoni aasuvaa, Krishnaa paahe dayaavaa.",
+          "meaning": "Casting aside his bow, Arjuna sat down in the chariot, overcome with compassion. With eyes brimming with tears, he gazed at Krishna, seeking mercy.",
+          "transliteration": "Dhanuṣya tyāgunī arjuna, basalā rathī karuṇā|\nNetra bharonī āsuvāṃ, kṛṣṇā pāhe dayāvā|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Yethoni Dnyaanadeva, mhane shevatee hevaa.\nPahila adhyaaya sampoorNa, Arjuna vishada purNa.",
+          "meaning": "Here, Dnyanadeva (Saint Dnyaneshwar) says with devotion: the first chapter is complete, and Arjuna's despondency has been fully described.",
+          "transliteration": "Yethonī jñānadeva, mhaṇe śevaṭī hevā|\nPahilā adhyāya saṃpūrṇa, arjuna viṣāda pūrṇa|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "dnya_ch02",
+      "title": "Chapter 2 - Sankhya Yoga",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/dnyaneshwari/dnyaneshwar.jpg",
+      "orderIndex": 2,
+      "content": [
+        {
+          "shloka": "Na tvevaaham jaatu naasam, na tvam neme janaadhipaa.\nNa chaiva na bhavishyaamah, sarve vayam atah param.",
+          "meaning": "Never was there a time when I did not exist, nor you, nor all these kings. Nor in the future shall any of us cease to be.",
+          "transliteration": "Na tvevāhaṃ jātu nāsaṃ na tvaṃ neme janādhipāḥ|\nNa caiva na bhaviṣyāmaḥ sarve vayamataḥ param|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Vaasaamsi jeernaani yathaa vihaaya, navaani grihnaati naro paraani.\nTathaa shareeraani vihaaya jeernaani, anyaani samyaati navaani dehee.",
+          "meaning": "Just as a person discards worn-out garments and puts on new ones, so does the embodied soul cast off worn-out bodies and enter new ones.",
+          "transliteration": "Vāsāṃsi jīrṇāni yathā vihāya navāni gṛhṇāti naro'parāṇi|\nTathā śarīrāṇi vihāya jīrṇāni anyāni saṃyāti navāni dehī|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Nainam chhindanti shastraani, nainam dahati paavakah.\nNa chainam kledayantyaapo, na shoshayati maarutah.",
+          "meaning": "Weapons cannot cleave the soul, fire cannot burn it, water cannot wet it, and wind cannot dry it.",
+          "transliteration": "Nainaṃ chindanti śastrāṇi nainaṃ dahati pāvakaḥ|\nNa cainaṃ kledayantyāpo na śoṣayati mārutaḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Karmanye vaadhikaaraste, maa phaleshu kadaachana.\nMaa karmaphalaheturbhoo, maa te sangostvakarmani.",
+          "meaning": "You have the right to perform your duty, but never to its fruits. Let not the fruit of action be your motive, nor let your attachment be to inaction.",
+          "transliteration": "Karmaṇyevādhikāraste mā phaleṣu kadācana|\nMā karmaphalaheturbhūrmā te saṅgo'stvakarmaṇi|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Yogasthah kuru karmaani, sangam tyaktvaa dhananjaya.\nSiddhyasiddhyoh samo bhootvaa, samatvam yoga uchyate.",
+          "meaning": "Perform your actions, O Arjuna, being steadfast in Yoga, abandoning attachment, and being balanced in success and failure. Such equanimity is called Yoga.",
+          "transliteration": "Yogasthaḥ kuru karmāṇi saṅgaṃ tyaktvā dhanañjaya|\nSiddhyasiddhyoḥ samo bhūtvā samatvaṃ yoga ucyate|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sthitapradnyasya kaa bhaashaa, samaadhisthasya keshava.\nSthitadheeh kim prabhaasheta, kimaaseeta vrajeta kim.",
+          "meaning": "What is the description of a person of steady wisdom who is absorbed in Samadhi, O Keshava? How does one of steady mind speak, sit, and walk?",
+          "transliteration": "Sthitaprajñasya kā bhāṣā samādhisthasya keśava|\nSthitadhīḥ kiṃ prabhāṣeta kimāsīta vrajeta kim|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Dnyaaneshwar mhane yethee, sankhyayoga vivruttee.\nAatmaa amar jaaNavaa, karmayogee phala tyaagavaa.",
+          "meaning": "Dnyaneshwar says here, the Sankhya Yoga is explained fully. Know the soul as immortal, and as a Karma Yogi, renounce the fruit of actions.",
+          "transliteration": "Jñāneśvara mhaṇe yethī, sāṃkhyayoga vivṛttī|\nĀtmā amara jāṇavā, karmayogī phaḻa tyāgavā|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "dnya_ch03",
+      "title": "Chapter 3 - Karma Yoga",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/dnyaneshwari/dnyaneshwar.jpg",
+      "orderIndex": 3,
+      "content": [
+        {
+          "shloka": "Na karmanaam anaarambhaat, naishkarmyam purusho'shnute.\nNa cha sannyasanaadeva, siddhim samadhigachchhati.",
+          "meaning": "Not by abstaining from work does one attain freedom from action, nor by mere renunciation alone does one reach perfection.",
+          "transliteration": "Na karmaṇāmanārambhānnaiṣkarmyaṃ puruṣo'śnute|\nNa ca sannyasanādeva siddhiṃ samadhigacchati|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Na hi kashchit kshanamaapi, jaatu tishthatyakarmakrit.\nKaaryate hyavashah karma, sarvah prakritijairgunaih.",
+          "meaning": "No one can remain without action even for a moment. Everyone is helplessly driven to act by the qualities born of nature.",
+          "transliteration": "Na hi kaścitkṣaṇamapi jātu tiṣṭhatyakarmakṛt|\nKāryate hyavaśaḥ karma sarvaḥ prakṛtijairguṇaiḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Yadyadaacharati shreshthah, tattadevetaro janah.\nSa yat pramaanam kurute, lokastadanuvartate.",
+          "meaning": "Whatever a great person does, common people follow. Whatever standards they set, the world follows.",
+          "transliteration": "Yadyadācarati śreṣṭhastattadevetaro janaḥ|\nSa yatpramāṇaṃ kurute lokastadanuvartate|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Shreyo svadharmo vigunah, paradharmaat svanushtitaat.\nSvadharme nidhanam shreyah, paradharmo bhayaavahah.",
+          "meaning": "It is better to perform one's own dharma imperfectly than to perform another's dharma perfectly. Death in one's own dharma is preferable; another's dharma is fraught with danger.",
+          "transliteration": "Śreyānsvadharmo viguṇaḥ paradharmātsvanuṣṭhitāt|\nSvadharme nidhanaṃ śreyaḥ paradharmo bhayāvahaḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Arjuna uvaacha - atha kena prayukto'yam, paapam charati poorushah.\nAnichchhannapi Vaarshneya, balaadiva niyojitah.",
+          "meaning": "Arjuna asked: O Krishna, by what is one impelled to commit sin, even unwillingly, as though driven by force?",
+          "transliteration": "Arjuna uvāca - atha kena prayukto'yaṃ pāpaṃ carati pūruṣaḥ|\nAnicchannapi vārṣṇeya balādiva niyojitaḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kaama esha krodha esha, rajogunasamudbhavah.\nMahaashano mahaapaapmaa, viddhyenamiha vairinam.",
+          "meaning": "It is desire, it is anger, born of the quality of passion. It is all-devouring and most sinful. Know this as the enemy here.",
+          "transliteration": "Kāma eṣa krodha eṣa rajoguṇasamudbhavaḥ|\nMahāśano mahāpāpmā viddhyenamiha vairiṇam|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "dnya_ch06",
+      "title": "Chapter 6 - Dhyana Yoga",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/dnyaneshwari/dnyaneshwar.jpg",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "Anaaashritah karmaphalam, kaaryam karma karoti yah.\nSa sannyaasee cha yogee cha, na niragnirna chaakriyah.",
+          "meaning": "One who performs their duty without depending on the fruits of action is a true Sannyasi and Yogi, not the one who merely renounces fire or action.",
+          "transliteration": "Anāśritaḥ karmaphalaṃ kāryaṃ karma karoti yaḥ|\nSa sannyāsī ca yogī ca na niragnirna cākriyaḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Uddharedaatmanaatmaanam, naatmaanamavasaadayet.\nAatmaiva hyaatmano bandhuh, aatmaiva ripuraatmanah.",
+          "meaning": "One should uplift oneself by the self; one should not degrade oneself. For the self alone is the friend of the self, and the self alone is the enemy of the self.",
+          "transliteration": "Uddharedātmanātmānaṃ nātmānamavasādayet|\nĀtmaiva hyātmano bandhurātmaiva ripurātmanaḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Yogee yunjeeta satatam, aatmaanam rahasi sthitah.\nEkaakee yatachittaatmaa, niraasheer aparigrihah.",
+          "meaning": "The Yogi should constantly engage the mind in meditation, dwelling in solitude, alone, with mind and body controlled, free from desires and possessions.",
+          "transliteration": "Yogī yuñjīta satatamātmānaṃ rahasi sthitaḥ|\nEkākī yatacittātmā nirāśīraparigrahaḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Shuchau deshe pratishthaapya, sthiramaasanamaatmanah.\nNaatyuchchhritam naatineecham, chailaajinakushottaram.",
+          "meaning": "In a clean place, one should establish a firm seat for oneself, neither too high nor too low, covered with cloth, deerskin, and kusha grass.",
+          "transliteration": "Śucau deśe pratiṣṭhāpya sthiramāsanamātmanaḥ|\nNātyucchritaṃ nātinīcaṃ cailājinakuśottaram|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Yatroparamate chittam, niruddham yogasevayaa.\nYatra chaivaatmanaatmaanam, pashyannaatmani tushyati.",
+          "meaning": "When the mind, restrained by the practice of Yoga, comes to rest, and when seeing the Self by the Self, one is satisfied in the Self alone.",
+          "transliteration": "Yatroparamate cittaṃ niruddhaṃ yogasevayā|\nYatra caivātmanātmānaṃ paśyannātmani tuṣyati|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Yo maam pashyati sarvatra, sarvam cha mayi pashyati.\nTasyaaham na pranashyaami, sa cha me na pranashyati.",
+          "meaning": "One who sees Me everywhere and sees everything in Me, to such a person I am never lost, nor are they ever lost to Me.",
+          "transliteration": "Yo māṃ paśyati sarvatra sarvaṃ ca mayi paśyati|\nTasyāhaṃ na praṇaśyāmi sa ca me na praṇaśyati|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Dnyaaneshwara mhane dhyaana, joditaa maarga purNa jaanaa.\nAatmaa Eeshwara eka paahaa, yoga maargee mukti laabhaa.",
+          "meaning": "Dnyaneshwar says: through meditation, know the complete path. See the soul and God as one; on the path of Yoga, liberation is attained.",
+          "transliteration": "Jñāneśvara mhaṇe dhyāna, joḍitā mārga pūrṇa jāṇā|\nĀtmā īśvara eka pāhā, yoga mārgī muktī lābhā|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "dnya_ch09",
+      "title": "Chapter 9 - Rajavidya Rajaguhya Yoga",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/dnyaneshwari/dnyaneshwar.jpg",
+      "orderIndex": 5,
+      "content": [
+        {
+          "shloka": "Idam tu te guhyatamam, pravakshyaamyanasuyave.\nDnyaanam vidnyaanasahitam, yajdnyaatvaa mokshyase'shubhaat.",
+          "meaning": "I shall now reveal to you, who are free from envy, this most secret knowledge combined with realization, knowing which you shall be freed from all misery.",
+          "transliteration": "Idaṃ tu te guhyatamaṃ pravakṣyāmyanasūyave|\nJñānaṃ vijñānasahitaṃ yajjñātvā mokṣyase'śubhāt|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Raajavidyaa raajaguhyam, pavitramidamuttamam.\nPratyakshaavagamam dharmyam, susukham kartumavyayam.",
+          "meaning": "This is the king of all knowledge, the king of all secrets, the supreme purifier. It is directly realizable, righteous, easy to practice, and imperishable.",
+          "transliteration": "Rājavidyā rājaguhyaṃ pavitramidamuttamam|\nPratyakṣāvagamaṃ dharmyaṃ susukhaṃ kartumavyayam|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Mayaa tatamidam sarvam, jagadavyaktamoortinaa.\nMatsthani sarvabhutani, na chaaham teshvavasthitah.",
+          "meaning": "By Me, in My unmanifested form, this entire universe is pervaded. All beings dwell in Me, yet I do not dwell in them.",
+          "transliteration": "Mayā tatamidaṃ sarvaṃ jagadavyaktamūrtinā|\nMatsthāni sarvabhūtāni na cāhaṃ teṣvavasthitaḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Patram pushpam phalam toyam, yo me bhaktyaa prayachchhati.\nTadaham bhaktyupahritam, ashnaami prayataatmanah.",
+          "meaning": "Whoever offers Me a leaf, a flower, a fruit, or water with devotion, I accept that offering of love from the pure-hearted.",
+          "transliteration": "Patraṃ puṣpaṃ phalaṃ toyaṃ yo me bhaktyā prayacchati|\nTadahaṃ bhaktyupahṛtamaśnāmi prayatātmanaḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Yatkaroshi yadashnaasi, yajjuhoshi dadaasi yat.\nYat tapasyasi Kaunteya, tat kurushva madarpanam.",
+          "meaning": "Whatever you do, whatever you eat, whatever you offer in sacrifice, whatever you give away, whatever austerity you practice, O son of Kunti, do that as an offering to Me.",
+          "transliteration": "Yatkaroṣi yadaśnāsi yajjuhoṣi dadāsi yat|\nYattapasyasi kaunteya tatkuruṣva madarpaṇam|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Samoham sarvabhooteshu, na me dveshyo'sti na priyah.\nYe bhajanti tu maam bhaktyaa, mayi te teshu chaapyaham.",
+          "meaning": "I am equally present in all beings; none is hateful or dear to Me. But those who worship Me with devotion, they are in Me and I am in them.",
+          "transliteration": "Samo'haṃ sarvabhūteṣu na me dveṣyo'sti na priyaḥ|\nYe bhajanti tu māṃ bhaktyā mayi te teṣu cāpyaham|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "dnya_ch11",
+      "title": "Chapter 11 - Vishwarupa Darshana",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/dnyaneshwari/dnyaneshwar.jpg",
+      "orderIndex": 6,
+      "content": [
+        {
+          "shloka": "Arjuna uvaacha - madanugrahaaaya paramam, guhyamadhyaatmasamgnitam.\nYattvayoktam vachastena, moho'yam vigato mama.",
+          "meaning": "Arjuna said: By the supremely profound words You have spoken out of compassion for me regarding the mystery of the Self, my delusion is dispelled.",
+          "transliteration": "Arjuna uvāca - madanugrahāya paramaṃ guhyamadhyātmasaṃjñitam|\nYattvayoktaṃ vacastena moho'yaṃ vigato mama|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Pashya me Paartha roopaani, shatashho'tha sahasrashah.\nNaanaavidhaani divyaani, naanaavarNaakritini cha.",
+          "meaning": "Behold, O Partha, My forms by the hundreds and thousands, diverse, divine, of various colors and shapes.",
+          "transliteration": "Paśya me pārtha rūpāṇi śataśo'tha sahasraśaḥ|\nNānāvidhāni divyāni nānāvarṇākṛtīni ca|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ihaika stham jagat kritsnam, pashyaadya sacharaacharam.\nMama dehe Gudaakesha, yachchaanyad drashtumichhasi.",
+          "meaning": "Behold now, O Arjuna, in this body of Mine, the entire universe -- moving and unmoving -- all gathered as one, and whatever else you wish to see.",
+          "transliteration": "Ihaikasthaṃ jagatkṛtsnaṃ paśyādya sacarācaram|\nMama dehe guḍākeśa yaccānyaddraṣṭumicchasi|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Divyam dadaami te chakshuh, pashya me yogamaishvaram.\nNa tu maam shakyase drashtum, anenaiva svachakshushaa.",
+          "meaning": "I give you the divine eye. Behold My supreme Yoga power. You cannot see Me with your ordinary eyes alone.",
+          "transliteration": "Divyaṃ dadāmi te cakṣuḥ paśya me yogamaiśvaram|\nNa tu māṃ śakyase draṣṭum anenaiva svacakṣuṣā|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kaaloasmi lokakshayakrit, pravriddho lokaan samaahartumiha pravrittah.\nRite'pi tvaam na bhavishyanti sarve, ye'vasthitaah pratyanikeshu yodhaah.",
+          "meaning": "I am Time, the mighty destroyer of worlds, engaged here in the annihilation of all beings. Even without you, none of the warriors arrayed in the opposing armies shall survive.",
+          "transliteration": "Kālo'smi lokakṣayakṛtpravṛddho lokānsamāhartumiha pravṛttaḥ|\nṚte'pi tvāṃ na bhaviṣyanti sarve ye'vasthitāḥ pratyanīkeṣu yodhāḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Dnyaaneshwar mhane vishwaroopa, darshilee Krishne aapaa.\nAnavarat jagat taya dehee, sakala sthitee Harimaajhee.",
+          "meaning": "Dnyaneshwar says: Krishna revealed the Universal Form. The entire universe resides within His body; all existence abides in the Lord.",
+          "transliteration": "Jñāneśvara mhaṇe viśvarūpa, darśilī kṛṣṇeṃ āpā|\nAnavarata jagata tayā dehī, sakaḻa sthitī harīmājhī|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "dnya_ch12",
+      "title": "Chapter 12 - Bhakti Yoga",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/dnyaneshwari/dnyaneshwar.jpg",
+      "orderIndex": 7,
+      "content": [
+        {
+          "shloka": "Arjuna uvaacha - evam satatayuktaa ye, bhaktaastvaam paryupaasate.\nYe chaapyaksharamavyaktam, teshaam ke yogavittamaah.",
+          "meaning": "Arjuna asked: Those devotees who are ever steadfast in worshipping You, and those who worship the imperishable Unmanifest -- which of them is better versed in Yoga?",
+          "transliteration": "Arjuna uvāca - evaṃ satatayuktā ye bhaktāstvāṃ paryupāsate|\nYe cāpyakṣaramavyaktaṃ teṣāṃ ke yogavittamāḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Shree Bhagavaanuvaacha - mayyaaveshya mano ye maam, nityayuktaa upaasate.\nShraddhayaa parayopetaah, te me yuktatamaa mataah.",
+          "meaning": "The Blessed Lord said: Those who, fixing their minds on Me, worship Me with steadfast devotion and supreme faith, them I consider most perfect in Yoga.",
+          "transliteration": "Śrī bhagavānuvāca - mayyāveśya mano ye māṃ nityayuktā upāsate|\nŚraddhayā parayopetāḥ te me yuktatamā matāḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Mayye va mana aadhatsva, mayi buddhim niveshaya.\nNivasishhyasi mayyeva, ata uurdhvam na samshayah.",
+          "meaning": "Fix your mind on Me alone, let your intellect dwell in Me. You shall then live in Me alone. There is no doubt about this.",
+          "transliteration": "Mayyeva mana ādhatsva mayi buddhiṃ niveśaya|\nNivasiṣyasi mayyeva ata ūrdhvaṃ na saṃśayaḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Adveshhtaa sarvabhootaanaam, maitrah karuNa eva cha.\nNirmamo nirahankaarah, samadukhkhasukhah kshamee.",
+          "meaning": "One who is free from hatred toward all beings, friendly and compassionate, free from possessiveness and ego, balanced in pain and pleasure, and forgiving.",
+          "transliteration": "Adveṣṭā sarvabhūtānāṃ maitraḥ karuṇa eva ca|\nNirmamo nirahaṃkāraḥ samaduḥkhasukhaḥ kṣamī|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Santushtah satatam yogee, yataatmaa dridhanishchayah.\nMayyarpitamanobuddhih, yo madbhaktah sa me priyah.",
+          "meaning": "Ever content, steady in meditation, self-controlled, firm in conviction, with mind and intellect offered to Me -- such a devotee is dear to Me.",
+          "transliteration": "Santuṣṭaḥ satataṃ yogī yatātmā dṛḍhaniścayaḥ|\nMayyarpitamanobuddhiryo madbhaktaḥ sa me priyaḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ye tu dharmyaamritamidam, yathoktam paryupaasate.\nShraddhadhaanaa matparamaa, bhaktaaste'teeva me priyaah.",
+          "meaning": "But those who follow this immortal dharma as described, with faith, regarding Me as the Supreme -- such devotees are exceedingly dear to Me.",
+          "transliteration": "Ye tu dharmyāmṛtamidaṃ yathoktaṃ paryupāsate|\nŚraddadhānā matparamā bhaktāste'tīva me priyāḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Dnyaaneshwara mhane bhaktee, Hari paavatee maagutee.\nSarva dharma taya pathee, bhakta priya Hari chittee.",
+          "meaning": "Dnyaneshwar says: through devotion, Lord Hari is attained again and again. All dharma leads to that path; the devotee is ever dear in the Lord's heart.",
+          "transliteration": "Jñāneśvara mhaṇe bhaktī, harī pāvatī māgutī|\nSarva dharma tayā pathī, bhakta priya harī cittī|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "dnya_ch15",
+      "title": "Chapter 15 - Purushottama Yoga",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/dnyaneshwari/dnyaneshwar.jpg",
+      "orderIndex": 8,
+      "content": [
+        {
+          "shloka": "Shree Bhagavaanuvaacha - urdhvamoolam adhahshaakham, ashvattham praahuruvyayam.\nChhandaamsi yasya parNaani, yastam veda sa vedavit.",
+          "meaning": "The Blessed Lord said: They speak of an imperishable Ashvattha tree with roots above and branches below, whose leaves are the Vedic hymns. One who knows this tree is the knower of the Vedas.",
+          "transliteration": "Śrī bhagavānuvāca - ūrdhvamūlamadhaḥśākhamaśvatthaṃ prāhuravyayam|\nChandāṃsi yasya parṇāni yastaṃ veda sa vedavit|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Adhashchordhvam prasritaastasya shaakhaah, gunapravriddhaa vishayapravaalaaH.\nAdhashcha moolanyanusamtatani, karmaanubandheeni manushyaloke.",
+          "meaning": "Its branches spread below and above, nourished by the gunas, with sense objects as shoots. Its roots stretch downward into the world of humans, bound by action.",
+          "transliteration": "Adhaścordhvaṃ prasṛtāstasya śākhā guṇapravṛddhā viṣayapravālāḥ|\nAdhaśca mūlānyanusantatāni karmānubandhīni manuṣyaloke|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Na roopamasye'ha tathopalabhyate, naanto na chaadirna cha sampratishthhaa.\nAshvatthaamenam suviroodhamoolam, asangashashtrena driDhena chhittvaa.",
+          "meaning": "The form of this tree is not perceived here -- neither its end, beginning, nor foundation. Having cut this firmly rooted tree with the strong axe of detachment.",
+          "transliteration": "Na rūpamasyeha tathopalabhyate nānto na cādirna ca sampratiṣṭhā|\nAśvatthamenaṃ suvirūḍhamūlamasaṅgaśastreṇa dṛḍhena chittvā|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Mama'ivaamshho jeeva loke, jeevabhootah sanaatanah.\nManah-shashthaaneendriyaani, prakritisthani karshati.",
+          "meaning": "An eternal fragment of Myself becomes the living soul in the world of life, drawing to itself the five senses and the mind, which rests in material nature.",
+          "transliteration": "Mamaivāṃśo jīvaloke jīvabhūtaḥ sanātanaḥ|\nManaḥṣaṣṭhānīndriyāṇi prakṛtisthāni karṣati|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Dvaaviimau purushau loke, ksharashchaakshara eva cha.\nKsharah sarvaani bhootaani, kootastho'kshara uchyate.",
+          "meaning": "There are two kinds of beings in this world -- the perishable and the imperishable. All material beings are perishable; the unchanging is called the imperishable.",
+          "transliteration": "Dvāvimau puruṣau loke kṣaraścākṣara eva ca|\nKṣaraḥ sarvāṇi bhūtāni kūṭastho'kṣara ucyate|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Uttamah purushastvannyah, paramaatmetyudaahritah.\nYo lokatrayamaavishya, bibhartyavyaya Eeshvarah.",
+          "meaning": "But there is another, the Supreme Person, called the Supreme Self, the indestructible Lord, who pervades the three worlds and sustains them.",
+          "transliteration": "Uttamaḥ puruṣastvanyaḥ paramātmetyudāhṛtaḥ|\nYo lokatrayamāviśya bibhartyavyaya īśvaraḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Iti guhyatamam shaastram, idamuktam mayaa'nagha.\nEtad buddhvaa buddhimaan syaat, kritakrittyashcha Bhaarata.",
+          "meaning": "Thus, this most secret scripture has been taught by Me, O sinless one. Understanding this, one becomes truly wise and has fulfilled all duties, O Bharata.",
+          "transliteration": "Iti guhyatamaṃ śāstramidamuktaṃ mayānagha|\nEtadbuddhvā buddhimānsyātkṛtakṛtyaśca bhārata|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "dnya_ch18",
+      "title": "Chapter 18 - Moksha Sannyasa Yoga",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/dnyaneshwari/dnyaneshwar.jpg",
+      "orderIndex": 9,
+      "content": [
+        {
+          "shloka": "Arjuna uvaacha - sannyaasasya mahaabaaho, tattvamicchhaami veditum.\nTyaagasya cha Hrisheekesha, prithakkeshiniShoodana.",
+          "meaning": "Arjuna said: O mighty-armed one, I wish to know the truth about renunciation (Sannyasa) and about relinquishment (Tyaga), O Hrishikesha, O slayer of Keshi.",
+          "transliteration": "Arjuna uvāca - sannyāsasya mahābāho tattvamicchāmi veditum|\nTyāgasya ca hṛṣīkeśa pṛthakkeśiniṣūdana|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Niyatasya tu sannyaasah, karmano nopapadyate.\nMohaattasya parityaagas, taamasah parikirtitah.",
+          "meaning": "Renunciation of obligatory action is not proper. The abandonment of such duty through delusion is declared to be tamasic.",
+          "transliteration": "Niyatasya tu sannyāsaḥ karmaṇo nopapadyate|\nMohāttasya parityāgastāmasaḥ parikīrtitaḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Eeshvarah sarvabhootaanaam, hriddesherjuna tishthati.\nBhraamayan sarvabhootaani, yantraaruuDhaani maayayaa.",
+          "meaning": "The Lord dwells in the hearts of all beings, O Arjuna, causing all beings to revolve by His divine power, as though mounted on a machine.",
+          "transliteration": "Īśvaraḥ sarvabhūtānāṃ hṛddeśe'rjuna tiṣṭhati|\nBhrāmayansarvabhūtāni yantrārūḍhāni māyayā|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Tameva sharanam gachha, sarvabhaavena Bhaarata.\nTatprasaadaat paraam shaantim, sthaanam praapsyasi shaashvatam.",
+          "meaning": "Take refuge in Him alone with all your being, O Bharata. By His grace you shall attain supreme peace and the eternal abode.",
+          "transliteration": "Tameva śaraṇaṃ gaccha sarvabhāvena bhārata|\nTatprasādātparāṃ śāntiṃ sthānaṃ prāpsyasi śāśvatam|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sarvadharmaan parityajya, maameakam sharanam vraja.\nAham tvaa sarvapaapebhyo, mokshayishyaami maa shuchah.",
+          "meaning": "Abandoning all dharmas, take refuge in Me alone. I shall liberate you from all sins; do not grieve.",
+          "transliteration": "Sarvadharmānparityajya māmekaṃ śaraṇaṃ vraja|\nAhaṃ tvā sarvapāpebhyo mokṣayiṣyāmi mā śucaḥ|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Yatra Yogeshvarah Krishno, yatra Paartho dhanurdharah.\nTatra shreervijayo bhootih, dhruvaa neetirmatirmama.",
+          "meaning": "Where there is Krishna, the Lord of Yoga, and where there is Arjuna, the wielder of the bow, there will surely be fortune, victory, prosperity, and righteousness. This is my conviction.",
+          "transliteration": "Yatra yogeśvaraḥ kṛṣṇo yatra pārtho dhanurdharaḥ|\nTatra śrīrvijayo bhūtirdhruvā nītirmatirmama|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Dnyaaneshwar mhane hee Geetaa, purNa zaali paramaartheetaa.\nMoksha maarga prakaashila, sarva jiva uddharila.",
+          "meaning": "Dnyaneshwar says: this Gita is complete in its spiritual truth. The path of liberation has been illuminated, and all souls are uplifted.",
+          "transliteration": "Jñāneśvara mhaṇe hī gītā, pūrṇa jhālī paramārthitā|\nMokṣa mārga prakāśilā, sarva jīva uddharilā|",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "dnya_pasaydan",
+      "title": "Pasaydan (Final Prayer)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/dnyaneshwari/dnyaneshwar.jpg",
+      "orderIndex": 10,
+      "content": [
+        {
+          "shloka": "Aataa Vishwatmake Deve, yene vaagyadnyee toshave.\nToshoni maja dyaave, pasaaydaan he.",
+          "meaning": "Now may the God of the Universe be pleased with this sacrifice of words. Being pleased, may He grant me this boon.",
+          "transliteration": "Ātā viśvātmake deve, yeṇe vāgyajñe toṣāve|\nToṣoni maja dyāve, pasāyadāna he|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Je khaLaanchi vyankaTee saNdho, tayaa satkarmee raatee vaaDho.\nBhootaa paraspare paDho, maithree jeevaanchee.",
+          "meaning": "May the wicked turn away from evil, may their love for righteous deeds grow. May all beings develop friendship and mutual affection.",
+          "transliteration": "Je khaḻāṃcī vyaṃkaṭī sāṃḍo, tayā satkarmī rātī vāḍho|\nBhūtāṃ paraspare paḍo, maitrī jīvāṃcī|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Durgamee panthe sarale, skalane na paDo bale.\nBhete savitaa jaale, sakalaanche.",
+          "meaning": "May difficult paths become easy, may no one stumble or fall. May all beings meet with the rising sun of knowledge.",
+          "transliteration": "Durgamī paṃthe saraḻe, skhalane na paḍo baḻe|\nBheṭe savitā jāle, sakaḻāṃce|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kinkara viShayaaanche, maraaLaa snehaancha raasi.\nJhaalyaa aatmapoorneshti, aanandhache.",
+          "meaning": "May the bonds of worldly desires be shattered, may the riches of pure love abound. May the soul's fulfillment blossom into the highest bliss.",
+          "transliteration": "Kiṃkara viṣayāṃce, marāḻāṃ snehācā rāsī|\nJhālyā ātmapūrṇeṣṭī, ānaṃdāce|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Jo je vanchil to te laaho, praaNijaata.\nNirantar bhetatu bhootaa, Bhagavanta.",
+          "meaning": "Whatever anyone desires, may all living beings attain it. May all creatures meet God unceasingly.",
+          "transliteration": "Jo je vāṃchila to te lāho, prāṇijāta|\nNiraṃtara bheṭatū bhūtāṃ, bhagavaṃta|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Chaalaa kalyaanache otu, vishwee dharmasooryaa bhetoo.\nJo je vanchil to te laaho, praaNijaataa.",
+          "meaning": "Let the weaving of auspiciousness begin, may the sun of dharma dawn upon the world. Whatever anyone desires, may all living beings attain it.",
+          "transliteration": "Cālā kalyāṇāce otū, viśvī dharmasūryā bheṭū|\nJo je vāṃchila to te lāho, prāṇijāta|",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Aise hepasaaydan, Devaadhi Deva Shree Vishweshwaraaya.\nDnyaanadeva sange Nirvrittee, Sopaanadeva mhane.",
+          "meaning": "Such is this Pasaydan, offered to the God of Gods, Lord Vishweshwar. Dnyanadeva speaks with Nivritti, and Sopandev affirms.",
+          "transliteration": "Aise he pasāyadāna, devādhi deva śrī viśveśvarāya|\nJñānadeva saṃge nivṛttī, sopānadeva mhaṇe|",
+          "imageUrl": null
+        }
+      ]
+    }
+  ]
+}

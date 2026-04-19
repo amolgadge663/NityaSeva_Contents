@@ -1,0 +1,501 @@
+{
+  "category": "Vrat aur Utsav",
+  "version": 1,
+  "items": [
+    {
+      "id": "vrat_ekadashi",
+      "title": "Ekadashi Vrat",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/vrat_utsav/ekadashi.jpg",
+      "orderIndex": 1,
+      "content": [
+        {
+          "shloka": "Om Namo Bhagavate Vaasudevaaya\nEkadashyaam Na Bhuñjeeta Pakshayoh Ubhayorapi\nVishnu Lokam Avaapnoti Bhuktvaapi Punyakarmabhih",
+          "meaning": "One who fasts on both Ekadashis (the 11th day of each lunar fortnight) attains the abode of Lord Vishnu through meritorious deeds.",
+          "transliteration": "Oṁ Namo Bhagavate Vāsudevāya\nEkādaśyāṁ Na Bhuñjeta Pakṣayoḥ Ubhayorapi\nViṣṇu Lokaṁ Avāpnoti Bhuktvāpi Puṇyakarmabhiḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ekadashi Vrat Vidhi:\n1. Begin the vrat on Dashami (10th day) evening by eating a simple sattvic meal.\n2. On Ekadashi, wake before sunrise and bathe.\n3. Place the image of Lord Vishnu on the altar with Tulsi leaves.\n4. Offer yellow flowers, fruits, and Panchamrit.\n5. Chant 'Om Namo Bhagavate Vaasudevaaya' 108 times.\n6. Read Vishnu Sahasranama or a chapter from Bhagavad Gita.\n7. Observe complete fast or consume only fruits, milk, and water.\n8. Stay awake through the night (Jagaran) if possible.\n9. Break the fast (Parana) on Dwadashi at the prescribed time.",
+          "meaning": "Ekadashi Fast Method: Ekadashi falls twice a month — on the 11th day of the bright and dark fortnights. It is the most sacred fast dedicated to Lord Vishnu. Fasting on Ekadashi purifies the body, mind, and soul, and is believed to wash away sins equivalent to performing a thousand Ashwamedha Yagnas.",
+          "transliteration": "Ekadashi Vrat Vidhi:\n1. Begin the vrat on Dashami (10th day) evening by eating a simple sattvic meal.\n2. On Ekadashi, wake before sunrise and bathe.\n3. Place the image of Lord Vishnu on the altar with Tulsi leaves.\n4. Offer yellow flowers, fruits, and Panchamrit.\n5. Chant 'Om Namo Bhagavate Vaasudevaaya' 108 times.\n6. Read Vishnu Sahasranama or a chapter from Bhagavad Gita.\n7. Observe complete fast or consume only fruits, milk, and water.\n8. Stay awake through the night (Jagaran) if possible.\n9. Break the fast (Parana) on Dwadashi at the prescribed time.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ekadashi Mahatmya:\nEkadashi is praised in the Padma Purana, Vishnu Purana, and Bhagavata Purana. There are 24 Ekadashis in a year, each with a unique name and story — Nirjala, Kamada, Papankusha, Devshayani, Devuthani, and others. The merit of observing Ekadashi is said to be greater than visiting all pilgrimage sites and performing all yagnas combined.",
+          "meaning": "The greatness of Ekadashi is extolled across multiple Puranas. Each Ekadashi has its own katha and specific blessings. The most austere is Nirjala Ekadashi (without even water), observed once a year, which grants the merit of all 24 Ekadashis.",
+          "transliteration": "Ekadashi Mahatmya:\nEkadashi is praised in the Padma Purana, Vishnu Purana, and Bhagavata Purana. There are 24 Ekadashis in a year, each with a unique name and story — Nirjala, Kamada, Papankusha, Devshayani, Devuthani, and others. The merit of observing Ekadashi is said to be greater than visiting all pilgrimage sites and performing all yagnas combined.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ekadashi Katha (Summary):\nOnce, a demon named Mura terrorized the devas. Lord Vishnu fought him for a thousand years. When Vishnu rested, a divine feminine power emerged from His body and slew the demon. Vishnu named her Ekadashi and granted that whoever fasts on this day would be freed from all sins. Thus Ekadashi became the most sacred fasting day for Vaishnavas.",
+          "meaning": "This origin story from the Padma Purana explains why Ekadashi is considered the holiest fasting day. The personified Ekadashi Devi destroyed the demon Mura, earning the day its sanctity and the devotees divine protection.",
+          "transliteration": "Ekadashi Katha (Summary):\nOnce, a demon named Mura terrorized the devas. Lord Vishnu fought him for a thousand years. When Vishnu rested, a divine feminine power emerged from His body and slew the demon. Vishnu named her Ekadashi and granted that whoever fasts on this day would be freed from all sins. Thus Ekadashi became the most sacred fasting day for Vaishnavas.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "vrat_pradosh",
+      "title": "Pradosh Vrat",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/vrat_utsav/pradosh.jpg",
+      "orderIndex": 2,
+      "content": [
+        {
+          "shloka": "Om Namah Shivaaya\nPradoshe Deepadam Drishtvaa Mahaapaatakaanaashanam\nShivam Sampujayed Bhaktyaa Sarvaan Kaamaan Avaapnuyaat",
+          "meaning": "By seeing the lamp lit during Pradosh time and worshipping Lord Shiva with devotion, one destroys great sins and attains all desires.",
+          "transliteration": "Oṁ Namaḥ Śivāya\nPradoṣe Dīpadaṁ Dṛṣṭvā Mahāpātakānāśanaṁ\nŚivaṁ Sampūjayed Bhaktyā Sarvān Kāmān Avāpnuyāt",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Pradosh Vrat Vidhi:\n1. Observe a fast from sunrise on Trayodashi (13th lunar day).\n2. In the evening, during Pradosh Kaal (twilight, approx. 1.5 hours after sunset), bathe and wear clean clothes.\n3. Set up a Shivalinga or Shiva image on the altar.\n4. Perform Abhisheka with milk, water, and honey.\n5. Offer Bilva leaves, white flowers, and dhatura.\n6. Light a ghee lamp and incense.\n7. Chant Maha Mrityunjaya Mantra and Shiva Panchakshari.\n8. Recite Shiva Tandava Stotram or Shiv Mahimna Stotra.\n9. Break the fast after the puja with a simple meal.",
+          "meaning": "Pradosh Vrat Method: Pradosh falls on the 13th day of each lunar fortnight. The worship is performed specifically during Pradosh Kaal (twilight). Shiva Pradosh on Monday (Som Pradosh) and Saturday (Shani Pradosh) are considered especially powerful. This vrat removes obstacles, grants wealth, and bestows Shiva's grace.",
+          "transliteration": "Pradosh Vrat Vidhi:\n1. Observe a fast from sunrise on Trayodashi (13th lunar day).\n2. In the evening, during Pradosh Kaal (twilight, approx. 1.5 hours after sunset), bathe and wear clean clothes.\n3. Set up a Shivalinga or Shiva image on the altar.\n4. Perform Abhisheka with milk, water, and honey.\n5. Offer Bilva leaves, white flowers, and dhatura.\n6. Light a ghee lamp and incense.\n7. Chant Maha Mrityunjaya Mantra and Shiva Panchakshari.\n8. Recite Shiva Tandava Stotram or Shiv Mahimna Stotra.\n9. Break the fast after the puja with a simple meal.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Pradosh Katha (Summary):\nDuring the churning of the ocean (Samudra Manthan), the deadly poison Halahala emerged during Pradosh time. Lord Shiva, to save creation, drank the poison and held it in His throat, turning it blue. Goddess Parvati pressed His throat to prevent the poison from spreading. Since then, Pradosh time became sacred for Shiva worship, commemorating His supreme sacrifice.",
+          "meaning": "The Pradosh Vrat Katha from Skanda Purana recalls how Lord Shiva saved the universe by consuming the Halahala poison during twilight. This act of cosmic sacrifice made the Pradosh time eternally sacred for Shiva devotees.",
+          "transliteration": "Pradosh Katha (Summary):\nDuring the churning of the ocean (Samudra Manthan), the deadly poison Halahala emerged during Pradosh time. Lord Shiva, to save creation, drank the poison and held it in His throat, turning it blue. Goddess Parvati pressed His throat to prevent the poison from spreading. Since then, Pradosh time became sacred for Shiva worship, commemorating His supreme sacrifice.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Shiva Tandava Stotram (Verse 1):\nJatatavee Galajjala Pravaahapaavitasthale\nGaleavalambya Lambitaam Bhujanga Tungamaalikaam\nDamaddamaddamaddama Nninaadavaddamaravyam\nChakaar Chandtaandavam Tanotu Nah Shivah Shivam",
+          "meaning": "From whose matted hair flows the holy Ganga purifying His body, around whose neck hangs a great serpent garland, who dances the fierce Tandava to the rhythmic beat of the damaru drum — may that Shiva bestow auspiciousness upon us.",
+          "transliteration": "Jaṭāṭavī Galajjala Pravāhapāvitasthale\nGalevālambya Lambitāṁ Bhujaṅga Tuṅgamālikāṁ\nḌamadḍamadḍamadḍama Nninādavaḍḍamaravyaṁ\nCakāra Caṇḍatāṇḍavaṁ Tanotu Naḥ Śivaḥ Śivam",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "vrat_satyanarayan",
+      "title": "Satyanarayan Vrat / Puja",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/vrat_utsav/satyanarayan.jpg",
+      "orderIndex": 3,
+      "content": [
+        {
+          "shloka": "Om Namo Bhagavate Vaasudevaaya\nSatyam Satyam Punah Satyam Uddhritya Bhujamuchyate\nVedaadshastram Param Naasti Na Daivam Keshavaat Param",
+          "meaning": "Truth, truth, again truth — I raise my arm and declare: there is no scripture higher than the Vedas, and no deity higher than Keshava (Vishnu).",
+          "transliteration": "Oṁ Namo Bhagavate Vāsudevāya\nSatyaṁ Satyaṁ Punaḥ Satyaṁ Uddhṛtya Bhujamucyate\nVedādśāstraṁ Paraṁ Nāsti Na Daivaṁ Keśavāt Param",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Satyanarayan Puja Vidhi:\n1. Choose an auspicious day — Purnima (full moon) is most common.\n2. Clean the puja area and set up the altar with Lord Vishnu's image.\n3. Place a Kalash (sacred pot) filled with water, mango leaves, and a coconut.\n4. Invite a Brahmin priest or perform the puja yourself.\n5. Begin with Ganesh Puja and Kalash Sthapana.\n6. Chant 'Om Namo Bhagavate Vaasudevaaya'.\n7. Read all five chapters of the Satyanarayan Katha.\n8. Prepare and offer Sheera (semolina halwa) with banana as Prasad.\n9. Distribute Prasad and Charnamrit to all attendees.",
+          "meaning": "Satyanarayan Puja Method: This puja is performed on Purnima or on auspicious occasions like housewarming, new business, marriage anniversary, or fulfillment of a wish. It is one of the most popular Vaishnava pujas, accessible to all regardless of caste or status.",
+          "transliteration": "Satyanarayan Puja Vidhi:\n1. Choose an auspicious day — Purnima (full moon) is most common.\n2. Clean the puja area and set up the altar with Lord Vishnu's image.\n3. Place a Kalash (sacred pot) filled with water, mango leaves, and a coconut.\n4. Invite a Brahmin priest or perform the puja yourself.\n5. Begin with Ganesh Puja and Kalash Sthapana.\n6. Chant 'Om Namo Bhagavate Vaasudevaaya'.\n7. Read all five chapters of the Satyanarayan Katha.\n8. Prepare and offer Sheera (semolina halwa) with banana as Prasad.\n9. Distribute Prasad and Charnamrit to all attendees.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Satyanarayan Katha (Chapter 1 Summary):\nOnce, in Naimisharanya, the sages asked Suta Muni about the easiest way to attain happiness. Suta narrated the conversation between Vishnu and Narada, where Vishnu revealed that the Satyanarayan Vrat, when observed with faith, fulfills all wishes and removes all sorrows. It can be performed by anyone — rich or poor, man or woman.",
+          "meaning": "The first chapter establishes that this vrat is universal and accessible to all. Lord Vishnu Himself told Narada Muni that this simple puja, when done with sincere faith, has the power to grant all desires and liberate the soul.",
+          "transliteration": "Satyanarayan Katha (Chapter 1 Summary):\nOnce, in Naimisharanya, the sages asked Suta Muni about the easiest way to attain happiness. Suta narrated the conversation between Vishnu and Narada, where Vishnu revealed that the Satyanarayan Vrat, when observed with faith, fulfills all wishes and removes all sorrows. It can be performed by anyone — rich or poor, man or woman.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Satyanarayan Katha (Chapter 5 Summary):\nA merchant named Sadhu performed the Satyanarayan puja after gaining immense wealth through trade. His daughter Kalavati and son-in-law forgot to take the Prasad after a puja. As a result, the son-in-law was arrested by the king on false charges and their ship was lost. When they repented and consumed the Prasad with devotion, everything was restored. The story teaches that one must always respectfully accept divine Prasad.",
+          "meaning": "The final chapter emphasizes that the Satyanarayan puja must be completed properly, and Prasad must be accepted with reverence. Neglecting the Prasad or the puja brings temporary misfortune, but sincere repentance restores divine grace.",
+          "transliteration": "Satyanarayan Katha (Chapter 5 Summary):\nA merchant named Sadhu performed the Satyanarayan puja after gaining immense wealth through trade. His daughter Kalavati and son-in-law forgot to take the Prasad after a puja. As a result, the son-in-law was arrested by the king on false charges and their ship was lost. When they repented and consumed the Prasad with devotion, everything was restored. The story teaches that one must always respectfully accept divine Prasad.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "vrat_somvar",
+      "title": "Solah Somvar Vrat (16 Mondays)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/vrat_utsav/somvar_vrat.jpg",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "Om Namah Shivaaya\nShodashe Somavaareshu Vratam Yah Kurute Narah\nSarva Paapaat Pramuchyeta Shivalokam Sa Gacchati",
+          "meaning": "One who observes the vrat for sixteen consecutive Mondays is freed from all sins and attains the abode of Lord Shiva.",
+          "transliteration": "Oṁ Namaḥ Śivāya\nṢoḍaśe Somavāreṣu Vrataṁ Yaḥ Kurute Naraḥ\nSarva Pāpāt Pramucyeta Śivalokaṁ Sa Gacchati",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Solah Somvar Vrat Vidhi:\n1. Begin on the first Monday of Shravan month.\n2. Wake early, bathe, and wear white clothes.\n3. Visit a Shiva temple or worship at home.\n4. Perform Shiva Abhisheka with milk, water, and Bilva leaves.\n5. Chant 'Om Namah Shivaaya' 108 times.\n6. Observe fast — eat only one meal of sattvic food.\n7. Read the Solah Somvar Vrat Katha.\n8. Continue for 16 consecutive Mondays.\n9. On the 17th Monday, perform Udyapan (completion ceremony) with a feast.",
+          "meaning": "Sixteen Mondays Fast Method: This vrat is particularly popular among unmarried women seeking a good husband, and married women praying for their husband's longevity. It is also observed by men for prosperity and spiritual merit. The vrat starting in Shravan is considered most auspicious.",
+          "transliteration": "Solah Somvar Vrat Vidhi:\n1. Begin on the first Monday of Shravan month.\n2. Wake early, bathe, and wear white clothes.\n3. Visit a Shiva temple or worship at home.\n4. Perform Shiva Abhisheka with milk, water, and Bilva leaves.\n5. Chant 'Om Namah Shivaaya' 108 times.\n6. Observe fast — eat only one meal of sattvic food.\n7. Read the Solah Somvar Vrat Katha.\n8. Continue for 16 consecutive Mondays.\n9. On the 17th Monday, perform Udyapan (completion ceremony) with a feast.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Solah Somvar Katha (Summary):\nOnce Parvati asked Shiva why Mondays are sacred. Shiva narrated: A Brahmin in Amravati observed 16 Somvar Vrats. His devotion pleased Shiva who blessed him with immense fortune and a beautiful family. A king's daughter, hearing this, also observed the vrat and married a prince. But when the prince neglected the vrat, he lost everything. Upon resuming, Shiva restored his glory. This teaches the power and necessity of completing the 16 Monday vrat with consistency.",
+          "meaning": "The Solah Somvar Katha, narrated by Shiva to Parvati, illustrates that consistent observance of the 16 Monday fasts brings marriage, prosperity, and happiness, while neglecting or abandoning the vrat midway brings misfortune.",
+          "transliteration": "Solah Somvar Katha (Summary):\nOnce Parvati asked Shiva why Mondays are sacred. Shiva narrated: A Brahmin in Amravati observed 16 Somvar Vrats. His devotion pleased Shiva who blessed him with immense fortune and a beautiful family. A king's daughter, hearing this, also observed the vrat and married a prince. But when the prince neglected the vrat, he lost everything. Upon resuming, Shiva restored his glory. This teaches the power and necessity of completing the 16 Monday vrat with consistency.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Shiva Dhyana Mantra:\nDhyaayet Nityam Mahesham Rajata Giri Nibham Chaaruchangam\nRatnaakalpodbhaasitam Parashumrigavaraabheetihastam Prasannam\nPadmaaseenam Samantat Stutamamara Ganai Vyaaghraakritim Vasaanam\nVishvaadyam Vishvavandyam Nikhilbhayaharam Panchavaktram Trinetram",
+          "meaning": "Meditate always on Lord Maheshwara, who shines like a silver mountain, with beautiful limbs, adorned with gems, holding the axe, deer, blessing and fearlessness gestures, who is serene, seated in lotus posture, praised by celestials, wearing tiger skin, the origin of the universe, worshipped by all, destroyer of all fears, five-faced and three-eyed.",
+          "transliteration": "Dhyāyet Nityaṁ Maheśaṁ Rajata Giri Nibhaṁ Cārucāṅgaṁ\nRatnākalpodbhāsitaṁ Paraśumṛgavarābhītihasthaṁ Prasannaṁ\nPadmāsīnaṁ Samantat Stutamamara Gaṇai Vyāghrākṛtiṁ Vasānaṁ\nViśvādyaṁ Viśvavandyaṁ Nikhilabhayaharaṁ Pañcavaktraṁ Trinetram",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "vrat_mangala_gauri",
+      "title": "Mangala Gauri Vrat",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/vrat_utsav/mangala_gauri.jpg",
+      "orderIndex": 5,
+      "content": [
+        {
+          "shloka": "Om Gauriyai Namah\nSarva Mangala Maangalye Shive Sarvaartha Saadhike\nSharenye Tryambake Gauri Naaraayani Namostute",
+          "meaning": "O auspicious Gauri, who bestows all auspiciousness, who fulfills all purposes, who is the refuge, the three-eyed one, O Narayani, salutations to you.",
+          "transliteration": "Oṁ Gauryai Namaḥ\nSarva Maṅgala Māṅgalye Śive Sarvārtha Sādhike\nŚaraṇye Tryambake Gaurī Nārāyaṇī Namostute",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Mangala Gauri Vrat Vidhi:\n1. Observed on all Tuesdays of Shravan month (typically 4-5 Tuesdays).\n2. Newly married women observe this vrat for the first 5 years of marriage.\n3. Wake early, bathe, and wear a green saree or auspicious clothes.\n4. Install Goddess Gauri (Parvati) idol and decorate with flowers.\n5. Offer 16 types of leaves (Shodashopachara), turmeric, kumkum, and bangles.\n6. Perform puja with the 16 ritual offerings.\n7. Read Mangala Gauri Katha.\n8. Married women tie the sacred thread and receive blessings.\n9. Conclude with Gauri Aarti and distribute Prasad.",
+          "meaning": "Mangala Gauri Vrat Method: This vrat is primarily observed by newly married women in Maharashtra for the well-being, prosperity, and longevity of their husband. It falls on Tuesdays during Shravan and involves elaborate Shodashopachara (16-step) worship of Goddess Gauri.",
+          "transliteration": "Mangala Gauri Vrat Vidhi:\n1. Observed on all Tuesdays of Shravan month (typically 4-5 Tuesdays).\n2. Newly married women observe this vrat for the first 5 years of marriage.\n3. Wake early, bathe, and wear a green saree or auspicious clothes.\n4. Install Goddess Gauri (Parvati) idol and decorate with flowers.\n5. Offer 16 types of leaves (Shodashopachara), turmeric, kumkum, and bangles.\n6. Perform puja with the 16 ritual offerings.\n7. Read Mangala Gauri Katha.\n8. Married women tie the sacred thread and receive blessings.\n9. Conclude with Gauri Aarti and distribute Prasad.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Mangala Gauri Katha (Summary):\nA Brahmin's wife named Sushila was devoted to Goddess Gauri. She observed the Mangala Gauri vrat every Shravan with great dedication. Her husband fell gravely ill, and all remedies failed. Gauri Devi, pleased by Sushila's devotion, appeared in a dream and revealed a cure. The husband was healed, and the couple was blessed with long life and prosperity. The story teaches that Mangala Gauri protects married women and their families.",
+          "meaning": "The Mangala Gauri Katha illustrates how the Goddess protects devoted married women and grants their husbands health and longevity. Sincere observance of this vrat during Shravan is believed to ensure a happy and prosperous married life.",
+          "transliteration": "Mangala Gauri Katha (Summary):\nA Brahmin's wife named Sushila was devoted to Goddess Gauri. She observed the Mangala Gauri vrat every Shravan with great dedication. Her husband fell gravely ill, and all remedies failed. Gauri Devi, pleased by Sushila's devotion, appeared in a dream and revealed a cure. The husband was healed, and the couple was blessed with long life and prosperity. The story teaches that Mangala Gauri protects married women and their families.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Gauri Ashtottara (Selected Names):\nOm Gauryai Namah | Om Umaayai Namah | Om Shaktyai Namah\nOm Paarvatyai Namah | Om Durga ayai Namah | Om Ambikayai Namah\nOm Maatangyai Namah | Om Bhavaanyai Namah | Om Chandikayai Namah",
+          "meaning": "Selected names from the 108 names of Goddess Gauri: Gauri (the fair one), Uma (light), Shakti (power), Parvati (daughter of the mountain), Durga (invincible), Ambika (mother), Matangi (eloquent), Bhavani (giver of life), Chandika (fierce).",
+          "transliteration": "Oṁ Gauryai Namaḥ | Oṁ Umāyai Namaḥ | Oṁ Śaktyai Namaḥ\nOṁ Pārvatyai Namaḥ | Oṁ Durgāyai Namaḥ | Oṁ Ambikāyai Namaḥ\nOṁ Mātaṅgyai Namaḥ | Oṁ Bhavānyai Namaḥ | Oṁ Caṇḍikāyai Namaḥ",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "vrat_karva_chauth",
+      "title": "Karva Chauth Vrat",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/vrat_utsav/karva_chauth.jpg",
+      "orderIndex": 6,
+      "content": [
+        {
+          "shloka": "Om Jai Shiv-Parvati, Om Jai Shiv-Parvati\nKarva Chauth Ka Vrat Hai, Saubhagyavati\nChandramaa Ki Kirno Se Teri Aarti",
+          "meaning": "Glory to Shiva and Parvati. This is the Karva Chauth vrat for married women. I perform your aarti with the rays of the moon.",
+          "transliteration": "Oṁ Jaya Śiva-Pārvatī, Oṁ Jaya Śiva-Pārvatī\nKarvā Cauth Kā Vrata Hai, Saubhāgyavatī\nCandramā Kī Kiraṇo Se Terī Āratī",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Karva Chauth Vrat Vidhi:\n1. Eat Sargi (pre-dawn meal prepared by mother-in-law) before sunrise.\n2. Observe a strict Nirjala (waterless) fast throughout the day.\n3. In the evening, dress in wedding attire, apply mehndi, and wear bangles.\n4. Gather with other married women for the communal puja.\n5. Place the Karva (earthen pot), wheat grains, and Gauri murti.\n6. Listen to the Karva Chauth Katha.\n7. Pass the puja thali among the women.\n8. Wait for moonrise and sight the moon through a sieve.\n9. See your husband's face through the sieve, then break the fast with water offered by your husband.",
+          "meaning": "Karva Chauth Fast Method: This vrat falls on Kartik Krishna Chaturthi (4th day of the dark fortnight of Kartik month). Married Hindu women fast from sunrise to moonrise for the long life and well-being of their husbands. It is one of the most widely celebrated marriage vrats in North India.",
+          "transliteration": "Karva Chauth Vrat Vidhi:\n1. Eat Sargi (pre-dawn meal prepared by mother-in-law) before sunrise.\n2. Observe a strict Nirjala (waterless) fast throughout the day.\n3. In the evening, dress in wedding attire, apply mehndi, and wear bangles.\n4. Gather with other married women for the communal puja.\n5. Place the Karva (earthen pot), wheat grains, and Gauri murti.\n6. Listen to the Karva Chauth Katha.\n7. Pass the puja thali among the women.\n8. Wait for moonrise and sight the moon through a sieve.\n9. See your husband's face through the sieve, then break the fast with water offered by your husband.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Karva Chauth Katha (Summary):\nQueen Veervati, the youngest of seven brothers, observed Karva Chauth. Unable to bear her hunger, her brothers created a mirror-fire to simulate moonrise. She broke her fast prematurely, and her husband died. Devastated, she fasted for a year and worshipped with devotion. Goddess Parvati restored her husband to life. The story teaches that Karva Chauth must be completed properly and the fast broken only after sighting the actual moon.",
+          "meaning": "The Karva Chauth Katha warns against breaking the fast before the actual moonrise and emphasizes the power of a wife's devotion and penance. Goddess Parvati rewards sincere observance with the husband's longevity.",
+          "transliteration": "Karva Chauth Katha (Summary):\nQueen Veervati, the youngest of seven brothers, observed Karva Chauth. Unable to bear her hunger, her brothers created a mirror-fire to simulate moonrise. She broke her fast prematurely, and her husband died. Devastated, she fasted for a year and worshipped with devotion. Goddess Parvati restored her husband to life. The story teaches that Karva Chauth must be completed properly and the fast broken only after sighting the actual moon.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Karva Chauth Moon Prayer:\nChandramaa Jee Namaskar, Meri Aarti Sweekaar Karo\nMere Pati Ko Deerghayu Karo, Mere Saubhagya Ki Raksha Karo\nJaise Chandramaa Poornimaa Ko Poora Hota Hai\nVaise Mera Suhaag Sadaa Poorna Rahe",
+          "meaning": "O Moon God, accept my salutations and my prayer. Grant my husband a long life, protect my marital blessings. Just as the moon becomes full on Purnima, may my married life always remain complete.",
+          "transliteration": "Candramā Jī Namaskāra, Merī Āratī Svīkāra Karo\nMere Pati Ko Dīrghāyu Karo, Mere Saubhāgya Kī Rakṣā Karo\nJaise Candramā Pūrṇimā Ko Pūrā Hotā Hai\nVaise Merā Suhāga Sadā Pūrṇa Rahe",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "utsav_ganesh_chaturthi",
+      "title": "Ganesh Chaturthi",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/vrat_utsav/ganesh_chaturthi.jpg",
+      "orderIndex": 7,
+      "content": [
+        {
+          "shloka": "Om Gam Ganapataye Namah\nVakratunda Mahaakaya Surya Koti Samaprabha\nNirvighnam Kuru Me Deva Sarva Kaaryeshu Sarvadaa\nGanapati Bappa Morya, Mangal Moorti Morya",
+          "meaning": "O Ganesha with the curved trunk and massive body, radiant as a billion suns, remove all obstacles from my endeavors always. Ganapati Bappa Morya! Auspicious form, Morya!",
+          "transliteration": "Oṁ Gaṁ Gaṇapataye Namaḥ\nVakratuṇḍa Mahākāya Sūrya Koṭi Samaprabha\nNirvighnaṁ Kuru Me Deva Sarva Kāryeṣu Sarvadā\nGaṇapati Bappā Moryā, Maṅgala Mūrti Moryā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ganesh Chaturthi Puja Vidhi:\n1. Falls on Bhadrapada Shukla Chaturthi (August-September).\n2. Bring home a Ganesh murti (clay idol preferred for eco-friendliness).\n3. Perform Prana Pratishtha (life invocation) with mantras.\n4. Offer 21 Durva blades, red flowers, modak, and fruits.\n5. Recite Ganapati Atharvashirsha and Ganesh Stotra.\n6. Worship daily for 1.5, 3, 5, 7, or 10 days.\n7. Offer modak — Ganesha's favorite sweet — as Naivedya daily.\n8. On the final day, perform Uttarpuja (farewell puja).\n9. Carry the idol in a procession with music and immerse in water (Visarjan).",
+          "meaning": "Ganesh Chaturthi Festival Method: This is the biggest festival in Maharashtra and is celebrated across India. Lokmanya Tilak popularized the public celebration in 1893 as a means of social unity. The festival lasts 1 to 10 days, culminating in the grand Visarjan procession.",
+          "transliteration": "Ganesh Chaturthi Puja Vidhi:\n1. Falls on Bhadrapada Shukla Chaturthi (August-September).\n2. Bring home a Ganesh murti (clay idol preferred for eco-friendliness).\n3. Perform Prana Pratishtha (life invocation) with mantras.\n4. Offer 21 Durva blades, red flowers, modak, and fruits.\n5. Recite Ganapati Atharvashirsha and Ganesh Stotra.\n6. Worship daily for 1.5, 3, 5, 7, or 10 days.\n7. Offer modak — Ganesha's favorite sweet — as Naivedya daily.\n8. On the final day, perform Uttarpuja (farewell puja).\n9. Carry the idol in a procession with music and immerse in water (Visarjan).",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ganapati Atharvashirsha (Key Verse):\nTvam Brahma Tvam Vishnustvam Rudrastvam\nIndrastvam Agnistvam Vaayustvam\nSooryastvam Chandramastvam\nBrahma Bhoor Bhuvah Svarom",
+          "meaning": "You are Brahma, you are Vishnu, you are Rudra, you are Indra, you are Agni, you are Vayu, you are Surya, you are Chandra. You are the Brahman manifested as the three worlds — Bhur, Bhuvah, Svar, Om.",
+          "transliteration": "Tvaṁ Brahmā Tvaṁ Viṣṇustvaṁ Rudrastvaṁ\nIndrastvaṁ Agnistvaṁ Vāyustvaṁ\nSūryastvaṁ Candramāstvaṁ\nBrahma Bhūr Bhuvaḥ Svarom",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ganesh Visarjan Prayer:\nYaantu Deva Ganaa Sarve Poojaam Aadaaya Maamakeem\nIshtakaamasamriddhyartham Punaraagamanaya Cha\nGanapati Bappa Morya, Pudchya Varshi Lavkar Yaa!",
+          "meaning": "May all the divine beings depart after accepting my worship, for the fulfillment of my wishes, and may they return again. Ganapati Bappa Morya — come again quickly next year!",
+          "transliteration": "Yāntu Deva Gaṇā Sarve Pūjāṁ Ādāya Māmakīṁ\nIṣṭakāmasamṛddhyarthaṁ Punarāgamanāya Ca\nGaṇapati Bappā Moryā, Puḍhcyā Varṣī Lavakar Yā!",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "utsav_diwali",
+      "title": "Diwali (Deepavali)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/vrat_utsav/diwali.jpg",
+      "orderIndex": 8,
+      "content": [
+        {
+          "shloka": "Om Shreem Mahalakshmyai Namah\nShubham Karoti Kalyaanam Aarogyam Dhanasampadaa\nShatrubuddhi Vinaashaaya Deepajyotir Namostute",
+          "meaning": "Salutations to the light of the lamp which brings auspiciousness, well-being, health, and abundance of wealth, and which destroys the intellect of the enemy (ignorance).",
+          "transliteration": "Oṁ Śrīṁ Mahālakṣmyai Namaḥ\nŚubhaṁ Karoti Kalyāṇaṁ Ārogyaṁ Dhanasampadā\nŚatrubuddhi Vināśāya Dīpajyotir Namostute",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Diwali Puja Vidhi (Lakshmi Puja on Amavasya):\n1. Clean and decorate the entire house. Draw Rangoli at the entrance.\n2. Light diyas (oil lamps) in every room and at the entrance.\n3. Set up the altar with images of Lakshmi, Ganesha, and Saraswati.\n4. Place a Kalash, new account books, coins, and business tools.\n5. Offer red flowers, kumkum, sweets, and fruits.\n6. Chant 'Om Shreem Mahalakshmyai Namah' 108 times.\n7. Recite Shri Suktam and Lakshmi Stotram.\n8. Perform aarti with the lit diya.\n9. Distribute sweets and Prasad to family and neighbors.",
+          "meaning": "Diwali Puja Method: Diwali, the festival of lights, is a five-day celebration. The main Lakshmi Puja is performed on Amavasya (new moon) night. It signifies the victory of light over darkness, knowledge over ignorance, and good over evil. It marks Lord Rama's return to Ayodhya after 14 years of exile.",
+          "transliteration": "Diwali Puja Vidhi (Lakshmi Puja on Amavasya):\n1. Clean and decorate the entire house. Draw Rangoli at the entrance.\n2. Light diyas (oil lamps) in every room and at the entrance.\n3. Set up the altar with images of Lakshmi, Ganesha, and Saraswati.\n4. Place a Kalash, new account books, coins, and business tools.\n5. Offer red flowers, kumkum, sweets, and fruits.\n6. Chant 'Om Shreem Mahalakshmyai Namah' 108 times.\n7. Recite Shri Suktam and Lakshmi Stotram.\n8. Perform aarti with the lit diya.\n9. Distribute sweets and Prasad to family and neighbors.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Five Days of Diwali:\nDay 1: Dhanteras — Worship of Dhanvantari and Lakshmi, buying gold/utensils.\nDay 2: Narak Chaturdashi (Chhoti Diwali) — Krishna's victory over Narakasura.\nDay 3: Diwali Amavasya — Main Lakshmi Puja, lighting of diyas.\nDay 4: Govardhan Puja / Padwa — Krishna lifts Govardhan, husband-wife celebration.\nDay 5: Bhai Dooj — Sister prays for brother's well-being.",
+          "meaning": "Diwali spans five days of celebration, each with its own significance. The festival unites themes of health (Dhanteras), victory over evil (Narak Chaturdashi), wealth and light (Lakshmi Puja), love and devotion (Govardhan/Padwa), and family bonds (Bhai Dooj).",
+          "transliteration": "Five Days of Diwali:\nDay 1: Dhanteras — Worship of Dhanvantari and Lakshmi, buying gold/utensils.\nDay 2: Narak Chaturdashi (Chhoti Diwali) — Krishna's victory over Narakasura.\nDay 3: Diwali Amavasya — Main Lakshmi Puja, lighting of diyas.\nDay 4: Govardhan Puja / Padwa — Krishna lifts Govardhan, husband-wife celebration.\nDay 5: Bhai Dooj — Sister prays for brother's well-being.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Deepa Prarthana:\nDeepajyotih Parabrahma Deepajyotir Janardanah\nDeepo Me Haratu Paapam Deepajyotir Namostute\nShubh Deepavali",
+          "meaning": "The light of the lamp is the Supreme Brahman, the light of the lamp is Lord Vishnu (Janardana). May the lamp destroy my sins. Salutations to the light of the lamp. Happy Deepavali!",
+          "transliteration": "Dīpajyotiḥ Parabrahma Dīpajyotiḥ Janārdanaḥ\nDīpo Me Haratu Pāpaṁ Dīpajyotiḥ Namostute\nŚubha Dīpāvalī",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "utsav_holi",
+      "title": "Holi",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/vrat_utsav/holi.jpg",
+      "orderIndex": 9,
+      "content": [
+        {
+          "shloka": "Om Namo Bhagavate Naarasimhaaya\nHolikaa Dahanam Dhanyam Prahlaadasyaanukampayaa\nSadaa Kalyaanam Aapnoti Sarvadevanamaskritah",
+          "meaning": "The burning of Holika is blessed by the compassion shown to Prahlada. One always attains auspiciousness by paying homage to all the deities through this sacred fire.",
+          "transliteration": "Oṁ Namo Bhagavate Nārasiṁhāya\nHolikā Dahanaṁ Dhanyaṁ Prahlādasyānukampayā\nSadā Kalyāṇaṁ Āpnoti Sarvadevanamaskṛtaḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Holika Dahan Vidhi:\n1. Falls on Phalguna Purnima (full moon of Phalguna month, Feb-March).\n2. Gather wood, cow dung cakes, and dry leaves for the Holika pyre.\n3. Place a wooden pole in the center representing Prahlada's devotion.\n4. In the evening, light the Holika bonfire at the auspicious muhurta.\n5. Perform Parikrama (circumambulation) around the fire.\n6. Offer coconut, popcorn, and new grains to the fire.\n7. Apply tilak of Holika ash on the forehead.\n8. Chant 'Om Namo Bhagavate Naarasimhaaya' and pray for protection.\n9. Next morning, celebrate Dhulandi — play with colors, water, and music.",
+          "meaning": "Holi Festival Method: Holi is a two-day festival celebrating the triumph of good over evil. Holika Dahan on the eve represents the burning of the demoness Holika and the survival of devotee Prahlada. The next day, Dhulandi (Rangwali Holi), people play with colors symbolizing joy, renewal, and the arrival of spring.",
+          "transliteration": "Holika Dahan Vidhi:\n1. Falls on Phalguna Purnima (full moon of Phalguna month, Feb-March).\n2. Gather wood, cow dung cakes, and dry leaves for the Holika pyre.\n3. Place a wooden pole in the center representing Prahlada's devotion.\n4. In the evening, light the Holika bonfire at the auspicious muhurta.\n5. Perform Parikrama (circumambulation) around the fire.\n6. Offer coconut, popcorn, and new grains to the fire.\n7. Apply tilak of Holika ash on the forehead.\n8. Chant 'Om Namo Bhagavate Naarasimhaaya' and pray for protection.\n9. Next morning, celebrate Dhulandi — play with colors, water, and music.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Holi Katha — Prahlada and Holika:\nDemon king Hiranyakashipu forbade worship of Vishnu, but his son Prahlada remained a steadfast devotee. Hiranyakashipu tried many ways to kill Prahlada but failed. Finally, his sister Holika, who had a boon of fire immunity, sat in a blazing fire with Prahlada. By Vishnu's grace, Prahlada survived unharmed while Holika was consumed by flames. Lord Narasimha then appeared to slay Hiranyakashipu.",
+          "meaning": "The story of Prahlada and Holika teaches that divine protection is always granted to the truly devoted. No power, however great, can harm a devotee of the Lord. The burning of Holika symbolizes the destruction of evil and the triumph of faith.",
+          "transliteration": "Holi Katha — Prahlada and Holika:\nDemon king Hiranyakashipu forbade worship of Vishnu, but his son Prahlada remained a steadfast devotee. Hiranyakashipu tried many ways to kill Prahlada but failed. Finally, his sister Holika, who had a boon of fire immunity, sat in a blazing fire with Prahlada. By Vishnu's grace, Prahlada survived unharmed while Holika was consumed by flames. Lord Narasimha then appeared to slay Hiranyakashipu.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Holi Prayer:\nFaalgun Maas Ki Poornimaa, Holi Ka Tyohaar\nBuraai Par Achchhaai Ki Jeet, Prem Ka Adhikaar\nRango Se Saja Sansar, Khushiyon Ka Bhandaar\nHoli Ki Shubhkaamnaayein, Sabko Pyaar Apaar",
+          "meaning": "On the full moon of Phalgun, the festival of Holi arrives. It marks the victory of good over evil, the authority of love. The world is decorated with colors, a treasure of happiness. Wishing everyone a Happy Holi with boundless love.",
+          "transliteration": "Phālguna Māsa Kī Pūrṇimā, Holī Kā Tyohāra\nBurāī Para Acchāī Kī Jīta, Prema Kā Adhikāra\nRaṅgo Se Sajā Sansāra, Khuśiyo Kā Bhaṇḍāra\nHolī Kī Śubhkāmnāyeṁ, Sabako Pyāra Apāra",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "utsav_makar_sankranti",
+      "title": "Makar Sankranti",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/vrat_utsav/makar_sankranti.jpg",
+      "orderIndex": 10,
+      "content": [
+        {
+          "shloka": "Om Suryaaya Namah\nMakare Sankramane Soorye Snaanam Daanam Tapah Kriyaah\nSarva Paapa Pramuktasya Soorya Lokam Sa Gacchati",
+          "meaning": "When the Sun enters Makar (Capricorn), bathing, charity, and austerities performed on this day free one from all sins and grant passage to the realm of Surya.",
+          "transliteration": "Oṁ Sūryāya Namaḥ\nMakare Saṅkramaṇe Sūrye Snānaṁ Dānaṁ Tapaḥ Kriyāḥ\nSarva Pāpa Pramuktasya Sūrya Lokaṁ Sa Gacchati",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Makar Sankranti Vidhi:\n1. Falls on January 14 or 15 each year (solar calendar).\n2. Wake before sunrise, bathe in a holy river or at home.\n3. Offer Arghya (water with sesame and red flowers) to the Sun.\n4. Chant Surya mantra and Gayatri mantra.\n5. Donate til-gul (sesame-jaggery), blankets, and food to the needy.\n6. Exchange til-gul sweets saying 'Til gul ghya, god god bola' (Marathi tradition).\n7. Fly kites (popular in Gujarat and Rajasthan).\n8. Prepare and eat til laddoo, puranpoli, and khichdi.\n9. Visit temples and perform Surya puja.",
+          "meaning": "Makar Sankranti marks the Sun's transition into Capricorn, signaling the end of the winter solstice and the beginning of longer days (Uttarayan). It is celebrated across India by different names — Pongal (Tamil Nadu), Lohri (Punjab), Bihu (Assam), and Sankranti (Maharashtra/Karnataka).",
+          "transliteration": "Makar Sankranti Vidhi:\n1. Falls on January 14 or 15 each year (solar calendar).\n2. Wake before sunrise, bathe in a holy river or at home.\n3. Offer Arghya (water with sesame and red flowers) to the Sun.\n4. Chant Surya mantra and Gayatri mantra.\n5. Donate til-gul (sesame-jaggery), blankets, and food to the needy.\n6. Exchange til-gul sweets saying 'Til gul ghya, god god bola' (Marathi tradition).\n7. Fly kites (popular in Gujarat and Rajasthan).\n8. Prepare and eat til laddoo, puranpoli, and khichdi.\n9. Visit temples and perform Surya puja.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sankranti Significance:\nBhishma Pitamaha chose to die during Uttarayan, believing the soul attains liberation when departing during this period. The Mahabharata and Bhagavad Gita both mention the supremacy of Uttarayan. Makar Sankranti begins this sacred six-month period and is thus considered the most auspicious day for charity and spiritual practice.",
+          "meaning": "The spiritual significance of Makar Sankranti is rooted in Vedic and Puranic texts. The northward journey of the sun (Uttarayan) is associated with light, knowledge, and liberation. Bhishma Pitamaha waited on his bed of arrows until Uttarayan to leave his body.",
+          "transliteration": "Sankranti Significance:\nBhishma Pitamaha chose to die during Uttarayan, believing the soul attains liberation when departing during this period. The Mahabharata and Bhagavad Gita both mention the supremacy of Uttarayan. Makar Sankranti begins this sacred six-month period and is thus considered the most auspicious day for charity and spiritual practice.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Til Gul Prayer:\nTilaanaam Sarsapaanaam Cha Yathaa Sneho Na Jaayate\nTathaa Vairasya Naashaaya Til Gulam Dadaami Te\nTil Gul Ghya, God God Bola!",
+          "meaning": "Just as sweetness is inherent in sesame and jaggery, may all enmity be destroyed. I give you til-gul (sesame-jaggery). Take this til-gul and speak sweet words!",
+          "transliteration": "Tilānāṁ Sarsapānāṁ Ca Yathā Sneho Na Jāyate\nTathā Vairasya Nāśāya Tila Gulaṁ Dadāmi Te\nTila Gula Ghyā, Goḍa Goḍa Bolā!",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "utsav_ram_navami",
+      "title": "Ram Navami",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/vrat_utsav/ram_navami.jpg",
+      "orderIndex": 11,
+      "content": [
+        {
+          "shloka": "Shri Raam Jai Raam Jai Jai Raam\nRaamaaya Raamabhadraaya Raamachandraaya Vedhase\nRaghunaathaaya Naathaaya Seetaayaah Pataye Namah",
+          "meaning": "Salutations to Lord Rama, Ramabhadra, Ramachandra, the all-knowing, the Lord of the Raghu dynasty, the Lord of all, and the husband of Sita.",
+          "transliteration": "Śrī Rāma Jaya Rāma Jaya Jaya Rāma\nRāmāya Rāmabhadrāya Rāmacandrāya Vedhase\nRaghunāthāya Nāthāya Sītāyāḥ Pataye Namaḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ram Navami Puja Vidhi:\n1. Falls on Chaitra Shukla Navami (9th day of bright half of Chaitra).\n2. Wake early, bathe, and wear new yellow or saffron clothes.\n3. Place images of Rama, Sita, Lakshmana, and Hanuman on the altar.\n4. Decorate with flowers and mango leaves.\n5. Perform Abhisheka of Rama's image at noon (birth time).\n6. Chant Rama Raksha Stotra and Hanuman Chalisa.\n7. Read or listen to Ramcharitmanas (Balkand — birth episode).\n8. Offer fruits, Panchamrit, and Panakam (jaggery-water drink) as Naivedya.\n9. Distribute Prasad and perform Rama Aarti.",
+          "meaning": "Ram Navami Method: This festival celebrates the birth of Lord Rama, the seventh avatar of Vishnu, born at noon on Navami to King Dasharatha and Queen Kausalya in Ayodhya. It marks the conclusion of the nine-day Chaitra Navratri.",
+          "transliteration": "Ram Navami Puja Vidhi:\n1. Falls on Chaitra Shukla Navami (9th day of bright half of Chaitra).\n2. Wake early, bathe, and wear new yellow or saffron clothes.\n3. Place images of Rama, Sita, Lakshmana, and Hanuman on the altar.\n4. Decorate with flowers and mango leaves.\n5. Perform Abhisheka of Rama's image at noon (birth time).\n6. Chant Rama Raksha Stotra and Hanuman Chalisa.\n7. Read or listen to Ramcharitmanas (Balkand — birth episode).\n8. Offer fruits, Panchamrit, and Panakam (jaggery-water drink) as Naivedya.\n9. Distribute Prasad and perform Rama Aarti.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Rama Janma Katha (Summary):\nKing Dasharatha of Ayodhya performed the Putrakameshti Yagna seeking sons. The Fire God emerged and gave sacred Kheer. Queen Kausalya, Kaikeyi, and Sumitra consumed it. On Chaitra Shukla Navami, at noon, Lord Rama was born to Kausalya as the eldest prince. His brothers Bharata, Lakshmana, and Shatrughna were also born. The entire kingdom of Ayodhya celebrated with joy and festivity.",
+          "meaning": "The birth of Lord Rama, as described in Valmiki Ramayana and Tulsidas's Ramcharitmanas, is the central event of Ram Navami. His birth fulfilled the divine purpose of destroying the demon Ravana and establishing Dharma on earth.",
+          "transliteration": "Rama Janma Katha (Summary):\nKing Dasharatha of Ayodhya performed the Putrakameshti Yagna seeking sons. The Fire God emerged and gave sacred Kheer. Queen Kausalya, Kaikeyi, and Sumitra consumed it. On Chaitra Shukla Navami, at noon, Lord Rama was born to Kausalya as the eldest prince. His brothers Bharata, Lakshmana, and Shatrughna were also born. The entire kingdom of Ayodhya celebrated with joy and festivity.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Rama Stuti:\nRamam Dasharatham Vidhi Ramam Kaushaleya Nandanam\nRamam Deenanukampam Cha Ramam Dharmapatham Gatam\nRamam Satyam Priyam Dheeram Ramam Sarvagunottamam",
+          "meaning": "Know Rama as the son of Dasharatha, the delight of Kausalya, the compassionate one towards the distressed, the follower of Dharma, the truthful, the beloved, the courageous, and the one endowed with all supreme virtues.",
+          "transliteration": "Rāmaṁ Daśarathaṁ Vidhi Rāmaṁ Kausaleyā Nandanaṁ\nRāmaṁ Dīnānukampaṁ Ca Rāmaṁ Dharmapathaṁ Gataṁ\nRāmaṁ Satyaṁ Priyaṁ Dhīraṁ Rāmaṁ Sarvaguṇottamam",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "utsav_krishna_janmashtami",
+      "title": "Krishna Janmashtami",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/vrat_utsav/janmashtami.jpg",
+      "orderIndex": 12,
+      "content": [
+        {
+          "shloka": "Om Kleem Krishnaaya Namah\nVasudevasutam Devam Kansa Chanoor Mardanam\nDevaki Paramaanandam Krishnam Vande Jagadgurum",
+          "meaning": "I bow to Lord Krishna, the son of Vasudeva, the slayer of Kansa and Chanura, the supreme bliss of Devaki, the Guru of the entire universe.",
+          "transliteration": "Oṁ Klīṁ Kṛṣṇāya Namaḥ\nVasudevasutaṁ Devaṁ Kaṁsa Cāṇūra Mardanaṁ\nDevakī Paramānandaṁ Kṛṣṇaṁ Vande Jagadgurum",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Janmashtami Puja Vidhi:\n1. Falls on Bhadrapada Krishna Ashtami (8th day of dark fortnight).\n2. Observe a strict fast throughout the day.\n3. Decorate a Jhula (swing) for baby Krishna.\n4. Place a small Krishna murti on the swing with butter and makhan.\n5. At midnight (Krishna's birth time), perform Abhisheka with Panchamrit.\n6. Chant 'Hare Krishna Hare Krishna, Krishna Krishna Hare Hare'.\n7. Read Krishna Janma Katha from Bhagavata Purana.\n8. Offer Makhan-Mishri (butter-sugar), fruits, and sweets.\n9. Break the fast after midnight puja.\n10. Next day, celebrate Dahi Handi (Gopalkala).",
+          "meaning": "Janmashtami Method: This festival celebrates the birth of Lord Krishna at midnight in a prison in Mathura. It is marked by fasting, night vigil, devotional singing, dance-dramas (Raas Leela), and the joyful Dahi Handi celebration.",
+          "transliteration": "Janmashtami Puja Vidhi:\n1. Falls on Bhadrapada Krishna Ashtami (8th day of dark fortnight).\n2. Observe a strict fast throughout the day.\n3. Decorate a Jhula (swing) for baby Krishna.\n4. Place a small Krishna murti on the swing with butter and makhan.\n5. At midnight (Krishna's birth time), perform Abhisheka with Panchamrit.\n6. Chant 'Hare Krishna Hare Krishna, Krishna Krishna Hare Hare'.\n7. Read Krishna Janma Katha from Bhagavata Purana.\n8. Offer Makhan-Mishri (butter-sugar), fruits, and sweets.\n9. Break the fast after midnight puja.\n10. Next day, celebrate Dahi Handi (Gopalkala).",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Krishna Janma Katha (Summary):\nThe tyrant Kansa imprisoned his sister Devaki and her husband Vasudeva after a prophecy foretold that Devaki's eighth son would destroy him. When Krishna was born at midnight on Ashtami, divine events unfolded — the prison doors opened, the guards fell asleep, and Vasudeva carried the newborn across the flooded Yamuna to Gokul. There, he exchanged Krishna with Yashoda's daughter. Krishna grew up in Vrindavan and eventually returned to slay Kansa.",
+          "meaning": "The miraculous birth of Lord Krishna, as narrated in the Bhagavata Purana, demonstrates divine intervention to protect Dharma. Every element of the story — the prison, the river, the exchange — shows that God's plan cannot be thwarted by any earthly power.",
+          "transliteration": "Krishna Janma Katha (Summary):\nThe tyrant Kansa imprisoned his sister Devaki and her husband Vasudeva after a prophecy foretold that Devaki's eighth son would destroy him. When Krishna was born at midnight on Ashtami, divine events unfolded — the prison doors opened, the guards fell asleep, and Vasudeva carried the newborn across the flooded Yamuna to Gokul. There, he exchanged Krishna with Yashoda's daughter. Krishna grew up in Vrindavan and eventually returned to slay Kansa.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Bhagavad Gita (Chapter 4, Verse 7-8):\nYadaa Yadaa Hi Dharmasya Glaanir Bhavati Bhaarata\nAbhyutthanam Adharmasya Tadaatmaanam Srijaamyaham\nParitraanaaya Saadhoonaam Vinaashaaya Cha Dushkritaam\nDharma Samsthaapanaarthaaya Sambhavaami Yuge Yuge",
+          "meaning": "Whenever there is a decline of Dharma and a rise of Adharma, O Arjuna, I manifest Myself. For the protection of the righteous, the destruction of the wicked, and the establishment of Dharma, I appear age after age.",
+          "transliteration": "Yadā Yadā Hi Dharmasya Glānir Bhavati Bhārata\nAbhyutthānam Adharmasya Tadātmānaṁ Sṛjāmyaham\nParitrāṇāya Sādhūnāṁ Vināśāya Ca Duṣkṛtāṁ\nDharma Saṁsthāpanārthāya Saṁbhavāmi Yuge Yuge",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "utsav_mahashivratri",
+      "title": "Mahashivratri",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/vrat_utsav/mahashivratri.jpg",
+      "orderIndex": 13,
+      "content": [
+        {
+          "shloka": "Om Namah Shivaaya\nMahaa Shivaraatri Vratasya Mahaatmyam Sarvakaamadam\nShivam Sampujayed Bhaktyaa Chatuhpraharamupaasakah",
+          "meaning": "The greatness of the Mahashivratri vrat fulfills all desires. One should worship Lord Shiva with devotion during all four Prahars (watches) of the night.",
+          "transliteration": "Oṁ Namaḥ Śivāya\nMahā Śivarātri Vratasya Māhātmyaṁ Sarvakāmadaṁ\nŚivaṁ Saṁpūjayed Bhaktyā Catuḥpraharamupāsakaḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Mahashivratri Puja Vidhi:\n1. Falls on Phalguna Krishna Chaturdashi (Feb-March).\n2. Observe a strict fast — Nirjala or with fruits only.\n3. Visit a Shiva temple or worship at home.\n4. Perform four Prahar Pujas throughout the night:\n   - 1st Prahar: Abhisheka with milk, chant Shiva Panchakshari.\n   - 2nd Prahar: Abhisheka with curd, chant Rudram.\n   - 3rd Prahar: Abhisheka with ghee, chant Maha Mrityunjaya.\n   - 4th Prahar: Abhisheka with honey, chant Shiva Tandava.\n5. Offer Bilva leaves, dhatura, and white flowers.\n6. Stay awake all night (Jagaran) with bhajans and chanting.\n7. Break fast on the next morning after final puja.",
+          "meaning": "Mahashivratri Puja Method: The Great Night of Shiva is considered the most sacred of all Shivratris. It falls on the 14th night of the dark fortnight of Phalguna. The night-long worship across four Prahars is unique to this festival. It is believed that Shiva Himself performs His cosmic Tandava dance on this night.",
+          "transliteration": "Mahashivratri Puja Vidhi:\n1. Falls on Phalguna Krishna Chaturdashi (Feb-March).\n2. Observe a strict fast — Nirjala or with fruits only.\n3. Visit a Shiva temple or worship at home.\n4. Perform four Prahar Pujas throughout the night:\n   - 1st Prahar: Abhisheka with milk, chant Shiva Panchakshari.\n   - 2nd Prahar: Abhisheka with curd, chant Rudram.\n   - 3rd Prahar: Abhisheka with ghee, chant Maha Mrityunjaya.\n   - 4th Prahar: Abhisheka with honey, chant Shiva Tandava.\n5. Offer Bilva leaves, dhatura, and white flowers.\n6. Stay awake all night (Jagaran) with bhajans and chanting.\n7. Break fast on the next morning after final puja.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Mahashivratri Katha (Summary):\nA hunter lost in the forest climbed a Bilva tree at night for safety. Unknowingly, he stayed awake all night, and the dew drops and Bilva leaves fell onto a Shivalinga below. Without knowing, he had performed an all-night Shiva puja with Bilva leaves and water. When Yama's messengers came for him at death, Shiva's attendants intervened and took him to Kailash. Even accidental worship on Mahashivratri carries immense merit.",
+          "meaning": "This popular Mahashivratri story from the Shiva Purana teaches that Lord Shiva is immensely compassionate — even unintentional worship on this sacred night grants liberation. If accidental puja is so powerful, imagine the merit of conscious, devoted worship.",
+          "transliteration": "Mahashivratri Katha (Summary):\nA hunter lost in the forest climbed a Bilva tree at night for safety. Unknowingly, he stayed awake all night, and the dew drops and Bilva leaves fell onto a Shivalinga below. Without knowing, he had performed an all-night Shiva puja with Bilva leaves and water. When Yama's messengers came for him at death, Shiva's attendants intervened and took him to Kailash. Even accidental worship on Mahashivratri carries immense merit.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Lingashtakam (Verse 1):\nBrahma Muraari Suraarchita Lingam\nNirmala Bhaasita Shobhita Lingam\nJanmaja Dukha Vinaashaka Lingam\nTat Pranaamaami Sadaa Shiva Lingam",
+          "meaning": "I bow to that Shivalinga which is worshipped by Brahma, Vishnu, and all the devas, which is pure and resplendent, which destroys the sorrows of birth. I eternally bow to that auspicious Shivalinga.",
+          "transliteration": "Brahma Murāri Surārcita Liṅgaṁ\nNirmala Bhāsita Śobhita Liṅgaṁ\nJanmaja Duḥkha Vināśaka Liṅgaṁ\nTat Praṇamāmi Sadā Śiva Liṅgam",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "vrat_santoshi_mata",
+      "title": "Santoshi Mata Vrat (Friday)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/vrat_utsav/santoshi_mata.jpg",
+      "orderIndex": 14,
+      "content": [
+        {
+          "shloka": "Om Santoshinyai Namah\nJai Santoshi Maata, Jai Santoshi Maata\nAparnaapaar Mahimaa Sab Vidhivat Gaata",
+          "meaning": "Salutations to Goddess Santoshi Mata. Glory to Santoshi Mata! Your unlimited greatness, everyone sings in the proper way.",
+          "transliteration": "Oṁ Santoṣiṇyai Namaḥ\nJaya Santoṣī Mātā, Jaya Santoṣī Mātā\nAparṇāpāra Mahimā Saba Vidhivata Gātā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Santoshi Mata Vrat Vidhi:\n1. Observe the vrat on 16 consecutive Fridays.\n2. Wake early, bathe, and wear clean clothes.\n3. Place Santoshi Mata's image on the altar.\n4. Offer gur-chana (jaggery and roasted chickpeas) as Prasad.\n5. Light a ghee lamp and incense.\n6. Chant 'Om Santoshinyai Namah' and perform the aarti.\n7. Read the Santoshi Mata Vrat Katha.\n8. Eat one meal of simple food — no sour items allowed.\n9. On the 17th Friday, perform Udyapan with a feast (no sour food).",
+          "meaning": "Santoshi Mata Vrat Method: This vrat is dedicated to Goddess Santoshi, the daughter of Lord Ganesha. It is observed for 16 Fridays. The most important rule is to avoid all sour (khatta) food during the vrat period. The simplicity and accessibility of this vrat has made it extremely popular.",
+          "transliteration": "Santoshi Mata Vrat Vidhi:\n1. Observe the vrat on 16 consecutive Fridays.\n2. Wake early, bathe, and wear clean clothes.\n3. Place Santoshi Mata's image on the altar.\n4. Offer gur-chana (jaggery and roasted chickpeas) as Prasad.\n5. Light a ghee lamp and incense.\n6. Chant 'Om Santoshinyai Namah' and perform the aarti.\n7. Read the Santoshi Mata Vrat Katha.\n8. Eat one meal of simple food — no sour items allowed.\n9. On the 17th Friday, perform Udyapan with a feast (no sour food).",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Santoshi Mata Katha (Summary):\nA poor woman named Satyavati, guided by an old woman, began the Santoshi Mata vrat for 16 Fridays. She offered gur-chana with devotion and avoided sour food. Santoshi Mata was pleased and transformed her husband's fortunes — he returned from abroad with great wealth. However, jealous relatives tricked Satyavati into eating sour food during the Udyapan, angering the Goddess. After Satyavati repented and repeated the Udyapan properly, Santoshi Mata restored all blessings.",
+          "meaning": "The Santoshi Mata Katha teaches that the vrat must be observed with strict adherence to its rules, especially avoiding sour food. The Goddess rewards faithful devotees with prosperity and contentment (santosh).",
+          "transliteration": "Santoshi Mata Katha (Summary):\nA poor woman named Satyavati, guided by an old woman, began the Santoshi Mata vrat for 16 Fridays. She offered gur-chana with devotion and avoided sour food. Santoshi Mata was pleased and transformed her husband's fortunes — he returned from abroad with great wealth. However, jealous relatives tricked Satyavati into eating sour food during the Udyapan, angering the Goddess. After Satyavati repented and repeated the Udyapan properly, Santoshi Mata restored all blessings.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Santoshi Mata Aarti:\nJai Santoshi Maata Maiya Jai Santoshi Maata\nAparnaapaar Mahimaa Sab Vidhivat Gaata\nGur Chane Ka Bhog Lagaau Aur Kuch Nahi Chaahiye\nMaata Tere Bhakton Ko Kabhi Dukh Nahi Saahiye",
+          "meaning": "Glory to Mother Santoshi Mata! Everyone sings of your limitless greatness. I offer jaggery and chickpeas — I desire nothing more. O Mother, your devotees should never have to endure sorrow.",
+          "transliteration": "Jaya Santoṣī Mātā Maiyā Jaya Santoṣī Mātā\nAparṇāpāra Mahimā Saba Vidhivata Gātā\nGuḍa Cane Kā Bhoga Lagāu Aura Kucha Nahīṁ Cāhiye\nMātā Tere Bhaktoṁ Ko Kabhī Duḥkha Nahīṁ Sāhiye",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "utsav_guru_purnima",
+      "title": "Guru Purnima",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/vrat_utsav/guru_purnima.jpg",
+      "orderIndex": 15,
+      "content": [
+        {
+          "shloka": "Gurur Brahmaa Gurur Vishnuh Gururdevo Maheshvarah\nGuruh Saakshaat Parabrahma Tasmai Shri Gurave Namah",
+          "meaning": "The Guru is Brahma (the creator), the Guru is Vishnu (the preserver), the Guru is Shiva (the destroyer). The Guru is verily the Supreme Brahman. Salutations to that glorious Guru.",
+          "transliteration": "Gurur Brahmā Gurur Viṣṇuḥ Gururdevo Maheśvaraḥ\nGuruḥ Sākṣāt Parabrahma Tasmai Śrī Gurave Namaḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Guru Purnima Vidhi:\n1. Falls on Ashadha Purnima (full moon of Ashadha month, July).\n2. Wake early, bathe, and wear clean clothes.\n3. Visit your Guru or place the Guru's image/photo on the altar.\n4. Offer flowers, fruits, and sweets to the Guru.\n5. Wash the Guru's feet (Padapuja) or symbolically wash the image.\n6. Chant the Guru Stotram and offer prayers.\n7. Read or reflect on the Guru's teachings.\n8. Donate to charitable causes in the Guru's name.\n9. Seek the Guru's blessings and resolve to follow the path of knowledge.",
+          "meaning": "Guru Purnima Method: This day honors Maharishi Vyasa, who compiled the Vedas, wrote the Mahabharata, and composed the Puranas. It is also called Vyasa Purnima. Students honor their spiritual and academic teachers. In the Yoga tradition, this day marks when Shiva became the Adi Guru (first teacher).",
+          "transliteration": "Guru Purnima Vidhi:\n1. Falls on Ashadha Purnima (full moon of Ashadha month, July).\n2. Wake early, bathe, and wear clean clothes.\n3. Visit your Guru or place the Guru's image/photo on the altar.\n4. Offer flowers, fruits, and sweets to the Guru.\n5. Wash the Guru's feet (Padapuja) or symbolically wash the image.\n6. Chant the Guru Stotram and offer prayers.\n7. Read or reflect on the Guru's teachings.\n8. Donate to charitable causes in the Guru's name.\n9. Seek the Guru's blessings and resolve to follow the path of knowledge.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Guru Gita (Selected Verse):\nAkhanda Mandalaakaaram Vyaaptam Yena Charaacharam\nTatpadam Darshitam Yena Tasmai Shri Gurave Namah\nAgyaana Timiraandhasya Gyaananjana Shalaakayaa\nChakshuh Unmeelitam Yena Tasmai Shri Gurave Namah",
+          "meaning": "Salutations to the Guru who revealed that eternal truth which pervades the entire universe of moving and unmoving beings. Salutations to the Guru who opened the eyes of one blinded by the darkness of ignorance with the collyrium of knowledge.",
+          "transliteration": "Akhaṇḍa Maṇḍalākāraṁ Vyāptaṁ Yena Carācaram\nTatpadaṁ Darśitaṁ Yena Tasmai Śrī Gurave Namaḥ\nAjñāna Timirāndhasya Jñānāñjana Śalākayā\nCakṣuḥ Unmīlitaṁ Yena Tasmai Śrī Gurave Namaḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Vyasa Stuti:\nNamostute Vyaas Vishaalabuddhe Phullaaravindaayatapatra Netra\nYena Tvayaa Bhaaratataila Poornah Prajvaalito Gyaanamayah Pradeepah",
+          "meaning": "Salutations to Vyasa of vast intellect, whose eyes are like petals of a fully bloomed lotus. By you, the lamp of knowledge was lit, filled with the oil of the Mahabharata.",
+          "transliteration": "Namostute Vyāsa Viśālabuddhe Phullāravindāyatapatra Netra\nYena Tvayā Bhāratataila Pūrṇaḥ Prajvālito Jñānamayaḥ Pradīpaḥ",
+          "imageUrl": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,25 +1,466 @@
 {
-  "category": "ramcharitmanas",
+  "category": "Shri Ramcharitmanas",
   "version": 1,
   "items": [
     {
-      "id": "ram_baalkand_invocation",
-      "title": "Baal Kaand – Invocation",
+      "id": "ram_mangalacharan",
+      "title": "Mangalacharan (Invocation)",
       "language": "english",
       "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/ramcharitmanas/shri_ram.jpg",
       "orderIndex": 1,
       "content": [
         {
-          "shloka": "Varnanamarthasanghanam Rasanam Chhandasamapi",
-          "transliteration": "Varṇānām artha saṅghānāṁ rasānāṁ chhandasām api",
-          "meaning": "I bow to Saraswati and Ganesh, the originators of language and meaning.",
-          "imageUrl": "https://amolgadge663.github.io/NityaSeva_Contents/images/ramcharitmanas/bal_kand_baal_ram.jpg"
+          "shloka": "Varnaanam Artha-Sanghaanaam Rasaanaam Chhandasaam Api |\nMangalaanam Cha Kartaarau Vande Vaani Vinaayakau ||",
+          "meaning": "I bow to Goddess Saraswati (Vaani) and Lord Ganesha (Vinayaka), who are the creators of all letters, meanings, sentiments, poetic metres, and all auspiciousness.",
+          "transliteration": "Var\u1e47\u0101n\u0101m Artha-Sa\u1e45gh\u0101n\u0101\u1e43 Ras\u0101n\u0101\u1e43 Chandas\u0101m Api |\nMa\u1e45gal\u0101n\u0101\u1e43 Ca Kart\u0101rau Vande V\u0101\u1e47\u012b Vin\u0101yakau ||",
+          "imageUrl": null
         },
         {
-          "shloka": "Bhavani Shankarau Vande Shraddha Vishwas Roopinam",
-          "transliteration": "Bhavānī Śaṅkarau vande śraddhā viśvāsa rūpiṇau",
-          "meaning": "I worship Parvati and Shankar, embodiments of faith and devotion.",
-          "imageUrl": "https://amolgadge663.github.io/NityaSeva_Contents/images/ramcharitmanas/bal_kand_baal_ram.jpg"
+          "shloka": "Bhavaanee Shankarau Vande Shraddha Vishvaas Roopinau |\nYaabhyaam Vinaa Na Pashyanti Siddhaah Svaantahstham Eeshvaram ||",
+          "meaning": "I salute Bhavani (Parvati) and Shankara (Shiva), who are the embodiments of faith and belief. Without these two (faith and belief), even the siddhas (accomplished sages) cannot perceive the Lord dwelling in their own hearts.",
+          "transliteration": "Bhav\u0101n\u012b \u015aa\u1e45karau Vande \u015araddh\u0101 Vi\u015bv\u0101sa R\u016bpi\u1e47au |\nY\u0101bhy\u0101\u1e43 Vin\u0101 Na Pa\u015byanti Siddh\u0101\u1e25 Sv\u0101ntahstha\u1e43 \u012a\u015bvaram ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Vandey Bodhamayam Nityam Gurum Shankar Roopinam |\nYamaashrito Hi Vakropi Chandrah Sarvatra Vandyate ||",
+          "meaning": "I salute the Guru, who is the embodiment of wisdom eternal and is the form of Shankara (Shiva) Himself. By taking refuge in whom, even the crooked moon becomes universally revered.",
+          "transliteration": "Vande Bodhamaya\u1e43 Nitya\u1e43 Guru\u1e43 \u015aa\u1e45kara R\u016bpi\u1e47am |\nYam\u0101\u015brito Hi Vakropi Candra\u1e25 Sarvatra Vandyate ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Seetaa Raama Guna Grama Punya Aranya Vihaarinaau |\nVande Vishudddha Vignaanau Kavishvar Kapishvarau ||",
+          "meaning": "I salute both Valmiki (the king of poets) and Hanuman (the king of monkeys), who are repositories of pure wisdom and who delight in wandering through the sacred forest of Sita and Rama's virtues.",
+          "transliteration": "S\u012bt\u0101 R\u0101ma Gu\u1e47a Gr\u0101ma Pu\u1e47ya Ara\u1e47ya Vih\u0101ri\u1e47au |\nVande Vi\u015buddha Vij\u00f1\u0101nau Kav\u012b\u015bvara Kap\u012b\u015bvarau ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Udabhava Sthiti Samhaar Kaarineem Klesha Haarineem |\nSarva Shreyaskareem Seetaam Nato'ham Raam Vallabhaam ||",
+          "meaning": "I bow to Sita, beloved of Rama, who is the cause of creation, preservation, and dissolution, who removes all afflictions, and who bestows all that is supremely auspicious.",
+          "transliteration": "Udbhava Sthiti Sa\u1e43h\u0101ra K\u0101ri\u1e47\u012b\u1e43 Kle\u015ba H\u0101ri\u1e47\u012bm |\nSarva \u015areyaskar\u012b\u1e43 S\u012bt\u0101\u1e43 Nato\u2019ham R\u0101ma Vallabh\u0101m ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Naanaa Puraan Nigamaagam Sammatam Yad Raamaayaney Nigaditam Kvachidanyatopi |\nSvantah Sukhay Tulasee Raghunath Gaathaa Bhaashaa Nibandhamatimanjulamaatanoti ||",
+          "meaning": "That which is established in various Puranas, Vedas, and Agamas, and narrated in the Ramayana and elsewhere too -- Tulsidas composes this most beautiful narrative of Lord Raghunath in the vernacular language (Awadhi), for the delight of his own heart.",
+          "transliteration": "N\u0101n\u0101 Pur\u0101\u1e47a Nig\u0101m\u0101gama Sammata\u1e43 Yad R\u0101m\u0101ya\u1e47e Nigadita\u1e43 Kvacidanyatopi |\nSv\u0101ntah Sukh\u0101ya Tulas\u012b Raghun\u0101tha G\u0101th\u0101 Bh\u0101\u1e63\u0101 Nibandham Atima\u00f1julam \u0100tanoti ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Shankaram Shankaraachaarya Keertim Cha Shankaram Mama |\nBhooshanaam Bhuvanaasyaapi Shankaram Pranato'smyaham ||",
+          "meaning": "I bow to Shankara (Shiva), who is Shankaracharya (the one who bestows auspiciousness), who is my fame and auspiciousness, and who is the ornament of the entire world.",
+          "transliteration": "\u015aa\u1e45kara\u1e43 \u015aa\u1e45kar\u0101c\u0101rya K\u012brtim Ca \u015aa\u1e45kara\u1e43 Mama |\nBh\u016b\u1e63a\u1e47a\u1e43 Bhuvanasy\u0101pi \u015aa\u1e45kara\u1e43 Pra\u1e47ato\u2019smyaham ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Jo Sumirat Sidhi Hoye Gananayak Karibara Badana |\nKarau Anugraha Soye Buddhi Raasi Subha Guna Sadana ||",
+          "meaning": "He whose very remembrance brings success, whose face is like that of a great elephant -- may that Ganesh, who is the treasure-house of wisdom and the abode of all auspicious virtues, bestow his grace upon me.",
+          "transliteration": "Jo Sumirat Siddhi Hoi Ga\u1e47an\u0101yaka Karibara Badana |\nKarau Anugraha Soi Buddhi R\u0101\u015bi \u015aubha Gu\u1e47a Sadana ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "ram_baalkand",
+      "title": "Baal Kand (Childhood)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/ramcharitmanas/bal_kand_baal_ram.jpg",
+      "orderIndex": 2,
+      "content": [
+        {
+          "shloka": "Raghukul Reet Sadaa Chali Aaee |\nPraan Jaaye Par Vachan Na Jaaee ||",
+          "meaning": "It has always been the tradition of the Raghu dynasty -- one may give up one's life, but never one's word.",
+          "transliteration": "Raghukula R\u012bti Sad\u0101 Cal\u012b \u0100\u012b |\nPr\u0101\u1e47a J\u0101i Para Vacana Na J\u0101\u012b ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Hari Ananta Hari Kathaa Anantaa |\nKahahin Sunahein Bahu Bidhi Sab Santaa ||",
+          "meaning": "Lord Hari is infinite and so are the stories of Lord Hari. All the saints narrate and listen to them in many ways.",
+          "transliteration": "Hari Ananta Hari Kath\u0101 Anant\u0101 |\nKahahin Sunahin Bahu Vidhi Saba Sant\u0101 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Bhaye Pragat Kripaalaa Deen Dayaalaa Kausalyaa Hitkaari |\nHarshit Mahataaree Muni Man Haari Adbhut Roop Bichaari ||",
+          "meaning": "The gracious and compassionate Lord, the benefactor of Kausalya, manifested Himself. Beholding His wondrous form, the delighted mother and the sages were captivated in their hearts.",
+          "transliteration": "Bhae Praga\u1e6da K\u1e5bp\u0101l\u0101 D\u012bna Day\u0101l\u0101 Kausalya Hitk\u0101r\u012b |\nHar\u1e63ita Mahat\u0101r\u012b Muni Mana H\u0101r\u012b Adbhuta R\u016bpa Bic\u0101r\u012b ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Bigat Moha Mana Ram Pad Dekhey |\nRaam Roop Anoopam Avalekhey ||",
+          "meaning": "Beholding the feet of Lord Rama, the delusion of the mind vanished. The form of Rama is incomparably beautiful and indescribable.",
+          "transliteration": "Vigata Moha Mana R\u0101ma Pada Dekhe |\nR\u0101ma R\u016bpa An\u016bpama Avalekhe ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sab Nar Karahin Paraspar Preetee |\nChalahin Svadharma Nirat Shruti Reetee ||",
+          "meaning": "All people showed mutual love and affection toward one another. Everyone walked the path of their own dharma, devoted to the ways laid down in the Vedas.",
+          "transliteration": "Saba Nara Karahin Paraspara Pr\u012bt\u012b |\nCalahin Svadharma Nirata \u015aruti R\u012bt\u012b ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Naahin Daridra Kau Dukhi Na Deenaa |\nNaahin Kau Ajna Na Lachhan Heenaa ||",
+          "meaning": "No one was poor, sorrowful, or wretched. No one was ignorant or devoid of good qualities.",
+          "transliteration": "N\u0101hin Daridra Kau Dukh\u012b Na D\u012bn\u0101 |\nN\u0101hin Kau Aj\u00f1a Na Lacchana H\u012bn\u0101 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Hara Giri Mandir Sundara Bana Baagaa |\nNadee Naav Sar Sahaj Taraagaa ||",
+          "meaning": "On Shiva's mountain (Kailasa), there are beautiful temples, groves, and gardens, and rivers, lakes, and ponds with their natural waves.",
+          "transliteration": "Hara Giri Mandira Sundara Bana B\u0101g\u0101 |\nNad\u012b N\u0101va Sara Sahaja Tar\u0101g\u0101 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Siya Raam Mein Sab Jag Jaanee |\nKarahu Pranaam Jori Jug Paanee ||",
+          "meaning": "Know that the entire world resides in Sita and Rama. Bow to them with folded hands.",
+          "transliteration": "Siy\u0101 R\u0101ma Mein Saba Jaga J\u0101n\u012b |\nKarahu Pra\u1e47\u0101ma Jori Juga P\u0101n\u012b ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "ram_ayodhyakand",
+      "title": "Ayodhya Kand (Exile)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/ramcharitmanas/shri_ram.jpg",
+      "orderIndex": 3,
+      "content": [
+        {
+          "shloka": "Dheeraj Dharma Mitra Aru Naaree |\nAapad Kaal Parikhi-ah Chaaree ||",
+          "meaning": "Patience, righteousness, a friend, and a wife -- these four are truly tested in times of adversity.",
+          "transliteration": "Dh\u012braja Dharma Mitra Aru N\u0101r\u012b |\n\u0100pada K\u0101la Parikh\u012baha C\u0101r\u012b ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Jaake Priya Na Raam Baidehee |\nTaji-ah Tahi Koti Bairee Sam Ehee ||",
+          "meaning": "One to whom Rama and Sita are not dear, abandon such a person as you would a million enemies.",
+          "transliteration": "J\u0101ke Priya Na R\u0101ma Vaideh\u012b |\nTajiyaha Tahi Ko\u1e6di Bair\u012b Sama Eh\u012b ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Parivartini Samsaare Mritah Ko Na Mriyate Punah |\nSa Jaato Yena Jaatena Yaati Vamshah Samunnatim ||",
+          "meaning": "In this revolving world, who that has died does not die again? Truly born is he alone by whose birth his entire lineage rises to greatness.",
+          "transliteration": "Parivartini Sa\u1e43s\u0101re M\u1e5btah Ko Na Mriyate Punah |\nSa J\u0101to Yena J\u0101tena Y\u0101ti Va\u1e43\u015bah Samunnatim ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Binu Satsanga Bibeka Na Hoee |\nRaam Kripa Binu Sulabh Na Soee ||",
+          "meaning": "Without the company of saints, true discernment (viveka) does not arise. And without the grace of Rama, such holy company is not easily obtained.",
+          "transliteration": "Binu Satsa\u1e45ga Viveka Na Ho\u012b |\nR\u0101ma K\u1e5bp\u0101 Binu Sulabha Na So\u012b ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Param Dharma Shruti Bidita Ahinsaa |\nPar Nirantar Jeevan Jinsaa ||",
+          "meaning": "Non-violence is the supreme dharma, as proclaimed by the Vedas. Compassion for all living beings at all times is its essence.",
+          "transliteration": "Parama Dharma \u015aruti Vidita Ahi\u1e43s\u0101 |\nPara Nirantara J\u012bvana Ji\u1e43s\u0101 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ek Bharat Bhal Lok Bikhyaata |\nPrem Prateeti Sabahin Mana Jaata ||",
+          "meaning": "Bharat was well-known in the world for his goodness. His love and sincerity were recognized by all hearts.",
+          "transliteration": "Eka Bharata Bhala Loka Vikhy\u0101ta |\nPrema Prat\u012bti Sabahin Mana J\u0101t\u0101 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Hari Tav Kripa Bhalu Mohi Na Maayaa |\nNath Sakala Saadhana Mai Aapaayaa ||",
+          "meaning": "O Lord Hari, by Your grace I remain untouched by Maya. O Master, I have attained all spiritual means through You.",
+          "transliteration": "Hari Tava K\u1e5bp\u0101 Bhalu Mohi Na M\u0101y\u0101 |\nN\u0101tha Sakala S\u0101dhana Mai \u0100p\u0101y\u0101 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Bharatahi Hoye Na Raajamadu Bidhi Hari Hara Pad Paaye |\nKabanahu Lobh Na Bhulaheen Raam Charann Chitt Laaye ||",
+          "meaning": "Even if Bharat were to attain the positions of Brahma, Vishnu, and Shiva, he would not be intoxicated by royal power. He can never be led astray by greed, for his mind is fixed on the feet of Rama.",
+          "transliteration": "Bharatahi Hoi Na R\u0101jamadu Vidhi Hari Hara Pada P\u0101i |\nKabah\u016b Lobha Na Bh\u016blahin R\u0101ma Cara\u1e47a Citta L\u0101i ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "ram_aranyakand",
+      "title": "Aranya Kand (Forest)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/ramcharitmanas/shri_ram.jpg",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "Tulsee Jabahi Raam Kau Bhajaa |\nJanm Maran Kau Shok Tajaa ||",
+          "meaning": "Tulsidas says, the moment one worships Rama, the sorrow of birth and death is abandoned.",
+          "transliteration": "Tulas\u012b Jabahi R\u0101ma Kau Bhaj\u0101 |\nJanma Mara\u1e47a Kau \u015aoka Taj\u0101 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Nirmal Mana Jana So Mohi Paavaa |\nMohi Kapatat Chhal Chhidra Na Bhaavaa ||",
+          "meaning": "He who has a pure heart finds Me. Deceit, trickery, and fault-finding are not pleasing to Me.",
+          "transliteration": "Nirmala Mana Jana So Mohi P\u0101v\u0101 |\nMohi Kapa\u1e6da Chala Chidra Na Bh\u0101v\u0101 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Masak Samaana Roop Kapi Dhaaree |\nLankhini Hanaa Laath Tehraaree ||",
+          "meaning": "Hanuman assumed a form as tiny as a mosquito. He then struck Lanka's guardian demoness (Lankhini) with a single kick.",
+          "transliteration": "Masaka Sam\u0101na R\u016bpa Kapi Dh\u0101r\u012b |\nLa\u1e45khin\u012b Han\u0101 L\u0101tha Tehr\u0101r\u012b ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Param Dharma Shruti Bidita Ahinsaa |\nPar Nirandha Jiiv Jinsaa ||",
+          "meaning": "The supreme dharma, as declared by the Vedas, is non-violence -- treating every living being with constant compassion.",
+          "transliteration": "Parama Dharma \u015aruti Vidita Ahi\u1e43s\u0101 |\nPara Nirandha J\u012bva Ji\u1e43s\u0101 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Prabhu Pragat Bhe Sab Muni Sukhkaaree |\nAnuj Sahit Karunaa Aalakaaree ||",
+          "meaning": "The Lord appeared, bringing joy to all the sages, accompanied by His younger brother (Lakshman), the very embodiment of compassion.",
+          "transliteration": "Prabhu Praga\u1e6da Bhe Saba Muni Sukhk\u0101r\u012b |\nAnuja Sahita Karu\u1e47\u0101 Alak\u0101r\u012b ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Moorhi Hridaya So Nahin Sansehaa |\nMohe Saba Para Sambhava Ehaa ||",
+          "meaning": "There is no doubt in the heart of a wise person. Such equanimity toward all is indeed possible for Me.",
+          "transliteration": "M\u016b\u1e5bhi H\u1e5bdaya So N\u0101hin Sa\u1e43\u015beh\u0101 |\nMohe Saba Para Sambhava Eh\u0101 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sab Ke Mamtaa Raam Par Nekey |\nLakhi Patu Raakhi Dehee Ek Tekey ||",
+          "meaning": "Everyone's loving attachment to Rama was truly profound. Seeing this, even their bodies were sustained solely by that devotion.",
+          "transliteration": "Saba Ke Mamat\u0101 R\u0101ma Para Neke |\nLakhi Pa\u1e6du R\u0101khi Deh\u012b Eka Teke ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Khala Bans Paalahi Jo Sansaaraa |\nTe Nar Paas Na Aavahin Maaraa ||",
+          "meaning": "Those who nurture wickedness in the world -- such people do not find a way to reach Me.",
+          "transliteration": "Khala Ba\u1e43\u015ba P\u0101lahi Jo Sa\u1e43s\u0101r\u0101 |\nTe Nara P\u0101sa Na \u0100vahin M\u0101r\u0101 ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "ram_kishkindhakand",
+      "title": "Kishkindha Kand (Sugriva Alliance)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/ramcharitmanas/shri_ram.jpg",
+      "orderIndex": 5,
+      "content": [
+        {
+          "shloka": "Bali Beera Bar Banar |\nChalo Jaai Raghuveera Pukaar ||",
+          "meaning": "Bali was a brave and mighty monkey. He went forth at the call of the Hero of the Raghu dynasty.",
+          "transliteration": "B\u0101li V\u012bra Bara B\u0101nara |\nCalo J\u0101i Raghuv\u012bra Puk\u0101ra ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ek Bar Chupesare Jaayee |\nSugriv Sen Samet Sabhaayee ||",
+          "meaning": "Once, going secretly, Sugriva assembled with his entire army at the gathering.",
+          "transliteration": "Eka B\u0101ra Cupesare J\u0101\u012b |\nSugr\u012bva Sena Sameta Sabh\u0101\u012b ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Nij Bhuja Bala Raghubeera Bharosaa |\nJeetey Sakala Bishwa Koi Khosaa ||",
+          "meaning": "With the strength of one's own arms and faith in Raghuveer (Rama), the whole world can be conquered. Who can take that away?",
+          "transliteration": "Nija Bhuja Bala Raghuv\u012bra Bharos\u0101 |\nJ\u012bte Sakala Vi\u015bva Koi Khos\u0101 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sunat Binay Sunder Kapi Baanee |\nRaam Kripa Aaee Anugaanee ||",
+          "meaning": "Hearing the beautiful and humble words of the monkey (Hanuman), the grace of Rama was made manifest.",
+          "transliteration": "Sunata Vinaya Sundara Kapi B\u0101n\u012b |\nR\u0101ma K\u1e5bp\u0101 \u0100\u012b Anug\u0101n\u012b ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Gaye Raam Binu Kahi Nahi Thoore |\nChale Sakala Bana Khojat Teeraa ||",
+          "meaning": "Without Rama there is no rest anywhere. All of them set out, searching every corner of the forest.",
+          "transliteration": "Gae R\u0101ma Binu Kahi Nah\u012b Th\u016bre |\nCale Sakala Bana Khojata T\u012br\u0101 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kapi Saagara Dekhahu Apaaraa |\nPaar Karo Koi Buddhi Vichaaraa ||",
+          "meaning": "Behold the boundless ocean, O monkeys! Think of some plan to cross to the other side.",
+          "transliteration": "Kapi S\u0101gara Dekhahu Ap\u0101r\u0101 |\nP\u0101ra Karo Ko\u012b Buddhi Vic\u0101r\u0101 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Hari Ichha Sab Kavan Badaayee |\nRaghupati Kahuun Sakala Sachaaee ||",
+          "meaning": "All happens by the will of God -- what is there to boast about? Rama spoke the complete truth.",
+          "transliteration": "Hari Icch\u0101 Saba Kavana Ba\u1e0d\u0101\u012b |\nRaghupati Kah\u016b\u1e41 Sakala Sac\u0101\u012b ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sab Sukh Bhajan Tumhaar |\nRaam Kripa Baarishu Dhaar ||",
+          "meaning": "All happiness lies in Your worship, O Lord. The grace of Rama rains down in torrents.",
+          "transliteration": "Saba Sukha Bhajana Tumh\u0101ra |\nR\u0101ma K\u1e5bp\u0101 B\u0101ri\u1e63hu Dh\u0101ra ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "ram_sundarkand",
+      "title": "Sundar Kand (Hanuman's Journey)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/ramcharitmanas/shri_ram.jpg",
+      "orderIndex": 6,
+      "content": [
+        {
+          "shloka": "Jaambuvant Ke Bachan Suhaaye |\nSuni Hanumat Hridaya Ati Bhaaye ||",
+          "meaning": "The delightful words of Jambuvant were heard by Hanuman, and they greatly pleased his heart.",
+          "transliteration": "J\u0101mbuvanta Ke Bacana Suh\u0101e |\nSuni Hanum\u0101na H\u1e5bdaya Ati Bh\u0101e ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ram Kaaju Keenhey Binu Mohee |\nKahe Na Kaal Binu Jaaye Sohee ||",
+          "meaning": "Until I have accomplished the work of Lord Rama, even Time (Death) cannot overcome me.",
+          "transliteration": "R\u0101ma K\u0101ju K\u012bnhe Binu Moh\u012b |\nKahe Na K\u0101la Binu J\u0101i Soh\u012b ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Paavan Naam Binu Ek Adhaaraa |\nTaran Tar Hanumat Tihaaraa ||",
+          "meaning": "Your holy name alone is the sole support. Hanuman, You are the one who ferries (devotees) across.",
+          "transliteration": "P\u0101vana N\u0101ma Binu Eka Adh\u0101r\u0101 |\nTara\u1e47a Tara Hanum\u0101ta Tih\u0101r\u0101 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Raam Doota Atulita Bal Dhaamaa |\nAnjani Putra Pavan Sut Naamaa ||",
+          "meaning": "He is the messenger of Rama and the repository of incomparable strength. He is the son of Anjani and is known as the son of the Wind-god.",
+          "transliteration": "R\u0101ma D\u016bta Atulita Bala Dh\u0101m\u0101 |\nA\u00f1jan\u012b Putra Pavana Suta N\u0101m\u0101 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Naasai Rog Harai Sab Peeraa |\nJapat Nirantar Hanumant Beeraa ||",
+          "meaning": "All diseases are destroyed and all suffering is removed by constantly chanting the name of brave Hanuman.",
+          "transliteration": "N\u0101sai Roga Harai Saba P\u012br\u0101 |\nJapata Nirantara Hanum\u0101nta B\u012br\u0101 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Jai Jai Jai Hanumaan Gosaaee |\nKripa Karahu Gurudev Ki Naayee ||",
+          "meaning": "Victory, victory, victory to Lord Hanuman! Bestow your grace upon me as would a revered Guru.",
+          "transliteration": "Jai Jai Jai Hanum\u0101na Gos\u0101\u012b |\nK\u1e5bp\u0101 Karahu Gurudeva K\u012b N\u0101\u012b ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ashta Siddhi Nav Nidhi Ke Daata |\nAs Bar Deen Jaanaki Maata ||",
+          "meaning": "Mother Janaki (Sita) has granted you the boon of being the bestower of the eight supernatural powers (siddhis) and the nine treasures (nidhis).",
+          "transliteration": "A\u1e63\u1e6da Siddhi Nava Nidhi Ke D\u0101t\u0101 |\nAsa Bara D\u012bna J\u0101nak\u012b M\u0101t\u0101 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sab Par Raam Tapasvi Raajaa |\nTinhi Ke Kaaj Sakal Tum Saajaa ||",
+          "meaning": "Rama, the great ascetic king, is above all. You (Hanuman) accomplish all His tasks.",
+          "transliteration": "Saba Para R\u0101ma Tapasv\u012b R\u0101j\u0101 |\nTinhi Ke K\u0101ja Sakala Tuma S\u0101j\u0101 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sankat Te Hanumaan Chhudaave |\nMana Krama Bachan Dhyaan Jo Laave ||",
+          "meaning": "Hanuman rescues from all calamities those who meditate upon him in thought, deed, and word.",
+          "transliteration": "Sa\u1e45ka\u1e6da Te Hanum\u0101na Chu\u1e0d\u0101ve |\nMana Krama Bacana Dhy\u0101na Jo L\u0101ve ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "ram_lankakand",
+      "title": "Lanka Kand (War)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/ramcharitmanas/shri_ram.jpg",
+      "orderIndex": 7,
+      "content": [
+        {
+          "shloka": "Ravan Rathanee Virath Raghuveeraa |\nDekhi Vibheeshan Bhayau Adheeraa ||",
+          "meaning": "Ravana was on his chariot while Raghuveer (Rama) was without one. Seeing this, Vibhishana became anxious.",
+          "transliteration": "R\u0101va\u1e47a Rathan\u012b Viratha Raghuv\u012br\u0101 |\nDekhi Vibh\u012b\u1e63a\u1e47a Bhayau Adh\u012br\u0101 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sunu Saaranee Sab Kariyah Naaraa |\nYah Ravan Kaah Samara Haankaaraa ||",
+          "meaning": "Listen, O charioteer, let everyone shout the war cry. What is Ravana's arrogance in battle worth?",
+          "transliteration": "Sunu S\u0101ra\u1e47\u012b Saba Kariyaha N\u0101r\u0101 |\nYaha R\u0101va\u1e47a K\u0101ha Samara Ha\u1e45k\u0101r\u0101 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sauraja Dharama Na Charhat Raghuvansee |\nHridaya Basahu Kosalpur Vaasee ||",
+          "meaning": "The descendants of Raghu never abandon valor and righteousness. The Lord of Ayodhya ever dwells in the heart.",
+          "transliteration": "Sauraja Dharama Na Carahata Raghuva\u1e43\u015b\u012b |\nH\u1e5bdaya Basahu Kosalapura V\u0101s\u012b ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Nij Dal Bical Suru Gana Khaaya |\nDekhey Biraath Ravan Ris Aaya ||",
+          "meaning": "Seeing his own army in disarray and the gods being devoured (metaphorically), Ravana without his chariot was filled with fury.",
+          "transliteration": "Nija Dala Vikala Sura Ga\u1e47a Kh\u0101y\u0101 |\nDekhe Vir\u0101tha R\u0101va\u1e47a Risa \u0100y\u0101 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Prabhu Pratap Bali Sabui Gaye Maare |\nTamasa Loka Sahit Parivaare ||",
+          "meaning": "By the might of the Lord's glory, all the mighty demons were slain, along with their entire clans, and sent to the realm of darkness.",
+          "transliteration": "Prabhu Prat\u0101pa Bali Sabui Gae M\u0101re |\nTamasa Loka Sahita Pariv\u0101re ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Raama Baana Rabi Ujiyaaraa |\nTamasa Milaa Ek Chhaar ||",
+          "meaning": "The arrow of Rama shone like the sun. Darkness was reduced to mere dust.",
+          "transliteration": "R\u0101ma B\u0101\u1e47a Rabi Ujiy\u0101r\u0101 |\nTamasa Mil\u0101 Eka Ch\u0101ra ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Hoye Jayee Raam Ki Aayee |\nSuranha Keenh Pushpavrishti Bhaayee ||",
+          "meaning": "Victory came as the grace of Lord Rama arrived. The gods rained flowers in joy.",
+          "transliteration": "Hoe Jay\u012b R\u0101ma K\u012b \u0100\u012b |\nSuranha K\u012bnh Pu\u1e63pav\u1e5b\u1e63\u1e6di Bh\u0101\u012b ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Raam Kripa Kapi Man Deenhee |\nSab Bidhi Kusal Samajh Tab Keenhee ||",
+          "meaning": "By the grace of Rama, the monkeys were given renewed courage. They then wisely accomplished all tasks in every way.",
+          "transliteration": "R\u0101ma K\u1e5bp\u0101 Kapi Mana D\u012bnh\u012b |\nSaba Vidhi Ku\u015bala Samajha Taba K\u012bnh\u012b ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "ram_uttarkand",
+      "title": "Uttar Kand (Aftermath & Teachings)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/ramcharitmanas/shri_ram.jpg",
+      "orderIndex": 8,
+      "content": [
+        {
+          "shloka": "Kaam Krodh Mad Lobh Sab Naath Narak Ke Panth |\nSab Parihari Raghuveerahi Bhajahu Bhajahu Bhagavant ||",
+          "meaning": "Lust, anger, pride, and greed -- all are paths leading to hell. Abandon them all and worship Raghuveer (Rama), worship the Lord!",
+          "transliteration": "K\u0101ma Krodha Mada Lobha Saba N\u0101tha Naraka Ke Pantha |\nSaba Parihari Raghuv\u012brahi Bhajahu Bhajahu Bhagavanta ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ek Bhrosey Ek Bal Ek Aas Vishwaas |\nEk Raam Ghanashyaam Hit Chatak Tulseedaas ||",
+          "meaning": "One reliance, one strength, one hope, one trust -- Tulsidas is like a Chatak bird, devoted solely to Rama, the dark-hued cloud of bliss.",
+          "transliteration": "Eka Bharose Eka Bala Eka \u0100sa Vi\u015bv\u0101sa |\nEka R\u0101ma Ghanash\u0101ma Hita C\u0101taka Tulas\u012bd\u0101sa ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Moh Sakala Byaadhina Kar Moolaa |\nTin Tey Puneeth Na Bhay Anukoolaa ||",
+          "meaning": "Delusion is the root of all afflictions. From it, nothing holy or auspicious arises.",
+          "transliteration": "Moha Sakala Vy\u0101dhina Kara M\u016bl\u0101 |\nTina Te Pun\u012btha Na Bhaya Anuk\u016bl\u0101 ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sumiri Pavanasut Paavan Naamoo |\nApane Basha Karahu Nija Kaamoo ||",
+          "meaning": "Remember the holy name of the son of the Wind-god (Hanuman). Bring your desires under your own control.",
+          "transliteration": "Sumiri Pavanasuta P\u0101vana N\u0101m\u016b |\nApane Va\u015ba Karahu Nija K\u0101m\u016b ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kaahey Ka Bhaya Dharahu Mana Maahin |\nJab Jag Karan Sahay Raam Naahin ||",
+          "meaning": "Why do you harbor fear in your heart? When the cause and support of the entire world is Lord Rama Himself?",
+          "transliteration": "K\u0101he K\u0101 Bhaya Dharahu Mana M\u0101h\u012b |\nJaba Jaga K\u0101ra\u1e47a Sah\u0101ya R\u0101ma N\u0101h\u012b ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "So Janeeyah Prabhu Bandhu Samaajar |\nJo Na Mitai Ati Aapada Kaajar ||",
+          "meaning": "Know that person to be a true kinsman and companion of the Lord whose devotion does not waver even in the greatest adversity.",
+          "transliteration": "So J\u0101n\u012byaha Prabhu Bandhu Sam\u0101j\u0101ra |\nJo Na Mi\u1e6dai Ati \u0100pada K\u0101jara ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Bhaj Raam Charan Sukhadaaee |\nPar Upakaar Bachan Man Kaaee ||",
+          "meaning": "Worship the bliss-giving feet of Rama. Be of service to others in thought, word, and deed.",
+          "transliteration": "Bhaja R\u0101ma Cara\u1e47a Sukhad\u0101\u012b |\nPara Upak\u0101ra Bacana Mana K\u0101\u012b ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Mangal Bhavan Amangal Haaree |\nDravahu So Dashrath Ajir Bihaaree ||",
+          "meaning": "He who is the abode of all auspiciousness and the destroyer of all that is inauspicious -- may that Lord, who sports in the courtyard of Dasharatha, be compassionate to us.",
+          "transliteration": "Ma\u1e45gala Bhavana Ama\u1e45gala H\u0101r\u012b |\nDravahu So Da\u015baratha Ajira Bih\u0101r\u012b ||",
+          "imageUrl": null
         }
       ]
     }

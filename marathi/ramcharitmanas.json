@@ -1,24 +1,465 @@
 {
-  "category": "ramcharitmanas",
+  "category": "Shri Ramcharitmanas",
   "version": 1,
   "items": [
     {
-      "id": "ram_baalkand_mangalacharan",
+      "id": "ram_mangalacharan",
       "title": "बालकांड – मंगलाचरण",
       "language": "marathi",
       "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/ramcharitmanas/shri_ram.jpg",
       "orderIndex": 1,
       "content": [
         {
-          "shloka": "वर्णानामर्थसंघानां रसानां छन्दसामपि",
-          "meaning": "अक्षर, अर्थ, रस व छंद यांचे कर्ते सरस्वती व गणेश यांना वंदन.",
-          "transliteration": null,
-          "imageUrl": "https://amolgadge663.github.io/NityaSeva_Contents/images/ramcharitmanas/bal_kand_baal_ram.jpg"
+          "shloka": "वर्णानामर्थसंघानां रसानां छन्दसामपि |\nमङ्गलानां च कर्तारौ वन्दे वाणी विनायकौ ||",
+          "meaning": "मी वाणी (सरस्वती) आणि विनायक (गणेश) यांना वंदन करतो, जे सर्व वर्ण, अर्थसमूह, रस, छंद आणि सर्व मंगलांचे कर्ते आहेत.",
+          "transliteration": "Varnaanam Artha-Sanghaanaam Rasaanaam Chhandasaam Api |\nMangalaanaam Cha Kartaarau Vande Vaani Vinaayakau ||",
+          "imageUrl": null
         },
         {
-          "shloka": "भवानीशंकरौ वन्दे श्रद्धाविश्वासरूपिणौ",
-          "meaning": "श्रद्धा व विश्वासाचे स्वरूप असलेल्या पार्वती व शंकरांना वंदन.",
-          "transliteration": null,
+          "shloka": "भवानीशंकरौ वन्दे श्रद्धाविश्वासरूपिणौ |\nयाभ्यां विना न पश्यन्ति सिद्धाः स्वान्तःस्थमीश्वरम् ||",
+          "meaning": "मी भवानी (पार्वती) आणि शंकर (शिव) यांना वंदन करतो, जे श्रद्धा आणि विश्वासाचे स्वरूप आहेत. या दोन्हींशिवाय सिद्ध पुरुषही आपल्या हृदयात विराजमान ईश्वराला पाहू शकत नाहीत.",
+          "transliteration": "Bhavaanee Shankarau Vande Shraddhaa Vishvaas Roopinau |\nYaabhyaam Vinaa Na Pashyanti Siddhaah Svaantahstham Eeshvaram ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "वन्दे बोधमयं नित्यं गुरुं शंकररूपिणम् |\nयमाश्रितो हि वक्रोऽपि चन्द्रः सर्वत्र वन्द्यते ||",
+          "meaning": "मी नित्य ज्ञानमय गुरूंना वंदन करतो जे शंकर स्वरूप आहेत. ज्यांचा आश्रय घेतल्याने वक्र (वाकडा) चंद्रही सर्वत्र वंदनीय होतो.",
+          "transliteration": "Vandey Bodhamayam Nityam Gurum Shankar Roopinam |\nYamaashrito Hi Vakropi Chandrah Sarvatra Vandyate ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सीतारामगुणग्रामपुण्यारण्यविहारिणौ |\nवन्दे विशुद्धविज्ञानौ कवीश्वरकपीश्वरौ ||",
+          "meaning": "मी कवीश्वर (वाल्मीकी) आणि कपीश्वर (हनुमान) यांना वंदन करतो, जे शुद्ध ज्ञानाचे भंडार आहेत आणि सीता-रामांच्या गुणांच्या पवित्र अरण्यात विहार करतात.",
+          "transliteration": "Seetaa Raama Guna Grama Punya Aranya Vihaarinaau |\nVande Vishudddha Vignaanau Kavishvar Kapishvarau ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "उद्भवस्थितिसंहारकारिणीं क्लेशहारिणीम् |\nसर्वश्रेयस्करीं सीतां नतोऽहं राम वल्लभाम् ||",
+          "meaning": "मी सीतेला वंदन करतो जी रामांच्या प्रिय आहेत, जी सृष्टीची उत्पत्ती, पालन आणि संहार करणाऱ्या आहेत, सर्व क्लेशांचे हरण करणाऱ्या आहेत आणि समस्त कल्याण करणाऱ्या आहेत.",
+          "transliteration": "Udabhava Sthiti Samhaar Kaarineem Klesha Haarineem |\nSarva Shreyaskareem Seetaam Nato'ham Raam Vallabhaam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "नानापुराणनिगमागमसम्मतं यद् रामायणे निगदितं क्वचिदन्यतोऽपि |\nस्वान्तःसुखाय तुलसी रघुनाथगाथा भाषानिबन्धमतिमञ्जुलमातनोति ||",
+          "meaning": "जे अनेक पुराणे, वेद आणि आगम यांनी प्रमाणित आहे, रामायणात वर्णित आहे आणि इतरत्रही सांगितले गेले आहे — तुलसीदास त्याच रघुनाथांची कथा आपल्या अंतःकरणाच्या सुखासाठी अत्यंत मनोहर भाषेत (अवधी) रचतात.",
+          "transliteration": "Naanaa Puraan Nigamaagam Sammatam Yad Raamaayaney Nigaditam Kvachidanyatopi |\nSvaantah Sukhaay Tulasee Raghunath Gaathaa Bhaashaa Nibandhamatimanjulamaatanoti ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "शंकरं शंकराचार्य कीर्तिं च शंकरं मम |\nभूषणं भुवनस्यापि शंकरं प्रणतोऽस्म्यहम् ||",
+          "meaning": "मी शंकरांना (शिवांना) प्रणाम करतो जे शंकराचार्य (कल्याणकारी आचार्य) आहेत, माझी कीर्ती आणि मंगल आहेत आणि संपूर्ण विश्वाचे भूषण आहेत.",
+          "transliteration": "Shankaram Shankaraachaarya Keertim Cha Shankaram Mama |\nBhooshanaam Bhuvanaasyaapi Shankaram Pranato'smyaham ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जो सुमिरत सिधि होइ गननायक करिबर बदन |\nकरउ अनुग्रह सोइ बुद्धि रासि सुभ गुन सदन ||",
+          "meaning": "ज्यांचे स्मरण करताच सिद्धी प्राप्त होते, ज्यांचे मुख श्रेष्ठ हत्तीसमान आहे — ते गणनायक (गणेश), जे बुद्धीची राशी आणि शुभ गुणांचे धाम आहेत, माझ्यावर अनुग्रह करोत.",
+          "transliteration": "Jo Sumirat Sidhi Hoye Gananayak Karibara Badana |\nKarau Anugraha Soye Buddhi Raasi Subha Guna Sadana ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "ram_baalkand",
+      "title": "बालकांड",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/ramcharitmanas/bal_kand_baal_ram.jpg",
+      "orderIndex": 2,
+      "content": [
+        {
+          "shloka": "रघुकुल रीति सदा चलि आई |\nप्राण जाइ पर वचन न जाई ||",
+          "meaning": "रघुकुलाची ही रीत सदैव चालत आली आहे — प्राण गेले तरी चालतील, पण वचन (प्रतिज्ञा) कधी जात नाही.",
+          "transliteration": "Raghukul Reet Sadaa Chali Aaee |\nPraan Jaaye Par Vachan Na Jaaee ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "हरि अनन्त हरि कथा अनन्ता |\nकहहिं सुनहिं बहु बिधि सब सन्ता ||",
+          "meaning": "भगवान हरि अनंत आहेत आणि त्यांच्या कथाही अनंत आहेत. सर्व संत त्या अनेक प्रकारे सांगतात आणि ऐकतात.",
+          "transliteration": "Hari Ananta Hari Kathaa Anantaa |\nKahahin Sunahein Bahu Bidhi Sab Santaa ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "भए प्रगट कृपाला दीनदयाला कौसल्या हितकारी |\nहरषित महतारी मुनि मन हारी अद्भुत रूप बिचारी ||",
+          "meaning": "कृपाळू, दीनांवर दया करणारे, कौसल्येचे हितकारी भगवान प्रकट झाले. माता हर्षित झाली आणि त्यांचे अद्भुत रूप पाहून मुनींचे मन मोहून गेले.",
+          "transliteration": "Bhaye Pragat Kripaalaa Deen Dayaalaa Kausalyaa Hitkaari |\nHarshit Mahataaree Muni Man Haari Adbhut Roop Bichaari ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "बिगत मोह मन राम पद देखे |\nराम रूप अनूपम अवलेखे ||",
+          "meaning": "श्रीरामांचे चरण पाहून मनाचा मोह नष्ट झाला. रामांचे रूप अतुलनीय आणि अवर्णनीय आहे.",
+          "transliteration": "Bigat Moha Mana Ram Pad Dekhey |\nRaam Roop Anoopam Avalekhey ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सब नर करहिं परस्पर प्रीती |\nचलहिं स्वधर्म निरत श्रुति रीती ||",
+          "meaning": "सर्व माणसे परस्पर प्रेम करत होती आणि आपापल्या धर्मात रत राहून वेदविहित रीतीने वागत होती.",
+          "transliteration": "Sab Nar Karahin Paraspar Preetee |\nChalahin Svadharma Nirat Shruti Reetee ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "नाहिन दरिद्र कोउ दुखी न दीना |\nनाहिन कोउ अज्ञ न लच्छन हीना ||",
+          "meaning": "कोणी दरिद्री नव्हते, कोणी दुःखी वा दीन नव्हते. कोणी अज्ञानी नव्हते आणि कोणी सद्गुणांपासून वंचित नव्हते.",
+          "transliteration": "Naahin Daridra Kau Dukhi Na Deenaa |\nNaahin Kau Ajna Na Lachhan Heenaa ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "हर गिरि मन्दिर सुन्दर बन बागा |\nनदी नाव सर सहज तरागा ||",
+          "meaning": "शिवाच्या पर्वतावर (कैलास) सुंदर मंदिरे, वने आणि बागा आहेत तसेच नद्या, नावा, सरोवरे आणि नैसर्गिक तरंग आहेत.",
+          "transliteration": "Hara Giri Mandir Sundara Bana Baagaa |\nNadee Naav Sar Sahaj Taraagaa ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सिय राम मैं सब जग जानी |\nकरहु प्रणाम जोरि जुग पानी ||",
+          "meaning": "सीता आणि रामांमध्ये संपूर्ण जग आहे हे जाणा. दोन्ही हात जोडून त्यांना प्रणाम करा.",
+          "transliteration": "Siya Raam Mein Sab Jag Jaanee |\nKarahu Pranaam Jori Jug Paanee ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "ram_ayodhyakand",
+      "title": "अयोध्याकांड",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/ramcharitmanas/shri_ram.jpg",
+      "orderIndex": 3,
+      "content": [
+        {
+          "shloka": "धीरज धर्म मित्र अरु नारी |\nआपद काल परिखिअहिं चारी ||",
+          "meaning": "धैर्य, धर्म, मित्र आणि पत्नी — हे चारही विपत्तीच्या काळातच खरे परखले जातात.",
+          "transliteration": "Dheeraj Dharma Mitra Aru Naaree |\nAapad Kaal Parikhi-ah Chaaree ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जाके प्रिय न राम वैदेही |\nतजिअह ताहि कोटि बैरी सम एही ||",
+          "meaning": "ज्याला राम आणि सीता प्रिय नाहीत, त्याला कोटी शत्रूंप्रमाणे त्यागावे.",
+          "transliteration": "Jaake Priya Na Raam Baidehee |\nTaji-ah Tahi Koti Bairee Sam Ehee ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "परिवर्तिनि संसारे मृतः को न म्रियते पुनः |\nस जातो येन जातेन याति वंशः समुन्नतिम् ||",
+          "meaning": "या परिवर्तनशील संसारात मेलेला कोण पुन्हा मरत नाही? खरोखर जन्मलेला तोच आहे ज्याच्या जन्माने त्याच्या वंशाची उन्नती होते.",
+          "transliteration": "Parivartini Samsaare Mritah Ko Na Mriyate Punah |\nSa Jaato Yena Jaatena Yaati Vamshah Samunnatim ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "बिनु सत्संग बिबेक न होई |\nराम कृपा बिनु सुलभ न सोई ||",
+          "meaning": "सत्संगाशिवाय विवेक होत नाही आणि रामांच्या कृपेशिवाय सत्संग सुलभ नाही.",
+          "transliteration": "Binu Satsanga Bibeka Na Hoee |\nRaam Kripa Binu Sulabh Na Soee ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "परम धर्म श्रुति बिदित अहिंसा |\nपर निरंतर जीवन जिंसा ||",
+          "meaning": "वेदांमध्ये प्रसिद्ध असलेला परम धर्म अहिंसा आहे — सर्व प्राण्यांप्रती सदैव करुणा ठेवणे हाच त्याचा सार आहे.",
+          "transliteration": "Param Dharma Shruti Bidita Ahinsaa |\nPar Nirantar Jeevan Jinsaa ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "एक भरत भल लोक बिखाता |\nप्रेम प्रतीति सबहिं मन जाता ||",
+          "meaning": "एक भरताची चांगुलपणा जगात प्रसिद्ध होती. त्यांचे प्रेम आणि विश्वास सर्वांच्या मनात बसले होते.",
+          "transliteration": "Ek Bharat Bhal Lok Bikhyaata |\nPrem Prateeti Sabahin Mana Jaata ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "हरि तव कृपा भलु मोहि न माया |\nनाथ सकल साधना मैं आपाया ||",
+          "meaning": "हे हरी! तुमच्या कृपेने मायेचा माझ्यावर प्रभाव नाही. हे नाथ! मी सर्व साधने तुमच्याकडूनच प्राप्त केली आहेत.",
+          "transliteration": "Hari Tav Kripa Bhalu Mohi Na Maayaa |\nNath Sakala Saadhana Mai Aapaayaa ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "भरतहि होइ न राजमदु बिधि हरि हर पद पाइ |\nकबहुँ लोभ न भूलहिं राम चरन चित लाइ ||",
+          "meaning": "ब्रह्मा, विष्णू आणि शिवाचे पदही प्राप्त केले तरी भरतांना राजमद होणार नाही. रामांच्या चरणी चित्त लावल्यामुळे ते कधी लोभाने भटकत नाहीत.",
+          "transliteration": "Bharatahi Hoye Na Raajamadu Bidhi Hari Hara Pad Paaye |\nKabanahu Lobh Na Bhulaheen Raam Charann Chitt Laaye ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "ram_aranyakand",
+      "title": "अरण्यकांड",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/ramcharitmanas/shri_ram.jpg",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "तुलसी जबहिं राम कौ भजा |\nजन्म मरण कौ शोक तजा ||",
+          "meaning": "तुलसीदास म्हणतात — ज्या क्षणी रामांचे भजन केले, त्या क्षणी जन्म-मरणाचे शोक सुटले.",
+          "transliteration": "Tulsee Jabahi Raam Kau Bhajaa |\nJanm Maran Kau Shok Tajaa ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "निर्मल मन जन सो मोहि पावा |\nमोहि कपट छल छिद्र न भावा ||",
+          "meaning": "निर्मल हृदय असलेला भक्तच मला प्राप्त करतो. मला कपट, छल आणि दोषदृष्टी आवडत नाही.",
+          "transliteration": "Nirmal Mana Jana So Mohi Paavaa |\nMohi Kapatat Chhal Chhidra Na Bhaavaa ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "मसक समान रूप कपि धारी |\nलंखिनि हना लात तेहरारी ||",
+          "meaning": "हनुमानजींनी माशीसमान सूक्ष्म रूप धारण केले आणि लंकेच्या रक्षिका लंखिनीला लाथ मारून पाडले.",
+          "transliteration": "Masak Samaana Roop Kapi Dhaaree |\nLankhini Hanaa Laath Tehraaree ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "परम धर्म श्रुति बिदित अहिंसा |\nपर निरंध जीव जिंसा ||",
+          "meaning": "वेदांमध्ये प्रसिद्ध परम धर्म अहिंसा आहे — सदैव सर्व जीवांप्रती करुणा ठेवणे हेच त्याचे मर्म आहे.",
+          "transliteration": "Param Dharma Shruti Bidita Ahinsaa |\nPar Nirandha Jiiv Jinsaa ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "प्रभु प्रगट भे सब मुनि सुखकारी |\nअनुज सहित करुणा अलकारी ||",
+          "meaning": "प्रभू प्रकट झाले जे सर्व मुनींना सुख देणारे आहेत, अनुज (लक्ष्मण) सहित जे करुणेचे आभूषण आहेत.",
+          "transliteration": "Prabhu Pragat Bhe Sab Muni Sukhkaaree |\nAnuj Sahit Karunaa Aalakaaree ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "मूरिहि हृदय सो नाहिन संसेहा |\nमोहे सब पर संभव एहा ||",
+          "meaning": "बुद्धिमान व्यक्तीच्या हृदयात संशय नसतो. सर्वांवर समभाव ठेवणे — हे माझ्यासाठी शक्य आहे.",
+          "transliteration": "Moorhi Hridaya So Nahin Sansehaa |\nMohe Sab Par Sambhava Ehaa ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सब के ममता राम पर नेके |\nलखि पतु राखि देही एक टेके ||",
+          "meaning": "सर्वांची रामांवरील ममता गहन होती. हे पाहून त्यांचे शरीर केवळ त्या एकाच आधारावर टिकून होते.",
+          "transliteration": "Sab Ke Mamtaa Raam Par Nekey |\nLakhi Patu Raakhi Dehee Ek Tekey ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "खल बंस पालहिं जो संसारा |\nते नर पास न आवहिं मारा ||",
+          "meaning": "जे संसारात दुष्टतेचे पोषण करतात, असे मनुष्य माझ्या जवळ येऊ शकत नाहीत.",
+          "transliteration": "Khala Bans Paalahi Jo Sansaaraa |\nTe Nar Paas Na Aavahin Maaraa ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "ram_kishkindhakand",
+      "title": "किष्किंधाकांड",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/ramcharitmanas/shri_ram.jpg",
+      "orderIndex": 5,
+      "content": [
+        {
+          "shloka": "बालि बीर बर बानर |\nचलो जाइ रघुबीर पुकार ||",
+          "meaning": "बाली वीर आणि श्रेष्ठ वानर होता. रघुवीर (रामांच्या) हाकेवर तो निघाला.",
+          "transliteration": "Bali Beera Bar Banar |\nChalo Jaai Raghuveera Pukaar ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "एक बार चुपेसरे जाई |\nसुग्रीव सेन समेत सभाई ||",
+          "meaning": "एकदा गुप्तपणे जाऊन सुग्रीव आपल्या संपूर्ण सेनेसह सभेत एकत्र आला.",
+          "transliteration": "Ek Bar Chupesare Jaayee |\nSugriv Sen Samet Sabhaayee ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "निज भुज बल रघुबीर भरोसा |\nजीतें सकल बिश्व कोई खोसा ||",
+          "meaning": "आपल्या भुजांचे बळ आणि रघुवीरांवरील विश्वास यांनी संपूर्ण विश्व जिंकता येते — हे कोण हिरावून घेऊ शकतो?",
+          "transliteration": "Nij Bhuja Bala Raghubeera Bharosaa |\nJeetey Sakala Bishwa Koi Khosaa ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सुनत बिनय सुन्दर कपि बानी |\nराम कृपा आई अनुगानी ||",
+          "meaning": "हनुमानाची सुंदर आणि विनम्र वाणी ऐकून रामांची कृपा प्रकट झाली.",
+          "transliteration": "Sunat Binay Sunder Kapi Baanee |\nRaam Kripa Aaee Anugaanee ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "गए राम बिनु कहि नहीं थोरे |\nचले सकल बन खोजत तीरा ||",
+          "meaning": "रामांशिवाय कुठेच विश्रांती नाही. सगळे वनाच्या कानाकोपऱ्यात शोधत निघाले.",
+          "transliteration": "Gaye Raam Binu Kahi Nahi Thoore |\nChale Sakala Bana Khojat Teeraa ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कपि सागर देखहु अपारा |\nपार करो कोई बुद्धि विचारा ||",
+          "meaning": "हे वानरांनो! या अपार सागराकडे पाहा! कोणी बुद्धीचा विचार करून पार करा.",
+          "transliteration": "Kapi Saagara Dekhahu Apaaraa |\nPaar Karo Koi Buddhi Vichaaraa ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "हरि इच्छा सब कवन बड़ाई |\nरघुपति कहूँ सकल सचाई ||",
+          "meaning": "सर्व काही हरींच्या इच्छेने होते — यात काय मोठेपणा? रघुपतींनी संपूर्ण सत्य सांगितले.",
+          "transliteration": "Hari Ichha Sab Kavan Badaayee |\nRaghupati Kahuun Sakala Sachaaee ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सब सुख भजन तुम्हार |\nराम कृपा बारिषहु धार ||",
+          "meaning": "सर्व सुख तुमच्या भक्तीत आहे. रामांच्या कृपेची धारा बरसत आहे.",
+          "transliteration": "Sab Sukh Bhajan Tumhaar |\nRaam Kripa Baarishu Dhaar ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "ram_sundarkand",
+      "title": "सुंदरकांड",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/ramcharitmanas/shri_ram.jpg",
+      "orderIndex": 6,
+      "content": [
+        {
+          "shloka": "जाम्बवन्त के बचन सुहाए |\nसुनि हनुमन्त हृदय अति भाए ||",
+          "meaning": "जाम्बवंतांचे सुंदर वचन ऐकून हनुमानजींच्या हृदयाला अत्यंत आनंद झाला.",
+          "transliteration": "Jaambuvant Ke Bachan Suhaaye |\nSuni Hanumat Hridaya Ati Bhaaye ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "राम काजु कीन्हें बिनु मोही |\nकहे न काल बिनु जाय सोही ||",
+          "meaning": "जोपर्यंत मी रामांचे कार्य पूर्ण केले नाही, तोपर्यंत काळ (मृत्यू) सुद्धा मला पकडू शकत नाही.",
+          "transliteration": "Ram Kaaju Keenhey Binu Mohee |\nKahe Na Kaal Binu Jaaye Sohee ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "पावन नाम बिनु एक अधारा |\nतरण तर हनुमत तिहारा ||",
+          "meaning": "तुमचे पवित्र नाव हाच एकमात्र आधार आहे. हे हनुमान! तुम्हीच भवसागरातून तारणारे आहात.",
+          "transliteration": "Paavan Naam Binu Ek Adhaaraa |\nTaran Tar Hanumat Tihaaraa ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "राम दूत अतुलित बल धामा |\nअंजनि पुत्र पवन सुत नामा ||",
+          "meaning": "ते रामांचे दूत आहेत आणि अतुलित बलाचे धाम आहेत. अंजनीचे पुत्र आहेत आणि पवनपुत्र या नावाने ओळखले जातात.",
+          "transliteration": "Raam Doota Atulita Bal Dhaamaa |\nAnjani Putra Pavan Sut Naamaa ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "नासै रोग हरै सब पीरा |\nजपत निरंतर हनुमंत बीरा ||",
+          "meaning": "वीर हनुमानांचा निरंतर जप केल्याने सर्व रोग नष्ट होतात आणि सर्व पीडा दूर होतात.",
+          "transliteration": "Naasai Rog Harai Sab Peeraa |\nJapat Nirantar Hanumant Beeraa ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जय जय जय हनुमान गोसाईं |\nकृपा करहु गुरुदेव की नाईं ||",
+          "meaning": "जय जय जय हनुमान गोसाईं! गुरुदेवांप्रमाणे माझ्यावर कृपा करा.",
+          "transliteration": "Jai Jai Jai Hanumaan Gosaaee |\nKripa Karahu Gurudev Ki Naayee ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अष्ट सिद्धि नव निधि के दाता |\nअस बर दीन जानकी माता ||",
+          "meaning": "आठ सिद्धी आणि नऊ निधींचे दाता — असा वर माता जानकींनी दिला आहे.",
+          "transliteration": "Ashta Siddhi Nav Nidhi Ke Daata |\nAs Bar Deen Jaanaki Maata ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सब पर राम तपस्वी राजा |\nतिन्ह के काज सकल तुम साजा ||",
+          "meaning": "तपस्वी राजा राम सर्वांहून श्रेष्ठ आहेत. त्यांची सर्व कामे तुम्ही (हनुमान) पूर्ण करता.",
+          "transliteration": "Sab Par Raam Tapasvi Raajaa |\nTinhi Ke Kaaj Sakal Tum Saajaa ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "संकट तें हनुमान छुड़ावै |\nमन क्रम बचन ध्यान जो लावै ||",
+          "meaning": "जो मन, कर्म आणि वचनाने हनुमानजींचे ध्यान करतो, त्याला सर्व संकटांतून हनुमानजी सोडवतात.",
+          "transliteration": "Sankat Te Hanumaan Chhudaave |\nMana Krama Bachan Dhyaan Jo Laave ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "ram_lankakand",
+      "title": "लंकाकांड",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/ramcharitmanas/shri_ram.jpg",
+      "orderIndex": 7,
+      "content": [
+        {
+          "shloka": "रावन रथनी बिरथ रघुवीरा |\nदेखि विभीषन भयउ अधीरा ||",
+          "meaning": "रावण रथावर होता आणि रघुवीर (राम) रथाशिवाय होते. हे पाहून विभीषण अधीर (चिंतित) झाला.",
+          "transliteration": "Ravan Rathanee Virath Raghuveeraa |\nDekhi Vibheeshan Bhayau Adheeraa ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सुनु सारनी सब करियह नारा |\nयह रावन काह समर हंकारा ||",
+          "meaning": "हे सारथी ऐक! सर्वजण युद्धघोष करा. रावणाचा रणातील हा अहंकार काय कामाचा?",
+          "transliteration": "Sunu Saaranee Sab Kariyah Naaraa |\nYah Ravan Kaah Samara Haankaaraa ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सौरज धरम न चरहत रघुवंशी |\nहृदय बसहु कोसलपुर वासी ||",
+          "meaning": "रघुवंशी कधी शौर्य आणि धर्मापासून ढळत नाहीत. अयोध्यापती सदैव हृदयात निवास करतात.",
+          "transliteration": "Sauraja Dharama Na Charhat Raghuvansee |\nHridaya Basahu Kosalpur Vaasee ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "निज दल बिकल सुर गन खाया |\nदेखे बिराथ रावन रिस आया ||",
+          "meaning": "आपले सैन्य विचलित आणि देवगणांना ग्रासलेले पाहून, रथाशिवाय असलेल्या रावणाला प्रचंड क्रोध आला.",
+          "transliteration": "Nij Dal Bical Suru Gana Khaaya |\nDekhey Biraath Ravan Ris Aaya ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "प्रभु प्रताप बलि सबुइ गए मारे |\nतमस लोक सहित परिवारे ||",
+          "meaning": "प्रभूंच्या प्रतापाने सर्व बलशाली राक्षस त्यांच्या कुटुंबांसहित मारले गेले आणि अंधार लोकात गेले.",
+          "transliteration": "Prabhu Pratap Bali Sabui Gaye Maare |\nTamasa Loka Sahit Parivaare ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "राम बाण रबि उजियारा |\nतमस मिला एक छार ||",
+          "meaning": "रामांचा बाण सूर्यासमान प्रकाशला. अंधार मिटून धूळ झाला.",
+          "transliteration": "Raama Baana Rabi Ujiyaaraa |\nTamasa Milaa Ek Chhaar ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "होइ जयी राम की आई |\nसुरन्ह कीन्ह पुष्पवृष्टि भाई ||",
+          "meaning": "रामांची कृपा आल्यावर विजय प्राप्त झाला. देवांनी आनंदाने पुष्पवृष्टी केली.",
+          "transliteration": "Hoye Jayee Raam Ki Aayee |\nSuranha Keenh Pushpavrishti Bhaayee ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "राम कृपा कपि मन दीन्ही |\nसब बिधि कुसल समझ तब कीन्ही ||",
+          "meaning": "रामांच्या कृपेने वानरांच्या मनात नवीन उत्साह आला. मग सर्वांनी प्रत्येक प्रकारे बुद्धिमत्तेने कार्य केले.",
+          "transliteration": "Raam Kripa Kapi Man Deenhee |\nSab Bidhi Kusal Samajh Tab Keenhee ||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "ram_uttarkand",
+      "title": "उत्तरकांड",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/ramcharitmanas/shri_ram.jpg",
+      "orderIndex": 8,
+      "content": [
+        {
+          "shloka": "काम क्रोध मद लोभ सब नाथ नरक के पन्थ |\nसब परिहरि रघुवीरहि भजहु भजहु भगवन्त ||",
+          "meaning": "काम, क्रोध, मद (अहंकार) आणि लोभ — हे सर्व नरकाचे मार्ग आहेत. हे सर्व सोडून रघुवीर (रामांचे) भजन करा, भगवंतांचे भजन करा!",
+          "transliteration": "Kaam Krodh Mad Lobh Sab Naath Narak Ke Panth |\nSab Parihari Raghuveerahi Bhajahu Bhajahu Bhagavant ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "एक भरोसे एक बल एक आस विश्वास |\nएक राम घनश्याम हित चातक तुलसीदास ||",
+          "meaning": "एकच भरोसा, एकच बळ, एकच आशा आणि विश्वास — तुलसीदास चातक पक्ष्याप्रमाणे केवळ राम (घनश्याम) यांना समर्पित आहेत.",
+          "transliteration": "Ek Bhrosey Ek Bal Ek Aas Vishwaas |\nEk Raam Ghanashyaam Hit Chatak Tulseedaas ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "मोह सकल ब्याधिन कर मूला |\nतिन तें पुनीत न भय अनुकूला ||",
+          "meaning": "मोह (भ्रम) हे सर्व रोगांचे मूळ आहे. त्यातून ना पवित्रता निर्माण होते, ना काही अनुकूल.",
+          "transliteration": "Moh Sakala Byaadhina Kar Moolaa |\nTin Tey Puneeth Na Bhay Anukoolaa ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सुमिरि पवनसुत पावन नामू |\nअपने बस करहु निज कामू ||",
+          "meaning": "पवनपुत्र (हनुमान) यांच्या पवित्र नावाचे स्मरण करा आणि आपल्या इच्छांना आपल्या ताब्यात ठेवा.",
+          "transliteration": "Sumiri Pavanasut Paavan Naamoo |\nApane Basha Karahu Nija Kaamoo ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "काहे का भय धरहु मन माहीं |\nजब जग कारण सहाय राम नाहीं ||",
+          "meaning": "मनात कशाची भीती ठेवता? जेव्हा संपूर्ण जगाचे कारण आणि सहाय्य स्वतः राम आहेत.",
+          "transliteration": "Kaahey Ka Bhaya Dharahu Mana Maahin |\nJab Jag Karan Sahay Raam Naahin ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सो जानीयह प्रभु बन्धु समाजार |\nजो न मिटै अति आपद काजर ||",
+          "meaning": "त्यालाच प्रभूचा खरा बंधू आणि सोबती जाणा ज्याची भक्ती भयंकर संकटातही मिटत नाही.",
+          "transliteration": "So Janeeyah Prabhu Bandhu Samaajar |\nJo Na Mitai Ati Aapada Kaajar ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "भज राम चरन सुखदाई |\nपर उपकार बचन मन काई ||",
+          "meaning": "सुखदायक रामांच्या चरणांचे भजन करा. मन, वचन आणि कर्माने परोपकार करा.",
+          "transliteration": "Bhaj Raam Charan Sukhadaaee |\nPar Upakaar Bachan Man Kaaee ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "मंगल भवन अमंगल हारी |\nद्रवहु सो दशरथ अजिर बिहारी ||",
+          "meaning": "जे मंगलाचे भवन आहेत आणि अमंगलाचे हरण करणारे आहेत — ते दशरथाच्या अंगणात खेळणारे प्रभू आमच्यावर कृपा करोत.",
+          "transliteration": "Mangal Bhavan Amangal Haaree |\nDravahu So Dashrath Ajir Bihaaree ||",
           "imageUrl": null
         }
       ]

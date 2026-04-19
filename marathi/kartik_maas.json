@@ -1,0 +1,270 @@
+{
+  "category": "Kartik Maas Mahatmya",
+  "version": 1,
+  "items": [
+    {
+      "id": "kartik_mahatmya",
+      "title": "कार्तिक मास माहात्म्य",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/kartik/vishnu.jpg",
+      "orderIndex": 1,
+      "content": [
+        {
+          "shloka": "कार्तिके तु विशेषेण हरिभक्तिः प्रशस्यते |\nतुलसीदलदानेन विष्णुः प्रीतो भवेत् सदा ||",
+          "meaning": "कार्तिक महिन्यात विशेषतः हरिभक्ती प्रशस्त आहे. तुळशीदल अर्पण केल्याने विष्णू सदैव प्रसन्न होतात.",
+          "transliteration": "Kaartike Tu Visheshena Haribhaktih Prashasyate\nTulaseedala Daanena Vishnuh Preeto Bhavet Sadaa",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कार्तिक मास (ऑक्टोबर-नोव्हेंबर) हा हिंदू पंचांगातील सर्वात पवित्र महिन्यांपैकी एक आहे. या महिन्यात विष्णू पूजा, तुळशी पूजा आणि दीपदान यांचे विशेष महत्त्व आहे.",
+          "meaning": "पद्मपुराणानुसार, या मासात केलेले पुण्य इतर मासांपेक्षा हजारपट अधिक फलदायी असते. दीपावली, तुळशी विवाह, देव दीपावली हे प्रमुख उत्सव या मासात येतात.",
+          "transliteration": "Kartik Maas ha Hindu panchaangaatil sarvaat pavitra mahinaapaikee ek aahe.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कार्तिके यः प्रभातस्नानं कुर्यात् तुलसीसमर्पणम् |\nदीपदानं हरेर्नाम सर्वपापैः प्रमुच्यते ||",
+          "meaning": "कार्तिक मासात जो प्रभातस्नान करतो, तुळशी अर्पण करतो, दीपदान करतो आणि हरिनाम घेतो, तो सर्व पापांतून मुक्त होतो.",
+          "transliteration": "Kaartike Yah Prabhaatasnanam Kuryaat Tulaseesarmapanam\nDeepadaanam Harernaam Sarva Paapaih Pramuchyate",
+          "imageUrl": null
+        },
+        {
+          "shloka": "नियम:\n१) प्रातःकाळी ब्राह्ममुहूर्तावर स्नान |\n२) तुळशीला जलार्पण आणि दीप लावणे |\n३) विष्णू सहस्रनाम पठण |\n४) संध्याकाळी दीपदान |\n५) सात्त्विक आहार आणि ब्रह्मचर्य व्रत ||",
+          "meaning": "या संपूर्ण मासभर हे नियम पाळल्याने अपार पुण्य प्राप्त होते. विशेषतः एकादशी व्रत, कार्तिक स्नान आणि तुळशी पूजा यांचे महत्त्व अधिक.",
+          "transliteration": "Niyam: Praatahkaali Brahmamuhoortaavar snaan.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "kartik_snaan",
+      "title": "कार्तिक स्नान विधी",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/kartik/snaan.jpg",
+      "orderIndex": 2,
+      "content": [
+        {
+          "shloka": "कार्तिके प्रातःस्नानं यः कुर्यात् नियमान्वितः |\nगङ्गास्नानसमं पुण्यं लभते नात्र संशयः ||",
+          "meaning": "कार्तिक मासात जो नियमपूर्वक प्रातःस्नान करतो, त्याला गंगास्नानासमान पुण्य मिळते, यात संशय नाही.",
+          "transliteration": "Kaartike Praatahsnaanam Yah Kuryaat Niyamaanvitah\nGangaasnaanamam Punyam Labhate Naatra Samshayah",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कार्तिक स्नान सूर्योदयापूर्वी (ब्राह्ममुहूर्तात) करावे. शक्य असल्यास नदीत किंवा तीर्थक्षेत्री स्नान करावे. अन्यथा घरी शुद्ध जलात तुळशीदल मिसळून स्नान करावे.",
+          "meaning": "कार्तिक स्नानाला 'प्रबोधिनी स्नान' असेही म्हणतात कारण या काळात भगवान विष्णू योगनिद्रेतून जागृत होतात (देवउठणी एकादशी).",
+          "transliteration": "Kartik Snaan sooryodayaapoorvee karaave.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ गंगे च यमुने चैव गोदावरि सरस्वति |\nनर्मदे सिन्धु कावेरि जलेऽस्मिन् सन्निधिं कुरु ||",
+          "meaning": "हे गंगा, यमुना, गोदावरी, सरस्वती, नर्मदा, सिंधू आणि कावेरी, या जलात तुम्ही सन्निध व्हा. (स्नानापूर्वी या मंत्राने जलाला पवित्र करावे.)",
+          "transliteration": "Om Gange Cha Yamune Chaiva Godaavari Saraswati\nNarmade Sindhu Kaaveri Jalesmin Sannidhim Kuru",
+          "imageUrl": null
+        },
+        {
+          "shloka": "स्नान विधी:\n१) सूर्योदयापूर्वी उठा |\n२) स्नान मंत्राचा जप करा |\n३) तुळशीदल मिश्रित जलाने स्नान करा |\n४) स्नानानंतर विष्णू पूजा करा |\n५) तुळशीला जल आणि दीप अर्पण करा ||",
+          "meaning": "कार्तिक मासभर सलग ३० दिवस प्रातःस्नान केल्याने अश्वमेध यज्ञाचे फळ प्राप्त होते असे पुराणात सांगितले आहे.",
+          "transliteration": "Snaan Vidhi: Sooryodayaapoorvee uthaa.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "kartik_deep_daan",
+      "title": "कार्तिक दीपदान",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/kartik/deep.jpg",
+      "orderIndex": 3,
+      "content": [
+        {
+          "shloka": "दीपदानात्परं दानं कार्तिके नास्ति कर्हिचित् |\nदीपेन मोचयेत्पापं कार्तिके मासि भो द्विज ||",
+          "meaning": "कार्तिक मासात दीपदानापेक्षा श्रेष्ठ कोणतेही दान नाही. हे द्विजा, कार्तिक मासात दीपाने पापांपासून मुक्ती मिळते.",
+          "transliteration": "Deepadaanatparam Daanam Kaartike Naasti Karhichit\nDeepena Mochayetpaapam Kaartike Maasi Bho Dvija",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कार्तिक मासात मंदिरांमध्ये, तुळशी वृंदावनाजवळ, नदीतीरावर आणि घरी दीपदान करणे अत्यंत पुण्यदायी आहे. विशेषतः संध्याकाळी अनेक दिवे लावणे शुभ मानले जाते.",
+          "meaning": "आकाश दीप (उंच दीपस्तंभावर दीप) लावणे कार्तिक मासाची खास परंपरा आहे. यामुळे मार्ग भटकलेल्या आत्म्यांना शांती मिळते.",
+          "transliteration": "Kartik Maasaat mandiraanmadhye, Tulashi vrindaavanaajval deep laavne shubh aahe.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "शुभं करोति कल्याणम् आरोग्यं धनसम्पदा |\nशत्रुबुद्धिविनाशाय दीपज्योतिर्नमोऽस्तुते ||",
+          "meaning": "दीपज्योतीला नमस्कार, जी शुभ, कल्याण, आरोग्य आणि धनसंपदा प्रदान करते आणि शत्रूंच्या दुर्बुद्धीचा नाश करते.",
+          "transliteration": "Shubham Karoti Kalyaanam Aarogyam Dhanasampadaa\nShatrubuddhivinaashaaya Deepajyotirnamostute",
+          "imageUrl": null
+        },
+        {
+          "shloka": "विधी:\n१) संध्याकाळी स्नान करून शुद्ध वस्त्रे परिधान करा |\n२) तुपाचा किंवा तिळाच्या तेलाचा दीप तयार करा |\n३) तुळशी वृंदावनाजवळ दीप लावा |\n४) मंदिरात दीपदान करा |\n५) नदीत दीप सोडा (तरंगता दीप) |\n६) 'ॐ नमो नारायणाय' जप करा ||",
+          "meaning": "कार्तिक मासातील सर्व ३० संध्याकाळी दीपदान केल्याने विष्णुलोक प्राप्त होतो. देवदीपावलीला (कार्तिक पौर्णिमा) विशेष दीपदान करावे.",
+          "transliteration": "Vidhi: Sandhyaakaali snaan karun shuddha vastre paridhaan karaa.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "kartik_tulasi_puja",
+      "title": "कार्तिक तुळशी पूजा",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/kartik/tulasi.jpg",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "तुलसी श्रीसखी शुभे पापहारिणि पुण्यदे |\nनमस्ते नारदनुते नारायणमनःप्रिये ||",
+          "meaning": "हे तुळशी, श्रीलक्ष्मीची सखी, शुभदायिनी, पापहारिणी, पुण्यदायिनी, नारदमुनींनी स्तुती केलेली, नारायणाला मनःप्रिय, तुला माझा नमस्कार.",
+          "transliteration": "Tulasi Shreesakhi Shubhe Paapahaarini Punyade\nNamaste Naaradanute Naaraayanamanahpriye",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कार्तिक मासात तुळशी पूजा अत्यंत महत्त्वाची आहे. तुळशी ही विष्णूप्रिया मानली जाते आणि तिच्या पूजनाने विष्णूंचा आशीर्वाद प्राप्त होतो.",
+          "meaning": "तुळशीचे महत्त्व: तुळशीदल विष्णूला अत्यंत प्रिय आहे. तुळशी वृंदावनाजवळ पूजा, दीपदान आणि परिक्रमा केल्याने अपार पुण्य मिळते.",
+          "transliteration": "Kartik Maasaat Tulashi poojaa atyant mahatvaachi aahe.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ तुलस्यमृतजन्मासि सदा त्वं केशवप्रिये |\nकेशवार्थे विचिन्वामि वरदा भव शोभने ||",
+          "meaning": "हे तुळशी, तू अमृतापासून जन्मलेली आहेस, तू सदैव केशवप्रिय आहेस. केशवांसाठी मी तुझे पत्र तोडतो, हे शोभने, वरदायिनी हो.",
+          "transliteration": "Om Tulasyamrita Janmaasi Sadaa Tvam Keshavapriye\nKeshavaarthe Vichitnvaami Varadaa Bhava Shobhane",
+          "imageUrl": null
+        },
+        {
+          "shloka": "पूजा विधी:\n१) प्रातःकाळी तुळशीला जल अर्पण करा |\n२) कुंकू, हळद, अक्षता अर्पण करा |\n३) तुळशी वृंदावनाला प्रदक्षिणा घाला (१०८ वेळा) |\n४) संध्याकाळी दीप लावा |\n५) 'ॐ तुलस्यै नमः' मंत्राचा जप करा ||",
+          "meaning": "कार्तिक शुद्ध द्वादशीला तुळशी विवाह साजरा केला जातो. या दिवशी तुळशीचे शालिग्रामासोबत विवाह विधी केला जातो.",
+          "transliteration": "Poojaa Vidhi: Praatahkaali Tulashilaa jal arpan karaa.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "kartik_tulasi_vivah",
+      "title": "तुळशी विवाह",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/kartik/tulasi_vivah.jpg",
+      "orderIndex": 5,
+      "content": [
+        {
+          "shloka": "तुलसी कामिनी यस्य गृहे तिष्ठति केशव |\nतद्गृहं तीर्थभूतं हि नायान्ति यमकिंकराः ||",
+          "meaning": "हे केशव, ज्याच्या घरी तुळशी विराजमान आहे, ते घर तीर्थासमान आहे. तेथे यमाचे दूत कधी येत नाहीत.",
+          "transliteration": "Tulasi Kaaminee Yasya Grihe Tishthati Keshava\nTadgriham Teerthabhoothm Hi Naayaanti Yamakimkaraah",
+          "imageUrl": null
+        },
+        {
+          "shloka": "तुळशी विवाह हा कार्तिक शुद्ध एकादशी (देवउठणी एकादशी) ते कार्तिक पौर्णिमेपर्यंत कोणत्याही शुभ दिवशी साजरा करतात. द्वादशी सर्वोत्तम मानली जाते.",
+          "meaning": "या दिवशी तुळशीच्या रोपाचे शालिग्रामासोबत (विष्णूचे प्रतीक) विवाह लावले जातात. यानंतर लग्नसराई सुरू होते कारण या दिवसापूर्वी कार्तिक मासात विवाह वर्ज्य असतात.",
+          "transliteration": "Tulashi Vivaah haa Kartik Shuddha Ekaadashi te Kartik Pournimeparyant saajraa kartaat.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ तुलस्यै विष्णुवल्लभायै नमः |\nतुलसीं शालिग्रामं च विवाहयामि सादरम् |\nॐ विष्णवे नमः ||",
+          "meaning": "विष्णुप्रिया तुळशीला नमस्कार. मी तुळशी आणि शालिग्राम यांचा आदरपूर्वक विवाह लावतो. ॐ विष्णूंना नमस्कार.",
+          "transliteration": "Om Tulasyai Vishnuvallabhaayai Namah\nTulaseem Shaalagramam Cha Vivaahayaami Saadaram\nOm Vishnave Namah",
+          "imageUrl": null
+        },
+        {
+          "shloka": "विधी:\n१) तुळशी वृंदावन सजवा (चुन्नी, फुले, रांगोळी) |\n२) शालिग्राम किंवा विष्णू मूर्ती ठेवा |\n३) हळद-कुंकू, मंगळसूत्र, चोळी-बांगड्या अर्पण करा |\n४) मंत्रोच्चारासह सप्तपदी विधी करा |\n५) आरती करा आणि प्रसाद वाटा |\n६) ऊस, आवळा, चिंचेचे पान अर्पण करा ||",
+          "meaning": "तुळशी विवाहानंतर लग्नसराई सुरू होते. हा सोहळा अत्यंत मंगलमय आणि आनंदाचा असतो. कुटुंबातील सर्वजण मिळून साजरा करतात.",
+          "transliteration": "Vidhi: Tulashi vrindaavan sajvaa. Shaaligram kinvaa Vishnu moorti thevaa.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "kartik_ekadashi",
+      "title": "कार्तिक एकादशी (देवउठणी)",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/kartik/ekadashi.jpg",
+      "orderIndex": 6,
+      "content": [
+        {
+          "shloka": "उत्तिष्ठ गोविन्द त्यज निद्रां जगत्पते |\nत्वयि सुप्ते जगन्नाथ जगत्सुप्तं भवेदिदम् ||",
+          "meaning": "हे गोविंदा, उठा. हे जगत्पते, निद्रा त्यागा. हे जगन्नाथा, तुम्ही झोपता तेव्हा संपूर्ण जग झोपते.",
+          "transliteration": "Uttishtha Govinda Tyaja Nidraam Jagatpate\nTvayi Supte Jagannatha Jagatpsuptam Bhavedidm",
+          "imageUrl": null
+        },
+        {
+          "shloka": "देवउठणी एकादशी (कार्तिक शुद्ध एकादशी) ला भगवान विष्णू चार महिन्यांच्या योगनिद्रेतून जागृत होतात. आषाढ शुद्ध एकादशीला विष्णू निद्रा घेतात आणि कार्तिक शुद्ध एकादशीला जागृत होतात.",
+          "meaning": "या दिवसापासून विवाह, गृहप्रवेश इत्यादी शुभ कार्ये पुन्हा सुरू होतात. चातुर्मासाचा शेवट होतो.",
+          "transliteration": "Devuthani Ekaadashi laa Bhagavaan Vishnu chaar mahinyanachya yoganidretun jaagrit hotaat.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ नमो नारायणाय |\nउत्तिष्ठोत्तिष्ठ गोविन्द उत्तिष्ठ गरुडध्वज |\nउत्तिष्ठ कमलाकान्त त्रैलोक्यं मंगलं कुरु ||",
+          "meaning": "ॐ नारायणांना नमस्कार. उठा, उठा हे गोविंदा! उठा, हे गरुडध्वजा! उठा, हे कमलाकांता! तिन्ही लोकांचे मंगल करा.",
+          "transliteration": "Om Namo Naaraayanaaya\nUttishthottishtha Govinda Uttishtha Garudadhvaja\nUttishtha Kamalaakanta Trailokyam Mangalam Kuru",
+          "imageUrl": null
+        },
+        {
+          "shloka": "विधी:\n१) प्रातःस्नान करून व्रत करा |\n२) विष्णू पूजा करा - शंखनाद करून जागृत करा |\n३) तुळशी विवाह करा |\n४) ऊस, आवळा अर्पण करा |\n५) भगवद्गीता, विष्णू सहस्रनाम पठण |\n६) रात्री जागरण करा (भजन, कीर्तन) ||",
+          "meaning": "हे व्रत अत्यंत शुभ आणि फलदायी आहे. उपवास करणे शक्य नसल्यास फलाहार करावा. विष्णूंचे नामस्मरण सर्वात महत्त्वाचे.",
+          "transliteration": "Vidhi: Praatahsnaan karun vrat karaa.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "kartik_purnima",
+      "title": "कार्तिक पौर्णिमा (देव दीपावली)",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/kartik/purnima.jpg",
+      "orderIndex": 7,
+      "content": [
+        {
+          "shloka": "कार्तिक्यां पौर्णमास्यां तु स्नात्वा गंगे समाहितः |\nदीपदानं प्रकुर्वीत कोटिजन्मार्जितं फलम् ||",
+          "meaning": "कार्तिक पौर्णिमेला गंगेत एकाग्रचित्ताने स्नान करून दीपदान केल्यास कोटी जन्मांचे पुण्यफळ प्राप्त होते.",
+          "transliteration": "Kaartikyaam Paurnamaasyaam Tu Snaatvaa Gange Samaahitah\nDeepadaanam Prakurveeta Kotijanmaarjitam Phalam",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कार्तिक पौर्णिमेला 'देव दीपावली' म्हणतात. या दिवशी स्वर्गातील देव दिवे लावून उत्सव साजरा करतात अशी श्रद्धा आहे. वाराणसी (काशी) मध्ये गंगा घाटावर लाखो दीप प्रज्वलित केले जातात.",
+          "meaning": "या दिवशी त्रिपुरासुराचा वध शिवांनी केला म्हणून याला 'त्रिपुरी पौर्णिमा' असेही म्हणतात. कार्तिक मासाचा शेवटचा दिवस अत्यंत पवित्र मानला जातो.",
+          "transliteration": "Kartik Pournimela Dev Deepaavali mhantaat.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ त्रिपुरं दहताम् देवं सर्वलोकसुखप्रदम् |\nकार्तिक्यां पौर्णमास्यां तु दीपं दत्त्वा शिवं नमेत् ||",
+          "meaning": "त्रिपुर दहन करणारे, सर्व लोकांना सुख देणारे देवांना कार्तिक पौर्णिमेला दीप अर्पण करून शिवांना नमस्कार करावा.",
+          "transliteration": "Om Tripuram Dahataam Devam Sarvaloka Sukhapradam\nKaartikyaam Paurnamaasyaam Tu Deepam Dattvaa Shivam Namet",
+          "imageUrl": null
+        },
+        {
+          "shloka": "विधी:\n१) प्रातःकाळी पवित्र नदीत स्नान करा |\n२) शिव-विष्णू दोघांची पूजा करा |\n३) संध्याकाळी असंख्य दीप लावा |\n४) गंगा-नदी-तलावात तरंगते दीप सोडा |\n५) सत्यनारायण पूजा करा |\n६) दान-पुण्य करा ||",
+          "meaning": "कार्तिक पौर्णिमेने कार्तिक मासाचे व्रत पूर्ण होते. या दिवशी केलेले दीपदान विशेष फलदायी आहे. वाराणसीत या दिवशी देव दीपावलीचा भव्य उत्सव साजरा होतो.",
+          "transliteration": "Vidhi: Praatahkaali pavitra nadeet snaan karaa.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "kartik_vrat_katha",
+      "title": "कार्तिक मास व्रत कथा",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/kartik/katha.jpg",
+      "orderIndex": 8,
+      "content": [
+        {
+          "shloka": "पूर्वकाले तु धर्मात्मा राजा अम्बरीष इति श्रुतः |\nकार्तिके मासि विष्णोः तु भक्तिं कृत्वा विशेषतः |\nमोक्षं गतो महात्मा स विष्णोः लोकं सनातनम् ||",
+          "meaning": "पूर्वकाळी अंबरीष नावाचा धर्मात्मा राजा होता. त्याने कार्तिक मासात विष्णूंची विशेष भक्ती करून मोक्ष प्राप्त केला आणि विष्णूंच्या सनातन लोकात गेला.",
+          "transliteration": "Poorvakaale Tu Dharmaatmaa Raajaa Ambareesh Iti Shrutah\nKaartike Maasi Vishnoh Tu Bhaktim Kritvaa Visheshatah\nMoksham Gato Mahaatmaa Sa Vishnoh Lokam Sanaatanam",
+          "imageUrl": null
+        },
+        {
+          "shloka": "राजा अंबरीषाने कार्तिक मासभर नियमपूर्वक विष्णू भक्ती केली. रोज प्रातःस्नान, दीपदान, तुळशी पूजा आणि एकादशी व्रत पाळले. त्याच्या भक्तीने प्रसन्न होऊन भगवान विष्णूंनी त्याला दर्शन दिले.",
+          "meaning": "विष्णूंनी त्याला सुदर्शन चक्र रक्षणासाठी दिले. दुर्वासा ऋषींनी रागावून त्याला शाप देण्याचा प्रयत्न केला, परंतु सुदर्शन चक्राने अंबरीषाचे रक्षण केले.",
+          "transliteration": "Raajaa Ambareeshane Kartik Maasbhar niyamapoorvak Vishnu bhakti keli.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "विष्णुः उवाच:\nमद्भक्तं यो हि निन्दति स पापी नरकं व्रजेत् |\nमद्भक्तं पूजयेद्यस्तु स मे प्रियतरो नरः ||",
+          "meaning": "विष्णू म्हणाले: 'जो माझ्या भक्ताची निंदा करतो तो पापी नरकाला जातो. जो माझ्या भक्ताची पूजा करतो, तो माणूस मला अत्यंत प्रिय आहे.'",
+          "transliteration": "Vishnuh Uvaacha:\nMadbhaktam Yo Hi Nindati Sa Paapee Narakam Vrajet\nMadbhaktam Poojayed Yastu Sa Me Priyataro Narah",
+          "imageUrl": null
+        },
+        {
+          "shloka": "या कथेचे फळ:\n- कार्तिक मासाचे व्रत पाळणाऱ्याला विष्णूंचा विशेष आशीर्वाद मिळतो |\n- या कथेचे श्रवण केल्याने सर्व पापांचा नाश होतो |\n- भक्तीने विष्णूंना प्रसन्न करता येते |\n- मोक्षाचा मार्ग खुला होतो ||",
+          "meaning": "कार्तिक मासात दररोज या कथेचे श्रवण करणे पुण्यदायी आहे. अंबरीष राजाप्रमाणे जो नियमपूर्वक व्रत पाळतो, त्याला विष्णूंचा आशीर्वाद निश्चित प्राप्त होतो.",
+          "transliteration": "Yaa katheche phal: Kartik Maasaache vrat paalnaaraala Vishnuncha vishesh aashirvaad milato.",
+          "imageUrl": null
+        }
+      ]
+    }
+  ]
+}

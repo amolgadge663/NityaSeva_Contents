@@ -1,0 +1,204 @@
+{
+  "category": "Maagh Maas Mahatmya",
+  "version": 1,
+  "items": [
+    {
+      "id": "maagh_mahatmya",
+      "title": "Maagh Maas Mahatmya (Glories of Magha Month)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/maagh/surya.jpg",
+      "orderIndex": 1,
+      "content": [
+        {
+          "shloka": "Māghe Māsi Gamiṣyanti Gaṅgā Yamunā Saṅgame\nGavāṁ Śata Sahasrasya Samyag Dattasya Yat Phalam",
+          "meaning": "Those who bathe at the confluence of Ganga and Yamuna in the month of Magha obtain the merit equal to donating a hundred thousand cows.",
+          "transliteration": "Māghe Māsi Gamiṣyanti Gaṅgā Yamunā Saṅgame\nGavāṁ Śata Sahasrasya Samyag Dattasya Yat Phalam",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Māgha Snānaṁ Mahāpuṇyaṁ Sarva Pāpa Pranāśanam\nViṣṇu Prītikaraṁ Nityaṁ Mokṣadaṁ Puṇya Vardhanaṁ",
+          "meaning": "Bathing in Magha is supremely meritorious, it destroys all sins, pleases Lord Vishnu eternally, grants liberation, and increases one's merit.",
+          "transliteration": "Māgha Snānaṁ Mahāpuṇyaṁ Sarva Pāpa Pranāśanam\nViṣṇu Prītikaraṁ Nityaṁ Mokṣadaṁ Puṇya Vardhanam",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Māgha Māse Mahādevo Yathā Tuṣyati Śaṅkaraḥ\nTathā Na Tuṣyate Māso Anyaḥ Kaścana Bhūtale",
+          "meaning": "As Lord Shankara is pleased in the month of Magha, no other month on earth can please Him as much.",
+          "transliteration": "Māgha Māse Mahādevo Yathā Tuṣyati Śaṅkaraḥ\nTathā Na Tuṣyate Māso Anyaḥ Kaścana Bhūtale",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sarva Tīrtheṣu Yat Puṇyaṁ Sarva Yajñeṣu Yat Phalam\nTat Phalaṁ Koṭi Guṇitaṁ Māgha Snāne Prajāyate",
+          "meaning": "Whatever merit is in all pilgrimages, whatever fruit is in all sacrifices — that fruit, multiplied a million times, arises from bathing in Magha.",
+          "transliteration": "Sarva Tīrtheṣu Yat Puṇyaṁ Sarva Yajñeṣu Yat Phalam\nTat Phalaṁ Koṭi Guṇitaṁ Māgha Snāne Prajāyate",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "maagh_snan_vidhi",
+      "title": "Maagh Snan Vidhi (Bathing Ritual)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/maagh/surya.jpg",
+      "orderIndex": 2,
+      "content": [
+        {
+          "shloka": "Prātaḥ Kāle Samutthāya Snānaṁ Kuryāt Naro Budhaḥ\nSūrya Udaye Japaṁ Kuryāt Māgha Māsa Vidhānataḥ",
+          "meaning": "A wise person should rise at dawn and perform the bathing ritual, then recite mantras at sunrise according to the prescribed method of Magha month.",
+          "transliteration": "Prātaḥ Kāle Samutthāya Snānaṁ Kuryāt Naro Budhaḥ\nSūrya Udaye Japaṁ Kuryāt Māgha Māsa Vidhānataḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Gaṅgā Yamunayoḥ Snānaṁ Māghe Māsi Viśeṣataḥ\nPrayāga Rāja Tīrthe Vā Anyatra Nadī Taṭe",
+          "meaning": "Bathing in the Ganga, Yamuna, or especially at the sacred site of Prayagaraj, or at the banks of other holy rivers in Magha is especially meritorious.",
+          "transliteration": "Gaṅgā Yamunayoḥ Snānaṁ Māghe Māsi Viśeṣataḥ\nPrayāga Rāja Tīrthe Vā Anyatra Nadī Taṭe",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Gaṅge Cha Yamune Chaiva Godāvarī Sarasvatī\nNarmade Sindhu Kāverī Jalesmin Sannidhiṁ Kuru",
+          "meaning": "O Ganga, Yamuna, Godavari, Sarasvati, Narmada, Sindhu, and Kaveri — please be present in this water.",
+          "transliteration": "Oṁ Gaṅge Ca Yamune Caiva Godāvarī Sarasvatī\nNarmade Sindhu Kāverī Jalesmin Sannidhiṁ Kuru",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Snāna Saṅkalpa: Mama Samasta Pāpa Kṣayārthaṁ\nŚrī Viṣṇu Prītyarthaṁ Māgha Māsa Snānam Ahaṁ Kariṣye",
+          "meaning": "Bathing resolve: For the destruction of all my sins and for the pleasure of Lord Vishnu, I shall perform the Magha month bathing ritual.",
+          "transliteration": "Snāna Saṅkalpa: Mama Samasta Pāpa Kṣayārthaṁ\nŚrī Viṣṇu Prītyarthaṁ Māgha Māsa Snānam Ahaṁ Kariṣye",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "maagh_vrat_katha",
+      "title": "Maagh Vrat Katha (Sacred Story)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/maagh/vishnu.jpg",
+      "orderIndex": 3,
+      "content": [
+        {
+          "shloka": "Śrī Kṛṣṇa Uvāca:\nŚṛṇu Dharmarāja Vīra Māgha Māsa Mahāphalam\nYena Vijñāta Mātreṇa Sarvapāpaiḥ Pramucyate",
+          "meaning": "Lord Krishna said: O brave Dharmaraja, hear the great fruit of Magha month. By merely knowing its significance, one is freed from all sins.",
+          "transliteration": "Śrī Kṛṣṇa Uvāca:\nŚṛṇu Dharmarāja Vīra Māgha Māsa Mahāphalam\nYena Vijñāta Mātreṇa Sarvapāpaiḥ Pramucyate",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Purā Dilīpa Nāmnā Vai Rājā Āsīt Mahīpatiḥ\nMāgha Snāna Parō Nityaṁ Dharmiṣṭhaḥ Satyavāk Śuciḥ",
+          "meaning": "Once there was a king named Dilipa, ruler of the earth, who was devoted to Magha bathing daily — righteous, truthful, and pure.",
+          "transliteration": "Purā Dilīpa Nāmnā Vai Rājā Āsīt Mahīpatiḥ\nMāgha Snāna Parō Nityaṁ Dharmiṣṭhaḥ Satyavāk Śuciḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Tasya Puṇya Prabhāvena Svarga Loka Samāptavān\nViṣṇu Sāyujyam Āpnoti Māgha Snānasya Vai Phalam",
+          "meaning": "By the power of his merit, he attained the heavenly realms. The fruit of Magha bathing is attaining union with Lord Vishnu.",
+          "transliteration": "Tasya Puṇya Prabhāvena Svarga Loka Samāptavān\nViṣṇu Sāyujyam Āpnoti Māgha Snānasya Vai Phalam",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Tasmāt Sarva Prayatnena Māghe Snānaṁ Samācaret\nVrat Kathā Śravaṇāt Puṇyaṁ Sarva Kāma Phalapradam",
+          "meaning": "Therefore, one should make every effort to bathe in Magha. By hearing this Vrat Katha, one earns merit that fulfills all desires.",
+          "transliteration": "Tasmāt Sarva Prayatnena Māghe Snānaṁ Samācaret\nVrat Kathā Śravaṇāt Puṇyaṁ Sarva Kāma Phalapradam",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "maagh_daan_mahatmya",
+      "title": "Maagh Daan Mahatmya (Glory of Charity)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/maagh/vishnu.jpg",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "Māghe Māsi Mahādānaṁ Tiladānaṁ Viśeṣataḥ\nGhṛta Dhānyaṁ Ca Vastāṇi Dānaṁ Mokṣa Phalapradam",
+          "meaning": "In the month of Magha, great charity is prescribed, especially the gift of sesame seeds. Giving ghee, grain, and clothes yields the fruit of liberation.",
+          "transliteration": "Māghe Māsi Mahādānaṁ Tiladānaṁ Viśeṣataḥ\nGhṛta Dhānyaṁ Ca Vastāṇi Dānaṁ Mokṣa Phalapradam",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Anna Dānaṁ Paraṁ Dānaṁ Vidyā Dānaṁ Tataḥ Param\nMāghe Dattaṁ Ca Yaddānaṁ Tat Sarvaṁ Akṣayaṁ Bhavet",
+          "meaning": "The gift of food is a supreme gift, and the gift of knowledge is even greater. Whatever charity is given in Magha becomes inexhaustible.",
+          "transliteration": "Anna Dānaṁ Paraṁ Dānaṁ Vidyā Dānaṁ Tataḥ Param\nMāghe Dattaṁ Ca Yaddānaṁ Tat Sarvaṁ Akṣayaṁ Bhavet",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Tila Dāne Viśeṣeṇa Māghe Yat Kriyate Naraiḥ\nTat Sarvam Akṣayaṁ Proktaṁ Śrī Viṣṇoḥ Vachanāt Mune",
+          "meaning": "The gift of sesame seeds especially made in Magha by mortals — all of it is declared inexhaustible by the words of Lord Vishnu, O sage.",
+          "transliteration": "Tila Dāne Viśeṣeṇa Māghe Yat Kriyate Naraiḥ\nTat Sarvam Akṣayaṁ Proktaṁ Śrī Viṣṇoḥ Vacanāt Mune",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kurvīta Dānaṁ Viprāya Gāvō Bhūmi Suvarṇakam\nMāgha Dāna Phalaṁ Divyaṁ Svarga Mokṣa Pradāyakam",
+          "meaning": "One should give charity of cows, land, and gold to Brahmins. The divine fruit of Magha charity bestows heaven and liberation.",
+          "transliteration": "Kurvīta Dānaṁ Viprāya Gāvō Bhūmi Suvarṇakam\nMāgha Dāna Phalaṁ Divyaṁ Svarga Mokṣa Pradāyakam",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "maagh_ekadashi",
+      "title": "Maagh Ekadashi Vrat",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/maagh/vishnu.jpg",
+      "orderIndex": 5,
+      "content": [
+        {
+          "shloka": "Māgha Śukla Ekādaśī Jayā Nāma Mahāvratam\nViṣṇu Prītikaraṁ Puṇyaṁ Sarva Pāpa Vināśanam",
+          "meaning": "The Ekadashi of Magha Shukla, known as Jaya Ekadashi, is a great vow that pleases Lord Vishnu, is meritorious, and destroys all sins.",
+          "transliteration": "Māgha Śukla Ekādaśī Jayā Nāma Mahāvratam\nViṣṇu Prītikaraṁ Puṇyaṁ Sarva Pāpa Vināśanam",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Upavāsaṁ Naraḥ Kuryāt Ekādaśyāṁ Jitendriyaḥ\nViṣṇu Pūjāṁ Prakurvīta Tulasī Dala Saṁyutam",
+          "meaning": "A person of controlled senses should observe fasting on Ekadashi, and worship Lord Vishnu with Tulasi leaves.",
+          "transliteration": "Upavāsaṁ Naraḥ Kuryāt Ekādaśyāṁ Jitendriyaḥ\nViṣṇu Pūjāṁ Prakurvīta Tulasī Dala Saṁyutam",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Dvādaśyāṁ Pāraṇaṁ Kuryāt Brāhmaṇān Bhojayed Budhaḥ\nMāgha Kṛṣṇa Ekādaśī Ṣaṭtilā Nāma Viśrutā",
+          "meaning": "On Dvadashi one should break the fast and feed Brahmins. The Ekadashi of Magha Krishna paksha is well-known as Shattila Ekadashi.",
+          "transliteration": "Dvādaśyāṁ Pāraṇaṁ Kuryāt Brāhmaṇān Bhojayed Budhaḥ\nMāgha Kṛṣṇa Ekādaśī Ṣaṭtilā Nāma Viśrutā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ṣaṭ Tilāḥ Ṣaḍ Vidhaiḥ Sevyāḥ Snāne Dāne Tathā Jape\nHavane Bhojane Chaiva Lepane Ṣaṭ Tilā Smṛtāḥ",
+          "meaning": "Six types of sesame usage are prescribed: in bathing, charity, chanting, fire offerings, eating, and anointing — thus is Shattila observed.",
+          "transliteration": "Ṣaṭ Tilāḥ Ṣaḍ Vidhaiḥ Sevyāḥ Snāne Dāne Tathā Jape\nHavane Bhojane Caiva Lepane Ṣaṭ Tilā Smṛtāḥ",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "maagh_mantra",
+      "title": "Maagh Maas Mantras",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/maagh/surya.jpg",
+      "orderIndex": 6,
+      "content": [
+        {
+          "shloka": "Om Namo Bhagavate Vāsudevāya\nMāgha Māsa Adhiṣṭhāna Devatābhyo Namaḥ",
+          "meaning": "Om, salutations to Lord Vasudeva. Salutations to the presiding deities of Magha month.",
+          "transliteration": "Oṁ Namo Bhagavate Vāsudevāya\nMāgha Māsa Adhiṣṭhāna Devatābhyo Namaḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Hrīṁ Śrīṁ Klīṁ Mādhavāya Namaḥ\nMāgha Pūrṇimāyāṁ Viṣṇuṁ Sampūjya Phalaṁ Aśnute",
+          "meaning": "Om Hrim Shrim Klim, salutations to Madhava. By worshipping Vishnu on Magha Purnima, one attains the fruit.",
+          "transliteration": "Oṁ Hrīṁ Śrīṁ Klīṁ Mādhavāya Namaḥ\nMāgha Pūrṇimāyāṁ Viṣṇuṁ Sampūjya Phalaṁ Aśnute",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Sūryāya Namaḥ Om Viṣṇave Namaḥ\nMāgha Māse Japennityaṁ Sūrya Mantraṁ Vimuktaye",
+          "meaning": "Om, salutations to Surya. Om, salutations to Vishnu. One should daily chant the Surya mantra in Magha month for liberation.",
+          "transliteration": "Oṁ Sūryāya Namaḥ Oṁ Viṣṇave Namaḥ\nMāgha Māse Japennityaṁ Sūrya Mantraṁ Vimuktaye",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Tatsaviturvareṇyaṁ Bhargo Devasya Dhīmahi\nDhiyo Yo Naḥ Prachodayāt\nGāyatrī Japa Vidhānaṁ Māghe Viśeṣataḥ",
+          "meaning": "Om, let us meditate on that excellent glory of the divine Sun. May He illuminate our intellect. The chanting of Gayatri is especially prescribed in Magha.",
+          "transliteration": "Oṁ Tatsaviturvareṇyaṁ Bhargo Devasya Dhīmahi\nDhiyo Yo Naḥ Pracodayāt\nGāyatrī Japa Vidhānaṁ Māghe Viśeṣataḥ",
+          "imageUrl": null
+        }
+      ]
+    }
+  ]
+}

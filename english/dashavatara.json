@@ -1,0 +1,136 @@
+{
+  "category": "Dashavatara (10 Avatars of Vishnu)",
+  "version": 1,
+  "items": [
+    {
+      "id": "avatar_matsya",
+      "title": "Matsya Avatar (The Fish)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/dashavatara/matsya.jpg",
+      "orderIndex": 1,
+      "content": [
+        { "shloka": "Pralaya Payōdhi Jalē Dhṛtavān Asi Vēdam\nVihita Vahitra Charitram Akhedam\nKēśava Dhṛta Mīna Śarīra Jaya Jagadīśa Harē", "meaning": "In the waters of the great deluge, You held the Vedas. You enacted the play of the boat (ark) tirelessly. O Keshava, who assumed the form of a fish — victory to You, Lord of the universe, Hari!", "transliteration": "Pralaya Payōdhi Jalē Dhṛtavān Asi Vēdam\nVihita Vahitra Caritram Akhedam\nKēśava Dhṛta Mīna Śarīra Jaya Jagadīśa Harē", "imageUrl": null },
+        { "shloka": "Om Matsya Rūpāya Vidmahē\nJalēśvarāya Dhīmahi\nTanno Viṣṇuḥ Prachodayāt", "meaning": "Om, we meditate upon the Fish form. We contemplate the Lord of the waters. May Lord Vishnu inspire us.", "transliteration": "Oṁ Matsya Rūpāya Vidmahē\nJalēśvarāya Dhīmahi\nTanno Viṣṇuḥ Pracodayāt", "imageUrl": null },
+        { "shloka": "Satyavrata Rāja Kṛpāṁ Vidhāya\nMatsya Rūpeṇa Jalaṁ Pravēśya\nVēdān Samuddhṛtya Dadau Vidhātrē\nŚrī Matsya Dēvāya Namaḥ Sadā Mē", "meaning": "By bestowing grace upon King Satyavrata, entering the waters in the form of a fish, and rescuing the Vedas to give back to Brahma — my eternal salutations to Lord Matsya.", "transliteration": "Satyavrata Rāja Kṛpāṁ Vidhāya\nMatsya Rūpeṇa Jalaṁ Pravēśya\nVēdān Samuddhṛtya Dadau Vidhātrē\nŚrī Matsya Dēvāya Namaḥ Sadā Mē", "imageUrl": null },
+        { "shloka": "Śaṅkha Cakra Gadā Padma Dhāriṇam\nMīna Rūpa Dharaṁ Bhagavantam\nSaptarṣi Naukā Parirakṣakam\nMatsya Avatāraṁ Praṇamāmi Nityam", "meaning": "Bearer of conch, disc, mace, and lotus, the Lord who assumed the fish form, protector of the boat of the seven sages — I bow eternally to the Matsya Avatar.", "transliteration": "Śaṅkha Cakra Gadā Padma Dhāriṇam\nMīna Rūpa Dharaṁ Bhagavantam\nSaptarṣi Naukā Parirakṣakam\nMatsya Avatāraṁ Praṇamāmi Nityam", "imageUrl": null }
+      ]
+    },
+    {
+      "id": "avatar_kurma",
+      "title": "Kurma Avatar (The Tortoise)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/dashavatara/kurma.jpg",
+      "orderIndex": 2,
+      "content": [
+        { "shloka": "Kṣitir Iha Vipalē Babhūva Ena\nDaśavatāra Kṛtē Kṛtē\nKēśava Dhṛta Kacchapa Rūpa Jaya Jagadīśa Harē", "meaning": "When the earth was imperiled, through each of the ten incarnations — O Keshava, who assumed the tortoise form, victory to You, Lord of the universe!", "transliteration": "Kṣitir Iha Vipalē Babhūva Ena\nDaśavatāra Kṛtē Kṛtē\nKēśava Dhṛta Kacchapa Rūpa Jaya Jagadīśa Harē", "imageUrl": null },
+        { "shloka": "Mandara Girim Anēna Nidhāya Pṛṣṭhe\nKṣīra Sāgara Madhyē Sthitam Acyutam\nSamudra Manthanam Kurma Avatāram\nPraṇamāmi Anantam Amṛta Dātāram", "meaning": "Placing Mount Mandara on His back, Achyuta who stood in the midst of the Milk Ocean, the Kurma Avatar of the ocean churning — I bow to the infinite one, the giver of nectar.", "transliteration": "Mandara Girim Anēna Nidhāya Pṛṣṭhē\nKṣīra Sāgara Madhyē Sthitam Acyutam\nSamudra Manthanam Kūrma Avatāram\nPraṇamāmi Anantam Amṛta Dātāram", "imageUrl": null },
+        { "shloka": "Om Kūrmāya Namaḥ\nAmṛta Samudra Manthanē Ādhāra Bhūtāya\nViṣṇavē Parabrahmāṇē Namaḥ", "meaning": "Om, salutations to Kurma. To the one who became the foundation during the churning of the ocean of nectar — salutations to Vishnu, the supreme Brahman.", "transliteration": "Oṁ Kūrmāya Namaḥ\nAmṛta Samudra Manthanē Ādhāra Bhūtāya\nViṣṇavē Parabrahmāṇē Namaḥ", "imageUrl": null },
+        { "shloka": "Dēvāsura Samāgamē Kūrma Rūpadharaḥ Prabhuḥ\nRatna Caturdasaṁ Dātuṁ Jagatāṁ Hitakāmyayā", "meaning": "In the assembly of gods and demons, the Lord assumed the Kurma form, desiring the welfare of the worlds by bestowing the fourteen jewels.", "transliteration": "Dēvāsura Samāgamē Kūrma Rūpadharaḥ Prabhuḥ\nRatna Caturdaśaṁ Dātuṁ Jagatāṁ Hitakāmyayā", "imageUrl": null }
+      ]
+    },
+    {
+      "id": "avatar_varaha",
+      "title": "Varaha Avatar (The Boar)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/dashavatara/varaha.jpg",
+      "orderIndex": 3,
+      "content": [
+        { "shloka": "Vasati Daśana Śikhare Dharaṇī Tava Lagnā\nŚaśini Kalaṅka Kalēva Nimagnā\nKēśava Dhṛta Śūkara Rūpa Jaya Jagadīśa Harē", "meaning": "The earth rests on the tip of Your tusk, looking like a spot on the moon. O Keshava, who assumed the boar form — victory to You, Lord of the universe!", "transliteration": "Vasati Daśana Śikhare Dharaṇī Tava Lagnā\nŚaśini Kalaṅka Kalēva Nimagnā\nKēśava Dhṛta Śūkara Rūpa Jaya Jagadīśa Harē", "imageUrl": null },
+        { "shloka": "Hiraṇyākṣam Nihatya Mahābalam\nBhūmiṁ Samuddhṛtya Rasātalāt\nVarāha Mūrtiṁ Paramēśvaram\nPraṇamāmi Lokēśvaram Acyutam", "meaning": "Having slain the mighty Hiranyaksha, lifting the Earth from the netherworld, the Varaha form of the Supreme Lord — I bow to the Lord of the worlds, Achyuta.", "transliteration": "Hiraṇyākṣam Nihatya Mahābalam\nBhūmiṁ Samuddhṛtya Rasātalāt\nVarāha Mūrtiṁ Paramēśvaram\nPraṇamāmi Lokēśvaram Acyutam", "imageUrl": null },
+        { "shloka": "Om Namaḥ Śrī Varāhāya\nBhūmi Uddhāraṇa Kāraṇāya\nHiraṇyākṣa Vināśāya Namaḥ", "meaning": "Om, salutations to Sri Varaha, the cause of the Earth's rescue, the destroyer of Hiranyaksha.", "transliteration": "Oṁ Namaḥ Śrī Varāhāya\nBhūmi Uddhāraṇa Kāraṇāya\nHiraṇyākṣa Vināśāya Namaḥ", "imageUrl": null },
+        { "shloka": "Dharaṇīṁ Gadāṁ Cakraṁ Śaṅkhaṁ Cha Bibhrat\nDaṁṣṭrā Agrē Dharāṁ Dhārayan Bhagavān\nĀdi Varāhaḥ Paripālayēt Naḥ", "meaning": "Bearing the Earth, the mace, the disc, and the conch, holding the Earth on the tip of His tusk — may the primeval Varaha protect us.", "transliteration": "Dharaṇīṁ Gadāṁ Cakraṁ Śaṅkhaṁ Ca Bibhrat\nDaṁṣṭrā Agrē Dharāṁ Dhārayan Bhagavān\nĀdi Varāhaḥ Paripālayēt Naḥ", "imageUrl": null }
+      ]
+    },
+    {
+      "id": "avatar_narasimha",
+      "title": "Narasimha Avatar (The Man-Lion)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/dashavatara/narasimha.jpg",
+      "orderIndex": 4,
+      "content": [
+        { "shloka": "Tava Kara Kamala Varē Nakham Adbhuta Śṛṅgam\nDalita Hiraṇyakaśipu Tanu Bhṛṅgam\nKēśava Dhṛta Narahari Rūpa Jaya Jagadīśa Harē", "meaning": "On Your beautiful lotus hands, the nails are wondrous weapons that tore apart the body of Hiranyakashipu like a wasp. O Keshava, who assumed the Man-Lion form — victory to You!", "transliteration": "Tava Kara Kamala Varē Nakham Adbhuta Śṛṅgam\nDalita Hiraṇyakaśipu Tanu Bhṛṅgam\nKēśava Dhṛta Narahari Rūpa Jaya Jagadīśa Harē", "imageUrl": null },
+        { "shloka": "Stambhāt Āvirbhūtō Bhagavān Nṛsiṁhaḥ\nPrahlāda Varadō Daityēśa Nāśanaḥ\nSandhyā Samayē Na Dinaṁ Na Rātriḥ\nUgrō'pi Bhaktānāṁ Suśāntarūpaḥ", "meaning": "The Lord Narasimha manifested from the pillar, boon-giver to Prahlada, destroyer of the demon king. At twilight — neither day nor night — though fierce, He is gentle to His devotees.", "transliteration": "Stambhāt Āvirbhūtō Bhagavān Nṛsiṁhaḥ\nPrahlāda Varadō Daityēśa Nāśanaḥ\nSandhyā Samayē Na Dinaṁ Na Rātriḥ\nUgrō'pi Bhaktānāṁ Suśāntarūpaḥ", "imageUrl": null },
+        { "shloka": "Ugram Vīraṁ Mahāviṣṇuṁ Jvalantaṁ Sarvatomukham\nNṛsiṁhaṁ Bhīṣaṇaṁ Bhadraṁ Mṛtyur Mṛtyuṁ Namāmyaham", "meaning": "I bow to the fierce, heroic, all-pervading Maha Vishnu, blazing in all directions — Narasimha, the terrifying yet auspicious one, the death of Death itself.", "transliteration": "Ugram Vīraṁ Mahāviṣṇuṁ Jvalantaṁ Sarvatōmukham\nNṛsiṁhaṁ Bhīṣaṇaṁ Bhadraṁ Mṛtyur Mṛtyuṁ Namāmyaham", "imageUrl": null },
+        { "shloka": "Om Namaḥ Śrī Nṛsiṁhāya\nPrahlāda Rakṣakāya Namaḥ\nHiraṇyakaśipu Hantré Namaḥ", "meaning": "Om, salutations to Sri Narasimha, protector of Prahlada, slayer of Hiranyakashipu.", "transliteration": "Oṁ Namaḥ Śrī Nṛsiṁhāya\nPrahlāda Rakṣakāya Namaḥ\nHiraṇyakaśipu Hantrē Namaḥ", "imageUrl": null }
+      ]
+    },
+    {
+      "id": "avatar_vamana",
+      "title": "Vamana Avatar (The Dwarf)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/dashavatara/vamana.jpg",
+      "orderIndex": 5,
+      "content": [
+        { "shloka": "Chalayasi Vikramaṇē Balim Adbhuta Vāmana\nPada Nakha Nīra Janita Jana Pāvana\nKēśava Dhṛta Vāmana Rūpa Jaya Jagadīśa Harē", "meaning": "O wondrous Vamana, You deceived Bali with Your strides. The water born from Your toenail (the Ganga) purifies all people. O Keshava, who assumed the Dwarf form — victory!", "transliteration": "Calayasi Vikramaṇē Balim Adbhuta Vāmana\nPada Nakha Nīra Janita Jana Pāvana\nKēśava Dhṛta Vāmana Rūpa Jaya Jagadīśa Harē", "imageUrl": null },
+        { "shloka": "Tribhuvana Māpayitvā Dvi Padābhyāṁ\nBali Rājyaṁ Harannadhirōhya Viṣṇuḥ\nTrivikramō Bhagavān Vāmanākhyaḥ\nSarvēśvaraṁ Praṇamāmi Anantam", "meaning": "Measuring the three worlds in two steps, seizing Bali's kingdom, Lord Vishnu known as Trivikrama Vamana — I bow to the infinite Lord of all.", "transliteration": "Tribhuvana Māpayitvā Dvi Padābhyāṁ\nBali Rājyaṁ Harannadhirōhya Viṣṇuḥ\nTrivikramō Bhagavān Vāmanākhyaḥ\nSarvēśvaraṁ Praṇamāmi Anantam", "imageUrl": null },
+        { "shloka": "Om Vāmanāya Namaḥ\nTrivikramāya Namaḥ\nUpēndra Rūpāya Viṣṇavē Namaḥ", "meaning": "Om, salutations to Vamana, to Trivikrama, to the form of Upendra — salutations to Vishnu.", "transliteration": "Oṁ Vāmanāya Namaḥ\nTrivikramāya Namaḥ\nUpēndra Rūpāya Viṣṇavē Namaḥ", "imageUrl": null },
+        { "shloka": "Ādityā Garbha Sambhūtaṁ Kaśyapasya Mahātmanaḥ\nVāmanam Adbhutaṁ Vandē Viṣṇōḥ Padaṁ Paraṁ Sadā", "meaning": "Born from the womb of Aditi and the great soul Kashyapa, I worship the wondrous Vamana — the supreme abode of Vishnu, always.", "transliteration": "Ādityā Garbha Sambhūtaṁ Kaśyapasya Mahātmanaḥ\nVāmanam Adbhutaṁ Vandē Viṣṇōḥ Padaṁ Paraṁ Sadā", "imageUrl": null }
+      ]
+    },
+    {
+      "id": "avatar_parashurama",
+      "title": "Parashurama Avatar (Rama with the Axe)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/dashavatara/parashurama.jpg",
+      "orderIndex": 6,
+      "content": [
+        { "shloka": "Kṣatriya Rudhira Mayē Jagadapagata Pāpam\nSnapayasi Payasi Śamita Bhava Tāpam\nKēśava Dhṛta Bhṛgupati Rūpa Jaya Jagadīśa Harē", "meaning": "With the blood of warriors You washed the world free of sin, bathing it and relieving worldly suffering. O Keshava, who assumed the form of Bhrigu's lord — victory!", "transliteration": "Kṣatriya Rudhira Mayē Jagadapagata Pāpam\nSnapayasi Payasi Śamita Bhava Tāpam\nKēśava Dhṛta Bhṛgupati Rūpa Jaya Jagadīśa Harē", "imageUrl": null },
+        { "shloka": "Jamadagni Sutaṁ Vīraṁ Paraśudharam Acyutam\nKārtavīrya Vināśāya Praṇamāmi Bhṛguvarṣabham", "meaning": "Son of Jamadagni, the heroic one bearing the axe, Achyuta — for the destruction of Kartavirya, I bow to the bull of the Bhrigu clan.", "transliteration": "Jamadagni Sutaṁ Vīraṁ Paraśudharam Acyutam\nKārtavīrya Vināśāya Praṇamāmi Bhṛguvarṣabham", "imageUrl": null },
+        { "shloka": "Om Paraśurāmāya Namaḥ\nBhṛgunandanāya Viṣṇavē\nDharma Saṁsthāpanāya Namaḥ", "meaning": "Om, salutations to Parashurama, son of Bhrigu, Vishnu incarnate — salutations to the establisher of Dharma.", "transliteration": "Oṁ Paraśurāmāya Namaḥ\nBhṛgunandanāya Viṣṇavē\nDharma Saṁsthāpanāya Namaḥ", "imageUrl": null },
+        { "shloka": "Ēkaviṁśati Vāraṁ Pṛthivīṁ Kṛtvā Niḥkṣatriyāṁ\nSamantapañcakē Dattavān Bhūmiṁ Kaśyapāya Mahīm", "meaning": "Having made the earth devoid of Kshatriyas twenty-one times, at Samantapanchaka he gave the earth to Kashyapa.", "transliteration": "Ēkaviṁśati Vāraṁ Pṛthivīṁ Kṛtvā Niḥkṣatriyāṁ\nSamantapañcakē Dattavān Bhūmiṁ Kaśyapāya Mahīm", "imageUrl": null }
+      ]
+    },
+    {
+      "id": "avatar_rama",
+      "title": "Rama Avatar (The Prince of Ayodhya)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/dashavatara/rama.jpg",
+      "orderIndex": 7,
+      "content": [
+        { "shloka": "Vitarasi Dikṣu Raṇē Dik Pati Kamanīyam\nDaśamukha Mauli Baliṁ Ramaṇīyam\nKēśava Dhṛta Rāma Śarīra Jaya Jagadīśa Harē", "meaning": "You scattered in battle the beautiful heads of the ten-faced one as offerings to the guardians of directions. O Keshava, who assumed the body of Rama — victory!", "transliteration": "Vitarasi Dikṣu Raṇē Dik Pati Kamanīyam\nDaśamukha Mauli Baliṁ Ramaṇīyam\nKēśava Dhṛta Rāma Śarīra Jaya Jagadīśa Harē", "imageUrl": null },
+        { "shloka": "Rāmaṁ Daśarathiṁ Viddhi Mām Viṣṇuṁ Sanātanam\nSītā Lakṣmīr Na Sandehaḥ Dharma Saṁsthāpanāya Cha", "meaning": "Know Rama, son of Dasharatha, as Me — the eternal Vishnu. Sita is verily Lakshmi, without doubt, and this incarnation is for the establishment of Dharma.", "transliteration": "Rāmaṁ Daśarathiṁ Viddhi Mām Viṣṇuṁ Sanātanam\nSītā Lakṣmīr Na Sandēhaḥ Dharma Saṁsthāpanāya Ca", "imageUrl": null },
+        { "shloka": "Śrī Rāma Rāma Rāmēti Rasē Jihvē Sadā Mama\nĀpadāṁ Apahartāraṁ Dātāraṁ Sarvasampādāṁ", "meaning": "Sri Rama, Rama, Rama — may this be always on the tip of my tongue. He who removes all adversities and bestows all prosperity.", "transliteration": "Śrī Rāma Rāma Rāmēti Rasē Jihvē Sadā Mama\nĀpadāṁ Apahartāraṁ Dātāraṁ Sarvasampadām", "imageUrl": null },
+        { "shloka": "Maryādā Puruṣottamaṁ Raghukula Tilakam\nRāvaṇāntakam Sētubandha Rachayitāram\nŚrī Rāmachandraṁ Praṇamāmi Satatam", "meaning": "The supreme person of propriety, the ornament of the Raghu dynasty, slayer of Ravana, builder of the bridge — I eternally bow to Sri Ramachandra.", "transliteration": "Maryādā Puruṣōttamaṁ Raghukula Tilakam\nRāvaṇāntakam Sētubandha Racayitāram\nŚrī Rāmacandraṁ Praṇamāmi Satatam", "imageUrl": null }
+      ]
+    },
+    {
+      "id": "avatar_krishna",
+      "title": "Krishna Avatar (The Divine Cowherd)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/dashavatara/krishna.jpg",
+      "orderIndex": 8,
+      "content": [
+        { "shloka": "Kṛṣṇāya Vāsudēvāya Harayē Paramātmanē\nPraṇata Klēśa Nāśāya Gōvindāya Namō Namaḥ", "meaning": "Salutations to Krishna, son of Vasudeva, to Hari the Supreme Self, the destroyer of the sorrows of those who surrender — salutations again and again to Govinda!", "transliteration": "Kṛṣṇāya Vāsudēvāya Harayē Paramātmanē\nPraṇata Klēśa Nāśāya Gōvindāya Namō Namaḥ", "imageUrl": null },
+        { "shloka": "Vasudēva Sutaṁ Dēvaṁ Kaṁsa Chāṇūra Mardanam\nDēvakī Paramānandaṁ Kṛṣṇaṁ Vandē Jagadgurum", "meaning": "I worship Krishna, son of Vasudeva, destroyer of Kamsa and Chanura, the supreme bliss of Devaki, the Guru of the universe.", "transliteration": "Vasudēva Sutaṁ Dēvaṁ Kaṁsa Cāṇūra Mardanam\nDēvakī Paramānandaṁ Kṛṣṇaṁ Vandē Jagadgurum", "imageUrl": null },
+        { "shloka": "Yadā Yadā Hi Dharmasya Glānir Bhavati Bhārata\nAbhyutthānam Adharmasya Tadātmānaṁ Sṛjāmyaham", "meaning": "Whenever there is decline of Dharma and rise of Adharma, O Bharata, then I manifest Myself.", "transliteration": "Yadā Yadā Hi Dharmasya Glānir Bhavati Bhārata\nAbhyutthānam Adharmasya Tadātmānaṁ Sṛjāmyaham", "imageUrl": null },
+        { "shloka": "Kṛṣṇaṁ Vandē Jagadguruṁ Gōvindaṁ Gōpī Vallabham\nMurali Manoharaṁ Dēvaṁ Nanda Gōpa Kumārakam", "meaning": "I worship Krishna, the world-teacher, Govinda, beloved of the Gopis, the enchanting flute-player, the divine son of cowherd Nanda.", "transliteration": "Kṛṣṇaṁ Vandē Jagadguruṁ Gōvindaṁ Gōpī Vallabham\nMuralī Manōharaṁ Dēvaṁ Nanda Gōpa Kumārakam", "imageUrl": null }
+      ]
+    },
+    {
+      "id": "avatar_buddha",
+      "title": "Buddha Avatar (The Enlightened One)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/dashavatara/buddha.jpg",
+      "orderIndex": 9,
+      "content": [
+        { "shloka": "Nindasi Yajña Vidhēr Aha Ha Śruti Jātam\nSadaya Hṛdaya Darśita Paśu Ghātam\nKēśava Dhṛta Buddha Śarīra Jaya Jagadīśa Harē", "meaning": "You condemn the ritual of sacrifice born from the Vedas, O compassionate-hearted one, showing the cruelty of animal killing. O Keshava, who assumed the form of Buddha — victory!", "transliteration": "Nindasi Yajña Vidhēr Aha Ha Śruti Jātam\nSadaya Hṛdaya Darśita Paśu Ghātam\nKēśava Dhṛta Buddha Śarīra Jaya Jagadīśa Harē", "imageUrl": null },
+        { "shloka": "Ahiṁsā Paramo Dharmaḥ Sarva Prāṇi Hitē Rataḥ\nBuddha Rūpiṇaṁ Viṣṇuṁ Vandē Karuṇā Sāgaram", "meaning": "Non-violence is the supreme Dharma, devoted to the welfare of all beings. I worship Vishnu in the form of Buddha, the ocean of compassion.", "transliteration": "Ahiṁsā Paramō Dharmaḥ Sarva Prāṇi Hitē Rataḥ\nBuddha Rūpiṇaṁ Viṣṇuṁ Vandē Karuṇā Sāgaram", "imageUrl": null },
+        { "shloka": "Om Buddhāya Namaḥ\nKaruṇā Mūrtayē Namaḥ\nViṣṇōḥ Avatārāya Namaḥ", "meaning": "Om, salutations to Buddha. Salutations to the embodiment of compassion. Salutations to the Avatar of Vishnu.", "transliteration": "Oṁ Buddhāya Namaḥ\nKaruṇā Mūrtayē Namaḥ\nViṣṇōḥ Avatārāya Namaḥ", "imageUrl": null },
+        { "shloka": "Sarva Bhūta Dayāvantaṁ Śāntaṁ Samadarśinam\nDharma Cakra Pravartakam Buddhaṁ Praṇamāmyaham", "meaning": "Compassionate to all beings, peaceful, seeing all equally, the turner of the Wheel of Dharma — I bow to Buddha.", "transliteration": "Sarva Bhūta Dayāvantaṁ Śāntaṁ Samadarśinam\nDharma Cakra Pravartakam Buddhaṁ Praṇamāmyaham", "imageUrl": null }
+      ]
+    },
+    {
+      "id": "avatar_kalki",
+      "title": "Kalki Avatar (The Future Warrior)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/dashavatara/kalki.jpg",
+      "orderIndex": 10,
+      "content": [
+        { "shloka": "Mlēccha Nivaha Nidhane Kalayasi Karavālam\nDhūma Kētuṁ Iva Kim Api Karālam\nKēśava Dhṛta Kalki Śarīra Jaya Jagadīśa Harē", "meaning": "For the destruction of the hordes of barbarians, You wield the sword, terrible like a comet. O Keshava, who assumes the body of Kalki — victory to the Lord of the universe!", "transliteration": "Mlēccha Nivaha Nidhane Kalayasi Karavālam\nDhūma Kētuṁ Iva Kim Api Karālam\nKēśava Dhṛta Kalki Śarīra Jaya Jagadīśa Harē", "imageUrl": null },
+        { "shloka": "Kaliyuga Ante Sambhaviṣyati Bhagavān\nŚvēta Aśva Ārūḍhaḥ Khaḍga Dhārī\nViṣṇuyaśā Grāme Sambhala Nāmni\nDharma Saṁsthāpanaṁ Kariṣyati Kalkī", "meaning": "At the end of Kali Yuga, the Lord shall manifest, mounted on a white horse, bearing a sword, in a village named Shambhala, son of Vishnuyasha — Kalki shall re-establish Dharma.", "transliteration": "Kaliyuga Ante Sambhaviṣyati Bhagavān\nŚvēta Aśva Ārūḍhaḥ Khaḍga Dhārī\nViṣṇuyaśā Grāme Śambhala Nāmni\nDharma Saṁsthāpanaṁ Kariṣyati Kalkī", "imageUrl": null },
+        { "shloka": "Om Kalkine Namaḥ\nDharma Yuddha Pravartakāya\nKaliyuga Antakāya Viṣṇavē Namaḥ", "meaning": "Om, salutations to Kalki, the initiator of the war of Dharma, the ender of Kali Yuga — salutations to Vishnu.", "transliteration": "Oṁ Kalkinē Namaḥ\nDharma Yuddha Pravartakāya\nKaliyuga Antakāya Viṣṇavē Namaḥ", "imageUrl": null },
+        { "shloka": "Satya Yugasya Ādi Kartā Kalki Bhagavān\nAdharma Vināśāya Dharma Rakṣāya Cha\nViṣṇōḥ Daśamō Avatāraḥ Kalkiḥ\nNamāmi Taṁ Bhāvi Yugāvatāram", "meaning": "Kalki, the Lord who inaugurates the Satya Yuga, for the destruction of Adharma and protection of Dharma — Vishnu's tenth Avatar, Kalki. I bow to that future incarnation of the age.", "transliteration": "Satya Yugasya Ādi Kartā Kalki Bhagavān\nAdharma Vināśāya Dharma Rakṣāya Ca\nViṣṇōḥ Daśamō Avatāraḥ Kalkiḥ\nNamāmi Taṁ Bhāvi Yugāvatāram", "imageUrl": null }
+      ]
+    }
+  ]
+}

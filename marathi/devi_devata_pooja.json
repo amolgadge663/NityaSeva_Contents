@@ -1,0 +1,474 @@
+{
+  "category": "Devi Devata Anusar Pooja",
+  "version": 1,
+  "items": [
+    {
+      "id": "pooja_ganesh",
+      "title": "गणेश पूजा विधी",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/pooja/ganesh.jpg",
+      "orderIndex": 1,
+      "content": [
+        {
+          "shloka": "ॐ गं गणपतये नमः |\nवक्रतुण्ड महाकाय सूर्यकोटि समप्रभ |\nनिर्विघ्नं कुरु मे देव सर्वकार्येषु सर्वदा ||",
+          "meaning": "वक्र सोंड असलेले, विशाल शरीर असलेले, कोटी सूर्यांसारखे तेजस्वी हे गणेश देव, माझ्या सर्व कार्यांमध्ये सदैव विघ्ने दूर करा.",
+          "transliteration": "Om Gam Ganapataye Namah\nVakratunda Mahaakaya Surya Koti Samaprabha\nNirvighnam Kuru Me Deva Sarva Kaaryeshu Sarvadaa",
+          "imageUrl": null
+        },
+        {
+          "shloka": "गजाननं भूतगणादिसेवितं |\nकपित्थजम्बूफलसारभक्षितम् |\nउमासुतं शोकविनाशकारणं |\nनमामि विघ्नेश्वरपादपङ्कजम् ||",
+          "meaning": "गजमुख असलेले, भूतगणांनी सेवा केलेले, कवठ आणि जांभूळ फळे खाणारे, उमा (पार्वती) चे पुत्र, शोक नष्ट करणारे विघ्नेश्वरांच्या चरणकमळांना मी नमन करतो.",
+          "transliteration": "Gajaananam Bhoot Ganaadi Sevitam\nKapitha Jamboo Phal Saara Bhakshitam\nUmaasutam Shok Vinaash Kaaranam\nNamaami Vighneshwar Paadpankajam",
+          "imageUrl": null
+        },
+        {
+          "shloka": "गणेश पूजा विधी:\n१. स्वच्छ स्थानी लाल कपडा अंथरा आणि गणेश मूर्ती ठेवा.\n२. कलशस्थापना करा — तांब्याच्या कलशात पाणी, आंब्याची पाने आणि नारळ ठेवा.\n३. गणेशाला शेंदूर, दूर्वा (२१ काड्या), लाल फुले अर्पण करा.\n४. 'ॐ गं गणपतये नमः' मंत्राने १०८ वेळा जप करा.\n५. मोदक, लाडू आणि पंचामृताचा नैवेद्य दाखवा.\n६. गणपती अथर्वशीर्षाचा पाठ करा.\n७. तुपाचा दिवा आणि उदबत्ती लावा.\n८. गणेश आरती करा आणि प्रदक्षिणा घाला.",
+          "meaning": "गणेश पूजेची संपूर्ण विधी. कोणतेही शुभ कार्य सुरू करण्यापूर्वी विघ्नहर्ता गणेशाची पूजा सर्वप्रथम केली जाते. दूर्वा आणि मोदक गणेशाला अत्यंत प्रिय आहेत.",
+          "transliteration": "Ganesh Pooja Vidhi:\n1. Svachchha sthaani laal kapda antharaa aani Ganesh moorti thevaa.\n2. Kalash sthaapanaa karaa — taanbyaachya kalashaat paani, aambyaachi paane aani naaral thevaa.\n3. Ganeshaalaa shendoor, durvaa (21 kaadyaa), laal phule arpan karaa.\n4. 'Om Gam Ganapataye Namah' mantraane 108 velaa jap karaa.\n5. Modak, ladoo aani panchaamritaachaa naivedya daakhavaa.\n6. Ganapati Atharvashirshaacha paath karaa.\n7. Tupaachaa divaa aani udabatti laavaa.\n8. Ganesh aarati karaa aani pradakshinaa ghaalaa.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "प्रणम्य शिरसा देवं गौरीपुत्रं विनायकम् |\nभक्तावासं स्मरेन्नित्यमायुष्कामार्थसिद्धये ||",
+          "meaning": "शिर नमवून गौरीपुत्र विनायकाला प्रणाम करतो, जे भक्तांच्या हृदयात वास करतात. दीर्घायुष्य, सर्व इच्छा आणि कार्यसिद्धीसाठी नित्य त्यांचे स्मरण करावे.",
+          "transliteration": "Pranamya Shirasaa Devam Gauri Putram Vinaayakam\nBhaktaavaasam Smarennityam Aayushkaamaartha Siddhaye",
+          "imageUrl": null
+        },
+        {
+          "shloka": "गणपती अथर्वशीर्ष (आरंभ):\nॐ भद्रं कर्णेभिः शृणुयाम देवाः |\nभद्रं पश्येमाक्षभिर्यजत्राः |\nस्थिरैरङ्गैस्तुष्टुवांसस्तनूभिः |\nव्यशेम देवहितं यदायुः ||",
+          "meaning": "हे देवांनो, आम्ही कानांनी शुभ ऐकावे, डोळ्यांनी शुभ पाहावे, स्थिर अंगांनी आणि दृढ शरीराने तुमची स्तुती करत, देवांनी नियत केलेले संपूर्ण आयुष्य भोगावे.",
+          "transliteration": "Om Bhadram Karnebhih Shrinuyaama Devaah\nBhadram Pashyemaakshabhir Yajatraah\nSthirairangais Tushtuvaamsa Stanoobhih\nVyashema Devahitam Yadaayuh",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "pooja_shiva",
+      "title": "शिव पूजा विधी",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/pooja/shiv.jpg",
+      "orderIndex": 2,
+      "content": [
+        {
+          "shloka": "ॐ नमः शिवाय |\nॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम् |\nउर्वारुकमिव बन्धनान् मृत्योर्मुक्षीय मामृतात् ||",
+          "meaning": "आम्ही तीन नेत्र असलेल्या भगवान शिवाची पूजा करतो जे सुगंधित आहेत आणि सर्व प्राण्यांचे पोषण करतात. जसे काकडी आपल्या वेलीपासून मुक्त होते, तसे आम्हाला मृत्यूच्या बंधनातून मुक्त करा आणि अमरत्व प्रदान करा.",
+          "transliteration": "Om Namah Shivaaya\nOm Tryambakam Yajaamahe Sugandhim Pushtivardhanam\nUrvaarukamiva Bandhanaan Mrityormuksheeya Maamritaat",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कर्पूरगौरं करुणावतारं |\nसंसारसारं भुजगेन्द्रहारम् |\nसदा वसन्तं हृदयारविन्दे |\nभवं भवानीसहितं नमामि ||",
+          "meaning": "कापराप्रमाणे गोरे, करुणेचा अवतार, संसाराचे सार, नागराजाला हार म्हणून धारण करणारे, सदैव हृदय कमळात वास करणारे भगवान शिव यांना भवानीसह मी नमन करतो.",
+          "transliteration": "Karpoor Gauram Karunaavataaram\nSansaara Saaram Bhujagendra Haaram\nSadaa Vasantam Hridayaaravinde\nBhavam Bhavaani Sahitam Namaami",
+          "imageUrl": null
+        },
+        {
+          "shloka": "शिव पूजा विधी:\n१. पहाटे उठून स्नान करा आणि स्वच्छ पांढरे कपडे घाला.\n२. शिवलिंग किंवा शिवमूर्ती स्वच्छ वेदीवर ठेवा.\n३. शिवलिंगावर पंचामृत अभिषेक करा — दूध, दही, मध, तूप आणि साखर.\n४. बेलपत्र (तीन पानांचे), पांढरी फुले आणि धोतरा अर्पण करा.\n५. भस्म (विभूती) लावा.\n६. 'ॐ नमः शिवाय' मंत्र रुद्राक्ष माळेवर १०८ वेळा जप करा.\n७. तुपाचा दिवा आणि उदबत्ती लावा.\n८. शिव आरती आणि प्रदक्षिणा करून पूजा पूर्ण करा.",
+          "meaning": "शिव पूजेची संपूर्ण विधी. भगवान शिव बेलपत्र, भस्म आणि जलाभिषेकाने प्रसन्न होतात. शिवाची पूजा सर्व पापांचा नाश करते आणि मोक्षाचा मार्ग प्रशस्त करते.",
+          "transliteration": "Shiv Pooja Vidhi:\n1. Pahaate uthoon snaan karaa aani svachchha paandhare kapde ghaalaa.\n2. Shivling kinvaa Shiv moorti svachchha vedivar thevaa.\n3. Shivlingaavar panchamrit abhishek karaa — doodh, dahi, madh, toop aani saakhar.\n4. Belpatr (teen paanaanche), paandhri phule aani dhotraa arpan karaa.\n5. Bhasm (vibhooti) laavaa.\n6. 'Om Namah Shivaaya' mantra rudraaksh maalevr 108 velaa jap karaa.\n7. Tupaachaa divaa aani udabatti laavaa.\n8. Shiv aarati aani pradakshinaa karoon pooja poorn karaa.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "नागेन्द्रहाराय त्रिलोचनाय |\nभस्माङ्गरागाय महेश्वराय |\nनित्याय शुद्धाय दिगम्बराय |\nतस्मै नकाराय नमः शिवाय ||",
+          "meaning": "नागराजाला हार म्हणून धारण करणारे, तीन नेत्र असलेले, भस्म लावणारे, महेश्वर, नित्य, शुद्ध, दिगंबर — अशा 'न' काराने प्रतिनिधित शिवांना नमस्कार.",
+          "transliteration": "Naagendrahaaraaya Trilochanaya\nBhasmaanga Raagaaya Maheshvaraaya\nNityaaya Shuddhaaya Digambaraaya\nTasmai Nakaaraaya Namah Shivaaya",
+          "imageUrl": null
+        },
+        {
+          "shloka": "शिवाय गौरीवदनाब्जवृन्द |\nसूर्याय दक्षाध्वरनाशकाय |\nश्रीनीलकण्ठाय वृषध्वजाय |\nतस्मै शिकाराय नमः शिवाय ||",
+          "meaning": "गौरीच्या कमलमुखाचे सूर्य असलेले, दक्षयज्ञाचा नाश करणारे, श्रीनीलकण्ठ, वृषभध्वज — अशा 'शि' काराने प्रतिनिधित शिवांना नमस्कार.",
+          "transliteration": "Shivaaya Gauri Vadanaabjvrinda\nSooryaaya Dakshadhvar Naashkaaya\nShri Neelkanthaaya Vrishadhvajaaya\nTasmai Shikaaraaya Namah Shivaaya",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "pooja_vishnu",
+      "title": "विष्णु पूजा विधी",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/pooja/vishnu.jpg",
+      "orderIndex": 3,
+      "content": [
+        {
+          "shloka": "ॐ नमो भगवते वासुदेवाय |\nशान्ताकारं भुजगशयनं पद्मनाभं सुरेशम् |\nविश्वाधारं गगनसदृशं मेघवर्णं शुभाङ्गम् |\nलक्ष्मीकान्तं कमलनयनं योगिभिर्ध्यानगम्यम् |\nवन्दे विष्णुं भवभयहरं सर्वलोकैकनाथम् ||",
+          "meaning": "शांत स्वरूप, शेषनागावर शयन करणारे, कमलनाभ, देवांचे ईश्वर, विश्वाचा आधार, आकाशासारखे व्यापक, मेघवर्ण, शुभ अंग, लक्ष्मीचे पती, कमलनयन, योग्यांना ध्यानाने प्राप्त, संसारभय हरणारे सर्वलोकांचे एकमात्र नाथ विष्णूंना मी वंदन करतो.",
+          "transliteration": "Om Namo Bhagavate Vaasudevaaya\nShaantaakaaram Bhujagashayanam Padmanaabham Suresham\nVishvaadhaaram Gaganasadrisham Meghavarnam Shubhaangam\nLakshmeekantam Kamalanayanam Yogibhirdhyaanagamyam\nVande Vishnum Bhavabhayaharam Sarvalokaikanatham",
+          "imageUrl": null
+        },
+        {
+          "shloka": "मङ्गलं भगवान् विष्णुः मङ्गलं गरुडध्वजः |\nमङ्गलं पुण्डरीकाक्षो मङ्गलायतनं हरिः ||",
+          "meaning": "भगवान विष्णू मंगलकारी आहेत, गरुडध्वज मंगलकारी आहेत, कमलनयन पुंडरीकाक्ष मंगलकारी आहेत, हरी हे मंगलांचे आश्रयस्थान आहेत.",
+          "transliteration": "Mangalam Bhagavaan Vishnuh Mangalam Garudadhvajah\nMangalam Pundareekaksho Mangalaayatanam Harih",
+          "imageUrl": null
+        },
+        {
+          "shloka": "विष्णु पूजा विधी:\n१. पहाटे उठून स्नान करा आणि पिवळे कपडे घाला.\n२. विष्णू मूर्ती किंवा शालिग्रामाची स्वच्छ वेदीवर स्थापना करा.\n३. तुळशीपत्र, पिवळी फुले आणि चंदनाचा लेप अर्पण करा.\n४. शालिग्रामाला पंचामृत अभिषेक करा.\n५. 'ॐ नमो भगवते वासुदेवाय' मंत्र १०८ वेळा जप करा.\n६. विष्णु सहस्रनामाचा पाठ करा.\n७. तुपाचा दिवा आणि उदबत्ती लावा.\n८. खीर, फळे आणि तुळशीपत्राचा नैवेद्य दाखवा.\n९. विष्णू आरती करून प्रदक्षिणा घाला.",
+          "meaning": "विष्णू पूजेची संपूर्ण विधी. भगवान विष्णू हे पालनकर्ता आहेत. तुळशीपत्र, चंदन आणि पिवळी फुले विष्णूंना अत्यंत प्रिय आहेत. एकादशीला विष्णू पूजा विशेष फलदायी असते.",
+          "transliteration": "Vishnu Pooja Vidhi:\n1. Pahaate uthoon snaan karaa aani pivale kapde ghaalaa.\n2. Vishnu moorti kinvaa Shaaligraamachi svachchha vedivar sthaapanaa karaa.\n3. Tulshipatr, pivali phule aani chandanaachaa lep arpan karaa.\n4. Shaaligraamalaa panchamrit abhishek karaa.\n5. 'Om Namo Bhagavate Vaasudevaaya' mantra 108 velaa jap karaa.\n6. Vishnu Sahasranamaachaa paath karaa.\n7. Tupaachaa divaa aani udabatti laavaa.\n8. Kheer, phale aani tulshipatraachaa naivedya daakhavaa.\n9. Vishnu aarati karoon pradakshinaa ghaalaa.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कायेन वाचा मनसेन्द्रियैर्वा |\nबुद्ध्यात्मना वा प्रकृतेः स्वभावात् |\nकरोमि यद्यत् सकलं परस्मै |\nनारायणायेति समर्पयामि ||",
+          "meaning": "शरीर, वाणी, मन, इंद्रिये, बुद्धी, आत्मा किंवा स्वभावाने मी जे काही करतो, ते सर्व श्रीनारायणाला समर्पित करतो.",
+          "transliteration": "Kaayena Vaachaa Manasendriyairvaa\nBuddhyaatmanaa Vaa Prakriteh Svabhaavaat\nKaromi Yadyat Sakalam Parasmai\nNaaraayanaayeti Samarpayaami",
+          "imageUrl": null
+        },
+        {
+          "shloka": "त्वमेव माता च पिता त्वमेव |\nत्वमेव बन्धुश्च सखा त्वमेव |\nत्वमेव विद्या द्रविणं त्वमेव |\nत्वमेव सर्वं मम देवदेव ||",
+          "meaning": "हे देवाधिदेव, तूच माझी माता आणि तूच पिता, तूच बंधू आणि तूच सखा, तूच विद्या आणि तूच धन, तूच माझे सर्वस्व आहेस.",
+          "transliteration": "Tvameva Maataa Cha Pitaa Tvameva\nTvameva Bandhushcha Sakhaa Tvameva\nTvameva Vidyaa Dravinam Tvameva\nTvameva Sarvam Mama Devadeva",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "pooja_durga",
+      "title": "दुर्गा पूजा विधी",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/pooja/durga.jpg",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "ॐ दुं दुर्गायै नमः |\nसर्वमङ्गलमाङ्गल्ये शिवे सर्वार्थसाधिके |\nशरण्ये त्र्यम्बके गौरि नारायणि नमोऽस्तु ते ||",
+          "meaning": "सर्व मंगलांमध्ये मांगल्यकारी, कल्याणकारी, सर्व पुरुषार्थ साधून देणारी, शरणागतांना आश्रय देणारी, त्रिनेत्री, गौरी, नारायणी — तुला माझा नमस्कार असो.",
+          "transliteration": "Om Dum Durgaayai Namah\nSarvamangala Maangalye Shive Sarvaartha Saadhike\nSharanye Tryambake Gauri Naaraayani Namostute",
+          "imageUrl": null
+        },
+        {
+          "shloka": "या देवी सर्वभूतेषु शक्तिरूपेण संस्थिता |\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः ||",
+          "meaning": "जी देवी सर्व प्राण्यांमध्ये शक्तिरूपाने विराजमान आहे, तिला नमस्कार, तिला नमस्कार, तिला पुन्हा पुन्हा नमस्कार.",
+          "transliteration": "Yaa Devi Sarvabhooteshu Shakti Roopena Sansthitaa\nNamastasyai Namastasyai Namastasyai Namo Namah",
+          "imageUrl": null
+        },
+        {
+          "shloka": "दुर्गा पूजा विधी:\n१. पहाटे उठून स्नान करा आणि लाल कपडे घाला.\n२. दुर्गा मातेची मूर्ती किंवा चित्र लाल कपड्यावर ठेवा.\n३. कलशस्थापना करा आणि अखंड ज्योती प्रज्वलित करा.\n४. लाल फुले, सिंदूर, कुमकुम आणि लाल चुनरी अर्पण करा.\n५. 'ॐ दुं दुर्गायै नमः' मंत्र १०८ वेळा जप करा.\n६. दुर्गा सप्तशतीचा पाठ करा.\n७. हलवा, पुरी आणि चण्याचा नैवेद्य दाखवा.\n८. दुर्गा आरती करा आणि कन्यापूजन करा.",
+          "meaning": "दुर्गा पूजेची संपूर्ण विधी. दुर्गा माता शक्तीचे रूप आहेत. नवरात्रीत विशेषतः दुर्गा पूजा केली जाते. ती भक्तांचे सर्व दुःख आणि संकटे दूर करते.",
+          "transliteration": "Durga Pooja Vidhi:\n1. Pahaate uthoon snaan karaa aani laal kapde ghaalaa.\n2. Durga Maatechi moorti kinvaa chitra laal kapdyaavar thevaa.\n3. Kalash sthaapanaa karaa aani akhand jyoti prajvalit karaa.\n4. Laal phule, sindoor, kumkum aani laal chunari arpan karaa.\n5. 'Om Dum Durgaayai Namah' mantra 108 velaa jap karaa.\n6. Durga Saptashaticha paath karaa.\n7. Halvaa, puri aani chanyaachaa naivedya daakhavaa.\n8. Durga aarati karaa aani kanyaapoojan karaa.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जयन्ती मङ्गला काली भद्रकाली कपालिनी |\nदुर्गा क्षमा शिवा धात्री स्वाहा स्वधा नमोऽस्तु ते ||",
+          "meaning": "जयंती, मंगला, काली, भद्रकाली, कपालिनी, दुर्गा, क्षमा, शिवा, धात्री, स्वाहा, स्वधा — या सर्व रूपांनी तुला नमस्कार असो.",
+          "transliteration": "Jayanti Mangalaa Kaali Bhadrakaali Kapaalini\nDurgaa Kshamaa Shivaa Dhaatri Svaahaa Svadhaa Namostute",
+          "imageUrl": null
+        },
+        {
+          "shloka": "या देवी सर्वभूतेषु बुद्धिरूपेण संस्थिता |\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः ||\nया देवी सर्वभूतेषु लक्ष्मीरूपेण संस्थिता |\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः ||",
+          "meaning": "जी देवी सर्व प्राण्यांमध्ये बुद्धिरूपाने विराजमान आहे, तिला नमस्कार. जी देवी सर्व प्राण्यांमध्ये लक्ष्मीरूपाने विराजमान आहे, तिला पुन्हा पुन्हा नमस्कार.",
+          "transliteration": "Yaa Devi Sarvabhooteshu Buddhi Roopena Sansthitaa\nNamastasyai Namastasyai Namastasyai Namo Namah\nYaa Devi Sarvabhooteshu Lakshmi Roopena Sansthitaa\nNamastasyai Namastasyai Namastasyai Namo Namah",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "pooja_lakshmi",
+      "title": "लक्ष्मी पूजा विधी",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/pooja/lakshmi.jpg",
+      "orderIndex": 5,
+      "content": [
+        {
+          "shloka": "ॐ श्रीं महालक्ष्म्यै नमः |\nनमस्तेऽस्तु महामाये श्रीपीठे सुरपूजिते |\nशङ्खचक्रगदाहस्ते महालक्ष्मि नमोऽस्तु ते ||",
+          "meaning": "हे महामाये, श्रीपीठावर विराजमान, देवांनी पूजलेल्या, शंख, चक्र आणि गदा धारण करणाऱ्या महालक्ष्मी, तुला माझा नमस्कार असो.",
+          "transliteration": "Om Shreem Mahaalakshmyai Namah\nNamaste'stu Mahaamaaye Shripeethe Surapujite\nShankha Chakra Gadaahaste Mahaalakshmi Namostute",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सर्वज्ञे सर्ववरदे सर्वदुष्टभयंकरि |\nसर्वदुःखहरे देवि महालक्ष्मि नमोऽस्तु ते ||",
+          "meaning": "सर्वज्ञ, सर्व वरदायिनी, सर्व दुष्टांना भयंकर, सर्व दुःख हरण करणारी देवी महालक्ष्मी, तुला माझा नमस्कार.",
+          "transliteration": "Sarvagye Sarva Varade Sarva Dushta Bhayankari\nSarva Duhkhahare Devi Mahaalakshmi Namostute",
+          "imageUrl": null
+        },
+        {
+          "shloka": "लक्ष्मी पूजा विधी:\n१. घर स्वच्छ करा, रांगोळी काढा आणि लाल-पिवळा कपडा अंथरा.\n२. लक्ष्मी-गणेश मूर्ती ठेवा — लक्ष्मी गणेशाच्या डाव्या बाजूला.\n३. कमळ किंवा गुलाबी फुले, हळद, कुमकुम अर्पण करा.\n४. सोने, चांदी आणि नाणी मूर्तीसमोर ठेवा.\n५. 'ॐ श्रीं महालक्ष्म्यै नमः' मंत्र १०८ वेळा जप करा.\n६. श्री सूक्त किंवा लक्ष्मी अष्टकम पाठ करा.\n७. खीर, साखर-भात आणि फळांचा नैवेद्य दाखवा.\n८. लक्ष्मी आरती करा आणि प्रदक्षिणा घाला.",
+          "meaning": "लक्ष्मी पूजेची संपूर्ण विधी. दिवाळीच्या अमावस्येला लक्ष्मी पूजा विशेष महत्त्वाची आहे. शुक्रवारीही लक्ष्मी पूजा केली जाते. धन, समृद्धी आणि सौभाग्यासाठी लक्ष्मीची आराधना केली जाते.",
+          "transliteration": "Lakshmi Pooja Vidhi:\n1. Ghar svachchha karaa, rangoli kaadhaa aani laal-pivalaa kapdaa antharaa.\n2. Lakshmi-Ganesh moorti thevaa — Lakshmi Ganeshachya daavya baajulaa.\n3. Kamal kinvaa gulabi phule, halad, kumkum arpan karaa.\n4. Sone, chaandi aani naani moortee samor thevaa.\n5. 'Om Shreem Mahaalakshmyai Namah' mantra 108 velaa jap karaa.\n6. Shri Sukta kinvaa Lakshmi Ashtakam paath karaa.\n7. Kheer, saakhar-bhaat aani phalaacha naivedya daakhavaa.\n8. Lakshmi aarati karaa aani pradakshinaa ghaalaa.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "लक्ष्मीं क्षीरसमुद्रराजतनयां श्रीरङ्गधामेश्वरीम् |\nदासीभूतसमस्तदेववनितां लोकैकदीपाङ्कुराम् |\nश्रीमन्मन्दकटाक्षलब्धविभव ब्रह्मेन्द्रगङ्गाधराम् |\nत्वां त्रैलोक्यकुटुम्बिनीं सरसिजां वन्दे मुकुन्दप्रियाम् ||",
+          "meaning": "क्षीरसागराच्या राजकन्या, श्रीरंगधामाच्या ईश्वरी, ज्यांच्या कटाक्षाने ब्रह्मा, इंद्र आणि शिवांना वैभव लाभले, त्रैलोक्याच्या कुटुंबिनी, कमलावर विराजमान मुकुंदप्रिया लक्ष्मीला मी वंदन करतो.",
+          "transliteration": "Lakshmeem Ksheerasamudra Raajatanayaam Shrirangadhaameshwareem\nDaasibhoota Samasta Deva Vanitaam Lokaika Deepaankuraam\nShrimanmanda Kataaksha Labdha Vibhava Brahmendra Gangaadharaam\nTvaam Trailokya Kutumbineem Sarasijaam Vande Mukundapriyaam",
+          "imageUrl": null
+        },
+        {
+          "shloka": "पद्मानने पद्मविपद्मपत्रे |\nपद्मप्रिये पद्मदलायताक्षि |\nविश्वप्रिये विष्णुमनोऽनुकूले |\nत्वत्पादपद्मं मयि सन्निधत्स्व ||",
+          "meaning": "कमलमुखी, कमलासारख्या कोमल पायांची, कमलप्रिया, कमलदलासारखे विशाल नेत्र असलेली, विश्वप्रिया, विष्णूच्या मनाला अनुकूल — तुझ्या चरणकमलांना माझ्या हृदयात स्थान दे.",
+          "transliteration": "Padmaanane Padma Vipadmapatre\nPadmapriye Padmadalayataakshi\nVishvapriye Vishnumano'nukoole\nTvatpaadapadmam Mayi Sannidhatsva",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "pooja_saraswati",
+      "title": "सरस्वती पूजा विधी",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/pooja/saraswati.jpg",
+      "orderIndex": 6,
+      "content": [
+        {
+          "shloka": "ॐ ऐं सरस्वत्यै नमः |\nया कुन्देन्दुतुषारहारधवला या शुभ्रवस्त्रावृता |\nया वीणावरदण्डमण्डितकरा या श्वेतपद्मासना |\nया ब्रह्माच्युतशंकरप्रभृतिभिर्देवैः सदा पूजिता |\nसा मां पातु सरस्वती भगवती निःशेषजाड्यापहा ||",
+          "meaning": "कुंद फुलांसारखी, चंद्रासारखी, बर्फासारखी गोरी, शुभ्र वस्त्रे परिधान केलेली, वीणा धारण करणारी, श्वेत कमलावर विराजमान, ब्रह्मा, विष्णू, शंकरादी देवांनी सदा पूजलेली, सर्व जडता दूर करणारी भगवती सरस्वती माझे रक्षण करो.",
+          "transliteration": "Om Aim Saraswatyai Namah\nYaa Kundendu Tushaara Haar Dhavalaa Yaa Shubhravastraavritaa\nYaa Veenaa Varadanda Manditakaraa Yaa Shvetapadmaasanaa\nYaa Brahmaachyuta Shankaraprabhritibhir Devaih Sadaa Poojitaa\nSaa Maam Paatu Saraswati Bhagavati Nihsheshajaadyaapahaa",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सरस्वति नमस्तुभ्यं वरदे कामरूपिणि |\nविद्यारम्भं करिष्यामि सिद्धिर्भवतु मे सदा ||",
+          "meaning": "हे सरस्वती, वर देणारी, कामरूपिणी, तुला नमस्कार. मी विद्येचा आरंभ करतो, मला सदैव सिद्धी प्राप्त होवो.",
+          "transliteration": "Saraswati Namastubhyam Varade Kaamaroopini\nVidyaarambham Karishyaami Siddhirbhavatu Me Sadaa",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सरस्वती पूजा विधी:\n१. पहाटे स्नान करा आणि पांढरे किंवा पिवळे कपडे घाला.\n२. सरस्वती मूर्ती पांढऱ्या कपड्यावर ठेवा.\n३. पांढरी फुले, अक्षता आणि चंदन अर्पण करा.\n४. मूर्तीसमोर पुस्तके, वही, पेन ठेवा.\n५. 'ॐ ऐं सरस्वत्यै नमः' मंत्र १०८ वेळा जप करा.\n६. सरस्वती वंदना किंवा सरस्वती स्तोत्रम् पाठ करा.\n७. तुपाचा दिवा आणि उदबत्ती लावा.\n८. मिठाई आणि फळांचा नैवेद्य दाखवा.\n९. सरस्वती आरती करून प्रदक्षिणा घाला.",
+          "meaning": "सरस्वती पूजेची संपूर्ण विधी. वसंत पंचमीला सरस्वती पूजा विशेष महत्त्वाची आहे. विद्या, कला, बुद्धी आणि वाणीच्या प्राप्तीसाठी सरस्वतीची आराधना केली जाते.",
+          "transliteration": "Saraswati Pooja Vidhi:\n1. Pahaate snaan karaa aani paandhare kinvaa pivale kapde ghaalaa.\n2. Saraswati moorti paandharyaa kapdyaavar thevaa.\n3. Paandhri phule, akshataa aani chandan arpan karaa.\n4. Moortee samor pustake, vahi, pen thevaa.\n5. 'Om Aim Saraswatyai Namah' mantra 108 velaa jap karaa.\n6. Saraswati Vandanaa kinvaa Saraswati Stotram paath karaa.\n7. Tupaachaa divaa aani udabatti laavaa.\n8. Mithaai aani phalaacha naivedya daakhavaa.\n9. Saraswati aarati karoon pradakshinaa ghaalaa.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "महो देवि यथा बुद्धिर्बलं विद्या च देहिनाम् |\nत्वया हीनाः न सिध्यन्ति कार्याणि मनसा गिरा ||",
+          "meaning": "हे महान देवी, जिवांना बुद्धी, बल आणि विद्या तूच देतेस. तुझ्याशिवाय मनाने किंवा वाणीने कोणतेही कार्य सिद्ध होत नाही.",
+          "transliteration": "Maho Devi Yathaa Buddhirblam Vidyaa Cha Dehinaam\nTvayaa Heenaah Na Sidhyanti Kaaryaani Manasaa Giraa",
+          "imageUrl": null
+        },
+        {
+          "shloka": "पद्मपत्रविशालाक्षि पद्मकेसरवर्णिनि |\nनित्यं पद्मालया देवि सा मां पातु सरस्वती ||",
+          "meaning": "कमलपत्रासारखे विशाल नेत्र असलेली, कमलकेसरासारखी वर्ण असलेली, नित्य कमलावर वास करणारी सरस्वती देवी माझे रक्षण करो.",
+          "transliteration": "Padmapatravishaalaakshi Padmakesaravarnini\nNityam Padmaalayaa Devi Saa Maam Paatu Saraswati",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "pooja_hanuman",
+      "title": "हनुमान पूजा विधी",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/pooja/hanuman.jpg",
+      "orderIndex": 7,
+      "content": [
+        {
+          "shloka": "ॐ हनुमते नमः |\nमनोजवं मारुततुल्यवेगं |\nजितेन्द्रियं बुद्धिमतां वरिष्ठम् |\nवातात्मजं वानरयूथमुख्यं |\nश्रीरामदूतं शरणं प्रपद्ये ||",
+          "meaning": "मी श्रीरामांचे दूत हनुमान यांना शरण जातो, जे मनासारखे वेगवान, वायूसारखे तीव्र, इंद्रियांवर विजय मिळवणारे, बुद्धिमानांत श्रेष्ठ, पवनपुत्र आणि वानर सेनेचे प्रमुख आहेत.",
+          "transliteration": "Om Hanumate Namah\nManojavam Maarut Tulya Vegam\nJitendriyam Buddhimataam Varishtham\nVaataatmajam Vaanara Yooth Mukhyam\nShri Raam Dootam Sharanam Prapadye",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अतुलितबलधामं हेमशैलाभदेहं |\nदनुजवनकृशानुं ज्ञानिनामग्रगण्यम् |\nसकलगुणनिधानं वानराणामधीशं |\nरघुपतिप्रियभक्तं वातजातं नमामि ||",
+          "meaning": "अतुलनीय बलाचे धाम, सुवर्ण पर्वतासारखे देह असलेले, दानवांच्या वनाला जाळणारे अग्नी, ज्ञानींमध्ये अग्रगण्य, सर्व गुणांचे निधान, वानरांचे अधीश्वर, रघुपतींचे प्रिय भक्त, पवनपुत्र हनुमान यांना मी नमन करतो.",
+          "transliteration": "Atulitbaladhaaman Hemashailaabhadehaam\nDanujavan Krishaanum Gyaaninaam Agraganyam\nSakalguna Nidhaanam Vaanaraanaam Adheesham\nRaghupati Priya Bhaktam Vaatajaatam Namaami",
+          "imageUrl": null
+        },
+        {
+          "shloka": "हनुमान पूजा विधी:\n१. सूर्योदयापूर्वी उठा, स्नान करा आणि लाल किंवा केशरी कपडे घाला.\n२. हनुमान मूर्ती किंवा चित्र वेदीवर ठेवा.\n३. मूर्तीला शेंदूर लावा.\n४. लाल फुले, विडा (पान-सुपारी) आणि चमेलीची माळ अर्पण करा.\n५. तिळाचे तेल किंवा तुपाचा दिवा लावा.\n६. हनुमान चालीसा पाठ करा.\n७. 'ॐ हनुमते नमः' मंत्र १०८ वेळा जप करा.\n८. लाडू, बुंदी किंवा गुळाचा नैवेद्य दाखवा.\n९. हनुमान आरती आणि प्रदक्षिणा करून पूजा पूर्ण करा.",
+          "meaning": "हनुमान पूजेची संपूर्ण विधी. मंगळवार आणि शनिवारी हनुमान पूजा विशेष फलदायी आहे. हनुमान जी भक्तांना धैर्य, शक्ती देतात आणि सर्व भय व अडथळे दूर करतात.",
+          "transliteration": "Hanuman Pooja Vidhi:\n1. Suryodayapoorvi uthaa, snaan karaa aani laal kinvaa keshari kapde ghaalaa.\n2. Hanuman moorti kinvaa chitra vedivar thevaa.\n3. Moortilaa shendoor laavaa.\n4. Laal phule, vidaa (paan-supaari) aani chameliichi maal arpan karaa.\n5. Tilaache tel kinvaa tupaachaa divaa laavaa.\n6. Hanuman Chaalisaa paath karaa.\n7. 'Om Hanumate Namah' mantra 108 velaa jap karaa.\n8. Ladoo, bundi kinvaa gulaachaa naivedya daakhavaa.\n9. Hanuman aarati aani pradakshinaa karoon pooja poorn karaa.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "बुद्धिर्बलं यशो धैर्यं निर्भयत्वमरोगता |\nअजाड्यं वाक्पटुत्वं च हनुमत्स्मरणाद्भवेत् ||",
+          "meaning": "हनुमानाच्या स्मरणाने बुद्धी, बल, यश, धैर्य, निर्भयता, निरोगीपणा, चपलता आणि वाक्पटुत्व प्राप्त होते.",
+          "transliteration": "Buddhirbalam Yasho Dhairyam Nirbhayatvamarogataa\nAjaadyam Vaakpatuvam Cha Hanumatsamaranaad Bhavet",
+          "imageUrl": null
+        },
+        {
+          "shloka": "उल्लङ्घ्य सिन्धोः सलिलं सलीलं |\nयः शोकवह्निं जनकात्मजायाः |\nआदाय तेनैव ददाह लङ्काम् |\nनमामि तं प्राञ्जलिराञ्जनेयम् ||",
+          "meaning": "ज्यांनी समुद्र सहज ओलांडला, जनकपुत्री सीतेच्या शोकाग्नीने लंका जाळून टाकली, अशा अंजनीपुत्र हनुमान यांना मी हात जोडून नमन करतो.",
+          "transliteration": "Ullanghya Sindhoh Salilam Saleelam\nYah Shokavahnim Janakaatmajaayaah\nAadaaya Tenaiva Dadaaha Lankaam\nNamaami Tam Praanjalir Aanjaneyam",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "pooja_surya",
+      "title": "सूर्य पूजा विधी",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/pooja/surya.jpg",
+      "orderIndex": 8,
+      "content": [
+        {
+          "shloka": "ॐ सूर्याय नमः |\nॐ ह्रां ह्रीं ह्रौं सः सूर्याय नमः |\nजबाकुसुमसंकाशं काश्यपेयं महाद्युतिम् |\nतमोऽरिं सर्वपापघ्नं प्रणतोऽस्मि दिवाकरम् ||",
+          "meaning": "जास्वंदीच्या फुलासारखे रक्तवर्ण, कश्यपाचे पुत्र, महातेजस्वी, अंधकाराचे शत्रू, सर्व पापांचा नाश करणारे दिवाकर सूर्यदेवांना मी नमन करतो.",
+          "transliteration": "Om Sooryaaya Namah\nOm Hraam Hreem Hraum Sah Sooryaaya Namah\nJabaakusuma Sankaasham Kaashyapeyam Mahaadyutim\nTamo'rim Sarvapaapghnam Pranato'smi Divaakaram",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ मित्राय नमः | ॐ रवये नमः |\nॐ सूर्याय नमः | ॐ भानवे नमः |\nॐ खगाय नमः | ॐ पूष्णे नमः |\nॐ हिरण्यगर्भाय नमः | ॐ मरीचये नमः |\nॐ आदित्याय नमः | ॐ सवित्रे नमः |\nॐ अर्काय नमः | ॐ भास्कराय नमः ||",
+          "meaning": "हे सूर्य नमस्कारातील बारा नावे आहेत — मित्र, रवी, सूर्य, भानू, खग, पूषण, हिरण्यगर्भ, मरीची, आदित्य, सवितृ, अर्क आणि भास्कर. प्रत्येक नावाने नमस्कार करत सूर्यनमस्कार केला जातो.",
+          "transliteration": "Om Mitraaya Namah | Om Ravaye Namah\nOm Sooryaaya Namah | Om Bhaanave Namah\nOm Khagaaya Namah | Om Pooshne Namah\nOm Hiranyagarbhaaya Namah | Om Mareechaye Namah\nOm Aadityaaya Namah | Om Savitre Namah\nOm Arkaaya Namah | Om Bhaaskaraaya Namah",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सूर्य पूजा विधी:\n१. सूर्योदयापूर्वी उठून स्नान करा.\n२. तांब्याच्या भांड्यात पाणी, लाल फुले, अक्षता आणि लाल चंदन घाला.\n३. सूर्योदयाच्या वेळी सूर्याला तोंड करून उभे राहा.\n४. गायत्री मंत्र आणि 'ॐ सूर्याय नमः' मंत्राने अर्घ्य द्या.\n५. सूर्य नमस्काराची १२ आवर्तने करा.\n६. आदित्य हृदय स्तोत्रम् पाठ करा.\n७. गव्हाच्या पिठाचा नैवेद्य दाखवा.\n८. रविवारी सूर्य पूजा विशेष फलदायी असते.",
+          "meaning": "सूर्य पूजेची संपूर्ण विधी. सूर्यदेव आरोग्य, तेज, यश आणि ऊर्जा प्रदान करतात. रविवार सूर्याचा वार आहे. छठ पूजा आणि मकर संक्रांतीला सूर्य पूजा विशेष महत्त्वाची आहे.",
+          "transliteration": "Surya Pooja Vidhi:\n1. Suryodayaapoorvi uthoon snaan karaa.\n2. Taanbyaachya bhaandyaat paani, laal phule, akshataa aani laal chandan ghaalaa.\n3. Suryodayaachyaa veli sooryaalaa tond karoon ubhe raahaa.\n4. Gayatri mantra aani 'Om Sooryaaya Namah' mantraane arghya dyaa.\n5. Surya Namaskaaraachi 12 aavartane karaa.\n6. Aaditya Hridaya Stotram paath karaa.\n7. Gavhaachya pithaachaa naivedya daakhavaa.\n8. Ravivari Surya Pooja vishesh phaladaayi aste.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ भूर्भुवः स्वः |\nतत् सवितुर्वरेण्यं |\nभर्गो देवस्य धीमहि |\nधियो यो नः प्रचोदयात् ||",
+          "meaning": "त्या प्रकाशमान सवितृ देवाच्या दिव्य तेजाचे आम्ही ध्यान करतो. तो आमच्या बुद्धीला सन्मार्गाकडे प्रेरित करो.",
+          "transliteration": "Om Bhoor Bhuvah Svah\nTat Savitur Varenyam\nBhargo Devasya Dheemahi\nDhiyo Yo Nah Prachodayaat",
+          "imageUrl": null
+        },
+        {
+          "shloka": "आदित्यस्य नमस्कारान् ये कुर्वन्ति दिने दिने |\nआयुः प्रज्ञा बलं वीर्यं तेजस्तेषां च जायते ||",
+          "meaning": "जे दररोज सूर्याला नमस्कार करतात, त्यांना दीर्घायुष्य, प्रज्ञा, बल, वीर्य आणि तेज प्राप्त होते.",
+          "transliteration": "Aadityasya Namaskaaraan Ye Kurvanti Dine Dine\nAayuh Pragyaa Balam Veeryam Tejas Teshaam Cha Jaayate",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "pooja_tulsi",
+      "title": "तुळशी पूजा विधी",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/pooja/tulsi.jpg",
+      "orderIndex": 9,
+      "content": [
+        {
+          "shloka": "ॐ तुलस्यै नमः |\nधन्या धन्या तुळशी माते |\nतुझ्या दर्शने पापे हरती |\nतुळशी विवाह कार्तिकी |\nविष्णुप्रिया तू जगती ||",
+          "meaning": "धन्य धन्य तुळशी माते, तुझ्या दर्शनाने पापे नष्ट होतात. कार्तिक महिन्यात तुळशी विवाह केला जातो. तू विष्णूप्रिया म्हणून या जगात विराजमान आहेस.",
+          "transliteration": "Om Tulasyai Namah\nDhanyaa Dhanyaa Tulashi Maate\nTujhyaa Darshane Paape Harati\nTulashi Vivaah Kaartiki\nVishnupriyaa Too Jagati",
+          "imageUrl": null
+        },
+        {
+          "shloka": "यन्मूले सर्वतीर्थानि यन्मध्ये सर्वदेवताः |\nयदग्रे सर्ववेदाश्च तुलसी त्वां नमाम्यहम् ||",
+          "meaning": "ज्याच्या मुळाशी सर्व तीर्थे आहेत, ज्याच्या मध्यभागी सर्व देवता आहेत, ज्याच्या अग्रभागी सर्व वेद आहेत, अशा तुळशीला मी नमन करतो.",
+          "transliteration": "Yanmoole Sarva Teerthaani Yanmadhye Sarva Devataah\nYadagre Sarvavedaashcha Tulasi Tvaam Namaamyaham",
+          "imageUrl": null
+        },
+        {
+          "shloka": "तुळशी पूजा विधी:\n१. संध्याकाळी स्नान करा आणि स्वच्छ कपडे घाला.\n२. तुळशीच्या रोपट्याभोवती (वृंदावनाभोवती) रांगोळी काढा.\n३. तुळशीला जल अर्पण करा.\n४. हळद, कुमकुम, अक्षता आणि फुले अर्पण करा.\n५. तुळशीसमोर तुपाचा दिवा आणि उदबत्ती लावा.\n६. 'ॐ तुलस्यै नमः' मंत्र जप करा.\n७. तुळशीला प्रदक्षिणा घाला.\n८. कार्तिक महिन्यात तुळशी विवाह विशेष विधीने साजरा करा.",
+          "meaning": "तुळशी पूजेची विधी. तुळशी विष्णूंना अत्यंत प्रिय आहे. संध्याकाळी तुळशीला दिवा लावणे हे सौभाग्याचे प्रतीक आहे. तुळशीची पाने नैवेद्यात आवश्यक असतात.",
+          "transliteration": "Tulashi Pooja Vidhi:\n1. Sandhyaakaali snaan karaa aani svachchha kapde ghaalaa.\n2. Tulashichyaa ropatyaabhovati (vrindaavanaabhovati) rangoli kaadhaa.\n3. Tulashilaa jal arpan karaa.\n4. Halad, kumkum, akshataa aani phule arpan karaa.\n5. Tulashi samor tupaachaa divaa aani udabatti laavaa.\n6. 'Om Tulasyai Namah' mantra jap karaa.\n7. Tulashilaa pradakshinaa ghaalaa.\n8. Kaartik mahinaat Tulashi Vivaah vishesh vidhine saajaraa karaa.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "तुलसि श्रीसखि शुभे पापहारिणि पुण्यदे |\nनमस्ते नारदनुते नारायणमनःप्रिये ||",
+          "meaning": "हे तुळशी, श्रीलक्ष्मीची सखी, शुभकारी, पापहरणी, पुण्यदायिनी, नारदांनी स्तुती केलेली, नारायणाच्या मनाला प्रिय — तुला माझा नमस्कार.",
+          "transliteration": "Tulasi Shrisakhi Shubhe Paapahaarini Punyade\nNamaste Naaradanute Naaraayanamanahpriye",
+          "imageUrl": null
+        },
+        {
+          "shloka": "तुळशीच्या मंजिरीने |\nपूजू या केशवाला |\nतुळशीविना नैवेद्य |\nन स्वीकारी हरी कदा ||",
+          "meaning": "तुळशीच्या मंजिऱ्यांनी केशवाची (विष्णूची) पूजा करावी. तुळशीपत्राशिवाय नैवेद्य भगवान हरी कधीही स्वीकारत नाहीत.",
+          "transliteration": "Tulashichyaa Manjireene\nPoojoo Yaa Keshavaalaa\nTulashivinaa Naivedya\nNa Swikaari Hari Kadaa",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "pooja_navagraha",
+      "title": "नवग्रह पूजा विधी",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/pooja/navgraha.jpg",
+      "orderIndex": 10,
+      "content": [
+        {
+          "shloka": "ॐ सूर्याय नमः | ॐ चन्द्राय नमः |\nॐ मङ्गलाय नमः | ॐ बुधाय नमः |\nॐ बृहस्पतये नमः | ॐ शुक्राय नमः |\nॐ शनैश्चराय नमः | ॐ राहवे नमः |\nॐ केतवे नमः ||",
+          "meaning": "नवग्रहांचे मूळ मंत्र — सूर्य, चंद्र, मंगळ, बुध, बृहस्पती, शुक्र, शनी, राहू आणि केतू या नऊ ग्रहांना नमस्कार.",
+          "transliteration": "Om Sooryaaya Namah | Om Chandraaya Namah\nOm Mangalaaya Namah | Om Budhaaya Namah\nOm Brihaspataaye Namah | Om Shukraaya Namah\nOm Shanaishcharaaya Namah | Om Raahave Namah\nOm Ketave Namah",
+          "imageUrl": null
+        },
+        {
+          "shloka": "आदित्याय सोमाय मङ्गलाय बुधाय च |\nगुरु शुक्र शनिभ्यश्च राहवे केतवे नमः ||",
+          "meaning": "आदित्य (सूर्य), सोम (चंद्र), मंगळ, बुध, गुरु (बृहस्पती), शुक्र, शनि, राहू आणि केतू — या नवग्रहांना नमस्कार.",
+          "transliteration": "Aadityaaya Somaaya Mangalaaya Budhaaya Cha\nGuru Shukra Shanibhyashcha Raahave Ketave Namah",
+          "imageUrl": null
+        },
+        {
+          "shloka": "नवग्रह पूजा विधी:\n१. पहाटे स्नान करा आणि स्वच्छ कपडे घाला.\n२. नवग्रह यंत्र किंवा नवग्रहांच्या मूर्ती वेदीवर ठेवा.\n३. प्रत्येक ग्रहाला विशिष्ट रंगाचे फूल अर्पण करा — सूर्य: लाल, चंद्र: पांढरे, मंगळ: लाल, बुध: हिरवे, गुरु: पिवळे, शुक्र: पांढरे, शनि: काळे/निळे, राहू: निळे, केतू: बहुरंगी.\n४. प्रत्येक ग्रहाचा मंत्र ११ वेळा जप करा.\n५. नवग्रह स्तोत्रम् पाठ करा.\n६. तिळाचे तेल, गूळ आणि धान्याचा नैवेद्य दाखवा.\n७. नवग्रह आरती करा आणि प्रदक्षिणा घाला.",
+          "meaning": "नवग्रह पूजेची संपूर्ण विधी. ज्योतिषशास्त्रानुसार नवग्रहांचा जीवनावर प्रभाव असतो. ग्रहदोष शांतीसाठी नवग्रह पूजा केली जाते. शनि जयंती, अमावस्या आणि ग्रहण काळात विशेष पूजा केली जाते.",
+          "transliteration": "Navagraha Pooja Vidhi:\n1. Pahaate snaan karaa aani svachchha kapde ghaalaa.\n2. Navagraha yantra kinvaa navagrahaanchyaa moorti vedivar thevaa.\n3. Pratyeka grahalaa vishishta rangaache phool arpan karaa.\n4. Pratyeka grahaachaa mantra 11 velaa jap karaa.\n5. Navagraha Stotram paath karaa.\n6. Tilaache tel, gool aani dhaanyaachaa naivedya daakhavaa.\n7. Navagraha aarati karaa aani pradakshinaa ghaalaa.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ब्रह्मा मुरारिस्त्रिपुरान्तकारी |\nभानुः शशी भूमिसुतो बुधश्च |\nगुरुश्च शुक्रः शनिराहुकेतवः |\nकुर्वन्तु सर्वे मम सुप्रभातम् ||",
+          "meaning": "ब्रह्मा, विष्णू, शिव, सूर्य, चंद्र, मंगळ, बुध, गुरु, शुक्र, शनी, राहू आणि केतू — हे सर्व माझे सुप्रभात (शुभ सकाळ) करोत.",
+          "transliteration": "Brahmaa Muraaristripuraantakaari\nBhaanuh Shashi Bhoomisuto Budhashcha\nGurushcha Shukrah Shaniraahuketavah\nKurvantu Sarve Mama Suprabhaatam",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ग्रहाणामादिरादित्यो लोकरक्षणकारकः |\nविषमस्थानसम्भूतां पीडां हरतु मे रविः ||\nरोहिणीशः सुधामूर्तिः सुधागात्रः सुधाशनः |\nविषमस्थानसम्भूतां पीडां हरतु मे विधुः ||",
+          "meaning": "ग्रहांमध्ये आदित्य (सूर्य) श्रेष्ठ, लोकरक्षक आहेत. अशुभ स्थानातून उत्पन्न पीडा सूर्य दूर करोत. रोहिणीचे पती, अमृतमूर्ती, अमृतशरीरी, अमृतभक्षक चंद्र अशुभ स्थानातून उत्पन्न पीडा दूर करोत.",
+          "transliteration": "Grahaanaam Aadir Aadityo Lokarakshana Kaarakah\nVishamasthaana Sambhootaam Peedaam Haratu Me Ravih\nRohineeshah Sudhaamoortih Sudhaagatrah Sudhaashanah\nVishamasthaana Sambhootaam Peedaam Haratu Me Vidhuh",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "pooja_satyanarayan",
+      "title": "सत्यनारायण पूजा विधी",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/pooja/satyanarayan.jpg",
+      "orderIndex": 11,
+      "content": [
+        {
+          "shloka": "ॐ नमो भगवते वासुदेवाय |\nसत्यनारायणं देवं वन्दे सत्यपराक्रमम् |\nसत्यं सत्यस्वरूपं च सत्यमेव सदा भजे ||",
+          "meaning": "सत्यपराक्रमी सत्यनारायण देवांना वंदन करतो. सत्यस्वरूप, सत्य असलेल्या भगवंतांची मी सदैव भक्ती करतो.",
+          "transliteration": "Om Namo Bhagavate Vaasudevaaya\nSatyanaaaraayanam Devam Vande Satya Paraakramam\nSatyam Satya Svaroopam Cha Satyameva Sadaa Bhaje",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सत्यनारायण पूजा कलशस्थापना मंत्र:\nकलशस्य मुखे विष्णुः कण्ठे रुद्रः समाश्रितः |\nमूले तत्र स्थितो ब्रह्मा मध्ये मातृगणाः स्मृताः |\nकुक्षौ तु सागराः सर्वे सप्तद्वीपा वसुन्धरा |\nऋग्वेदोऽथ यजुर्वेदः सामवेदोऽप्यथर्वणः |\nअङ्गैश्च सहिताः सर्वे कलशं तु समाश्रिताः ||",
+          "meaning": "कलशाच्या मुखावर विष्णू, कंठावर रुद्र, मुळाशी ब्रह्मा, मध्यभागी मातृगण विराजमान आहेत. कलशाच्या उदरात सर्व सागर, सप्तद्वीपांसह पृथ्वी, ऋग्वेद, यजुर्वेद, सामवेद आणि अथर्ववेद अंगांसह निवास करतात.",
+          "transliteration": "Kalashasya Mukhe Vishnuh Kanthe Rudrah Samaashritah\nMoole Tatra Sthito Brahmaa Madhye Maatri Ganaah Smritaah\nKukshau Tu Saagaraah Sarve Saptadvipaa Vasundharaa\nRigvedo'tha Yajurvedah Saamavedo'pyatharvanah\nAngaishcha Sahitaah Sarve Kalasham Tu Samaashritaah",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सत्यनारायण पूजा विधी:\n१. पौर्णिमेच्या दिवशी पूजेचे आयोजन करा.\n२. स्नान करून पिवळे कपडे घाला.\n३. कलशस्थापना करा — तांब्याच्या कलशात पाणी, आंब्याची पाने, नारळ ठेवा.\n४. सत्यनारायण मूर्ती किंवा चित्र ठेवा.\n५. तुळशीपत्र, पिवळी फुले, अक्षता आणि चंदन अर्पण करा.\n६. षोडशोपचार पूजा करा.\n७. सत्यनारायण व्रतकथेचा पाठ करा — पाचही अध्याय.\n८. शीरा (रव्याचा प्रसाद), केळी आणि पंचामृताचा नैवेद्य दाखवा.\n९. आरती, प्रदक्षिणा आणि प्रसाद वाटप करा.",
+          "meaning": "सत्यनारायण पूजेची संपूर्ण विधी. ही पूजा पौर्णिमेला, शुभ प्रसंगी किंवा मनोकामना पूर्ण झाल्यावर केली जाते. कुटुंबातील सर्व सदस्य एकत्र बसून ही पूजा करतात.",
+          "transliteration": "Satyanarayan Pooja Vidhi:\n1. Paurniimechyaa divashi poojache aayojan karaa.\n2. Snaan karoon pivale kapde ghaalaa.\n3. Kalash sthaapanaa karaa.\n4. Satyanarayan moorti kinvaa chitra thevaa.\n5. Tulshipatr, pivali phule, akshataa aani chandan arpan karaa.\n6. Shodashopachaar poojaa karaa.\n7. Satyanarayan Vratkathechaa paath karaa — paachhi adhyaay.\n8. Shiraa, keli aani panchaamritaachaa naivedya daakhavaa.\n9. Aarati, pradakshinaa aani prasaad vaatap karaa.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सत्यनारायण व्रतकथा (पहिला अध्याय - सारांश):\nएकदा नैमिषारण्यात ऋषींनी सूतमुनींना विचारले — कोणत्या व्रताने सर्व दुःखे दूर होतात? सूतांनी सांगितले — नारदमुनींनी भगवान विष्णूला हाच प्रश्न विचारला होता. विष्णूंनी सांगितले — सत्यनारायण व्रत सर्व इच्छा पूर्ण करणारे, सर्व दुःख हरणारे आणि मोक्षप्रद आहे. कोणताही व्यक्ती जाती-वर्ण भेदाशिवाय हे व्रत करू शकतो.",
+          "meaning": "सत्यनारायण व्रतकथेचा पहिला अध्याय शिकवतो की हे व्रत सर्वांसाठी खुले आहे, कोणीही श्रद्धेने केल्यास भगवान नारायण प्रसन्न होतात.",
+          "transliteration": "Satyanarayan Vratkatha (Pahilaa Adhyaay - Saaraansh)",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सर्वेषामपि भूतानां पिता माता च माधवः |\nयं यं चिन्तयते कामं तं तं प्राप्नोति निश्चितम् |\nसत्यनारायणं देवं सर्वसौख्यप्रदायकम् |\nये भजन्ति सदा भक्त्या तेषां तुष्टो हि केशवः ||",
+          "meaning": "सर्व प्राण्यांचे माता-पिता माधव (विष्णू) आहेत. जी इच्छा चिंतन करता ती निश्चितच पूर्ण होते. सत्यनारायण देव सर्व सुख देणारे आहेत. जे सदा भक्तीने त्यांची सेवा करतात, त्यांच्यावर केशव संतुष्ट होतात.",
+          "transliteration": "Sarveshaamapi Bhootaanaam Pitaa Maataa Cha Maadhavah\nYam Yam Chintayate Kaamam Tam Tam Praapnoti Nishchitam\nSatyanaaaraayanam Devam Sarvasaukhya Pradaayakam\nYe Bhajanti Sadaa Bhaktyaa Teshaam Tushto Hi Keshavah",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "pooja_vastu",
+      "title": "वास्तु पूजा विधी",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/pooja/vastu.jpg",
+      "orderIndex": 12,
+      "content": [
+        {
+          "shloka": "ॐ वास्तोष्पते प्रतिजानीह्यस्मान् |\nत्स्वावेशो अनमीवो भवानः |\nयत्त्वेमहे प्रति तन्नो जुषस्व |\nशं नो भव द्विपदे शं चतुष्पदे ||",
+          "meaning": "हे वास्तुपती, आम्हाला ओळखा. आमच्या प्रवेशासह आम्ही निरोगी राहोत. जे आम्ही तुम्हाला अर्पण करतो ते स्वीकारा. दोन पायांच्या (मानव) आणि चार पायांच्या (पशू) सर्वांना कल्याण प्रदान करा.",
+          "transliteration": "Om Vaastoshpate Pratijaanihyasmaan\nTsvaavesho Anameevo Bhavaanah\nYattvemahe Prati Tanno Jushasva\nSham No Bhava Dvipade Sham Chatushpade",
+          "imageUrl": null
+        },
+        {
+          "shloka": "वास्तुपुरुषाय विद्महे |\nभूमिपुत्राय धीमहि |\nतन्नो वास्तुः प्रचोदयात् ||",
+          "meaning": "वास्तुपुरुषाला आम्ही जाणतो. भूमिपुत्राचे आम्ही ध्यान करतो. ते वास्तुदेव आम्हाला सन्मार्गाकडे प्रेरित करोत.",
+          "transliteration": "Vaastupurushaaya Vidmahe\nBhoomiputraaya Dheemahi\nTanno Vaastuh Prachodayaat",
+          "imageUrl": null
+        },
+        {
+          "shloka": "वास्तु पूजा विधी:\n१. शुभ मुहूर्तावर नवीन घरात प्रवेश करताना वास्तु पूजा करा.\n२. गणेश पूजा करून विघ्ने दूर करा.\n३. कलशस्थापना करा.\n४. वास्तुपुरुषाची पूजा करा — नवग्रह मंडल स्थापन करा.\n५. घराच्या चारही दिशांना तांदूळ, फुले आणि हळद ठेवा.\n६. होमहवन करा — नवग्रह शांती आणि वास्तुशांती मंत्रांनी.\n७. गाय आणि वासरू पहिल्यांदा घरात आणा (शक्य असल्यास).\n८. दुधाची भांडी उकळवा — दूध उतू जाणे शुभ मानले जाते.\n९. सर्व खोल्यांत तुपाचा दिवा लावा.\n१०. नैवेद्य दाखवा, आरती करा आणि प्रसाद वाटा.",
+          "meaning": "वास्तु पूजेची संपूर्ण विधी. नवीन घर, दुकान किंवा कार्यालयात प्रवेश करताना वास्तु पूजा केली जाते. ही पूजा वास्तुदोष दूर करते आणि घरात सुख-शांती आणते.",
+          "transliteration": "Vaastu Pooja Vidhi:\n1. Shubh muhoortaavar naveen gharaat pravesh karatanaa vaastu poojaa karaa.\n2. Ganesh poojaa karoon vighne door karaa.\n3. Kalash sthaapanaa karaa.\n4. Vaastupurushaachi poojaa karaa — navagraha mandal sthaapan karaa.\n5. Gharaachyaa chaari dishaannaa taandul, phule aani halad thevaa.\n6. Homhavan karaa — navagraha shaanti aani vaastushaanti mantraanni.\n7. Gaay aani vaasroo pahilyaandaa gharaat aanaa.\n8. Doodhaachi bhaandi ukalvaa — doodh utoo jaane shubh maanle jaate.\n9. Sarva kholyaant tupaachaa divaa laavaa.\n10. Naivedya daakhavaa, aarati karaa aani prasaad vaataa.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ भूमिर्भूम्नाद्यौर्वरिणाऽन्तरिक्षं महित्वा |\nउपस्थे ते देवि अदितिरग्ने अन्नाद्यायप्रतिगृह्णामि ||",
+          "meaning": "पृथ्वी भव्यतेने, आकाश विस्ताराने, अंतरिक्ष महत्त्वाने — हे अदिती देवी, तुझ्या कुशीत अग्नीसह अन्नग्रहणासाठी मी बसतो.",
+          "transliteration": "Om Bhoomibhoormnaa Dyaurvarinaa Antariksham Mahitvaa\nUpasthe Te Devi Aditir Agne Annaadyaaya Pratigrinaami",
+          "imageUrl": null
+        },
+        {
+          "shloka": "नमस्ते वास्तुपुरुष भूशय्या भूरतत्त्ववित् |\nतृतीयायां तु जातस्त्वं ब्रह्मणो मानसाद्भुवि |\nसर्वेषामपि भूतानां नित्यं वासप्रदो भव |\nगृहक्षेत्रधनधान्यसमृद्धिं कुरु सर्वदा ||",
+          "meaning": "हे वास्तुपुरुष, भूमीवर शयन करणारे, तत्त्वज्ञ, ब्रह्माच्या मनापासून जन्मलेले — सर्व प्राण्यांना नित्य निवास द्या, गृह, क्षेत्र, धन आणि धान्यांची सदैव समृद्धी करा.",
+          "transliteration": "Namaste Vaastupurusha Bhooshayyaa Bhoortattvaavit\nTriteeyaayaam Tu Jaatstvam Brahmano Maanasaad Bhuvi\nSarveshaamapi Bhootaanaam Nityam Vaasaprado Bhava\nGrihakshetra Dhana Dhaanya Samriddhim Kuru Sarvadaa",
+          "imageUrl": null
+        }
+      ]
+    }
+  ]
+}

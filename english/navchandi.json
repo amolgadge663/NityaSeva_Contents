@@ -1,0 +1,228 @@
+{
+  "category": "Navchandi Mahatmya",
+  "version": 1,
+  "items": [
+    {
+      "id": "navch_ch1_3",
+      "title": "Chapters 1-3: Madhu Kaitabha Vadh",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/navchandi/durga.jpg",
+      "orderIndex": 1,
+      "content": [
+        {
+          "shloka": "Om Namaśchaṇḍikāyai\nOm Aiṁ Hrīṁ Klīṁ Chāmuṇḍāyai Vichche",
+          "meaning": "Salutations to Goddess Chandika. Om Aim Hrim Klim — I invoke Chamunda, the slayer of demons.",
+          "transliteration": "Oṁ Namaścaṇḍikāyai\nOṁ Aiṁ Hrīṁ Klīṁ Cāmuṇḍāyai Vicce",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Mahākālī Mahālakṣmī Mahāsarasvatī rūpiṇyai\nNavārṇa Mantra Svarūpiṇyai Namaḥ",
+          "meaning": "Salutations to the Goddess who manifests as Mahakali, Mahalakshmi, and Mahasarasvati, who is the embodiment of the Navarna Mantra.",
+          "transliteration": "Mahākālī Mahālakṣmī Mahāsarasvatī Rūpiṇyai\nNavārṇa Mantra Svarūpiṇyai Namaḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Viṣṇuḥ Yoganidrāṁ Yadi Jagadvyāpinīṁ\nMadhu Kaiṭabha Nāśanārthaṁ Devī Stutiṁ Cakruḥ",
+          "meaning": "When Lord Vishnu was in Yoganidra (cosmic sleep), the Devas prayed to the all-pervading Goddess for the destruction of the demons Madhu and Kaitabha.",
+          "transliteration": "Viṣṇuḥ Yoganidrāṁ Yadi Jagadvyāpinīṁ\nMadhu Kaiṭabha Nāśanārthaṁ Devī Stutiṁ Cakruḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Yā Devī Sarvabhūteṣu Nidrā Rūpeṇa Saṁsthitā\nNamastasyai Namastasyai Namastasyai Namo Namaḥ",
+          "meaning": "To that Goddess who abides in all beings in the form of sleep — salutations to Her, salutations to Her, salutations to Her again and again.",
+          "transliteration": "Yā Devī Sarvabhūteṣu Nidrā Rūpeṇa Saṁsthitā\nNamastasyai Namastasyai Namastasyai Namo Namaḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Brahmā Uvāca:\nTathaiva Cā Kṛṣya Jagatkṛtau\nMadhu Kaiṭabhau Durātmānau Hantumicchati Vai Hariḥ",
+          "meaning": "Brahma said: Thus, Lord Hari desired to slay the evil-souled Madhu and Kaitabha for the creation and protection of the universe.",
+          "transliteration": "Brahmā Uvāca:\nTathaiva Cā Kṛṣya Jagatkṛtau\nMadhu Kaiṭabhau Durātmānau Hantumicchati Vai Hariḥ",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "navch_ch4_6",
+      "title": "Chapters 4-6: Mahishasura Vadh",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/navchandi/durga.jpg",
+      "orderIndex": 2,
+      "content": [
+        {
+          "shloka": "Mahiṣāsura Senānīnāṁ Tathā Sainyasya Sarvaśaḥ\nVadhaṁ Prāha Mahādevyā Devānāmapi Cāmaraṁ",
+          "meaning": "The great Goddess slew the generals of Mahishasura's army and the entire host, granting fearlessness to the Devas.",
+          "transliteration": "Mahiṣāsura Senānīnāṁ Tathā Sainyasya Sarvaśaḥ\nVadhaṁ Prāha Mahādevyā Devānāmapi Cāmaraṁ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Tejaḥ Samasta Devānāṁ Ekaṁ Rūpam Avardhata\nTadā Prādurabhūd Devī Trailokyaṁ Teja Āvṛtam",
+          "meaning": "The combined radiance of all the gods converged into one form, and the Goddess manifested, filling the three worlds with Her splendor.",
+          "transliteration": "Tejaḥ Samasta Devānāṁ Ekaṁ Rūpam Avardhata\nTadā Prādurabhūd Devī Trailokyaṁ Teja Āvṛtam",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Siṁhaṁ Samāruhya Mahāsuraṁ Tam\nMahiṣaṁ Chittvaiva Khaḍgena Durgā\nLokānāṁ Rakṣaṇārthaṁ Jagadambā",
+          "meaning": "Mounting the lion, Durga, the Mother of the universe, slew the great demon Mahishasura with Her sword for the protection of all worlds.",
+          "transliteration": "Siṁhaṁ Samāruhya Mahāsuraṁ Tam\nMahiṣaṁ Chittvaiva Khaḍgena Durgā\nLokānāṁ Rakṣaṇārthaṁ Jagadambā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sarvamangala Māṅgalye Śive Sarvārtha Sādhike\nŚaraṇye Tryambake Gauri Nārāyaṇi Namostute",
+          "meaning": "O auspicious of all that is auspicious, O consort of Shiva, O fulfiller of all objectives, O refuge, O three-eyed Gauri, O Narayani, salutations to You.",
+          "transliteration": "Sarvamāṅgala Māṅgalye Śive Sarvārtha Sādhike\nŚaraṇye Tryambake Gauri Nārāyaṇi Namostute",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Jayā Jayā Śrī Mahiṣāsura Mardinī\nRamyā Kapardini Śailasute Namaḥ",
+          "meaning": "Victory, victory to the slayer of Mahishasura! Salutations to the beautiful one with matted locks, daughter of the mountain.",
+          "transliteration": "Jayā Jayā Śrī Mahiṣāsura Mardinī\nRamyā Kapardini Śailasute Namaḥ",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "navch_ch7_9",
+      "title": "Chapters 7-9: Shumbha Nishumbha Vadh",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/navchandi/durga.jpg",
+      "orderIndex": 3,
+      "content": [
+        {
+          "shloka": "Śumbha Niśumbha Sainyānāṁ Nāśāya Paramātmikā\nKālī Tārā Mahāvidyā Ṣoḍaśī Bhuvaneśvarī",
+          "meaning": "For the destruction of the armies of Shumbha and Nishumbha, the Supreme Goddess manifested as Kali, Tara, Mahavidya, Shodashi, and Bhuvaneshvari.",
+          "transliteration": "Śumbha Niśumbha Sainyānāṁ Nāśāya Paramātmikā\nKālī Tārā Mahāvidyā Ṣoḍaśī Bhuvaneśvarī",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Raktabījaṁ Mahāghōraṁ Chāmuṇḍā Pītvā Rudhiraṁ\nJaghāna Sarvaloke Vai Mahiṣāsura Saṁhṛtiḥ",
+          "meaning": "The fierce Chamunda drank the blood of the terrible Raktabija and slew him, completing the destruction that began with Mahishasura.",
+          "transliteration": "Raktabījaṁ Mahāghōraṁ Cāmuṇḍā Pītvā Rudhiraṁ\nJaghāna Sarvaloke Vai Mahiṣāsura Saṁhṛtiḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Niśumbhaṁ Nihataṁ Dṛṣṭvā Bhrātaraṁ Prāṇasammitam\nŚumbhaḥ Kruddhō Abravīd Vākyaṁ Durgāṁ Prati",
+          "meaning": "Seeing his brother Nishumbha slain, Shumbha, enraged, spoke words of challenge to Goddess Durga.",
+          "transliteration": "Niśumbhaṁ Nihataṁ Dṛṣṭvā Bhrātaraṁ Prāṇasammitam\nŚumbhaḥ Kruddhō Abravīd Vākyaṁ Durgāṁ Prati",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Devī Uvāca: Ekaivaham Jagat Atra Dvitīyā Kā Mamāparā\nPaśyaitā Dushṭa Mayyeva Viśantyo Madvibhūtayaḥ",
+          "meaning": "The Goddess said: I alone exist in this universe. Who is there besides Me? Behold, O wicked one, these are but My own powers entering back into Me.",
+          "transliteration": "Devī Uvāca: Ekaivaham Jagat Atra Dvitīyā Kā Mamāparā\nPaśyaitā Duṣṭa Mayyeva Viśantyo Madvibhūtayaḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Itthaṁ Yadā Yadā Bādhā Dānavōtthā Bhaviṣyati\nTadā Tadā Avatīrya Ahaṁ Kariṣyāmi Arināśanam",
+          "meaning": "Whenever there arises affliction caused by demons, I shall incarnate and bring about the destruction of those enemies.",
+          "transliteration": "Itthaṁ Yadā Yadā Bādhā Dānavōtthā Bhaviṣyati\nTadā Tadā Avatīrya Ahaṁ Kariṣyāmi Arināśanam",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "navch_kavach",
+      "title": "Devi Kavacham (Armor Hymn)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/navchandi/durga.jpg",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "Om Namaśchaṇḍikāyai\nMārkāṇḍeya Uvāca:\nOm Yad Guhyaṁ Paramaṁ Loke Sarvārakṣākaram Nṛṇām\nYanna Kasya Cidākhyātaṁ Tanme Brūhi Pitāmaha",
+          "meaning": "Markandeya said: O Grandfather (Brahma), please tell me the supreme secret of this world, the protective shield for all beings, that which has not been revealed to anyone.",
+          "transliteration": "Oṁ Namaścaṇḍikāyai\nMārkāṇḍeya Uvāca:\nOṁ Yad Guhyaṁ Paramaṁ Loke Sarvārakṣākaraṁ Nṛṇām\nYanna Kasya Cidākhyātaṁ Tanme Brūhi Pitāmaha",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Śailaputryā Rājaṁ Śiro Me Pātu Sarvadā\nBrahmachāriṇī Pātu Lalāṭaṁ Chandraghaṇṭā Kuṭilaṁ",
+          "meaning": "May Shailaputri always protect my head. May Brahmacharini protect my forehead. May Chandraghanta protect my crown.",
+          "transliteration": "Śailaputryā Rājaṁ Śiro Me Pātu Sarvadā\nBrahmacāriṇī Pātu Lalāṭaṁ Candraghaṇṭā Kuṭilaṁ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Pādau Me Pātu Kālī Hrīṁ Pātu Pādayor Aṅguliḥ\nNakhān Pātu Mahālakṣmī Sarvāṅgaṁ Sarvadā'vatu",
+          "meaning": "May Kali protect my feet. May Hrim protect my toes. May Mahalakshmi protect my nails. May She always protect my entire body.",
+          "transliteration": "Pādau Me Pātu Kālī Hrīṁ Pātu Pādayor Aṅguliḥ\nNakhān Pātu Mahālakṣmī Sarvāṅgaṁ Sarvadā'vatu",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sarvamaṅgala Māṅgalye Devī Kavachaṁ Yaḥ Paṭhet\nSa Sarvāriṣṭa Vinirmukto Dhanadhānya Sutānvitaḥ",
+          "meaning": "Whoever recites this Devi Kavacham, bestower of all auspiciousness, is freed from all calamities and blessed with wealth, grain, and progeny.",
+          "transliteration": "Sarvamaṅgala Māṅgalye Devī Kavacaṁ Yaḥ Paṭhet\nSa Sarvāriṣṭa Vinirmukto Dhanadhānya Sutānvitaḥ",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "navch_argala",
+      "title": "Argala Stotram",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/navchandi/durga.jpg",
+      "orderIndex": 5,
+      "content": [
+        {
+          "shloka": "Om Jayantī Maṅgalā Kālī Bhadrakālī Kapālinī\nDurgā Kṣamā Śivā Dhātrī Svāhā Svadhā Namo'stute",
+          "meaning": "Om! Salutations to Jayanti, Mangala, Kali, Bhadrakali, Kapalini, Durga, Kshama, Shiva, Dhatri, Svaha, and Svadha.",
+          "transliteration": "Oṁ Jayantī Maṅgalā Kālī Bhadrakālī Kapālinī\nDurgā Kṣamā Śivā Dhātrī Svāhā Svadhā Namo'stute",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Jayā Tvam Devi Chāmuṇḍe Jayā Bhūtāpahāriṇi\nJayā Sarvagate Devi Kālarātri Namo'stute",
+          "meaning": "Victory to You, O Goddess Chamunda! Victory to You, remover of evil spirits! Victory to You, O all-pervading Goddess Kalaratri, salutations to You.",
+          "transliteration": "Jayā Tvam Devi Cāmuṇḍe Jayā Bhūtāpahāriṇi\nJayā Sarvagate Devi Kālarātri Namo'stute",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Rūpaṁ Dehi Jayaṁ Dehi Yaśo Dehi Dviṣo Jahi\nMahiṣāsura Nāśinyai Namaḥ",
+          "meaning": "Grant me beauty, grant me victory, grant me fame, and destroy my enemies. Salutations to the slayer of Mahishasura.",
+          "transliteration": "Rūpaṁ Dehi Jayaṁ Dehi Yaśo Dehi Dviṣo Jahi\nMahiṣāsura Nāśinyai Namaḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Vidhehi Devi Kalyāṇaṁ Vidhehi Paramāṁ Śriyam\nRūpaṁ Dehi Jayaṁ Dehi Yaśo Dehi Dviṣo Jahi",
+          "meaning": "O Goddess, bestow welfare upon me, bestow supreme prosperity. Grant me beauty, grant me victory, grant me fame, and destroy my enemies.",
+          "transliteration": "Vidhehi Devi Kalyāṇaṁ Vidhehi Paramāṁ Śriyam\nRūpaṁ Dehi Jayaṁ Dehi Yaśo Dehi Dviṣo Jahi",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Patnīṁ Manoramāṁ Dehi Manovrittānusāriṇīm\nTāriṇīṁ Durgasaṁsāra Sāgarasya Kulōdbhavām",
+          "meaning": "Grant me a beautiful and devoted spouse who follows the desires of my heart. Grant me Her who delivers us across the ocean of this difficult worldly existence.",
+          "transliteration": "Patnīṁ Manoramāṁ Dehi Manovrittānusāriṇīm\nTāriṇīṁ Durgasaṁsāra Sāgarasya Kulōdbhavām",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "navch_kilakam",
+      "title": "Kilakam Stotram",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/navchandi/durga.jpg",
+      "orderIndex": 6,
+      "content": [
+        {
+          "shloka": "Om Namaśchaṇḍikāyai\nMārkāṇḍeya Uvāca:\nViśuddha Jñāna Dehāya Trivedī Divya Chakṣuṣe\nŚreyaḥ Prāpti Nimittāya Namaḥ Somārdha Dhāriṇe",
+          "meaning": "Markandeya said: Salutations to the one of pure knowledge-form, the three-eyed one with divine vision, for the attainment of supreme good, to the bearer of the crescent moon.",
+          "transliteration": "Oṁ Namaścaṇḍikāyai\nMārkāṇḍeya Uvāca:\nViśuddha Jñāna Dehāya Trivedī Divya Cakṣuṣe\nŚreyaḥ Prāpti Nimittāya Namaḥ Somārdha Dhāriṇe",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Om Idaṁ Stōtraṁ Mahāpuṇyaṁ Saptaśatyā Samāhitam\nKīlakēna Samāyuktaṁ Maṅgalāya Pracoditam",
+          "meaning": "This hymn of great merit, united with the Saptashati, when joined with the Kilaka, is inspired for auspiciousness.",
+          "transliteration": "Oṁ Idaṁ Stōtraṁ Mahāpuṇyaṁ Saptaśatyā Samāhitam\nKīlakēna Samāyuktaṁ Maṅgalāya Pracoditam",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Śṛṇuṣva Mama Viprarṣe Saptaśatyāḥ Idaṁ Mahat\nKīlakaṁ Yanna Jānanti Tattvaṁ Na Phalam Āpnuyuḥ",
+          "meaning": "O sage among Brahmins, hear this great Kilaka of the Saptashati. Those who do not know its essence do not obtain its fruit.",
+          "transliteration": "Śṛṇuṣva Mama Viprarṣe Saptaśatyāḥ Idaṁ Mahat\nKīlakaṁ Yanna Jānanti Tattvaṁ Na Phalam Āpnuyuḥ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Namo Devyai Mahādevyai Śivāyai Satataṁ Namaḥ\nNamaḥ Prakṛtyai Bhadrāyai Niyatāḥ Praṇatāḥ Sma Tām",
+          "meaning": "Salutations to the Goddess, the great Goddess. Continuous salutations to the auspicious one. Salutations to Prakriti, the benevolent one — devoted, we bow to Her.",
+          "transliteration": "Namo Devyai Mahādevyai Śivāyai Satataṁ Namaḥ\nNamaḥ Prakṛtyai Bhadrāyai Niyatāḥ Praṇatāḥ Sma Tām",
+          "imageUrl": null
+        }
+      ]
+    }
+  ]
+}

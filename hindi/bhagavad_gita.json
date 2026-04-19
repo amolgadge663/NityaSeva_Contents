@@ -1,0 +1,1032 @@
+{
+  "category": "Shrimad Bhagavad Gita",
+  "version": 1,
+  "items": [
+    {
+      "id": "gita_ch01",
+      "title": "अध्याय १ - अर्जुनविषादयोग",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhagavad_gita/krishna_arjun.jpg",
+      "orderIndex": 1,
+      "content": [
+        {
+          "shloka": "धृतराष्ट्र उवाच ।\nधर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः ।\nमामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ॥१.१॥",
+          "meaning": "धृतराष्ट्र ने कहा — हे संजय! धर्मभूमि कुरुक्षेत्र में एकत्रित हुए, युद्ध की इच्छा रखने वाले मेरे पुत्रों और पाण्डु के पुत्रों ने क्या किया?",
+          "transliteration": "Dhṛtarāṣṭra uvāca |\nDharmakṣetre kurukṣetre samavetā yuyutsavaḥ |\nMāmakāḥ pāṇḍavāścaiva kimakurvata sañjaya ||1.1||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सञ्जय उवाच ।\nदृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा ।\nआचार्यमुपसङ्गम्य राजा वचनमब्रवीत् ॥१.२॥",
+          "meaning": "संजय ने कहा — उस समय राजा दुर्योधन ने व्यूहरचना में खड़ी पाण्डवों की सेना को देखकर, आचार्य द्रोण के पास जाकर यह वचन कहा।",
+          "transliteration": "Sañjaya uvāca |\nDṛṣṭvā tu pāṇḍavānīkaṃ vyūḍhaṃ duryodhanastadā |\nĀcāryamupasaṅgamya rājā vacanamabravīt ||1.2||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सेनयोरुभयोर्मध्ये रथं स्थापय मेऽच्युत ।\nयावदेतान्निरीक्षेऽहं योद्धुकामानवस्थितान् ॥१.२१॥",
+          "meaning": "अर्जुन ने कहा — हे अच्युत! मेरे रथ को दोनों सेनाओं के मध्य में खड़ा कीजिए, जब तक कि मैं युद्ध की इच्छा से खड़े इन योद्धाओं को भली-भाँति देख न लूँ।",
+          "transliteration": "Senayorubhayormadhye rathaṃ sthāpaya me'cyuta |\nYāvadetānnirīkṣe'haṃ yoddhukāmānavasthitān ||1.21||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "तत्रापश्यत्स्थितान्पार्थः पितॄनथ पितामहान् ।\nआचार्यान्मातुलान्भ्रातॄन्पुत्रान्पौत्रान्सखींस्तथा ॥१.२६॥",
+          "meaning": "वहाँ अर्जुन ने दोनों सेनाओं में खड़े पितामह, आचार्य, मामा, भाई, पुत्र, पौत्र, मित्र तथा ससुर और सुहृदों को देखा।",
+          "transliteration": "Tatrāpaśyatsthitānpārthaḥ pitṝnatha pitāmahān |\nĀcāryānmātulānbhrātṝnputrānpautrānsakhīṃstathā ||1.26||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "तानसमीक्ष्य स कौन्तेयः सर्वान्बन्धूनवस्थितान् ।\nकृपया परयाविष्टो विषीदन्निदमब्रवीत् ॥१.२७॥",
+          "meaning": "उन सभी बन्धु-बान्धवों को सामने खड़ा देखकर कुन्तीपुत्र अर्जुन अत्यन्त करुणा से भर गए और शोक करते हुए यह बोले।",
+          "transliteration": "Tānasamīkṣya sa kaunteyaḥ sarvānbandhūnavasthitān |\nKṛpayā parayāviṣṭo viṣīdannidamabravīt ||1.27||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "न काङ्क्षे विजयं कृष्ण न च राज्यं सुखानि च ।\nकिं नो राज्येन गोविन्द किं भोगैर्जीवितेन वा ॥१.३२॥",
+          "meaning": "हे कृष्ण! मैं न विजय चाहता हूँ, न राज्य और न ही सुखों को। हे गोविन्द! हमें ऐसे राज्य से क्या लाभ, ऐसे भोगों से या जीवन से भी क्या प्रयोजन?",
+          "transliteration": "Na kāṅkṣe vijayaṃ kṛṣṇa na ca rājyaṃ sukhāni ca |\nKiṃ no rājyena govinda kiṃ bhogairjīvitena vā ||1.32||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कुलक्षये प्रणश्यन्ति कुलधर्माः सनातनाः ।\nधर्मे नष्टे कुलं कृत्स्नमधर्मोऽभिभवत्युत ॥१.४०॥",
+          "meaning": "कुल के नाश होने पर सनातन कुलधर्म नष्ट हो जाते हैं। धर्म के नष्ट होने पर सम्पूर्ण कुल में अधर्म का प्रभाव हो जाता है।",
+          "transliteration": "Kulakṣaye praṇaśyanti kuladharmāḥ sanātanāḥ |\nDharme naṣṭe kulaṃ kṛtsnamadharmo'bhibhavatyuta ||1.40||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "एवमुक्त्वार्जुनः सङ्ख्ये रथोपस्थ उपाविशत् ।\nविसृज्य सशरं चापं शोकसंविग्नमानसः ॥१.४७॥",
+          "meaning": "ऐसा कहकर अर्जुन रणभूमि में शोक से व्याकुल मन वाले होकर, बाण सहित धनुष को त्यागकर रथ के पिछले भाग में बैठ गए।",
+          "transliteration": "Evamuktvārjunaḥ saṅkhye rathopastha upāviśat |\nVisṛjya saśaraṃ cāpaṃ śokasaṃvignamānasaḥ ||1.47||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "gita_ch02",
+      "title": "अध्याय २ - सांख्ययोग",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhagavad_gita/krishna_arjun.jpg",
+      "orderIndex": 2,
+      "content": [
+        {
+          "shloka": "श्रीभगवानुवाच ।\nकुतस्त्वा कश्मलमिदं विषमे समुपस्थितम् ।\nअनार्यजुष्टमस्वर्ग्यमकीर्तिकरमर्जुन ॥२.२॥",
+          "meaning": "श्रीभगवान ने कहा — हे अर्जुन! तुझे इस विषम समय में यह मोह कहाँ से आ गया? यह श्रेष्ठ पुरुषों द्वारा आचरित नहीं है, न स्वर्ग देने वाला है और न कीर्तिकारक ही है।",
+          "transliteration": "Śrībhagavānuvāca |\nKutastvā kaśmalamidaṃ viṣame samupasthitam |\nAnāryajuṣṭamasvargyamakīrtikaramarjuna ||2.2||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "देहिनोऽस्मिन्यथा देहे कौमारं यौवनं जरा ।\nतथा देहान्तरप्राप्तिर्धीरस्तत्र न मुह्यति ॥२.१३॥",
+          "meaning": "जैसे इस शरीर में देही (आत्मा) की बालकपन, यौवन और वृद्धावस्था होती है, वैसे ही दूसरे शरीर की प्राप्ति होती है। इसमें धीर पुरुष मोहित नहीं होता।",
+          "transliteration": "Dehino'sminyathā dehe kaumāraṃ yauvanaṃ jarā |\nTathā dehāntaraprāptirdhīrastatra na muhyati ||2.13||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "वासांसि जीर्णानि यथा विहाय\nनवानि गृह्णाति नरोऽपराणि ।\nतथा शरीराणि विहाय जीर्णा-\nन्यन्यानि संयाति नवानि देही ॥२.२२॥",
+          "meaning": "जैसे मनुष्य पुराने वस्त्रों को त्यागकर नये वस्त्र धारण करता है, वैसे ही आत्मा पुराने शरीरों को त्यागकर नये शरीर को प्राप्त होती है।",
+          "transliteration": "Vāsāṃsi jīrṇāni yathā vihāya\nNavāni gṛhṇāti naro'parāṇi |\nTathā śarīrāṇi vihāya jīrṇā-\nNyanyāni saṃyāti navāni dehī ||2.22||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "नैनं छिन्दन्ति शस्त्राणि नैनं दहति पावकः ।\nन चैनं क्लेदयन्त्यापो न शोषयति मारुतः ॥२.२३॥",
+          "meaning": "इस आत्मा को शस्त्र काट नहीं सकते, अग्नि जला नहीं सकती, जल गीला नहीं कर सकता और वायु सुखा नहीं सकती।",
+          "transliteration": "Nainaṃ chindanti śastrāṇi nainaṃ dahati pāvakaḥ |\nNa cainaṃ kledayantyāpo na śoṣayati mārutaḥ ||2.23||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।\nमा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ॥२.४७॥",
+          "meaning": "तेरा कर्म करने में ही अधिकार है, फल में कभी नहीं। तू कर्मफल का हेतु भी मत बन और कर्म न करने में भी तेरी आसक्ति न हो।",
+          "transliteration": "Karmaṇyevādhikāraste mā phaleṣu kadācana |\nMā karmaphalaheturbhūrmā te saṅgo'stvakarmaṇi ||2.47||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय ।\nसिद्ध्यसिद्ध्योः समो भूत्वा समत्वं योग उच्यते ॥२.४८॥",
+          "meaning": "हे धनंजय! आसक्ति को त्यागकर, सिद्धि और असिद्धि में समान भाव रखते हुए, योग में स्थित होकर कर्म कर। समत्व (समभाव) को ही योग कहते हैं।",
+          "transliteration": "Yogasthaḥ kuru karmāṇi saṅgaṃ tyaktvā dhanañjaya |\nSiddhyasiddhyoḥ samo bhūtvā samatvaṃ yoga ucyate ||2.48||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "यदा ते मोहकलिलं बुद्धिर्व्यतितरिष्यति ।\nतदा गन्तासि निर्वेदं श्रोतव्यस्य श्रुतस्य च ॥२.५२॥",
+          "meaning": "जब तेरी बुद्धि मोहरूपी दलदल को पार कर जाएगी, तब तू सुने हुए और सुनने योग्य सभी विषयों के प्रति वैराग्य को प्राप्त होगा।",
+          "transliteration": "Yadā te mohakalilaṃ buddhirvyatitariṣyati |\nTadā gantāsi nirvedaṃ śrotavyasya śrutasya ca ||2.52||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "स्थितप्रज्ञस्य का भाषा समाधिस्थस्य केशव ।\nस्थितधीः किं प्रभाषेत किमासीत व्रजेत किम् ॥२.५४॥",
+          "meaning": "अर्जुन ने कहा — हे केशव! समाधि में स्थित, स्थिर बुद्धि वाले पुरुष का क्या लक्षण है? वह स्थिरबुद्धि पुरुष कैसे बोलता है, कैसे बैठता है और कैसे चलता है?",
+          "transliteration": "Sthitaprajñasya kā bhāṣā samādhisthasya keśava |\nSthitadhīḥ kiṃ prabhāṣeta kimāsīta vrajeta kim ||2.54||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "gita_ch03",
+      "title": "अध्याय ३ - कर्मयोग",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhagavad_gita/krishna_arjun.jpg",
+      "orderIndex": 3,
+      "content": [
+        {
+          "shloka": "श्रीभगवानुवाच ।\nलोकेऽस्मिन्द्विविधा निष्ठा पुरा प्रोक्ता मयानघ ।\nज्ञानयोगेन साङ्ख्यानां कर्मयोगेन योगिनाम् ॥३.३॥",
+          "meaning": "श्रीभगवान ने कहा — हे निष्पाप अर्जुन! इस लोक में दो प्रकार की निष्ठा मेरे द्वारा पहले कही गई है — सांख्ययोगियों की ज्ञानयोग द्वारा और योगियों की कर्मयोग द्वारा।",
+          "transliteration": "Śrībhagavānuvāca |\nLoke'smindvividhā niṣṭhā purā proktā mayānagha |\nJñānayogena sāṅkhyānāṃ karmayogena yoginām ||3.3||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "न हि कश्चित्क्षणमपि जातु तिष्ठत्यकर्मकृत् ।\nकार्यते ह्यवशः कर्म सर्वः प्रकृतिजैर्गुणैः ॥३.५॥",
+          "meaning": "कोई भी मनुष्य एक क्षण भी बिना कर्म किये नहीं रह सकता, क्योंकि प्रकृति के गुणों द्वारा सभी प्राणी विवश होकर कर्म करते हैं।",
+          "transliteration": "Na hi kaścitkṣaṇamapi jātu tiṣṭhatyakarmakṛt |\nKāryate hyavaśaḥ karma sarvaḥ prakṛtijairguṇaiḥ ||3.5||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "यज्ञार्थात्कर्मणोऽन्यत्र लोकोऽयं कर्मबन्धनः ।\nतदर्थं कर्म कौन्तेय मुक्तसङ्गः समाचर ॥३.९॥",
+          "meaning": "यज्ञ के लिए किये जाने वाले कर्मों के अतिरिक्त अन्य कर्मों में लगा हुआ यह मनुष्य कर्मों से बँधता है। इसलिए हे कुन्तीपुत्र! आसक्ति से रहित होकर यज्ञ के लिए कर्म कर।",
+          "transliteration": "Yajñārthātkarmaṇo'nyatra loko'yaṃ karmabandhanaḥ |\nTadarthaṃ karma kaunteya muktasaṅgaḥ samācara ||3.9||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सहयज्ञाः प्रजाः सृष्ट्वा पुरोवाच प्रजापतिः ।\nअनेन प्रसविष्यध्वमेष वोऽस्त्विष्टकामधुक् ॥३.१०॥",
+          "meaning": "प्रजापति ब्रह्मा ने सृष्टि के आरम्भ में यज्ञ सहित प्रजा की रचना करके कहा — इस यज्ञ के द्वारा तुम वृद्धि को प्राप्त होओ; यह तुम्हारी इच्छित कामनाओं को पूर्ण करने वाला हो।",
+          "transliteration": "Sahayajñāḥ prajāḥ sṛṣṭvā purovāca prajāpatiḥ |\nAnena prasaviṣyadhvameṣa vo'stviṣṭakāmadhuk ||3.10||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "यद्यदाचरति श्रेष्ठस्तत्तदेवेतरो जनः ।\nस यत्प्रमाणं कुरुते लोकस्तदनुवर्तते ॥३.२१॥",
+          "meaning": "श्रेष्ठ पुरुष जो-जो आचरण करता है, अन्य लोग भी वैसा ही आचरण करते हैं। वह जो प्रमाण (मानदण्ड) स्थापित करता है, समस्त लोक उसी का अनुसरण करते हैं।",
+          "transliteration": "Yadyadācarati śreṣṭhastattadevetaro janaḥ |\nSa yatpramāṇaṃ kurute lokastadanuvartate ||3.21||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात् ।\nस्वधर्मे निधनं श्रेयः परधर्मो भयावहः ॥३.३५॥",
+          "meaning": "अच्छी प्रकार आचरण किये हुए दूसरे के धर्म से गुणरहित भी अपना धर्म श्रेष्ठ है। अपने धर्म में मृत्यु भी कल्याणकारी है, परन्तु दूसरे का धर्म भय को देने वाला है।",
+          "transliteration": "Śreyānsvadharmo viguṇaḥ paradharmātsvanuṣṭhitāt |\nSvadharme nidhanaṃ śreyaḥ paradharmo bhayāvahaḥ ||3.35||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अर्जुन उवाच ।\nअथ केन प्रयुक्तोऽयं पापं चरति पूरुषः ।\nअनिच्छन्नपि वार्ष्णेय बलादिव नियोजितः ॥३.३६॥",
+          "meaning": "अर्जुन ने कहा — हे वार्ष्णेय (कृष्ण)! तो फिर यह मनुष्य स्वयं न चाहते हुए भी, बलपूर्वक प्रेरित किया हुआ सा, किसके द्वारा प्रेरित होकर पाप का आचरण करता है?",
+          "transliteration": "Arjuna uvāca |\nAtha kena prayukto'yaṃ pāpaṃ carati pūruṣaḥ |\nAnicchannapi vārṣṇeya balādiva niyojitaḥ ||3.36||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "श्रीभगवानुवाच ।\nकाम एष क्रोध एष रजोगुणसमुद्भवः ।\nमहाशनो महापाप्मा विद्ध्येनमिह वैरिणम् ॥३.३७॥",
+          "meaning": "श्रीभगवान ने कहा — रजोगुण से उत्पन्न यह काम ही है, यह क्रोध ही है। यह बहुत खाने वाला (कभी तृप्त न होने वाला) और महान पापी है। इसे ही तू यहाँ (इस विषय में) शत्रु जान।",
+          "transliteration": "Śrībhagavānuvāca |\nKāma eṣa krodha eṣa rajoguṇasamudbhavaḥ |\nMahāśano mahāpāpmā viddhyenamiha vairiṇam ||3.37||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "gita_ch04",
+      "title": "अध्याय ४ - ज्ञानकर्मसन्न्यासयोग",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhagavad_gita/krishna_arjun.jpg",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "श्रीभगवानुवाच ।\nइमं विवस्वते योगं प्रोक्तवानहमव्ययम् ।\nविवस्वान्मनवे प्राह मनुरिक्ष्वाकवेऽब्रवीत् ॥४.१॥",
+          "meaning": "श्रीभगवान ने कहा — मैंने इस अविनाशी योग को सूर्यदेव विवस्वान से कहा था, विवस्वान ने मनु से कहा और मनु ने इक्ष्वाकु से कहा।",
+          "transliteration": "Śrībhagavānuvāca |\nImaṃ vivasvate yogaṃ proktavānahamavyayam |\nVivasvānmanave prāha manurikṣvākave'bravīt ||4.1||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "यदा यदा हि धर्मस्य ग्लानिर्भवति भारत ।\nअभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम् ॥४.७॥",
+          "meaning": "हे भारत! जब-जब धर्म की हानि और अधर्म की वृद्धि होती है, तब-तब मैं स्वयं की रचना करता हूँ अर्थात् अवतार लेता हूँ।",
+          "transliteration": "Yadā yadā hi dharmasya glānirbhavati bhārata |\nAbhyutthānamadharmasya tadātmānaṃ sṛjāmyaham ||4.7||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "परित्राणाय साधूनां विनाशाय च दुष्कृताम् ।\nधर्मसंस्थापनार्थाय सम्भवामि युगे युगे ॥४.८॥",
+          "meaning": "साधु-सज्जनों के उद्धार के लिए, दुष्कर्मियों के विनाश के लिए और धर्म की स्थापना के लिए मैं युग-युग में प्रकट होता हूँ।",
+          "transliteration": "Paritrāṇāya sādhūnāṃ vināśāya ca duṣkṛtām |\nDharmasaṃsthāpanārthāya sambhavāmi yuge yuge ||4.8||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "चातुर्वर्ण्यं मया सृष्टं गुणकर्मविभागशः ।\nतस्य कर्तारमपि मां विद्ध्यकर्तारमव्ययम् ॥४.१३॥",
+          "meaning": "गुण और कर्मों के विभाग के अनुसार चारों वर्णों की रचना मेरे द्वारा की गई है। यद्यपि मैं इसका कर्ता हूँ, तथापि मुझ अविनाशी को तू अकर्ता ही जान।",
+          "transliteration": "Cāturvarṇyaṃ mayā sṛṣṭaṃ guṇakarmavibhāgaśaḥ |\nTasya kartāramapi māṃ viddhyakartāramavyayam ||4.13||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कर्मण्यकर्म यः पश्येदकर्मणि च कर्म यः ।\nस बुद्धिमान्मनुष्येषु स युक्तः कृत्स्नकर्मकृत् ॥४.१८॥",
+          "meaning": "जो मनुष्य कर्म में अकर्म देखता है और अकर्म में कर्म देखता है, वह मनुष्यों में बुद्धिमान है, वह योगी है और सम्पूर्ण कर्मों को करने वाला है।",
+          "transliteration": "Karmaṇyakarma yaḥ paśyedakarmaṇi ca karma yaḥ |\nSa buddhimānmanuṣyeṣu sa yuktaḥ kṛtsnakarmakṛt ||4.18||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ब्रह्मार्पणं ब्रह्म हविर्ब्रह्माग्नौ ब्रह्मणा हुतम् ।\nब्रह्मैव तेन गन्तव्यं ब्रह्मकर्मसमाधिना ॥४.२४॥",
+          "meaning": "जिस यज्ञ में अर्पण (हवन करने का साधन) ब्रह्म है, हवि (हवन सामग्री) ब्रह्म है, ब्रह्मरूप अग्नि में ब्रह्म द्वारा हवन किया जाता है — ऐसे ब्रह्मकर्म में समाधिस्थ पुरुष को ब्रह्म ही प्राप्त होता है।",
+          "transliteration": "Brahmārpaṇaṃ brahma havirbrahmāgnau brahmaṇā hutam |\nBrahmaiva tena gantavyaṃ brahmakarmasamādhinā ||4.24||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "श्रद्धावाँल्लभते ज्ञानं तत्परः संयतेन्द्रियः ।\nज्ञानं लब्ध्वा परां शान्तिमचिरेणाधिगच्छति ॥४.३९॥",
+          "meaning": "श्रद्धावान, तत्पर और जितेन्द्रिय पुरुष ज्ञान को प्राप्त करता है और ज्ञान प्राप्त करके शीघ्र ही परम शान्ति को प्राप्त हो जाता है।",
+          "transliteration": "Śraddhāvā~llabhate jñānaṃ tatparaḥ saṃyatendriyaḥ |\nJñānaṃ labdhvā parāṃ śāntimacireṇādhigacchati ||4.39||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "तस्मादज्ञानसम्भूतं हृत्स्थं ज्ञानासिनात्मनः ।\nछित्त्वैनं संशयं योगमातिष्ठोत्तिष्ठ भारत ॥४.४२॥",
+          "meaning": "इसलिए हे भारत! हृदय में स्थित इस अज्ञान से उत्पन्न अपने संशय को ज्ञानरूपी तलवार से काटकर योग में स्थित हो जा और उठ (युद्ध के लिए खड़ा हो)।",
+          "transliteration": "Tasmādajñānasambhūtaṃ hṛtsthaṃ jñānāsinātmanaḥ |\nChittvainaṃ saṃśayaṃ yogamātiṣṭhottiṣṭha bhārata ||4.42||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "gita_ch05",
+      "title": "अध्याय ५ - कर्मसन्न्यासयोग",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhagavad_gita/krishna_arjun.jpg",
+      "orderIndex": 5,
+      "content": [
+        {
+          "shloka": "अर्जुन उवाच ।\nसन्न्यासं कर्मणां कृष्ण पुनर्योगं च शंससि ।\nयच्छ्रेय एतयोरेकं तन्मे ब्रूहि सुनिश्चितम् ॥५.१॥",
+          "meaning": "अर्जुन ने कहा — हे कृष्ण! आप कर्मों के संन्यास की प्रशंसा करते हैं और फिर कर्मयोग की भी। इन दोनों में से जो एक निश्चित रूप से श्रेष्ठ हो, वह मुझे बताइए।",
+          "transliteration": "Arjuna uvāca |\nSannyāsaṃ karmaṇāṃ kṛṣṇa punaryogaṃ ca śaṃsasi |\nYacchreya etayorekaṃ tanme brūhi suniścitam ||5.1||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "श्रीभगवानुवाच ।\nसन्न्यासः कर्मयोगश्च निःश्रेयसकरावुभौ ।\nतयोस्तु कर्मसन्न्यासात्कर्मयोगो विशिष्यते ॥५.२॥",
+          "meaning": "श्रीभगवान ने कहा — कर्म-संन्यास और कर्मयोग दोनों ही परम कल्याणकारी हैं, परन्तु उन दोनों में कर्मसंन्यास से कर्मयोग श्रेष्ठ है।",
+          "transliteration": "Śrībhagavānuvāca |\nSannyāsaḥ karmayogaśca niḥśreyasakarāvubhau |\nTayostu karmasannyāsātkarmayogo viśiṣyate ||5.2||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "योगयुक्तो विशुद्धात्मा विजितात्मा जितेन्द्रियः ।\nसर्वभूतात्मभूतात्मा कुर्वन्नपि न लिप्यते ॥५.७॥",
+          "meaning": "जो योगयुक्त है, शुद्ध अन्तःकरण वाला है, जिसने मन को जीत लिया है, जिसने इन्द्रियों को वश में किया है और जो सभी प्राणियों की आत्मा को अपनी आत्मा मानता है — वह कर्म करते हुए भी लिप्त नहीं होता।",
+          "transliteration": "Yogayukto viśuddhātmā vijitātmā jitendriyaḥ |\nSarvabhūtātmabhūtātmā kurvannapi na lipyate ||5.7||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "नैव किञ्चित्करोमीति युक्तो मन्येत तत्त्ववित् ।\nपश्यञ्शृण्वन्स्पृशञ्जिघ्रन्नश्नन्गच्छन्स्वपञ्श्वसन् ॥५.८॥",
+          "meaning": "तत्त्व को जानने वाला योगी देखते, सुनते, स्पर्श करते, सूँघते, खाते, चलते, सोते और श्वास लेते हुए भी यही मानता है कि मैं कुछ भी नहीं करता।",
+          "transliteration": "Naiva kiñcitkaromīti yukto manyeta tattvavit |\nPaśyañśṛṇvanspṛśañjighrannaśnangacchansvapañśvasan ||5.8||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ब्रह्मण्याधाय कर्माणि सङ्गं त्यक्त्वा करोति यः ।\nलिप्यते न स पापेन पद्मपत्रमिवाम्भसा ॥५.१०॥",
+          "meaning": "जो पुरुष सब कर्मों को ब्रह्म में अर्पण करके और आसक्ति को त्यागकर कर्म करता है, वह पाप से ऐसे लिप्त नहीं होता जैसे कमल का पत्ता पानी से लिप्त नहीं होता।",
+          "transliteration": "Brahmaṇyādhāya karmāṇi saṅgaṃ tyaktvā karoti yaḥ |\nLipyate na sa pāpena padmapatramivāmbhasā ||5.10||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "विद्याविनयसम्पन्ने ब्राह्मणे गवि हस्तिनि ।\nशुनि चैव श्वपाके च पण्डिताः समदर्शिनः ॥५.१८॥",
+          "meaning": "विद्या और विनय से सम्पन्न ब्राह्मण में, गाय में, हाथी में, कुत्ते में और चाण्डाल में भी ज्ञानी पुरुष समान दृष्टि रखते हैं।",
+          "transliteration": "Vidyāvinayasampanne brāhmaṇe gavi hastini |\nŚuni caiva śvapāke ca paṇḍitāḥ samadarśinaḥ ||5.18||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "बाह्यस्पर्शेष्वसक्तात्मा विन्दत्यात्मनि यत्सुखम् ।\nस ब्रह्मयोगयुक्तात्मा सुखमक्षयमश्नुते ॥५.२१॥",
+          "meaning": "जिसका मन बाहरी विषयों में आसक्त नहीं है, वह आत्मा में जो सुख है उसे प्राप्त करता है। वह ब्रह्मयोग में स्थित पुरुष अक्षय (अविनाशी) सुख का अनुभव करता है।",
+          "transliteration": "Bāhyasparśeṣvasaktātmā vindatyātmani yatsukham |\nSa brahmayogayuktātmā sukhamakṣayamaśnute ||5.21||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "शक्नोतीहैव यः सोढुं प्राक्शरीरविमोक्षणात् ।\nकामक्रोधोद्भवं वेगं स युक्तः स सुखी नरः ॥५.२३॥",
+          "meaning": "जो मनुष्य इस शरीर को त्यागने से पहले ही काम और क्रोध से उत्पन्न वेग को सहन करने में समर्थ हो जाता है, वही योगी है और वही सुखी मनुष्य है।",
+          "transliteration": "Śaknotīhaiva yaḥ soḍhuṃ prākśarīravimokṣaṇāt |\nKāmakrodhodbhavaṃ vegaṃ sa yuktaḥ sa sukhī naraḥ ||5.23||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "gita_ch06",
+      "title": "अध्याय ६ - ध्यानयोग",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhagavad_gita/krishna_arjun.jpg",
+      "orderIndex": 6,
+      "content": [
+        {
+          "shloka": "श्रीभगवानुवाच ।\nअनाश्रितः कर्मफलं कार्यं कर्म करोति यः ।\nस सन्न्यासी च योगी च न निरग्निर्न चाक्रियः ॥६.१॥",
+          "meaning": "श्रीभगवान ने कहा — जो पुरुष कर्मफल का आश्रय न लेकर कर्तव्य कर्म करता है, वही संन्यासी और योगी है — न कि वह जो अग्नि का त्याग करता है और न वह जो क्रियाओं का त्याग करता है।",
+          "transliteration": "Śrībhagavānuvāca |\nAnāśritaḥ karmaphalaṃ kāryaṃ karma karoti yaḥ |\nSa sannyāsī ca yogī ca na niragnirna cākriyaḥ ||6.1||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "उद्धरेदात्मनात्मानं नात्मानमवसादयेत् ।\nआत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः ॥६.५॥",
+          "meaning": "अपने द्वारा अपना उद्धार करे और अपने को अधोगति में न डाले। क्योंकि यह आत्मा ही आत्मा का मित्र है और आत्मा ही आत्मा का शत्रु है।",
+          "transliteration": "Uddharedātmanātmānaṃ nātmānamavasādayet |\nĀtmaiva hyātmano bandhurātmaiva ripurātmanaḥ ||6.5||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "बन्धुरात्मात्मनस्तस्य येनात्मैवात्मना जितः ।\nअनात्मनस्तु शत्रुत्वे वर्तेतात्मैव शत्रुवत् ॥६.६॥",
+          "meaning": "जिसने अपने आप को अपने द्वारा जीत लिया है, उसके लिए आत्मा स्वयं बन्धु है। परन्तु जिसने अपने आप को नहीं जीता, उसके लिए आत्मा ही शत्रु के समान शत्रुता में स्थित रहता है।",
+          "transliteration": "Bandhurātmātmanastasya yenātmaivātmanā jitaḥ |\nAnātmanastu śatrutve vartetātmaiva śatruvat ||6.6||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "योगी युञ्जीत सततमात्मानं रहसि स्थितः ।\nएकाकी यतचित्तात्मा निराशीरपरिग्रहः ॥६.१०॥",
+          "meaning": "योगी को चाहिए कि एकान्त में रहकर, अकेला, मन और शरीर को वश में करके, आशारहित और संग्रहरहित होकर निरन्तर आत्मा को परमात्मा में स्थित करे।",
+          "transliteration": "Yogī yuñjīta satatamātmānaṃ rahasi sthitaḥ |\nEkākī yatacittātmā nirāśīraparigrahaḥ ||6.10||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "समं कायशिरोग्रीवं धारयन्नचलं स्थिरः ।\nसम्प्रेक्ष्य नासिकाग्रं स्वं दिशश्चानवलोकयन् ॥६.१३॥",
+          "meaning": "शरीर, सिर और गर्दन को सीधा और अचल धारण करके, स्थिर होकर, अपनी नासिका के अग्रभाग पर दृष्टि जमाकर और अन्य दिशाओं की ओर न देखते हुए ध्यान करे।",
+          "transliteration": "Samaṃ kāyaśirogrīvaṃ dhārayannacalaṃ sthiraḥ |\nSamprekṣya nāsikāgraṃ svaṃ diśaścānavalokayan ||6.13||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "युक्ताहारविहारस्य युक्तचेष्टस्य कर्मसु ।\nयुक्तस्वप्नावबोधस्य योगो भवति दुःखहा ॥६.१७॥",
+          "meaning": "जो आहार-विहार में संयमित है, कर्मों में यथायोग्य चेष्टा करने वाला है, और सोने तथा जागने में नियमित है — उसके लिए यह योग दुःखों का नाश करने वाला होता है।",
+          "transliteration": "Yuktāhāravihārasya yuktaceṣṭasya karmasu |\nYuktasvapnāvabodhasya yogo bhavati duḥkhahā ||6.17||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "यत्रोपरमते चित्तं निरुद्धं योगसेवया ।\nयत्र चैवात्मनात्मानं पश्यन्नात्मनि तुष्यति ॥६.२०॥",
+          "meaning": "जिस अवस्था में योग के अभ्यास से निरुद्ध चित्त उपराम हो जाता है और जिसमें आत्मा द्वारा आत्मा को देखता हुआ अपने आप में ही सन्तुष्ट होता है।",
+          "transliteration": "Yatroparamate cittaṃ niruddhaṃ yogasevayā |\nYatra caivātmanātmānaṃ paśyannātmani tuṣyati ||6.20||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "योगिनामपि सर्वेषां मद्गतेनान्तरात्मना ।\nश्रद्धावान्भजते यो मां स मे युक्ततमो मतः ॥६.४७॥",
+          "meaning": "सम्पूर्ण योगियों में भी जो श्रद्धावान योगी मुझमें लगे हुए अन्तरात्मा से मेरा भजन करता है, वह मेरे मत में सबसे श्रेष्ठ योगी है।",
+          "transliteration": "Yogināmapi sarveṣāṃ madgatenāntarātmanā |\nŚraddhāvānbhajate yo māṃ sa me yuktatamo mataḥ ||6.47||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "gita_ch07",
+      "title": "अध्याय ७ - ज्ञानविज्ञानयोग",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhagavad_gita/krishna_arjun.jpg",
+      "orderIndex": 7,
+      "content": [
+        {
+          "shloka": "श्रीभगवानुवाच ।\nमय्यासक्तमनाः पार्थ योगं युञ्जन्मदाश्रयः ।\nअसंशयं समग्रं मां यथा ज्ञास्यसि तच्छृणु ॥७.१॥",
+          "meaning": "श्रीभगवान ने कहा — हे पार्थ! मुझमें आसक्त मन वाला और मेरे आश्रय होकर योग का अभ्यास करता हुआ तू जिस प्रकार सम्पूर्ण रूप से मुझे सन्देह रहित जानेगा, उसे सुन।",
+          "transliteration": "Śrībhagavānuvāca |\nMayyāsaktamanāḥ pārtha yogaṃ yuñjanmadāśrayaḥ |\nAsaṃśayaṃ samagraṃ māṃ yathā jñāsyasi tacchṛṇu ||7.1||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ज्ञानं तेऽहं सविज्ञानमिदं वक्ष्याम्यशेषतः ।\nयज्ज्ञात्वा नेह भूयोऽन्यज्ज्ञातव्यमवशिष्यते ॥७.२॥",
+          "meaning": "मैं तुझे विज्ञान सहित इस ज्ञान को सम्पूर्ण रूप से कहूँगा, जिसे जानकर इस संसार में फिर और कुछ भी जानने योग्य शेष नहीं रहता।",
+          "transliteration": "Jñānaṃ te'haṃ savijñānamidaṃ vakṣyāmyaśeṣataḥ |\nYajjñātvā neha bhūyo'nyajjñātavyamavaśiṣyate ||7.2||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "भूमिरापोऽनलो वायुः खं मनो बुद्धिरेव च ।\nअहङ्कार इतीयं मे भिन्ना प्रकृतिरष्टधा ॥७.४॥",
+          "meaning": "पृथ्वी, जल, अग्नि, वायु, आकाश, मन, बुद्धि और अहंकार — इस प्रकार यह मेरी आठ प्रकार से विभाजित प्रकृति है।",
+          "transliteration": "Bhūmirāpo'nalo vāyuḥ khaṃ mano buddhireva ca |\nAhaṅkāra itīyaṃ me bhinnā prakṛtiraṣṭadhā ||7.4||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अपरेयमितस्त्वन्यां प्रकृतिं विद्धि मे पराम् ।\nजीवभूतां महाबाहो ययेदं धार्यते जगत् ॥७.५॥",
+          "meaning": "हे महाबाहो! यह तो अपरा (जड़) प्रकृति है। इससे भिन्न मेरी जीवरूपा परा (चेतन) प्रकृति को जान, जिसके द्वारा यह सम्पूर्ण जगत् धारण किया जाता है।",
+          "transliteration": "Apareyamitastvanyāṃ prakṛtiṃ viddhi me parām |\nJīvabhūtāṃ mahābāho yayedaṃ dhāryate jagat ||7.5||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "मत्तः परतरं नान्यत्किञ्चिदस्ति धनञ्जय ।\nमयि सर्वमिदं प्रोतं सूत्रे मणिगणा इव ॥७.७॥",
+          "meaning": "हे धनञ्जय! मुझसे परे अन्य कोई भी वस्तु नहीं है। जैसे मणियाँ सूत्र में पिरोई जाती हैं, वैसे ही यह सम्पूर्ण जगत् मुझमें पिरोया हुआ है।",
+          "transliteration": "Mattaḥ parataraṃ nānyatkiñcidasti dhanañjaya |\nMayi sarvamidaṃ protaṃ sūtre maṇigaṇā iva ||7.7||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "रसोऽहमप्सु कौन्तेय प्रभास्मि शशिसूर्ययोः ।\nप्रणवः सर्ववेदेषु शब्दः खे पौरुषं नृषु ॥७.८॥",
+          "meaning": "हे कौन्तेय! मैं जल में रस हूँ, चन्द्रमा और सूर्य में प्रकाश हूँ, सभी वेदों में ॐकार हूँ, आकाश में शब्द हूँ और मनुष्यों में पुरुषत्व हूँ।",
+          "transliteration": "Raso'hamapsu kaunteya prabhāsmi śaśisūryayoḥ |\nPraṇavaḥ sarvavedeṣu śabdaḥ khe pauruṣaṃ nṛṣu ||7.8||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "चतुर्विधा भजन्ते मां जनाः सुकृतिनोऽर्जुन ।\nआर्तो जिज्ञासुरर्थार्थी ज्ञानी च भरतर्षभ ॥७.१६॥",
+          "meaning": "हे अर्जुन! चार प्रकार के पुण्यकर्मा मनुष्य मेरा भजन करते हैं — आर्त (दुःखी), जिज्ञासु, अर्थार्थी (धन की इच्छा वाला) और ज्ञानी — हे भरतश्रेष्ठ!",
+          "transliteration": "Caturvidhā bhajante māṃ janāḥ sukṛtino'rjuna |\nĀrto jijñāsurarthārthī jñānī ca bharatarṣabha ||7.16||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "बहूनां जन्मनामन्ते ज्ञानवान्मां प्रपद्यते ।\nवासुदेवः सर्वमिति स महात्मा सुदुर्लभः ॥७.१९॥",
+          "meaning": "बहुत जन्मों के अन्त में ज्ञानवान मनुष्य 'सब कुछ वासुदेव ही है' इस प्रकार मुझे प्राप्त होता है। ऐसा महात्मा अत्यन्त दुर्लभ है।",
+          "transliteration": "Bahūnāṃ janmanāmante jñānavānmāṃ prapadyate |\nVāsudevaḥ sarvamiti sa mahātmā sudurlabhaḥ ||7.19||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "gita_ch08",
+      "title": "अध्याय ८ - अक्षरब्रह्मयोग",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhagavad_gita/krishna_arjun.jpg",
+      "orderIndex": 8,
+      "content": [
+        {
+          "shloka": "अर्जुन उवाच ।\nकिं तद्ब्रह्म किमध्यात्मं किं कर्म पुरुषोत्तम ।\nअधिभूतं च किं प्रोक्तमधिदैवं किमुच्यते ॥८.१॥",
+          "meaning": "अर्जुन ने कहा — हे पुरुषोत्तम! वह ब्रह्म क्या है? अध्यात्म क्या है? कर्म क्या है? अधिभूत किसे कहा गया है और अधिदैव किसे कहते हैं?",
+          "transliteration": "Arjuna uvāca |\nKiṃ tadbrahma kimadhyātmaṃ kiṃ karma puruṣottama |\nAdhibhūtaṃ ca kiṃ proktamadhidaivaṃ kimucyate ||8.1||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "श्रीभगवानुवाच ।\nअक्षरं ब्रह्म परमं स्वभावोऽध्यात्ममुच्यते ।\nभूतभावोद्भवकरो विसर्गः कर्मसंज्ञितः ॥८.३॥",
+          "meaning": "श्रीभगवान ने कहा — परम अक्षर (अविनाशी) ब्रह्म है, अपना स्वरूप अर्थात् जीवात्मा अध्यात्म कहलाता है, और भूतों के भाव को उत्पन्न करने वाला विसर्ग (त्याग) कर्म कहा जाता है।",
+          "transliteration": "Śrībhagavānuvāca |\nAkṣaraṃ brahma paramaṃ svabhāvo'dhyātmamucyate |\nBhūtabhāvodbhavakaro visargaḥ karmasaṃjñitaḥ ||8.3||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अन्तकाले च मामेव स्मरन्मुक्त्वा कलेवरम् ।\nयः प्रयाति स मद्भावं याति नास्त्यत्र संशयः ॥८.५॥",
+          "meaning": "जो पुरुष अन्तकाल में भी मुझे ही स्मरण करता हुआ शरीर त्यागकर जाता है, वह मेरे स्वरूप को प्राप्त होता है — इसमें कोई सन्देह नहीं है।",
+          "transliteration": "Antakāle ca māmeva smaranmuktvā kalevaram |\nYaḥ prayāti sa madbhāvaṃ yāti nāstyatra saṃśayaḥ ||8.5||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "यं यं वापि स्मरन्भावं त्यजत्यन्ते कलेवरम् ।\nतं तमेवैति कौन्तेय सदा तद्भावभावितः ॥८.६॥",
+          "meaning": "हे कौन्तेय! यह मनुष्य अन्तकाल में जिस-जिस भाव को स्मरण करता हुआ शरीर त्यागता है, वह सदा उसी के भाव से भावित होने के कारण उसी को प्राप्त होता है।",
+          "transliteration": "Yaṃ yaṃ vāpi smaranbhāvaṃ tyajatyante kalevaram |\nTaṃ tamevaiti kaunteya sadā tadbhāvabhāvitaḥ ||8.6||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "तस्मात्सर्वेषु कालेषु मामनुस्मर युध्य च ।\nमय्यर्पितमनोबुद्धिर्मामेवैष्यस्यसंशयम् ॥८.७॥",
+          "meaning": "इसलिए सभी समय में तू मेरा स्मरण कर और युद्ध भी कर। इस प्रकार मुझमें अर्पित किये हुए मन-बुद्धि वाला होकर तू निःसन्देह मुझे ही प्राप्त होगा।",
+          "transliteration": "Tasmātsarveṣu kāleṣu māmanusmara yudhya ca |\nMayyarpitamanobuddhirmāmevaiṣyasyasaṃśayam ||8.7||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अभ्यासयोगयुक्तेन चेतसा नान्यगामिना ।\nपरमं पुरुषं दिव्यं याति पार्थानुचिन्तयन् ॥८.८॥",
+          "meaning": "हे पार्थ! अभ्यासयोग से युक्त, अन्यत्र न जाने वाले चित्त से निरन्तर चिन्तन करता हुआ मनुष्य परम दिव्य पुरुष को प्राप्त होता है।",
+          "transliteration": "Abhyāsayogayuktena cetasā nānyagāminā |\nParamaṃ puruṣaṃ divyaṃ yāti pārthānucintayan ||8.8||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ओमित्येकाक्षरं ब्रह्म व्याहरन्मामनुस्मरन् ।\nयः प्रयाति त्यजन्देहं स याति परमां गतिम् ॥८.१३॥",
+          "meaning": "जो पुरुष 'ॐ' इस एक अक्षर ब्रह्म का उच्चारण करता हुआ और मेरा स्मरण करता हुआ शरीर त्यागकर जाता है, वह परम गति को प्राप्त होता है।",
+          "transliteration": "Omityekākṣaraṃ brahma vyāharanmāmanusmaran |\nYaḥ prayāti tyajandehaṃ sa yāti paramāṃ gatim ||8.13||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अनन्यचेताः सततं यो मां स्मरति नित्यशः ।\nतस्याहं सुलभः पार्थ नित्ययुक्तस्य योगिनः ॥८.१४॥",
+          "meaning": "हे पार्थ! जो पुरुष अनन्य चित्त से सदा निरन्तर मुझे स्मरण करता है, उस नित्य मुझमें युक्त योगी के लिए मैं सुलभ हूँ।",
+          "transliteration": "Ananyacetāḥ satataṃ yo māṃ smarati nityaśaḥ |\nTasyāhaṃ sulabhaḥ pārtha nityayuktasya yoginaḥ ||8.14||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "gita_ch09",
+      "title": "अध्याय ९ - राजविद्याराजगुह्ययोग",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhagavad_gita/krishna_arjun.jpg",
+      "orderIndex": 9,
+      "content": [
+        {
+          "shloka": "श्रीभगवानुवाच ।\nइदं तु ते गुह्यतमं प्रवक्ष्याम्यनसूयवे ।\nज्ञानं विज्ञानसहितं यज्ज्ञात्वा मोक्ष्यसेऽशुभात् ॥९.१॥",
+          "meaning": "श्रीभगवान ने कहा — दोषदृष्टि से रहित तुझे मैं इस परम गोपनीय विज्ञानसहित ज्ञान को कहूँगा, जिसे जानकर तू अशुभ (संसार बन्धन) से मुक्त हो जाएगा।",
+          "transliteration": "Śrībhagavānuvāca |\nIdaṃ tu te guhyatamaṃ pravakṣyāmyanasūyave |\nJñānaṃ vijñānasahitaṃ yajjñātvā mokṣyase'śubhāt ||9.1||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "राजविद्या राजगुह्यं पवित्रमिदमुत्तमम् ।\nप्रत्यक्षावगमं धर्म्यं सुसुखं कर्तुमव्ययम् ॥९.२॥",
+          "meaning": "यह ज्ञान विद्याओं का राजा, गोपनीयों में सर्वश्रेष्ठ, अत्यन्त पवित्र, उत्तम, प्रत्यक्ष अनुभव से जानने योग्य, धर्मयुक्त, अभ्यास करने में सुगम और अविनाशी है।",
+          "transliteration": "Rājavidyā rājaguhyaṃ pavitramidamuttamam |\nPratyakṣāvagamaṃ dharmyaṃ susukhaṃ kartumavyayam ||9.2||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "मया ततमिदं सर्वं जगदव्यक्तमूर्तिना ।\nमत्स्थानि सर्वभूतानि न चाहं तेष्ववस्थितः ॥९.४॥",
+          "meaning": "मुझ अव्यक्त मूर्ति वाले परमात्मा से यह सम्पूर्ण जगत् व्याप्त है। सभी प्राणी मुझमें स्थित हैं, परन्तु मैं उनमें स्थित नहीं हूँ।",
+          "transliteration": "Mayā tatamidaṃ sarvaṃ jagadavyaktamūrtinā |\nMatsthāni sarvabhūtāni na cāhaṃ teṣvavasthitaḥ ||9.4||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "न च मत्स्थानि भूतानि पश्य मे योगमैश्वरम् ।\nभूतभृन्न च भूतस्थो ममात्मा भूतभावनः ॥९.५॥",
+          "meaning": "और वे प्राणी मुझमें स्थित भी नहीं हैं — मेरी ईश्वरीय योगशक्ति को देख! प्राणियों को उत्पन्न करने वाला और धारण करने वाला मेरा आत्मा प्राणियों में स्थित नहीं है।",
+          "transliteration": "Na ca matsthāni bhūtāni paśya me yogamaiśvaram |\nBhūtabhṛnna ca bhūtastho mamātmā bhūtabhāvanaḥ ||9.5||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "पत्रं पुष्पं फलं तोयं यो मे भक्त्या प्रयच्छति ।\nतदहं भक्त्युपहृतमश्नामि प्रयतात्मनः ॥९.२६॥",
+          "meaning": "जो कोई भक्त मेरे लिए प्रेमपूर्वक पत्र, पुष्प, फल या जल अर्पित करता है, उस शुद्ध हृदय वाले भक्त का प्रेमपूर्वक अर्पित किया हुआ वह मैं ग्रहण करता हूँ।",
+          "transliteration": "Patraṃ puṣpaṃ phalaṃ toyaṃ yo me bhaktyā prayacchati |\nTadahaṃ bhaktyupahṛtamaśnāmi prayatātmanaḥ ||9.26||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "यत्करोषि यदश्नासि यज्जुहोषि ददासि यत् ।\nयत्तपस्यसि कौन्तेय तत्कुरुष्व मदर्पणम् ॥९.२७॥",
+          "meaning": "हे कौन्तेय! तू जो कुछ करता है, जो खाता है, जो हवन करता है, जो दान देता है और जो तप करता है — वह सब मुझे अर्पण कर।",
+          "transliteration": "Yatkaroṣi yadaśnāsi yajjuhoṣi dadāsi yat |\nYattapasyasi kaunteya tatkuruṣva madarpaṇam ||9.27||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "समोऽहं सर्वभूतेषु न मे द्वेष्योऽस्ति न प्रियः ।\nये भजन्ति तु मां भक्त्या मयि ते तेषु चाप्यहम् ॥९.२९॥",
+          "meaning": "मैं सभी प्राणियों में समान हूँ — न कोई मेरा द्वेषपात्र है और न प्रिय। परन्तु जो भक्तिपूर्वक मेरा भजन करते हैं, वे मुझमें हैं और मैं भी उनमें हूँ।",
+          "transliteration": "Samo'haṃ sarvabhūteṣu na me dveṣyo'sti na priyaḥ |\nYe bhajanti tu māṃ bhaktyā mayi te teṣu cāpyaham ||9.29||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु ।\nमामेवैष्यसि युक्त्वैवमात्मानं मत्परायणः ॥९.३४॥",
+          "meaning": "मुझमें मन लगा, मेरा भक्त बन, मेरा पूजन कर और मुझे प्रणाम कर। इस प्रकार मेरे परायण होकर अपने आत्मा को मुझमें युक्त करके तू मुझे ही प्राप्त होगा।",
+          "transliteration": "Manmanā bhava madbhakto madyājī māṃ namaskuru |\nMāmevaiṣyasi yuktvaivamātmānaṃ matparāyaṇaḥ ||9.34||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "gita_ch10",
+      "title": "अध्याय १० - विभूतियोग",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhagavad_gita/krishna_arjun.jpg",
+      "orderIndex": 10,
+      "content": [
+        {
+          "shloka": "श्रीभगवानुवाच ।\nभूय एव महाबाहो शृणु मे परमं वचः ।\nयत्तेऽहं प्रीयमाणाय वक्ष्यामि हितकाम्यया ॥१०.१॥",
+          "meaning": "श्रीभगवान ने कहा — हे महाबाहो! फिर से मेरे परम वचन सुन। तेरे हित की इच्छा से मैं प्रीतिपूर्वक सुनने वाले तुझे यह कहूँगा।",
+          "transliteration": "Śrībhagavānuvāca |\nBhūya eva mahābāho śṛṇu me paramaṃ vacaḥ |\nYatte'haṃ prīyamāṇāya vakṣyāmi hitakāmyayā ||10.1||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "न मे विदुः सुरगणाः प्रभवं न महर्षयः ।\nअहमादिर्हि देवानां महर्षीणां च सर्वशः ॥१०.२॥",
+          "meaning": "मेरे उत्पत्ति (प्रभाव) को न देवता जानते हैं और न महर्षिगण। क्योंकि मैं सभी प्रकार से देवताओं और महर्षियों का आदि (मूल कारण) हूँ।",
+          "transliteration": "Na me viduḥ suragaṇāḥ prabhavaṃ na maharṣayaḥ |\nAhamādirhi devānāṃ maharṣīṇāṃ ca sarvaśaḥ ||10.2||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अहमात्मा गुडाकेश सर्वभूताशयस्थितः ।\nअहमादिश्च मध्यं च भूतानामन्त एव च ॥१०.२०॥",
+          "meaning": "हे गुडाकेश! मैं सभी प्राणियों के हृदय में स्थित आत्मा हूँ तथा सभी भूतों का आदि, मध्य और अन्त भी मैं ही हूँ।",
+          "transliteration": "Ahamātmā guḍākeśa sarvabhūtāśayasthitaḥ |\nAhamādiśca madhyaṃ ca bhūtānāmanta eva ca ||10.20||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "आदित्यानामहं विष्णुर्ज्योतिषां रविरंशुमान् ।\nमरीचिर्मरुतामस्मि नक्षत्राणामहं शशी ॥१०.२१॥",
+          "meaning": "आदित्यों में मैं विष्णु हूँ, ज्योतियों में किरणों वाला सूर्य हूँ, मरुतों (वायुदेवताओं) में मरीचि हूँ और नक्षत्रों में चन्द्रमा हूँ।",
+          "transliteration": "Ādityānāmahaṃ viṣṇurjyotiṣāṃ raviraṃśumān |\nMarīcirmarutāmasmi nakṣatrāṇāmahaṃ śaśī ||10.21||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "वेदानां सामवेदोऽस्मि देवानामस्मि वासवः ।\nइन्द्रियाणां मनश्चास्मि भूतानामस्मि चेतना ॥१०.२२॥",
+          "meaning": "वेदों में मैं सामवेद हूँ, देवताओं में इन्द्र हूँ, इन्द्रियों में मन हूँ और प्राणियों की चेतना (जीवनशक्ति) मैं हूँ।",
+          "transliteration": "Vedānāṃ sāmavedo'smi devānāmasmi vāsavaḥ |\nIndriyāṇāṃ manaścāsmi bhūtānāmasmi cetanā ||10.22||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "पवनः पवतामस्मि रामः शस्त्रभृतामहम् ।\nझषाणां मकरश्चास्मि स्रोतसामस्मि जाह्नवी ॥१०.३१॥",
+          "meaning": "पवित्र करने वालों में मैं वायु हूँ, शस्त्रधारियों में राम हूँ, मछलियों में मकर (मगरमच्छ) हूँ और नदियों में गंगा हूँ।",
+          "transliteration": "Pavanaḥ pavatāmasmi rāmaḥ śastrabhṛtāmaham |\nJhaṣāṇāṃ makaraścāsmi srotasāmasmi jāhnavī ||10.31||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "यद्यद्विभूतिमत्सत्त्वं श्रीमदूर्जितमेव वा ।\nतत्तदेवावगच्छ त्वं मम तेजोंऽशसम्भवम् ॥१०.४१॥",
+          "meaning": "जो-जो भी विभूतिमान (ऐश्वर्यपूर्ण), शोभासम्पन्न और शक्तिशाली वस्तु है — तू उस-उस को मेरे तेज के अंश से ही उत्पन्न हुई जान।",
+          "transliteration": "Yadyadvibhūtimatsattvaṃ śrīmadūrjitameva vā |\nTattadevāvagaccha tvaṃ mama tejoṃ'śasambhavam ||10.41||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अथवा बहुनैतेन किं ज्ञातेन तवार्जुन ।\nविष्टभ्याहमिदं कृत्स्नमेकांशेन स्थितो जगत् ॥१०.४२॥",
+          "meaning": "अथवा हे अर्जुन! इस बहुत जानने से तेरा क्या प्रयोजन है? मैं इस सम्पूर्ण जगत् को अपने एक अंशमात्र से धारण करके स्थित हूँ।",
+          "transliteration": "Athavā bahunaitena kiṃ jñātena tavārjuna |\nViṣṭabhyāhamidaṃ kṛtsnamekāṃśena sthito jagat ||10.42||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "gita_ch11",
+      "title": "अध्याय ११ - विश्वरूपदर्शनयोग",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhagavad_gita/krishna_arjun.jpg",
+      "orderIndex": 11,
+      "content": [
+        {
+          "shloka": "अर्जुन उवाच ।\nमदनुग्रहाय परमं गुह्यमध्यात्मसंज्ञितम् ।\nयत्त्वयोक्तं वचस्तेन मोहोऽयं विगतो मम ॥११.१॥",
+          "meaning": "अर्जुन ने कहा — मुझ पर अनुग्रह करने के लिए आपने जो परम गोपनीय अध्यात्म-विषयक वचन कहे हैं, उनसे मेरा यह मोह दूर हो गया है।",
+          "transliteration": "Arjuna uvāca |\nMadanugrahāya paramaṃ guhyamadhyātmasaṃjñitam |\nYattvayoktaṃ vacastena moho'yaṃ vigato mama ||11.1||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "द्रष्टुमिच्छामि ते रूपमैश्वरं पुरुषोत्तम ।\nयदि मन्यसे तद्द्रष्टुं शक्यं मे इति प्रभो ।\nदर्शयात्मानमव्ययम् ॥११.३-४॥",
+          "meaning": "हे पुरुषोत्तम! मैं आपके ईश्वरीय रूप को देखना चाहता हूँ। हे प्रभो! यदि आप मुझे वह देखने योग्य मानते हैं तो अपने अविनाशी स्वरूप का दर्शन कराइए।",
+          "transliteration": "Draṣṭumicchāmi te rūpamaiśvaraṃ puruṣottama |\nYadi manyase taddraṣṭuṃ śakyaṃ me iti prabho |\nDarśayātmānamavyayam ||11.3-4||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "श्रीभगवानुवाच ।\nपश्य मे पार्थ रूपाणि शतशोऽथ सहस्रशः ।\nनानाविधानि दिव्यानि नानावर्णाकृतीनि च ॥११.५॥",
+          "meaning": "श्रीभगवान ने कहा — हे पार्थ! मेरे सैकड़ों-हजारों नाना प्रकार के, दिव्य तथा अनेक वर्णों और आकृतियों वाले रूपों को देख।",
+          "transliteration": "Śrībhagavānuvāca |\nPaśya me pārtha rūpāṇi śataśo'tha sahasraśaḥ |\nNānāvidhāni divyāni nānāvarṇākṛtīni ca ||11.5||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "इहैकस्थं जगत्कृत्स्नं पश्याद्य सचराचरम् ।\nमम देहे गुडाकेश यच्चान्यद्द्रष्टुमिच्छसि ॥११.७॥",
+          "meaning": "हे गुडाकेश! अब मेरे इस शरीर में एक ही स्थान पर स्थित चराचर सहित सम्पूर्ण जगत् को देख और जो कुछ भी तू देखना चाहता है उसे भी देख।",
+          "transliteration": "Ihaikasthaṃ jagatkṛtsnaṃ paśyādya sacarācaram |\nMama dehe guḍākeśa yaccānyaddraṣṭumicchasi ||11.7||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "दिवि सूर्यसहस्रस्य भवेद्युगपदुत्थिता ।\nयदि भाः सदृशी सा स्याद्भासस्तस्य महात्मनः ॥११.१२॥",
+          "meaning": "आकाश में एक साथ हजार सूर्यों का प्रकाश भी उदित हो जाए, तो वह भी उस महात्मा (विश्वरूप) के प्रकाश के सदृश कदाचित् हो सके।",
+          "transliteration": "Divi sūryasahasrasya bhavedyugapadutthitā |\nYadi bhāḥ sadṛśī sā syādbhāsastasya mahātmanaḥ ||11.12||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कालोऽस्मि लोकक्षयकृत्प्रवृद्धो\nलोकान्समाहर्तुमिह प्रवृत्तः ।\nऋतेऽपि त्वां न भविष्यन्ति सर्वे\nयेऽवस्थिताः प्रत्यनीकेषु योधाः ॥११.३२॥",
+          "meaning": "मैं लोकों का नाश करने वाला बढ़ा हुआ काल हूँ। इस समय इन लोकों को नष्ट करने के लिए प्रवृत्त हूँ। तेरे बिना भी सामने खड़े ये सब योद्धा नहीं रहेंगे।",
+          "transliteration": "Kālo'smi lokakṣayakṛtpravṛddho\nLokānsamāhartumiha pravṛttaḥ |\nṚte'pi tvāṃ na bhaviṣyanti sarve\nYe'vasthitāḥ pratyanīkeṣu yodhāḥ ||11.32||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "तस्मात्त्वमुत्तिष्ठ यशो लभस्व\nजित्वा शत्रून् भुङ्क्ष्व राज्यं समृद्धम् ।\nमयैवैते निहताः पूर्वमेव\nनिमित्तमात्रं भव सव्यसाचिन् ॥११.३३॥",
+          "meaning": "इसलिए तू उठ, यश प्राप्त कर। शत्रुओं को जीतकर समृद्ध राज्य भोग। ये सब पहले से ही मेरे द्वारा मारे जा चुके हैं। हे सव्यसाचिन्! तू केवल निमित्तमात्र बन।",
+          "transliteration": "Tasmāttvamuttiṣṭha yaśo labhasva\nJitvā śatrūn bhuṅkṣva rājyaṃ samṛddham |\nMayaivaite nihatāḥ pūrvameva\nNimittamātraṃ bhava savyasācin ||11.33||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अर्जुन उवाच ।\nस्थाने हृषीकेश तव प्रकीर्त्या\nजगत्प्रहृष्यत्यनुरज्यते च ।\nरक्षांसि भीतानि दिशो द्रवन्ति\nसर्वे नमस्यन्ति च सिद्धसङ्घाः ॥११.३६॥",
+          "meaning": "अर्जुन ने कहा — हे हृषीकेश! यह उचित ही है कि आपके गुणगान से जगत् हर्षित होता है और अनुराग करता है। राक्षस भयभीत होकर दिशाओं में भागते हैं और सिद्धों के समूह आपको नमस्कार करते हैं।",
+          "transliteration": "Arjuna uvāca |\nSthāne hṛṣīkeśa tava prakīrtyā\nJagatprahṛṣyatyanurajyate ca |\nRakṣāṃsi bhītāni diśo dravanti\nSarve namasyanti ca siddhasaṅghāḥ ||11.36||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "gita_ch12",
+      "title": "अध्याय १२ - भक्तियोग",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhagavad_gita/krishna_arjun.jpg",
+      "orderIndex": 12,
+      "content": [
+        {
+          "shloka": "अर्जुन उवाच ।\nएवं सततयुक्ता ये भक्तास्त्वां पर्युपासते ।\nये चाप्यक्षरमव्यक्तं तेषां के योगवित्तमाः ॥१२.१॥",
+          "meaning": "अर्जुन ने कहा — जो भक्त इस प्रकार निरन्तर आपमें लगे हुए आपकी उपासना करते हैं और जो अक्षर अव्यक्त की उपासना करते हैं — उनमें श्रेष्ठ योगवेत्ता कौन हैं?",
+          "transliteration": "Arjuna uvāca |\nEvaṃ satatayuktā ye bhaktāstvāṃ paryupāsate |\nYe cāpyakṣaramavyaktaṃ teṣāṃ ke yogavittamāḥ ||12.1||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "श्रीभगवानुवाच ।\nमय्यावेश्य मनो ये मां नित्ययुक्ता उपासते ।\nश्रद्धया परयोपेतास्ते मे युक्ततमा मताः ॥१२.२॥",
+          "meaning": "श्रीभगवान ने कहा — मुझमें मन लगाकर जो भक्त निरन्तर मुझमें लगे हुए परम श्रद्धा से युक्त होकर मेरी उपासना करते हैं, वे मेरे मत में सबसे श्रेष्ठ योगी हैं।",
+          "transliteration": "Śrībhagavānuvāca |\nMayyāveśya mano ye māṃ nityayuktā upāsate |\nŚraddhayā parayopetāste me yuktatamā matāḥ ||12.2||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अथ चित्तं समाधातुं न शक्नोषि मयि स्थिरम् ।\nअभ्यासयोगेन ततो मामिच्छाप्तुं धनञ्जय ॥१२.९॥",
+          "meaning": "यदि तू अपने चित्त को मुझमें स्थिर करने में समर्थ नहीं है, तो हे धनञ्जय! अभ्यासयोग के द्वारा मुझे प्राप्त करने की इच्छा कर।",
+          "transliteration": "Atha cittaṃ samādhātuṃ na śaknoṣi mayi sthiram |\nAbhyāsayogena tato māmicchāptuṃ dhanañjaya ||12.9||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अभ्यासेऽप्यसमर्थोऽसि मत्कर्मपरमो भव ।\nमदर्थमपि कर्माणि कुर्वन्सिद्धिमवाप्स्यसि ॥१२.१०॥",
+          "meaning": "यदि तू अभ्यास में भी असमर्थ है, तो मेरे लिए कर्म करने को ही परम लक्ष्य बना। मेरे लिए कर्म करता हुआ भी तू सिद्धि को प्राप्त होगा।",
+          "transliteration": "Abhyāse'pyasamartho'si matkarmaparamo bhava |\nMadarthamapi karmāṇi kurvansiddhimavāpsyasi ||12.10||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "श्रेयो हि ज्ञानमभ्यासाज्ज्ञानाद्ध्यानं विशिष्यते ।\nध्यानात्कर्मफलत्यागस्त्यागाच्छान्तिरनन्तरम् ॥१२.१२॥",
+          "meaning": "अभ्यास से ज्ञान श्रेष्ठ है, ज्ञान से ध्यान विशिष्ट है, ध्यान से कर्मफल का त्याग श्रेष्ठ है, क्योंकि त्याग से तुरन्त शान्ति प्राप्त होती है।",
+          "transliteration": "Śreyo hi jñānamabhyāsājjñānāddhyānaṃ viśiṣyate |\nDhyānātkarmaphalatyāgastyāgācchāntiranantaram ||12.12||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अद्वेष्टा सर्वभूतानां मैत्रः करुण एव च ।\nनिर्ममो निरहङ्कारः समदुःखसुखः क्षमी ॥१२.१३॥",
+          "meaning": "जो सभी प्राणियों से द्वेष नहीं करता, सबका मित्र और करुणामय है, ममता और अहंकार से रहित है, सुख-दुःख में समान रहने वाला और क्षमाशील है —",
+          "transliteration": "Adveṣṭā sarvabhūtānāṃ maitraḥ karuṇa eva ca |\nNirmamo nirahaṅkāraḥ samaduḥkhasukhaḥ kṣamī ||12.13||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सन्तुष्टः सततं योगी यतात्मा दृढनिश्चयः ।\nमय्यर्पितमनोबुद्धिर्यो मद्भक्तः स मे प्रियः ॥१२.१४॥",
+          "meaning": "— सदा सन्तुष्ट रहने वाला, योगी, संयमी, दृढ़ निश्चय वाला तथा मुझमें अर्पित मन-बुद्धि वाला जो मेरा भक्त है, वह मुझे प्रिय है।",
+          "transliteration": "Santuṣṭaḥ satataṃ yogī yatātmā dṛḍhaniścayaḥ |\nMayyarpitamanobuddhiryo madbhaktaḥ sa me priyaḥ ||12.14||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "समः शत्रौ च मित्रे च तथा मानापमानयोः ।\nशीतोष्णसुखदुःखेषु समः सङ्गविवर्जितः ॥\nतुल्यनिन्दास्तुतिर्मौनी सन्तुष्टो येन केनचित् ।\nअनिकेतः स्थिरमतिर्भक्तिमान्मे प्रियो नरः ॥१२.१८-१९॥",
+          "meaning": "जो शत्रु-मित्र में, मान-अपमान में, शीत-उष्ण तथा सुख-दुःख में समान है, आसक्ति से रहित है, निन्दा-स्तुति में समान, मौनी, जो कुछ भी मिले उसमें सन्तुष्ट, बिना निश्चित आवास के, स्थिर बुद्धि वाला और भक्तिमान है — वह मनुष्य मुझे प्रिय है।",
+          "transliteration": "Samaḥ śatrau ca mitre ca tathā mānāpamānayoḥ |\nŚītoṣṇasukhaduḥkheṣu samaḥ saṅgavivarjitaḥ ||\nTulyanindāstutirmaunī santuṣṭo yena kenacit |\nAniketaḥ sthiramatirbhaktimānme priyo naraḥ ||12.18-19||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "gita_ch13",
+      "title": "अध्याय १३ - क्षेत्रक्षेत्रज्ञविभागयोग",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhagavad_gita/krishna_arjun.jpg",
+      "orderIndex": 13,
+      "content": [
+        {
+          "shloka": "श्रीभगवानुवाच ।\nइदं शरीरं कौन्तेय क्षेत्रमित्यभिधीयते ।\nएतद्यो वेत्ति तं प्राहुः क्षेत्रज्ञ इति तद्विदः ॥१३.२॥",
+          "meaning": "श्रीभगवान ने कहा — हे कौन्तेय! यह शरीर 'क्षेत्र' कहलाता है और इसे जो जानता है उसे तत्त्वज्ञानी लोग 'क्षेत्रज्ञ' कहते हैं।",
+          "transliteration": "Śrībhagavānuvāca |\nIdaṃ śarīraṃ kaunteya kṣetramityabhidhīyate |\nEtadyo vetti taṃ prāhuḥ kṣetrajña iti tadvidaḥ ||13.2||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "क्षेत्रज्ञं चापि मां विद्धि सर्वक्षेत्रेषु भारत ।\nक्षेत्रक्षेत्रज्ञयोर्ज्ञानं यत्तज्ज्ञानं मतं मम ॥१३.३॥",
+          "meaning": "हे भारत! तू सब क्षेत्रों में क्षेत्रज्ञ भी मुझे ही जान। क्षेत्र और क्षेत्रज्ञ का जो ज्ञान है, वही मेरे मत में ज्ञान है।",
+          "transliteration": "Kṣetrajñaṃ cāpi māṃ viddhi sarvakṣetreṣu bhārata |\nKṣetrakṣetrajñayorjñānaṃ yattajjñānaṃ mataṃ mama ||13.3||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "महाभूतान्यहङ्कारो बुद्धिरव्यक्तमेव च ।\nइन्द्रियाणि दशैकं च पञ्च चेन्द्रियगोचराः ॥१३.६॥",
+          "meaning": "पाँच महाभूत, अहंकार, बुद्धि, अव्यक्त (मूल प्रकृति), दस इन्द्रियाँ, एक मन और पाँच इन्द्रियों के विषय —",
+          "transliteration": "Mahābhūtānyahaṅkāro buddhiravyaktameva ca |\nIndriyāṇi daśaikaṃ ca pañca cendriyagocarāḥ ||13.6||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अमानित्वमदम्भित्वमहिंसा क्षान्तिरार्जवम् ।\nआचार्योपासनं शौचं स्थैर्यमात्मविनिग्रहः ॥१३.८॥",
+          "meaning": "विनम्रता, दम्भहीनता, अहिंसा, क्षमा, सरलता, गुरुसेवा, शुचिता, स्थिरता और आत्मसंयम —",
+          "transliteration": "Amānitvamadambhitvamahiṃsā kṣāntirārjavam |\nĀcāryopāsanaṃ śaucaṃ sthairyamātmavinigrahaḥ ||13.8||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ज्ञेयं यत्तत्प्रवक्ष्यामि यज्ज्ञात्वामृतमश्नुते ।\nअनादिमत्परं ब्रह्म न सत्तन्नासदुच्यते ॥१३.१३॥",
+          "meaning": "जो जानने योग्य है वह मैं बताता हूँ, जिसे जानकर मनुष्य अमृतत्व प्राप्त करता है। वह अनादि परब्रह्म न सत् कहा जाता है न असत्।",
+          "transliteration": "Jñeyaṃ yattatpravakṣyāmi yajjñātvāmṛtamaśnute |\nAnādimatparaṃ brahma na sattannāsaducyate ||13.13||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सर्वतः पाणिपादं तत्सर्वतोऽक्षिशिरोमुखम् ।\nसर्वतः श्रुतिमल्लोके सर्वमावृत्य तिष्ठति ॥१३.१४॥",
+          "meaning": "सब ओर हाथ-पैर वाला, सब ओर नेत्र, सिर और मुख वाला, सब ओर कान वाला — वह संसार में सबको व्याप्त करके स्थित है।",
+          "transliteration": "Sarvataḥ pāṇipādaṃ tatsarvato'kṣiśiromukham |\nSarvataḥ śrutimalloke sarvamāvṛtya tiṣṭhati ||13.14||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "उपद्रष्टानुमन्ता च भर्ता भोक्ता महेश्वरः ।\nपरमात्मेति चाप्युक्तो देहेऽस्मिन्पुरुषः परः ॥१३.२३॥",
+          "meaning": "इस देह में स्थित परम पुरुष साक्षी, अनुमति देने वाला, भरण करने वाला, भोक्ता, महेश्वर और परमात्मा भी कहा गया है।",
+          "transliteration": "Upadraṣṭānumantā ca bhartā bhoktā maheśvaraḥ |\nParamātmeti cāpyukto dehe'sminpuruṣaḥ paraḥ ||13.23||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "क्षेत्रक्षेत्रज्ञयोरेवमन्तरं ज्ञानचक्षुषा ।\nभूतप्रकृतिमोक्षं च ये विदुर्यान्ति ते परम् ॥१३.३५॥",
+          "meaning": "इस प्रकार क्षेत्र और क्षेत्रज्ञ के भेद को तथा प्रकृति से मुक्ति को जो ज्ञान-चक्षु से जानते हैं, वे परम गति को प्राप्त होते हैं।",
+          "transliteration": "Kṣetrakṣetrajñayorevamantaraṃ jñānacakṣuṣā |\nBhūtaprakṛtimokṣaṃ ca ye viduryānti te param ||13.35||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "gita_ch14",
+      "title": "अध्याय १४ - गुणत्रयविभागयोग",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhagavad_gita/krishna_arjun.jpg",
+      "orderIndex": 14,
+      "content": [
+        {
+          "shloka": "श्रीभगवानुवाच ।\nपरं भूयः प्रवक्ष्यामि ज्ञानानां ज्ञानमुत्तमम् ।\nयज्ज्ञात्वा मुनयः सर्वे परां सिद्धिमितो गताः ॥१४.१॥",
+          "meaning": "श्रीभगवान ने कहा — मैं फिर से ज्ञानों में उत्तम परम ज्ञान कहूँगा, जिसे जानकर सब मुनि इस संसार से मुक्त होकर परम सिद्धि को प्राप्त हुए हैं।",
+          "transliteration": "Śrībhagavānuvāca |\nParaṃ bhūyaḥ pravakṣyāmi jñānānāṃ jñānamuttamam |\nYajjñātvā munayaḥ sarve parāṃ siddhimito gatāḥ ||14.1||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "मम योनिर्महद्ब्रह्म तस्मिन्गर्भं दधाम्यहम् ।\nसम्भवः सर्वभूतानां ततो भवति भारत ॥१४.३॥",
+          "meaning": "हे भारत! मेरी मूल प्रकृति (महद् ब्रह्म) योनि है, उसमें मैं गर्भ स्थापित करता हूँ। उससे समस्त प्राणियों की उत्पत्ति होती है।",
+          "transliteration": "Mama yonirmahadbrahma tasmingarbhaṃ dadhāmyaham |\nSambhavaḥ sarvabhūtānāṃ tato bhavati bhārata ||14.3||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सत्त्वं रजस्तम इति गुणाः प्रकृतिसम्भवाः ।\nनिबध्नन्ति महाबाहो देहे देहिनमव्ययम् ॥१४.५॥",
+          "meaning": "हे महाबाहो! सत्त्व, रजस् और तमस् — ये तीन गुण प्रकृति से उत्पन्न होते हैं और अविनाशी जीवात्मा को देह में बाँधते हैं।",
+          "transliteration": "Sattvaṃ rajastama iti guṇāḥ prakṛtisambhavāḥ |\nNibadhnanti mahābāho dehe dehinamavyayam ||14.5||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "तत्र सत्त्वं निर्मलत्वात्प्रकाशकमनामयम् ।\nसुखसङ्गेन बध्नाति ज्ञानसङ्गेन चानघ ॥१४.६॥",
+          "meaning": "हे निष्पाप! उनमें सत्त्वगुण निर्मल होने से प्रकाशक और निरोग है। वह सुख के आसक्ति और ज्ञान की आसक्ति से बाँधता है।",
+          "transliteration": "Tatra sattvaṃ nirmalatvātprakāśakamanāmayam |\nSukhasaṅgena badhnāti jñānasaṅgena cānagha ||14.6||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "रजो रागात्मकं विद्धि तृष्णासङ्गसमुद्भवम् ।\nतन्निबध्नाति कौन्तेय कर्मसङ्गेन देहिनम् ॥१४.७॥",
+          "meaning": "हे कौन्तेय! रजोगुण को रागस्वरूप जान, जो तृष्णा और आसक्ति से उत्पन्न होता है। वह जीवात्मा को कर्मों की आसक्ति से बाँधता है।",
+          "transliteration": "Rajo rāgātmakaṃ viddhi tṛṣṇāsaṅgasamudbhavam |\nTannibadhnāti kaunteya karmasaṅgena dehinam ||14.7||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "तमस्त्वज्ञानजं विद्धि मोहनं सर्वदेहिनाम् ।\nप्रमादालस्यनिद्राभिस्तन्निबध्नाति भारत ॥१४.८॥",
+          "meaning": "हे भारत! तमोगुण को अज्ञान से उत्पन्न जान, जो सब देहधारियों को मोहित करने वाला है। वह प्रमाद, आलस्य और निद्रा द्वारा बाँधता है।",
+          "transliteration": "Tamastvajñānajaṃ viddhi mohanaṃ sarvadehinām |\nPramādālasyanidrābhistannibadhnāti bhārata ||14.8||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "गुणानेतानतीत्य त्रीन्देही देहसमुद्भवान् ।\nजन्ममृत्युजरादुःखैर्विमुक्तोऽमृतमश्नुते ॥१४.२०॥",
+          "meaning": "जब देहधारी इन देह से उत्पन्न तीनों गुणों को लाँघ जाता है, तब वह जन्म, मृत्यु, जरा और दुःखों से मुक्त होकर अमृतत्व प्राप्त करता है।",
+          "transliteration": "Guṇānetānatītya trīndehī dehasamudbhavān |\nJanmamṛtyujarāduḥkhairvimukto'mṛtamaśnute ||14.20||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "मां च योऽव्यभिचारेण भक्तियोगेन सेवते ।\nस गुणान्समतीत्यैतान्ब्रह्मभूयाय कल्पते ॥१४.२६॥",
+          "meaning": "और जो पुरुष अव्यभिचारी भक्तियोग द्वारा मेरी सेवा करता है, वह इन तीनों गुणों को पार करके ब्रह्मभाव को प्राप्त होने के योग्य हो जाता है।",
+          "transliteration": "Māṃ ca yo'vyabhicāreṇa bhaktiyogena sevate |\nSa guṇānsamatītyaitānbrahmabhūyāya kalpate ||14.26||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "gita_ch15",
+      "title": "अध्याय १५ - पुरुषोत्तमयोग",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhagavad_gita/krishna_arjun.jpg",
+      "orderIndex": 15,
+      "content": [
+        {
+          "shloka": "श्रीभगवानुवाच ।\nऊर्ध्वमूलमधःशाखमश्वत्थं प्राहुरव्ययम् ।\nछन्दांसि यस्य पर्णानि यस्तं वेद स वेदवित् ॥१५.१॥",
+          "meaning": "श्रीभगवान ने कहा — जिसकी जड़ ऊपर है और शाखाएँ नीचे हैं, ऐसे अविनाशी अश्वत्थ वृक्ष को जानने वाला वेदों का ज्ञाता है। वेद उसके पत्ते हैं।",
+          "transliteration": "Śrībhagavānuvāca |\nŪrdhvamūlamadhaḥśākhamaśvatthaṃ prāhuravyayam |\nChandāṃsi yasya parṇāni yastaṃ veda sa vedavit ||15.1||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "न रूपमस्येह तथोपलभ्यते नान्तो न चादिर्न च सम्प्रतिष्ठा ।\nअश्वत्थमेनं सुविरूढमूलमसङ्गशस्त्रेण दृढेन छित्त्वा ॥१५.३॥",
+          "meaning": "इस संसार-वृक्ष का स्वरूप जैसा है वैसा यहाँ नहीं जाना जाता, न इसका आदि है, न अन्त है, न प्रतिष्ठा। इस दृढ़ मूल वाले अश्वत्थ को वैराग्य रूपी शस्त्र से काटकर —",
+          "transliteration": "Na rūpamasyeha tathopalabhyate nānto na cādirna ca sampratiṣṭhā |\nAśvatthamenaṃ suvirūḍhamūlamasaṅgaśastreṇa dṛḍhena chittvā ||15.3||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ममैवांशो जीवलोके जीवभूतः सनातनः ।\nमनःषष्ठानीन्द्रियाणि प्रकृतिस्थानि कर्षति ॥१५.७॥",
+          "meaning": "इस जीवलोक में जीवभूत सनातन अंश मेरा ही है, जो प्रकृति में स्थित मन सहित छह इन्द्रियों को आकर्षित करता है।",
+          "transliteration": "Mamaivāṃśo jīvaloke jīvabhūtaḥ sanātanaḥ |\nManaḥṣaṣṭhānīndriyāṇi prakṛtisthāni karṣati ||15.7||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "शरीरं यदवाप्नोति यच्चाप्युत्क्रामतीश्वरः ।\nगृहीत्वैतानि संयाति वायुर्गन्धानिवाशयात् ॥१५.८॥",
+          "meaning": "जब यह जीवात्मा (ईश्वर) शरीर को प्राप्त करता है और जब छोड़ता है, तब इन इन्द्रियों को लेकर जाता है, जैसे वायु गन्ध को स्थान से ले जाता है।",
+          "transliteration": "Śarīraṃ yadavāpnoti yaccāpyutkrāmatīśvaraḥ |\nGṛhītvaitāni saṃyāti vāyurgandhānivāśayāt ||15.8||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सर्वस्य चाहं हृदि सन्निविष्टो\nमत्तः स्मृतिर्ज्ञानमपोहनं च ।\nवेदैश्च सर्वैरहमेव वेद्यो\nवेदान्तकृद्वेदविदेव चाहम् ॥१५.१५॥",
+          "meaning": "मैं सब प्राणियों के हृदय में स्थित हूँ। मुझसे ही स्मृति, ज्ञान और उनका अपोहन होता है। सब वेदों द्वारा मैं ही जानने योग्य हूँ। वेदान्त का कर्ता और वेद को जानने वाला भी मैं ही हूँ।",
+          "transliteration": "Sarvasya cāhaṃ hṛdi sanniviṣṭo\nMattaḥ smṛtirjñānamapohanaṃ ca |\nVedaiśca sarvairahameva vedyo\nVedāntakṛdvedavideva cāham ||15.15||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "द्वाविमौ पुरुषौ लोके क्षरश्चाक्षर एव च ।\nक्षरः सर्वाणि भूतानि कूटस्थोऽक्षर उच्यते ॥१५.१६॥",
+          "meaning": "इस लोक में दो पुरुष हैं — क्षर और अक्षर। सम्पूर्ण प्राणी क्षर हैं और कूटस्थ (जीवात्मा) अक्षर कहा जाता है।",
+          "transliteration": "Dvāvimau puruṣau loke kṣaraścākṣara eva ca |\nKṣaraḥ sarvāṇi bhūtāni kūṭastho'kṣara ucyate ||15.16||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "उत्तमः पुरुषस्त्वन्यः परमात्मेत्युदाहृतः ।\nयो लोकत्रयमाविश्य बिभर्त्यव्यय ईश्वरः ॥१५.१७॥",
+          "meaning": "परन्तु इन दोनों से भिन्न उत्तम पुरुष (परमात्मा) है, जो तीनों लोकों में प्रवेश करके सबका भरण-पोषण करता है — वह अविनाशी ईश्वर है।",
+          "transliteration": "Uttamaḥ puruṣastvanyaḥ paramātmetyudāhṛtaḥ |\nYo lokatrayamāviśya bibhartyavyaya īśvaraḥ ||15.17||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "यस्मात्क्षरमतीतोऽहमक्षरादपि चोत्तमः ।\nअतोऽस्मि लोके वेदे च प्रथितः पुरुषोत्तमः ॥१५.१८॥",
+          "meaning": "क्योंकि मैं क्षर से परे हूँ और अक्षर से भी उत्तम हूँ, इसलिए लोक में और वेद में 'पुरुषोत्तम' नाम से प्रसिद्ध हूँ।",
+          "transliteration": "Yasmātkṣaramatīto'hamakṣarādapi cottamaḥ |\nAto'smi loke vede ca prathitaḥ puruṣottamaḥ ||15.18||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "gita_ch16",
+      "title": "अध्याय १६ - दैवासुरसम्पद्विभागयोग",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhagavad_gita/krishna_arjun.jpg",
+      "orderIndex": 16,
+      "content": [
+        {
+          "shloka": "श्रीभगवानुवाच ।\nअभयं सत्त्वसंशुद्धिर्ज्ञानयोगव्यवस्थितिः ।\nदानं दमश्च यज्ञश्च स्वाध्यायस्तप आर्जवम् ॥१६.१॥",
+          "meaning": "श्रीभगवान ने कहा — भयहीनता, अन्तःकरण की शुद्धि, ज्ञानयोग में स्थिति, दान, इन्द्रिय-दमन, यज्ञ, स्वाध्याय, तप और सरलता —",
+          "transliteration": "Śrībhagavānuvāca |\nAbhayaṃ sattvasaṃśuddhirjñānayogavyavasthitiḥ |\nDānaṃ damaśca yajñaśca svādhyāyastapa ārjavam ||16.1||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अहिंसा सत्यमक्रोधस्त्यागः शान्तिरपैशुनम् ।\nदया भूतेष्वलोलुप्त्वं मार्दवं ह्रीरचापलम् ॥१६.२॥",
+          "meaning": "अहिंसा, सत्य, क्रोधहीनता, त्याग, शान्ति, चुगली न करना, प्राणियों पर दया, लोभहीनता, कोमलता, लज्जा और चपलताहीनता —",
+          "transliteration": "Ahiṃsā satyamakrodhastyāgaḥ śāntirapaiśunam |\nDayā bhūteṣvaloluptvaṃ mārdavaṃ hrīracāpalam ||16.2||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "दम्भो दर्पोऽभिमानश्च क्रोधः पारुष्यमेव च ।\nअज्ञानं चाभिजातस्य पार्थ सम्पदमासुरीम् ॥१६.४॥",
+          "meaning": "हे पार्थ! दम्भ, घमण्ड, अभिमान, क्रोध, कठोरता और अज्ञान — ये आसुरी सम्पत्ति को प्राप्त हुए मनुष्य के लक्षण हैं।",
+          "transliteration": "Dambho darpo'bhimānaśca krodhaḥ pāruṣyameva ca |\nAjñānaṃ cābhijātasya pārtha sampadamāsurīm ||16.4||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "दैवी सम्पद्विमोक्षाय निबन्धायासुरी मता ।\nमा शुचः सम्पदं दैवीमभिजातोऽसि पाण्डव ॥१६.५॥",
+          "meaning": "दैवी सम्पत्ति मोक्ष के लिए और आसुरी सम्पत्ति बन्धन के लिए मानी गई है। हे पाण्डव! तू शोक मत कर, तू दैवी सम्पत्ति को प्राप्त हुआ है।",
+          "transliteration": "Daivī sampadvimokṣāya nibandhāyāsurī matā |\nMā śucaḥ sampadaṃ daivīmabhijāto'si pāṇḍava ||16.5||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "प्रवृत्तिं च निवृत्तिं च जना न विदुरासुराः ।\nन शौचं नापि चाचारो न सत्यं तेषु विद्यते ॥१६.७॥",
+          "meaning": "आसुरी स्वभाव वाले लोग प्रवृत्ति और निवृत्ति दोनों को नहीं जानते। उनमें न शुचिता है, न सदाचार और न सत्य ही है।",
+          "transliteration": "Pravṛttiṃ ca nivṛttiṃ ca janā na vidurāsurāḥ |\nNa śaucaṃ nāpi cācāro na satyaṃ teṣu vidyate ||16.7||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "त्रिविधं नरकस्येदं द्वारं नाशनमात्मनः ।\nकामः क्रोधस्तथा लोभस्तस्मादेतत्त्रयं त्यजेत् ॥१६.२१॥",
+          "meaning": "काम, क्रोध और लोभ — ये तीन आत्मा का नाश करने वाले नरक के द्वार हैं। इसलिए इन तीनों को त्याग देना चाहिए।",
+          "transliteration": "Trividhaṃ narakasyedaṃ dvāraṃ nāśanamātmanaḥ |\nKāmaḥ krodhastathā lobhastasmādetattrayaṃ tyajet ||16.21||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "एतैर्विमुक्तः कौन्तेय तमोद्वारैस्त्रिभिर्नरः ।\nआचरत्यात्मनः श्रेयस्ततो याति परां गतिम् ॥१६.२२॥",
+          "meaning": "हे कौन्तेय! इन तीनों तमोमय द्वारों से मुक्त हुआ मनुष्य अपने कल्याण का आचरण करता है और तब परम गति को प्राप्त होता है।",
+          "transliteration": "Etairvimuktaḥ kaunteya tamodvāraistribhirnaraḥ |\nĀcaratyātmanaḥ śreyastato yāti parāṃ gatim ||16.22||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "तस्माच्छास्त्रं प्रमाणं ते कार्याकार्यव्यवस्थितौ ।\nज्ञात्वा शास्त्रविधानोक्तं कर्म कर्तुमिहार्हसि ॥१६.२४॥",
+          "meaning": "इसलिए कर्तव्य और अकर्तव्य की व्यवस्था में शास्त्र ही तेरा प्रमाण है। शास्त्रविधि को जानकर तुझे यहाँ कर्म करना उचित है।",
+          "transliteration": "Tasmācchāstraṃ pramāṇaṃ te kāryākāryavyavasthitau |\nJñātvā śāstravidhānoktaṃ karma kartumihārhasi ||16.24||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "gita_ch17",
+      "title": "अध्याय १७ - श्रद्धात्रयविभागयोग",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhagavad_gita/krishna_arjun.jpg",
+      "orderIndex": 17,
+      "content": [
+        {
+          "shloka": "अर्जुन उवाच ।\nये शास्त्रविधिमुत्सृज्य यजन्ते श्रद्धयान्विताः ।\nतेषां निष्ठा तु का कृष्ण सत्त्वमाहो रजस्तमः ॥१७.१॥",
+          "meaning": "अर्जुन ने कहा — हे कृष्ण! जो मनुष्य शास्त्रविधि को छोड़कर श्रद्धापूर्वक यजन करते हैं, उनकी निष्ठा कैसी है — सात्त्विकी, राजसी या तामसी?",
+          "transliteration": "Arjuna uvāca |\nYe śāstravidhimutsṛjya yajante śraddhayānvitāḥ |\nTeṣāṃ niṣṭhā tu kā kṛṣṇa sattvamāho rajastamaḥ ||17.1||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "श्रीभगवानुवाच ।\nत्रिविधा भवति श्रद्धा देहिनां सा स्वभावजा ।\nसात्त्विकी राजसी चैव तामसी चेति तां शृणु ॥१७.२॥",
+          "meaning": "श्रीभगवान ने कहा — देहधारियों की स्वभावजन्य श्रद्धा तीन प्रकार की होती है — सात्त्विकी, राजसी और तामसी। उसे सुन।",
+          "transliteration": "Śrībhagavānuvāca |\nTrividhā bhavati śraddhā dehināṃ sā svabhāvajā |\nSāttvikī rājasī caiva tāmasī ceti tāṃ śṛṇu ||17.2||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "आयुःसत्त्वबलारोग्यसुखप्रीतिविवर्धनाः ।\nरस्याः स्निग्धाः स्थिरा हृद्या आहाराः सात्त्विकप्रियाः ॥१७.८॥",
+          "meaning": "आयु, बुद्धि, बल, आरोग्य, सुख और प्रीति को बढ़ाने वाले, रसयुक्त, स्निग्ध, स्थिर और हृदय को प्रिय लगने वाले आहार सात्त्विक प्रिय होते हैं।",
+          "transliteration": "Āyuḥsattvabalārogyasukhaprītivivardhanāḥ |\nRasyāḥ snigdhāḥ sthirā hṛdyā āhārāḥ sāttvikapriyāḥ ||17.8||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "देवद्विजगुरुप्राज्ञपूजनं शौचमार्जवम् ।\nब्रह्मचर्यमहिंसा च शारीरं तप उच्यते ॥१७.१४॥",
+          "meaning": "देवता, ब्राह्मण, गुरु और ज्ञानीजनों की पूजा, शुचिता, सरलता, ब्रह्मचर्य और अहिंसा — ये शारीरिक तप कहे जाते हैं।",
+          "transliteration": "Devadvijaguruprājñapūjanaṃ śaucamārjavam |\nBrahmacaryamahiṃsā ca śārīraṃ tapa ucyate ||17.14||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अनुद्वेगकरं वाक्यं सत्यं प्रियहितं च यत् ।\nस्वाध्यायाभ्यसनं चैव वाङ्मयं तप उच्यते ॥१७.१५॥",
+          "meaning": "उद्वेग न करने वाला, सत्य, प्रिय और हितकारी वचन तथा स्वाध्याय का अभ्यास — यह वाणी का तप कहा जाता है।",
+          "transliteration": "Anudvegakaraṃ vākyaṃ satyaṃ priyahitaṃ ca yat |\nSvādhyāyābhyasanaṃ caiva vāṅmayaṃ tapa ucyate ||17.15||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "मनः प्रसादः सौम्यत्वं मौनमात्मविनिग्रहः ।\nभावसंशुद्धिरित्येतत्तपो मानसमुच्यते ॥१७.१६॥",
+          "meaning": "मन की प्रसन्नता, सौम्यभाव, मौन, आत्मसंयम और भावों की शुद्धि — ये मानसिक तप कहे जाते हैं।",
+          "transliteration": "Manaḥ prasādaḥ saumyatvaṃ maunamātmavinigrahaḥ |\nBhāvasaṃśuddhirityetattapo mānasamucyate ||17.16||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "दातव्यमिति यद्दानं दीयतेऽनुपकारिणे ।\nदेशे काले च पात्रे च तद्दानं सात्त्विकं स्मृतम् ॥१७.२०॥",
+          "meaning": "देना कर्तव्य है — इस भावना से जो दान बिना प्रत्युपकार की इच्छा से, उचित देश, काल और पात्र में दिया जाता है, वह सात्त्विक दान कहा गया है।",
+          "transliteration": "Dātavyamiti yaddānaṃ dīyate'nupakāriṇe |\nDeśe kāle ca pātre ca taddānaṃ sāttvikaṃ smṛtam ||17.20||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ तत्सदिति निर्देशो ब्रह्मणस्त्रिविधः स्मृतः ।\nब्राह्मणास्तेन वेदाश्च यज्ञाश्च विहिताः पुरा ॥१७.२३॥",
+          "meaning": "'ॐ तत् सत्' — यह ब्रह्म का तीन प्रकार का निर्देश कहा गया है। उसी से पूर्वकाल में ब्राह्मण, वेद और यज्ञ रचे गए।",
+          "transliteration": "Oṃ tatsaditi nirdeśo brahmaṇastrividhaḥ smṛtaḥ |\nBrāhmaṇāstena vedāśca yajñāśca vihitāḥ purā ||17.23||",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "gita_ch18",
+      "title": "अध्याय १८ - मोक्षसंन्यासयोग",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhagavad_gita/krishna_arjun.jpg",
+      "orderIndex": 18,
+      "content": [
+        {
+          "shloka": "अर्जुन उवाच ।\nसंन्यासस्य महाबाहो तत्त्वमिच्छामि वेदितुम् ।\nत्यागस्य च हृषीकेश पृथक्केशिनिषूदन ॥१८.१॥",
+          "meaning": "अर्जुन ने कहा — हे महाबाहो! हे हृषीकेश! हे केशिनिषूदन! मैं संन्यास और त्याग के तत्त्व को पृथक्-पृथक् जानना चाहता हूँ।",
+          "transliteration": "Arjuna uvāca |\nSaṃnyāsasya mahābāho tattvamicchāmi veditum |\nTyāgasya ca hṛṣīkeśa pṛthakkeśiniṣūdana ||18.1||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "नियतस्य तु संन्यासः कर्मणो नोपपद्यते ।\nमोहात्तस्य परित्यागस्तामसः परिकीर्तितः ॥१८.७॥",
+          "meaning": "नियत कर्म का त्याग उचित नहीं है। मोह से उसका परित्याग तामस त्याग कहा गया है।",
+          "transliteration": "Niyatasya tu saṃnyāsaḥ karmaṇo nopapadyate |\nMohāttasya parityāgastāmasaḥ parikīrtitaḥ ||18.7||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कर्मणः सुकृतस्याहुः सात्त्विकं निर्मलं फलम् ।\nरजसस्तु फलं दुःखमज्ञानं तमसः फलम् ॥१८.१२॥",
+          "meaning": "सात्त्विक कर्म का फल निर्मल और शुभ होता है, राजस कर्म का फल दुःख है और तामस कर्म का फल अज्ञान है।",
+          "transliteration": "Karmaṇaḥ sukṛtasyāhuḥ sāttvikaṃ nirmalaṃ phalam |\nRajasastu phalaṃ duḥkhamajñānaṃ tamasaḥ phalam ||18.12||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ईश्वरः सर्वभूतानां हृद्देशेऽर्जुन तिष्ठति ।\nभ्रामयन्सर्वभूतानि यन्त्रारूढानि मायया ॥१८.६१॥",
+          "meaning": "हे अर्जुन! ईश्वर सम्पूर्ण प्राणियों के हृदय में स्थित है और माया द्वारा सब प्राणियों को यंत्र पर आरूढ़ करके भ्रमण करा रहा है।",
+          "transliteration": "Īśvaraḥ sarvabhūtānāṃ hṛddeśe'rjuna tiṣṭhati |\nBhrāmayansarvabhūtāni yantrārūḍhāni māyayā ||18.61||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "तमेव शरणं गच्छ सर्वभावेन भारत ।\nतत्प्रसादात्परां शान्तिं स्थानं प्राप्स्यसि शाश्वतम् ॥१८.६२॥",
+          "meaning": "हे भारत! सम्पूर्ण भाव से उसी की शरण में जा। उसकी कृपा से तू परम शान्ति और शाश्वत धाम को प्राप्त होगा।",
+          "transliteration": "Tameva śaraṇaṃ gaccha sarvabhāvena bhārata |\nTatprasādātparāṃ śāntiṃ sthānaṃ prāpsyasi śāśvatam ||18.62||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज ।\nअहं त्वां सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः ॥१८.६६॥",
+          "meaning": "सम्पूर्ण धर्मों को छोड़कर केवल मेरी शरण में आ जा। मैं तुझे सब पापों से मुक्त कर दूँगा। शोक मत कर।",
+          "transliteration": "Sarvadharmānparityajya māmekaṃ śaraṇaṃ vraja |\nAhaṃ tvāṃ sarvapāpebhyo mokṣayiṣyāmi mā śucaḥ ||18.66||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "यत्र योगेश्वरः कृष्णो यत्र पार्थो धनुर्धरः ।\nतत्र श्रीर्विजयो भूतिर्ध्रुवा नीतिर्मतिर्मम ॥१८.७८॥",
+          "meaning": "जहाँ योगेश्वर श्रीकृष्ण हैं और जहाँ धनुर्धारी अर्जुन हैं, वहीं श्री, विजय, विभूति और अचल नीति है — ऐसा मेरा मत है।",
+          "transliteration": "Yatra yogeśvaraḥ kṛṣṇo yatra pārtho dhanurdharaḥ |\nTatra śrīrvijayo bhūtirdhruvā nītirmatirmama ||18.78||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "संजय उवाच ।\nइत्यहं वासुदेवस्य पार्थस्य च महात्मनः ।\nसंवादमिममश्रौषमद्भुतं रोमहर्षणम् ॥१८.७४॥",
+          "meaning": "संजय ने कहा — इस प्रकार मैंने वासुदेव और महात्मा अर्जुन का यह अद्भुत, रोमांचकारी संवाद सुना।",
+          "transliteration": "Saṃjaya uvāca |\nItyahaṃ vāsudevasya pārthasya ca mahātmanaḥ |\nSaṃvādamimamaśrauṣamadbhutaṃ romaharṣaṇam ||18.74||",
+          "imageUrl": null
+        }
+      ]
+    }
+  ]
+}

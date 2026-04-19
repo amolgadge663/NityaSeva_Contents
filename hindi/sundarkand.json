@@ -1,0 +1,336 @@
+{
+  "category": "Sundarkand Path",
+  "version": 1,
+  "items": [
+    {
+      "id": "sundar_doha_1",
+      "title": "दोहा १-५: हनुमान की लंका यात्रा",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/sundarkand/hanuman.jpg",
+      "orderIndex": 1,
+      "content": [
+        {
+          "shloka": "जामवंत के बचन सुहाए\nसुनि हनुमंत हृदय अति भाए\nतब लगि मोहि परिखेहु तुम्ह भाई\nसहि दुख कंद मूल फल खाई",
+          "meaning": "जामवंत के सुहावने वचन सुनकर हनुमान का हृदय अत्यंत प्रसन्न हुआ। उन्होंने कहा: हे भाइयों, तब तक कंद-मूल-फल खाकर कष्ट सहते हुए मेरी प्रतीक्षा करना।",
+          "transliteration": "Jāmavaṃta ke bacana suhāe\nSuni hanumaṃta hṛdaya ati bhāe\nTaba lagi mohi parikhehu tumha bhāī\nSahi dukha kaṃda mūla phala khāī",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जब लगि आवौं सीतहि देखी\nहोइहि काजु मोहि हरष बिसेषी\nयह कहि नाइ सबहि कहुँ माथा\nचलेउ हरषि हियँ धरि रघुनाथा",
+          "meaning": "जब तक मैं सीता को देखकर लौटूँ — कार्य अवश्य होगा, मुझे अत्यंत हर्ष है। यह कहकर सबको मस्तक नमाकर, हृदय में रघुनाथ को धारण कर प्रसन्नतापूर्वक चले।",
+          "transliteration": "Jaba lagi āvauṃ sītahi dekhī\nHoihi kāju mohi haraṣa biseṣī\nYaha kahi nāi sabahi kahu~ māthā\nCaleu haraṣi hiya~ dhari raghunāthā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सिंधु तीर एक भूधर सुंदरा\nकौतुक कूदि चढ़ेउ ता ऊपरा\nबार बार रघुबीर सँभारी\nतरकेउ पवनतनय बल भारी",
+          "meaning": "समुद्र के तट पर एक सुन्दर पर्वत था। खेल ही खेल में उस पर कूद पड़े। बार-बार रघुवीर को स्मरण करके पवनपुत्र अत्यंत बलशाली होकर उड़ चले।",
+          "transliteration": "Siṃdhu tīra eka bhūdhara suṃdarā\nKautuka kūdi car̤heu tā ūparā\nBāra bāra raghubīra sa~bhārī\nTarakeu pavanatanaya bala bhārī",
+          "imageUrl": null
+        },
+        {
+          "shloka": "जेहि गिरि चरण देइ हनुमंता\nचलेउ सो गा पाताल तुरंता\nजिमि अमोघ रघुपति कर बाना\nएहि भाँति चलेउ हनुमाना",
+          "meaning": "जिस पर्वत पर हनुमान ने चरण रखा, वह तुरन्त पाताल को चला गया। जैसे रघुपति का अमोघ बाण — इसी प्रकार हनुमान चले।",
+          "transliteration": "Jehi giri caraṇa dei hanumaṃtā\nCaleu so gā pātāla turaṃtā\nJimi amogha raghupati kara bānā\nEhi bhā~ti caleu hanumānā",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "sundar_doha_6_10",
+      "title": "दोहा ६-१०: सुरसा और सिंहिका प्रसंग",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/sundarkand/hanuman.jpg",
+      "orderIndex": 2,
+      "content": [
+        {
+          "shloka": "जलनिधि रघुपति दूत बिचारी\nतैं मैनाक होहि श्रम हारी\nहनुमान तेहि परस कर गयऊ\nताहि राम काजु कीन्ह भला भयऊ",
+          "meaning": "समुद्र ने रघुपति के दूत को पहचानकर मैनाक पर्वत से कहा: इनकी थकान दूर करो। हनुमान ने उसे स्पर्श कर आगे बढ़े — राम का कार्य शुभ हुआ।",
+          "transliteration": "Jalanidhi raghupati dūta bicārī\nTaiṃ maināka hohi śrama hārī\nHanumāna tehi parasa kara gayaū\nTāhi rāma kāju kīnha bhalā bhayaū",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सुरसा नाम अहिनि कै माता\nपठइ आसु सुरन्ह करि बाता\nआइ कही मोहि बिधाता भोजन दीन्हा",
+          "meaning": "सर्पों की माता सुरसा को देवताओं ने परीक्षा के लिए भेजा। वह आकर बोली: विधाता ने तुम्हें मेरा भोजन बनाया है।",
+          "transliteration": "Surasā nāma ahini kai mātā\nPaṭhai āsu suranha kari bātā\nĀi kahī mohi bidhātā bhojana dīnhā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सुरसा बदन पैठी पुनि आवा\nसूक्ष्म रूप धरि आशिष पावा\nमोहि सुरन्ह जेहि कारन पठावा\nबुधि बल मरमु तोर मैं पावा",
+          "meaning": "सुरसा के मुख में प्रवेश कर पुनः बाहर आ गए, सूक्ष्म रूप धारण कर आशीर्वाद पाया। सुरसा ने कहा: देवताओं ने जिस कारण मुझे भेजा, तुम्हारी बुद्धि और बल का मर्म मैंने जान लिया।",
+          "transliteration": "Surasā badana paiṭhī puni āvā\nSūkṣma rūpa dhari āśiṣa pāvā\nMohi suranha jehi kārana paṭhāvā\nBudhi bala maramu tora maiṃ pāvā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "निशिचरी एक सिंधु महुँ रही\nकरि माया नभु के खग गही\nजेहि कै छाहाँ खगना गृही\nसो सिंहिका नाम ताहि हनुमान मारि बिदाई",
+          "meaning": "एक राक्षसी समुद्र में रहती थी जो माया से आकाश के पक्षियों को पकड़ती — उनकी छाया पकड़कर। उसका नाम सिंहिका था — हनुमान ने उसे मारकर आगे बढ़े।",
+          "transliteration": "Niśicarī eka siṃdhu mahu~ rahī\nKari māyā nabhu ke khaga gahī\nJehi kai chāhā~ khaganā gṛhī\nSo siṃhikā nāma tāhi hanumāna māri bidāī",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "sundar_doha_11_15",
+      "title": "दोहा ११-१५: लंका में प्रवेश",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/sundarkand/hanuman.jpg",
+      "orderIndex": 3,
+      "content": [
+        {
+          "shloka": "ताहि मारि मारुतसुत बीरा\nजाइ पहुँचा लंकाहिं कपीरा\nलघु रूप धरि निसिहि गयऊ\nलंका कहुँ कपिहि रखवारू",
+          "meaning": "सिंहिका को मारकर वीर मारुतिसुत लंका जा पहुँचे। रात में लघु रूप धारण कर गए। लंका की रक्षिका ने वानर को रोका।",
+          "transliteration": "Tāhi māri mārutasuta bīrā\nJāi pahu~cā laṃkāhiṃ kapīrā\nLaghu rūpa dhari nisihi gayaū\nLaṃkā kahu~ kapihi rakhavārū",
+          "imageUrl": null
+        },
+        {
+          "shloka": "लंकिनी हनु मारै कपि ताही\nबहुत कृपा मोहि प्रभू की आही\nराम दूत जाना मैं तेरा\nजहि जहि लंका सब सुझ तेरा",
+          "meaning": "हनुमान ने लंकिनी को मुक्का मारा, तब वह बोली: मुझ पर प्रभु की बहुत कृपा है। मैंने तुम्हें राम का दूत जान लिया। जहाँ जाओ लंका में सब तुम्हें दिखेगा।",
+          "transliteration": "Laṃkinī hanu mārai kapi tāhī\nBahuta kṛpā mohi prabhū kī āhī\nRāma dūta jānā maiṃ terā\nJahi jahi laṃkā saba sujha terā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "मसक समान रूप कपि धरी\nलंकहि चलेउ सुमिरि नरहरी\nनाम लेत रघुनाथ का चला हनुमाना\nभय नाश टंक विहंग समाना",
+          "meaning": "मच्छर के समान सूक्ष्म रूप धारण कर वानर नरहरि को स्मरण करते लंका में चले। रघुनाथ का नाम लेते हुए हनुमान भयरहित पक्षी के समान चले।",
+          "transliteration": "Masaka samāna rūpa kapi dharī\nLaṃkahi caleu sumiri naraharī\nNāma leta raghunātha kā calā hanumānā\nBhaya nāśa ṭaṃka vihaṃga samānā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "रावण मंदिर महँ देखा\nबहु मंदिर सुंदरा अति रेखा\nशयन किये देखे बहु नारी\nकहि न जाइ दसानन शोभा भारी",
+          "meaning": "रावण के भव्य महल में देखा — बहुत से सुन्दर कक्ष। सोती हुई बहुत सी नारियाँ देखीं। दशानन की भारी शोभा वर्णन से परे थी।",
+          "transliteration": "Rāvaṇa maṃdira maha~ dekhā\nBahu maṃdira suṃdarā ati rekhā\nŚayana kiye dekhe bahu nārī\nKahi na jāi dasānana śobhā bhārī",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "sundar_doha_16_20",
+      "title": "दोहा १६-२०: अशोक वाटिका में सीता की खोज",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/sundarkand/hanuman.jpg",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "करि सोच हनुमंत मन माहीं\nमहा मोह में सीता नाहीं\nतब हनुमंत बिचारा उर माहीं\nज्ञान प्रकाश प्रगटा तहाँ",
+          "meaning": "हनुमान ने मन में चिन्ता की: इस महामोह में सीता नहीं हैं। तब हृदय में विचार किया और ज्ञान का प्रकाश प्रकट हुआ।",
+          "transliteration": "Kari soca hanumaṃta mana māhīṃ\nMahā moha meṃ sītā nāhīṃ\nTaba hanumaṃta bicārā ura māhīṃ\nJñāna prakāśa pragaṭā tahā~",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अशोक बाटिका माहीं गयऊ\nतहाँ देखी सीता दिन भयऊ\nकृश तनु सिय राम गुन गावति\nहृदय सारिखे प्रभू जानवति",
+          "meaning": "अशोक वाटिका में गए। वहाँ सीताजी को दीन-हीन देखा। कृश शरीर से राम के गुण गा रही थीं, हृदय में प्रभु को जानती हुई।",
+          "transliteration": "Aśoka bāṭikā māhīṃ gayaū\nTahā~ dekhī sītā dina bhayaū\nKṛśa tanu siya rāma guna gāvati\nHṛdaya sārikhe prabhū jānavati",
+          "imageUrl": null
+        },
+        {
+          "shloka": "त्रिजटा नाम राक्षसी एका\nराम चरण रति निपुण बिबेका\nसबहि बोलि सुम्प्यउ तबहीं सीता\nकहि कहि कथा सुनाइ पुनीता",
+          "meaning": "त्रिजटा नाम की एक राक्षसी थी जो राम-चरणों में अनुरक्त और विवेकशील थी। उसने सबको बुलाकर सीता की रक्षा का भार लिया, बार-बार पवित्र कथाएँ सुनाती।",
+          "transliteration": "Trijaṭā nāma rākṣasī ekā\nRāma caraṇa rati nipuṇa bibekā\nSabahi boli sumpyau tabahīṃ sītā\nKahi kahi kathā sunāi punītā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "देखा हनुमंत अशोक तरे\nसीता बैठी हरि ध्यान लगाए\nकपि हृदय माहीं अति सुख पायउ\nराम काज कीन्हे कपि आयउ",
+          "meaning": "हनुमान ने अशोक वृक्ष के नीचे सीता को हरि के ध्यान में बैठी देखा। कपि को हृदय में अत्यंत सुख मिला — राम के कार्य के लिए वानर आया था।",
+          "transliteration": "Dekhā hanumaṃta aśoka tare\nSītā baiṭhī hari dhyāna lagāe\nKapi hṛdaya māhīṃ ati sukha pāyau\nRāma kāja kīnhe kapi āyau",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "sundar_doha_21_25",
+      "title": "दोहा २१-२५: हनुमान-सीता भेंट",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/sundarkand/hanuman.jpg",
+      "orderIndex": 5,
+      "content": [
+        {
+          "shloka": "राम नाम मुद्रिका राखी\nगिरि ते डारि सीता के आगे\nनाम देखि सीता हरषाई\nमानो अँधियारे में दीप पाई",
+          "meaning": "राम-नाम अंकित अंगूठी को पेड़ से सीता के सामने गिराया। नाम देखकर सीता ऐसे हर्षित हुईं जैसे अंधकार में दीपक मिला हो।",
+          "transliteration": "Rāma nāma mudrikā rākhī\nGiri te ḍāri sītā ke āge\nNāma dekhi sītā haraṣāī\nMāno a~dhiyāre meṃ dīpa pāī",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कपि तहँ आइ कहि प्राणम् प्रणामा\nमैं राम दूत मम नाम हनुमाना\nसुनि सीता हरषि उर माहीं\nपुनि पुनि पूछति कुशल सब बाहीं",
+          "meaning": "वानर वहाँ आकर प्रणाम करके बोले: मैं राम का दूत हूँ, मेरा नाम हनुमान है। सुनकर सीता हृदय में हर्षित हुईं और बार-बार सबकी कुशल पूछने लगीं।",
+          "transliteration": "Kapi taha~ āi kahi prāṇam praṇāmā\nMaiṃ rāma dūta mama nāma hanumānā\nSuni sītā haraṣi ura māhīṃ\nPuni puni pūchati kuśala saba bāhīṃ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कपिहि प्राण समा प्रभू जाना\nसकल कथा कपिहि सुनाया\nकहहु तात अस मोर प्रणामा\nसबहि भाँति प्रभू कृपा निधाना",
+          "meaning": "उन्होंने जाना कि यह वानर प्रभु को प्राणों के समान मानता है। सम्पूर्ण कथा कपि को सुनाई। बोलीं: हे तात, मेरा प्रणाम कहना — सब प्रकार से प्रभु कृपानिधान हैं।",
+          "transliteration": "Kapihi prāṇa samā prabhū jānā\nSakala kathā kapihi sunāyā\nKahahu tāta asa mora praṇāmā\nSabahi bhā~ti prabhū kṛpā nidhānā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "मातु मोहि दीजे कछु चीन्हा\nजैसे रघुनाथहि देइ सुहावा\nसीता दीन्ही चूड़ामणि उतारी\nहरषि पवन सुत कीन्ही दुराई",
+          "meaning": "माता ने पहचान चिह्न माँगा — जो रघुनाथ को प्रसन्न करे। सीता ने चूड़ामणि उतारकर दिया — पवनपुत्र ने हर्षित होकर उसे सुरक्षित रख लिया।",
+          "transliteration": "Mātu mohi dīje kachu cīnhā\nJaise raghunāthahi dei suhāvā\nSītā dīnhī cūr̤āmaṇi utārī\nHaraṣi pavana suta kīnhī durāī",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "sundar_doha_26_30",
+      "title": "दोहा २६-३०: अशोक वाटिका विनाश",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/sundarkand/hanuman.jpg",
+      "orderIndex": 6,
+      "content": [
+        {
+          "shloka": "कपि भवन कह सुनहु भवानी\nअशोक बाटिका उजाड़ी ज्ञानी\nपान तरु तोड़ि कपि खाया\nरखवारे बहु मारे आया",
+          "meaning": "हे भवानी सुनो — बुद्धिमान वानर ने अशोक वाटिका उजाड़ दी। पेड़ तोड़कर फल खाए और बहुत से रखवालों को मारकर आगे बढ़े।",
+          "transliteration": "Kapi bhavana kaha sunahu bhavānī\nAśoka bāṭikā ujār̤ī jñānī\nPāna taru tor̤i kapi khāyā\nRakhavāre bahu māre āyā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "हनुमंत तबहीं गढ़ तोरा\nबहु राक्षस समर में झोरा\nभूमि परे बहुतक राक्षस भारी\nकपि बल तेजहु अतुलित भारी",
+          "meaning": "तब हनुमान ने किला तोड़ डाला और युद्ध में बहुत राक्षसों को मारा। बहुत से विशाल राक्षस भूमि पर गिर पड़े — वानर का बल और तेज अतुलनीय था।",
+          "transliteration": "Hanumaṃta tabahīṃ gar̤ha torā\nBahu rākṣasa samara meṃ jhorā\nBhūmi pare bahutaka rākṣasa bhārī\nKapi bala tejahu atulita bhārī",
+          "imageUrl": null
+        },
+        {
+          "shloka": "अक्षय कुमार मारि संहारा\nरावण क्रोधित बहु बिचारा\nमेघनाद पठाया रण माहीं\nब्रह्मास्त्र बाँधा कपि ताही",
+          "meaning": "अक्षय कुमार को मारकर संहार किया। रावण क्रोधित होकर बहुत विचार करने लगा। मेघनाद को रण में भेजा — उसने ब्रह्मास्त्र से वानर को बाँध लिया।",
+          "transliteration": "Akṣaya kumāra māri saṃhārā\nRāvaṇa krodhita bahu bicārā\nMeghanāda paṭhāyā raṇa māhīṃ\nBrahmāstra bā~dhā kapi tāhī",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ब्रह्मा के बचन समुझि कपिराई\nबंधन काटि न सकै कोई भाई\nजानि बुद्धि बल निपुण हनुमाना\nरावण सभा गयउ भगवाना",
+          "meaning": "ब्रह्मा के वचन समझकर वानरराज ने जाना कि कोई यह बंधन नहीं काट सकता। बुद्धि और बल में निपुण हनुमान भगवान के रूप में रावण की सभा में गए।",
+          "transliteration": "Brahmā ke bacana samujhi kapirāī\nBaṃdhana kāṭi na sakai koī bhāī\nJāni buddhi bala nipuṇa hanumānā\nRāvaṇa sabhā gayau bhagavānā",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "sundar_doha_31_40",
+      "title": "दोहा ३१-४०: रावण की सभा में हनुमान",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/sundarkand/hanuman.jpg",
+      "orderIndex": 7,
+      "content": [
+        {
+          "shloka": "कपि बंध आयउ रावण पाहीं\nक्रोध कह कहु कीस कहाँ से आहीं\nमैं रघुबीर दूत मैं बानी\nआयउ सुनि सीता की कहानी",
+          "meaning": "बँधा हुआ वानर रावण के पास लाया गया। क्रोध में रावण ने पूछा: बन्दर, कहाँ से आया? मैं रघुवीर का दूत हूँ — सीता की कहानी सुनकर आया।",
+          "transliteration": "Kapi baṃdha āyau rāvaṇa pāhīṃ\nKrodha kaha kahu kīsa kahā~ se āhīṃ\nMaiṃ raghubīra dūta maiṃ bānī\nĀyau suni sītā kī kahānī",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सुनु रावण ब्रह्माण्ड निकाया\nपाउ महा एक प्रभूहि उपाया\nजाके बल बिरंचि हरि ईसा\nपालत सृजत हरत दससीसा",
+          "meaning": "सुन रावण, असंख्य ब्रह्माण्ड — सब मेरे प्रभु की एक उपाय मात्र हैं। जिनके बल से ब्रह्मा, विष्णु और शिव सृजन, पालन और संहार करते हैं, हे दशसीस।",
+          "transliteration": "Sunu rāvaṇa brahmāṇḍa nikāyā\nPāu mahā eka prabhūhi upāyā\nJāke bala biraṃci hari īsā\nPālata sṛjata harata dasasīsā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कहि कहि कथा ज्ञान उपदेशा\nरावण ज्वलित भयउ अति क्रोशा\nकपि की पूँछहि लागहु आगी\nसत्य कही पुनि जारहु आगी",
+          "meaning": "बार-बार कथाएँ और ज्ञान का उपदेश देने पर भी रावण क्रोध से जल उठा। उसने आदेश दिया: वानर की पूँछ में आग लगाओ! सत्य कहा फिर भी आग लगाई।",
+          "transliteration": "Kahi kahi kathā jñāna upadeśā\nRāvaṇa jvalita bhayau ati krośā\nKapi kī pū~chahi lāgahu āgī\nSatya kahī puni jārahu āgī",
+          "imageUrl": null
+        },
+        {
+          "shloka": "पवन तनय बल पवन समाना\nजारा लंका सब बहु बिधाना\nकूदा सिंधु महिं बुझाई पूँछा\nभये प्रकृत पुनि कपि कीन्ह सूचा",
+          "meaning": "पवनपुत्र ने पवन के समान बल से समस्त लंका को अनेक प्रकार से जला दिया। समुद्र में कूदकर पूँछ बुझाई, स्वाभाविक रूप में आकर सन्तुष्ट हुए।",
+          "transliteration": "Pavana tanaya bala pavana samānā\nJārā laṃkā saba bahu bidhānā\nKūdā siṃdhu mahiṃ bujhāī pū~chā\nBhaye prakṛta puni kapi kīnha sūcā",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "sundar_doha_41_50",
+      "title": "दोहा ४१-५०: लंका दहन",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/sundarkand/hanuman.jpg",
+      "orderIndex": 8,
+      "content": [
+        {
+          "shloka": "पुनि सीतहि देखि डर माहीं\nजानकी कहुँ अग्नि नहीं लाहीं\nपुनि कहि त्रिजटा सब सुनाई\nईश्वर कृपा महि सीता सहाई",
+          "meaning": "फिर सीता को देखकर भय हुआ — क्या जानकी को अग्नि ने हानि तो नहीं पहुँचाई? तब त्रिजटा ने सबको सुनाया: ईश्वर की कृपा से सीता सुरक्षित हैं।",
+          "transliteration": "Puni sītahi dekhi ḍara māhīṃ\nJānakī kahu~ agni nahīṃ lāhīṃ\nPuni kahi trijaṭā saba sunāī\nĪśvara kṛpā mahi sītā sahāī",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कपि आयउ सीता के पाहीं\nसीय संदेश दीन्हा सब काहीं\nकहु कपिहि राखहु हृदय बिसाला\nकरि प्रणाम चलेउ तत्काला",
+          "meaning": "वानर सीता के पास आए। सीता ने सबके लिए संदेश दिया। कहा: हे वानर, इसे अपने विशाल हृदय में रखो। प्रणाम करके तुरन्त चल पड़े।",
+          "transliteration": "Kapi āyau sītā ke pāhīṃ\nSīya saṃdeśa dīnhā saba kāhīṃ\nKahu kapihi rākhahu hṛdaya bisālā\nKari praṇāma caleu tatkālā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "चला हनुमान आ लघुकाई\nपर्वत उपर बैठा आई\nहरि हृदय राखी सब बाता\nजय रघुनाथ दीन के ताता",
+          "meaning": "हनुमान शीघ्र गति से चले और पर्वत पर आकर बैठे। हरि के प्रति हृदय में सब बातें रखीं। जय रघुनाथ, दीनों के रक्षक!",
+          "transliteration": "Calā hanumāna ā laghukāī\nParvata upara baiṭhā āī\nHari hṛdaya rākhī saba bātā\nJaya raghunātha dīna ke tātā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सुनहु भवानी प्रभू कै कृपा\nजकि बला अग्नि बुझाई\nसीता रक्षा करि केसरी नंदना\nकार्या सिद्धि करी भगवाना",
+          "meaning": "हे भवानी सुनो, प्रभु की कृपा से जिसके बल ने अग्नि बुझाई — केसरीनन्दन ने सीता की रक्षा की। भगवान ने कार्य सिद्ध किया।",
+          "transliteration": "Sunahu bhavānī prabhū kai kṛpā\nJaki balā agni bujhāī\nSītā rakṣā kari kesarī naṃdanā\nKāryā siddhi karī bhagavānā",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "sundar_doha_51_60",
+      "title": "दोहा ५१-६०: वापसी और पुनर्मिलन",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/sundarkand/hanuman.jpg",
+      "orderIndex": 9,
+      "content": [
+        {
+          "shloka": "हरषि परा सागर उतरा\nआइ पहुँचा गिरि पार उतारा\nकपिन्ह कपिहि मिला सब धाई\nहरष भयउ सब कपिहि सुनाई",
+          "meaning": "प्रसन्नतापूर्वक सागर पार किया और पर्वत के उस पार पहुँचे। सभी वानर दौड़कर मिले — सब हर्षित हुए जब वानर ने सुनाया।",
+          "transliteration": "Haraṣi parā sāgara utarā\nĀi pahu~cā giri pāra utārā\nKapinha kapihi milā saba dhāī\nHaraṣa bhayau saba kapihi sunāī",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सुनि सीता दुःख प्रभू सुख पाया\nबहु प्रशंसा कपि को सुनाया\nकपि के देखा हरि आनंदा\nमिला प्रभू कपिहि उरं लगाया",
+          "meaning": "सीता का दुःख सुनकर प्रभु को करुणा हुई। वानर की बहुत प्रशंसा सुनाई। वानर को देखकर हरि को आनन्द हुआ और प्रभु ने उन्हें हृदय से लगा लिया।",
+          "transliteration": "Suni sītā duḥkha prabhū sukha pāyā\nBahu praśaṃsā kapi ko sunāyā\nKapi ke dekhā hari ānaṃdā\nMilā prabhū kapihi uraṃ lagāyā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "कहहु तात कपिहि सब कथा\nसीता कहुँ कहु कैसी व्यथा\nकपि कहा सुनु राम कृपाला\nदेखि मुद्रिका हरषि बिसाला",
+          "meaning": "हे तात, सब कथा सुनाओ — सीता की कैसी व्यथा है? वानर ने कहा: सुनो कृपालु राम, अंगूठी देखकर वे बहुत हर्षित हुईं।",
+          "transliteration": "Kahahu tāta kapihi saba kathā\nSītā kahu~ kahu kaisī vyathā\nKapi kahā sunu rāma kṛpālā\nDekhi mudrikā haraṣi bisālā",
+          "imageUrl": null
+        },
+        {
+          "shloka": "सुनि कपि बचन राम मन भायउ\nश्री प्रभू कपिहि उरं लायउ\nबार बार कपि करहिं प्रणामा\nप्रभु के रूप आखे अभिरामा",
+          "meaning": "वानर के वचन सुनकर राम का मन प्रसन्न हुआ। श्री प्रभु ने वानर को हृदय से लगाया। बार-बार वानर प्रणाम करते — प्रभु का रूप अत्यंत मनोहर था।",
+          "transliteration": "Suni kapi bacana rāma mana bhāyau\nŚrī prabhū kapihi uraṃ lāyau\nBāra bāra kapi karahiṃ praṇāmā\nPrabhu ke rūpa ākhe abhirāmā",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "sundar_path_vidhi",
+      "title": "सुन्दरकाण्ड पाठ विधि",
+      "language": "hindi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/sundarkand/hanuman.jpg",
+      "orderIndex": 10,
+      "content": [
+        {
+          "shloka": "श्री गणेशाय नमः\nश्री हनुमान जी को प्रणाम करि\nसुन्दरकाण्ड पाठ आरम्भ करें",
+          "meaning": "श्री गणेश को नमस्कार। श्री हनुमान जी को प्रणाम करके सुन्दरकाण्ड का पाठ आरम्भ करें।",
+          "transliteration": "Śrī gaṇeśāya namaḥ\nŚrī hanumāna jī ko praṇāma kari\nSundarakāṇḍa pāṭha ārambha kareṃ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "संकल्प: श्री राम प्रीत्यर्थं सुन्दर काण्ड पाठम् अहं करिष्ये\nदीपम् ज्वालयित्वा लाल वस्त्र आसन स्थापयेत्",
+          "meaning": "संकल्प: श्री राम की प्रसन्नता के लिए मैं सुन्दरकाण्ड का पाठ करूँगा। दीपक जलाकर लाल वस्त्र का आसन बिछाएँ।",
+          "transliteration": "Saṃkalpa: śrī rāma prītyarthaṃ sundara kāṇḍa pāṭham ahaṃ kariṣye\nDīpam jvālayitvā lāla vastra āsana sthāpayet",
+          "imageUrl": null
+        },
+        {
+          "shloka": "पाठ समाप्ति के बाद:\nश्री हनुमान चालीसा पढ़ें\nआरती करें और प्रसाद वितरण करें",
+          "meaning": "पाठ समाप्ति के बाद: श्री हनुमान चालीसा का पाठ करें। आरती करें और प्रसाद वितरित करें।",
+          "transliteration": "Pāṭha samāpti ke bāda:\nŚrī hanumāna cālīsā par̤heṃ\nĀratī kareṃ aura prasāda vitaraṇa kareṃ",
+          "imageUrl": null
+        },
+        {
+          "shloka": "मंगल भवन अमंगल हारी\nद्रवहु सो दसरथ अजिर बिहारी\nपवन तनय संतन हितकारी\nहृदय बिराजहु राम सारी",
+          "meaning": "हे मंगलभवन, अमंगल हरने वाले, दसरथ के आँगन में विहार करने वाले — दया करो! हे पवनपुत्र, संतों के हितकारी — हृदय में सदैव राम सीता सहित विराजें।",
+          "transliteration": "Maṃgala bhavana amaṃgala hārī\nDravahu so dasaratha ajira bihārī\nPavana tanaya saṃtana hitakārī\nHṛdaya birājahu rāma sārī",
+          "imageUrl": null
+        }
+      ]
+    }
+  ]
+}

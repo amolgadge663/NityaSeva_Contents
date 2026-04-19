@@ -3,60 +3,686 @@
   "version": 1,
   "items": [
     {
-      "id": "ashtakam_shiva",
-      "title": "Shiva Ashtakam",
+      "id": "ashta_ganesh",
+      "title": "Ganesh Ashtakam",
       "language": "english",
-      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/aarti/shiv.jpg",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/ashtakam/ganesh.jpg",
       "orderIndex": 1,
       "content": [
         {
-          "shloka": "Prabhum Prananatham Vibhum Vishwanatham",
-          "transliteration": "Prabhuṁ prāṇanāthaṁ vibhuṁ viśvanāthaṁ",
-          "meaning": "Salutations to Shiva, the lord of life and master of the universe."
+          "shloka": "Sarva-mangala-mangalye Shive sarvartha-sadhike,\nSharanye Tryambake Gauri Narayani namostute.\nYato-ananta-sakti-dharam Ganapatim vandamahe,\nSarvavighna-haram devam sarvasiddhi-pradayakam.",
+          "meaning": "O Ganapati, who is the embodiment of all auspiciousness, who fulfills all righteous desires, we bow to you. We worship the Lord of Ganas who possesses infinite power, who removes all obstacles and grants all accomplishments.",
+          "transliteration": "Sarva-maṅgala-māṅgalye Śive sarvārtha-sādhike,\nŚaraṇye Tryambake Gaurī Nārāyaṇī namostute.\nYato-ananta-śakti-dhāraṁ Gaṇapatiṁ vandāmahe,\nSarvavighna-haraṁ devaṁ sarvasiddhi-pradāyakam.",
+          "imageUrl": null
         },
         {
-          "shloka": "Jagannatham Natham Sadananda Bhajam",
-          "transliteration": "Jagannāthaṁ nāthaṁ sadānanda bhajaṁ",
-          "meaning": "I worship Shiva, the eternal source of bliss."
+          "shloka": "Namaskaromi vighneshvaram Ganapati-swarupam,\nSura-guru-suputram Bhava-bhaya-nasham cha divyam.\nParvati-priya-nandanam cha Gajananam bhaktabhishta-varam,\nSiddhi-buddhi-sahitam vandamahe shri Ganadhipam.",
+          "meaning": "I bow to the Lord of obstacles, whose form is Ganapati, the noble son beloved by the divine teacher, who destroys the fear of worldly existence. We worship the elephant-faced one, Parvati's beloved son, who bestows boons on devotees, accompanied by Siddhi and Buddhi, the great Lord of Ganas.",
+          "transliteration": "Namaskāromi vighneśvaraṁ Gaṇapati-svarūpam,\nSura-guru-suputraṁ Bhava-bhaya-nāśaṁ ca divyam.\nPārvatī-priya-nandanaṁ ca Gajānanaṁ bhaktābhīṣṭa-varaṁ,\nSiddhi-buddhi-sahitaṁ vandāmahe śrī Gaṇādhipam.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ekadantam mahakayam lambodaram gajananam,\nVighna-nasham-karam devam heramba-prana-nayakam.\nMushika-vahana-modakam sadananda-swarupam,\nVandamahe Ganapati-devam sarva-jagatam-adhipam.",
+          "meaning": "The one-tusked, great-bodied, pot-bellied elephant-faced Lord, the deity who destroys obstacles, the leader of the brave. He who rides the mouse and loves modaka sweets, whose very form is eternal bliss, we worship Lord Ganapati, the sovereign of all worlds.",
+          "transliteration": "Ekadantaṁ mahākāyaṁ lambodaraṁ gajānanam,\nVighna-nāśam-karaṁ devaṁ heramba-prāṇa-nāyakam.\nMūṣika-vāhana-modakaṁ sadānanda-svarūpam,\nVandāmahe Gaṇapati-devaṁ sarva-jagatām-adhipam.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Chatur-bhujam shubha-dantam padmasana-sthitam vibhum,\nPasha-ankusha-dharam devam vandamahe Ganadhipam.\nDurva-yukta-ganapate namaste namaste prabho,\nModaka-priya Vighneshvara sarva-papa-pranashana.",
+          "meaning": "The four-armed one with the auspicious tusk, seated on a lotus throne, the all-pervading Lord who holds the noose and goad, we worship the chief of Ganas. O Ganapati adorned with durva grass, salutations to you, O Lord. O Vighnesvara, lover of modaka, destroyer of all sins.",
+          "transliteration": "Catur-bhujaṁ śubha-dantaṁ padmāsana-sthitaṁ vibhum,\nPāśa-aṅkuśa-dharaṁ devaṁ vandāmahe Gaṇādhipam.\nDūrvā-yukta-gaṇapate namaste namaste prabho,\nModaka-priya Vighneśvara sarva-pāpa-praṇāśana.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Gananam tvam Ganapatis Havama-he Kavim Kavinam,\nUpamashra-vastamam Jyeshtha-rajam Brahmanam Brahmanaspata.\nVakratunda Mahakaya Suryakoti Samaprabha,\nNirvighnam kuru me deva sarvakaaryeshu sarvada.",
+          "meaning": "O Lord of all beings, we invoke you, the Ganapati, the poet among poets, the most celebrated, the eldest Lord, the supreme Brahman, the master of sacred speech. O curved-trunk one, great-bodied one, radiant as a billion suns, O Lord, make all my endeavors free of obstacles always.",
+          "transliteration": "Gaṇānāṁ tvā Gaṇapatiṁ Havāma-he Kaviṁ Kavīnām,\nUpamaśra-vastamaṁ Jyeṣṭha-rājaṁ Brahmaṇāṁ Brahmaṇaspata.\nVakratuṇḍa Mahākāya Sūryakoṭi Samaprabha,\nNirvighnaṁ kuru me deva sarvakāryeṣu sarvadā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Pranamya shirasa devam Gauri-putram Vinayakam,\nBhaktavasa-sthitam devam sarva-karana-karanam.\nSarva-devadi-devam cha Ekadam cha Gajananam,\nVidya-buddhi-dayam nityam bandamahe Ganadhipam.",
+          "meaning": "Bowing my head to the Lord Vinayaka, son of Gauri, the deity who dwells in the hearts of devotees, the cause of all causes. The god of all gods, the single-tusked elephant-faced one, we worship daily the Lord of Ganas who bestows knowledge and wisdom.",
+          "transliteration": "Praṇamya śirasā devaṁ Gaurī-putraṁ Vināyakam,\nBhaktāvāsa-sthitaṁ devaṁ sarva-kāraṇa-kāraṇam.\nSarva-devādi-devaṁ ca Ekadaṁ ca Gajānanam,\nVidyā-buddhi-dayaṁ nityaṁ bandāmahe Gaṇādhipam.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sindura-varna-kalevaram dvi-bhujam cha Gajananam,\nPasha-ankusha-dharam devam Mangala-murti Ganeshvaram.\nSarva-vighna-vinashaya Sarva-siddhi-pradayine,\nSarva-devadi-devaya Lambodaraya namaste.",
+          "meaning": "The one whose body is colored with vermilion, the two-armed elephant-faced Lord, the deity who holds the noose and goad, Ganeshvara, the embodiment of auspiciousness. Salutations to the one who destroys all obstacles, who grants all accomplishments, the god of all gods, the pot-bellied Lord.",
+          "transliteration": "Sindūra-varṇa-kalevaraṁ dvi-bhujaṁ ca Gajānanam,\nPāśa-aṅkuśa-dharaṁ devaṁ Maṅgala-mūrti Gaṇeśvaram.\nSarva-vighna-vināśāya Sarva-siddhi-pradāyine,\nSarva-devādi-devāya Lambodarāya namaste.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Gajanam Bhuta-ganadhi-sevitam\nKapittha-Jambu-phalasara-bhakshitam.\nUmasutam Shoka-vinashakaram\nNamami Vighneshvara-padapankajam.\nAshtakam Ganapateridham stuti ya pathan-nityam sa siddhim labhet.",
+          "meaning": "The elephant-faced one worshipped by the hosts of beings, who relishes the juice of kapittha and jambu fruits. The son of Uma, the destroyer of sorrow, I bow at the lotus feet of Vighnesvara. Whoever recites this Ashtakam of Ganapati daily shall attain all accomplishments.",
+          "transliteration": "Gajānanaṁ Bhūta-gaṇādhi-sevitaṁ\nKapittha-Jambū-phalasāra-bhakṣitam.\nUmāsutaṁ Śoka-vināśakārakaṁ\nNamāmi Vighneśvara-pādapaṅkajam.\nAṣṭakaṁ Gaṇapateridaṁ stuti ya paṭhan-nityaṁ sa siddhiṁ labhet.",
+          "imageUrl": null
         }
       ]
     },
     {
-      "id": "ashtakam_dattatreya",
-      "title": "Dattatreya Ashtakam",
+      "id": "ashta_shiva",
+      "title": "Shiva Ashtakam",
       "language": "english",
-      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/ashtakam/shree_gurudev_datta.jpg",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/ashtakam/shiv.jpg",
       "orderIndex": 2,
       "content": [
         {
-          "shloka": "Jai Dev Jai Dev Digambara",
-          "meaning": "Dattatreya represents the combined form of the Trimurti."
+          "shloka": "Prabhum prananatham vibhum vishvanatham\nMahadevam ekam jatilam shantam.\nVamadeva-shashadhara-shambhum-isham\nNamami shivam shankaram karunakaaram.",
+          "meaning": "I bow to the Lord who is the master of all beings, the all-pervading ruler of the universe. The one great God, with matted locks, ever peaceful. He who is Vamadeva, who bears the crescent moon, the auspicious Shambhu, I salute Shiva, the beneficent one, the compassionate Lord.",
+          "transliteration": "Prabhuṁ praṇanāthaṁ vibhuṁ viśvanāthaṁ\nMahādevaṁ ekaṁ jaṭilaṁ śāntam.\nVāmadeva-śaśādhara-śambhum-īśaṁ\nNamāmi śivaṁ śaṅkaraṁ kāruṇākāram.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Galanta-mahapadma-hara-prabhushcha\nSphurat-phaladheepti-mahapareshvaram.\nNamami shivam shankaram karunakaaram\nSamasta-lokaikagurum cha shantidam.",
+          "meaning": "The Lord adorned with garlands of great lotuses, whose forehead radiates brilliant splendor, the great supreme Lord. I salute Shiva, the beneficent one, the compassionate Lord, the sole guru of all the worlds, the bestower of peace.",
+          "transliteration": "Galanta-mahāpadma-hāra-prabhuśca\nSphurat-phalādīpti-mahāpareśvaram.\nNamāmi śivaṁ śaṅkaraṁ kāruṇākāraṁ\nSamasta-lokaikaguruṁ ca śāntidam.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Shitikantha-vibhushana-bhushitangam\nSmarari-makhanta-kaarupyam-isham.\nDhagaddhagaddhagajjvalat-lalata-pattam\nNamami shivam shankaram karunakaaram.",
+          "meaning": "The one whose limbs are adorned with the ornament of the blue throat, the Lord who is the enemy of Smara (Kama) and is the destroyer of the sacrifice. Whose forehead blazes with the roaring flames of fire, I salute Shiva, the beneficent one, the compassionate Lord.",
+          "transliteration": "Śitīkaṇṭha-vibhūṣaṇa-bhūṣitāṅgaṁ\nSmarāri-makhānta-kārūpyam-īśam.\nDhagaddhagaddhagajjvalat-lalāṭa-paṭṭaṁ\nNamāmi śivaṁ śaṅkaraṁ kāruṇākāram.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kalantaka-devam sadananda-rupam\nNamami shivam shankaram karunakaaram.\nKailasa-shreshtha-sthitam sureshvaram\nTrinetram-chandrakala-dharamishvaram.",
+          "meaning": "The god who conquered the god of death, whose form is eternal bliss, I salute Shiva, the beneficent one, the compassionate Lord. The supreme Lord dwelling on the peak of Kailasa, the Lord of gods, the three-eyed one who wears the crescent moon.",
+          "transliteration": "Kalāntaka-devaṁ sadānanda-rūpaṁ\nNamāmi śivaṁ śaṅkaraṁ kāruṇākāram.\nKailāsa-śreṣṭha-sthitaṁ sureśvaraṁ\nTrinetraṁ-candrākalā-dharam-īśvaram.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Nandi-vaha-priya-natha-mahadevam\nVyaghra-charma-vasanam jagadishvaram.\nSarpa-hari-hara-lokaikam-isham\nNamami shivam shankaram karunakaaram.",
+          "meaning": "The great god who is the beloved Lord of Nandi's vehicle, the Lord of the universe clad in tiger skin. The one adorned with serpents, the unique Lord of all worlds, I salute Shiva, the beneficent one, the compassionate Lord.",
+          "transliteration": "Nandī-vāha-priya-nātha-mahādevaṁ\nVyāghra-carma-vāsanaṁ jagadīśvaram.\nSarpa-hari-hara-lokaikaṁ-īśaṁ\nNamāmi śivaṁ śaṅkaraṁ kāruṇākāram.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Gangeya-dharam bhasma-vibhushitangam\nVrishabha-dhvajam pannagabhushitangam.\nDamaru-ninada-priyam-eka-nritya-param\nNamami shivam shankaram karunakaaram.",
+          "meaning": "The bearer of the Ganga, whose limbs are adorned with sacred ash, whose flag bears the bull, whose body is ornamented with serpents. The one who delights in the sound of the damaru drum, the supreme cosmic dancer, I salute Shiva, the beneficent one, the compassionate Lord.",
+          "transliteration": "Gāṅgeyā-dharaṁ bhasma-vibhūṣitāṅgaṁ\nVṛṣabha-dhvajaṁ pannagabhūṣitāṅgam.\nḌamaru-nināda-priyaṁ-eka-nṛtya-paraṁ\nNamāmi śivaṁ śaṅkaraṁ kāruṇākāram.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Panchavaktram chatura-bhujam trinetram\nBhasmo-uddhulita-vigrahamprasannam.\nNeelakantham vishapana-haramishvaram\nNamami shivam shankaram karunakaaram.",
+          "meaning": "The five-faced, four-armed, three-eyed Lord, whose body is smeared with sacred ash and who is ever gracious. The blue-throated one who drank poison to save the world, I salute Shiva, the beneficent one, the compassionate Lord.",
+          "transliteration": "Pañcavaktraṁ caturbhujaṁ trinetraṁ\nBhasmōddhūlita-vigrahaṁ prasannam.\nNīlakaṇṭhaṁ viṣapāna-haram-īśvaraṁ\nNamāmi śivaṁ śaṅkaraṁ kāruṇākāram.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Shivam-ashtakam-idam punyam ya pathet shiva-sannidhau,\nShivalokam-avapnoti Shivena saha modate.\nArdhanarishvaram devam Parvati-prananayakam,\nNamami shivam shankaram karunakaaram sadashivam.",
+          "meaning": "Whoever recites this sacred Shiva Ashtakam in the presence of Shiva attains the world of Shiva and rejoices with Shiva forever. The Lord who is Ardhanarishvara, the beloved of Parvati, I salute Shiva, the beneficent one, the compassionate Lord, the eternally auspicious one.",
+          "transliteration": "Śivam-aṣṭakam-idaṁ puṇyaṁ ya paṭhet śiva-sannidhau,\nŚivalokam-avāpnoti Śivena saha modate.\nArdhānārīśvaraṁ devaṁ Pārvatī-prāṇanāyakaṁ,\nNamāmi śivaṁ śaṅkaraṁ kāruṇākāraṁ sadāśivam.",
+          "imageUrl": null
         }
       ]
     },
     {
-      "id": "ashtakam_krishna",
-      "title": "Krishna Ashtakam",
+      "id": "ashta_vishnu",
+      "title": "Vishnu Ashtakam",
       "language": "english",
-      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/ashtakam/krishna.jpg",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/ashtakam/vishnu.jpg",
       "orderIndex": 3,
       "content": [
         {
-          "shloka": "Vasudeva Suta Deva",
-          "meaning": "Krishna is the supreme Lord and guide for humanity."
+          "shloka": "Vishnum jishnum mahavishnuam prabhavishnuam maheshvaram,\nAneka-rupa-daityantam namami purushottamam.",
+          "meaning": "I bow to Vishnu, the victorious one, the great all-pervading Lord, the supreme controller, the mighty Ishvara. The one who assumes many forms to destroy demons, I salute the Supreme Being.",
+          "transliteration": "Viṣṇuṁ jiṣṇuṁ mahāviṣṇuṁ prabhaviṣṇuṁ maheśvaram,\nAneka-rūpa-daityāntaṁ namāmi puruṣottamam.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Padmanabham sureshesham vasudevam janaradhnam,\nKundala-shobhita-ganda-sthaalam namami Vishnuam-avyayam.",
+          "meaning": "The lotus-naveled one, the Lord of the celestials, Vasudeva, the benefactor of the people. Whose cheeks are adorned with beautiful earrings, I salute the imperishable Vishnu.",
+          "transliteration": "Padmanābhaṁ sureśeśaṁ vāsudevaṁ janārdhanam,\nKuṇḍala-śobhita-gaṇḍa-sthālaṁ namāmi viṣṇuṁ-avyayam.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Vanamali-gadi-shaarngi shankhachakra-gadaa-dharah,\nShrivatsa-kaustubha-dharaa namami Vishnuam-anantam.",
+          "meaning": "The one adorned with the forest garland, wielding the mace, the bow Sharnga, the conch, discus, and club. The bearer of the Shrivatsa mark and the Kaustubha gem, I salute the infinite Vishnu.",
+          "transliteration": "Vanamālī-gadī-śārṅgī śaṅkhacakra-gadā-dharaḥ,\nŚrīvatsa-kaustubha-dharā namāmi viṣṇuṁ-anantam.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Narayanam dayaa-sindhuam bhakta-vatsalam-achyutam,\nGovinda-gopikavasam namami Madhusudanam.",
+          "meaning": "Narayana, the ocean of compassion, the one affectionate to devotees, the infallible one. Govinda, who dwells among the Gopikas, I salute Madhusudana, the slayer of the demon Madhu.",
+          "transliteration": "Nārāyaṇaṁ dayā-sindhuṁ bhakta-vatsalam-acyutam,\nGovinda-gopikāvāsaṁ namāmi madhusūdanam.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Pitambaradhaaram devam tapta-kanchana-sannibham,\nYashtya-kena-sa-cha-dharam namami Vishnuam-avyayam.",
+          "meaning": "The Lord who wears the yellow garment, who shines like molten gold. The one who holds the staff and discus together, I salute the imperishable Vishnu.",
+          "transliteration": "Pītāmbarādhāraṁ devaṁ tapta-kāñcana-sannibham,\nYaṣṭyā-kena-sa-ca-dharaṁ namāmi viṣṇuṁ-avyayam.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Garuda-vaahana-devesham Vaikuntha-nilayam harim,\nSankha-chakra-gada-padma-dharam namami Keshavam.",
+          "meaning": "The Lord of the gods who rides Garuda, Hari who dwells in Vaikuntha. The bearer of the conch, discus, mace, and lotus, I salute Keshava.",
+          "transliteration": "Garuḍa-vāhana-deveśaṁ Vaikuṇṭha-nilayaṁ harim,\nŚaṅkha-cakra-gadā-padma-dhāraṁ namāmi keśavam.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Matsya-kurma-varahadi-dashavatara-rupine,\nBhakta-rakshaka-devaya namami Purushottamam.",
+          "meaning": "To the one who assumes the ten incarnations including the fish, tortoise, boar and others. To the Lord who protects devotees, I salute the Supreme Person.",
+          "transliteration": "Matsya-kūrma-varāhādi-daśāvatāra-rūpiṇe,\nBhakta-rakṣaka-devāya namāmi puruṣottamam.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Vishnorashtakam-idam punyam prathah kale ya paathayet,\nSarva-papa-vinirmukto Vishnu-lokam sa gacchati.\nKshirasagara-shayanam Lakshmi-kantam jagatpatim,\nNamami sarasijanabham sarvalokaika-nayakam.",
+          "meaning": "Whoever recites this sacred Vishnu Ashtakam in the morning becomes freed from all sins and attains the abode of Vishnu. I bow to the one who reclines on the ocean of milk, the beloved of Lakshmi, the Lord of the universe, the lotus-naveled one, the sole leader of all worlds.",
+          "transliteration": "Viṣṇoraṣṭakam-idaṁ puṇyaṁ prātaḥ kāle ya pāṭhayet,\nSarva-pāpa-vinirmukto viṣṇu-lokaṁ sa gacchati.\nKṣīrāsāgara-śāyanaṁ Lakṣmī-kāntaṁ jagatpatiṁ,\nNamāmi sarasījānābhaṁ sarvalokaika-nāyakam.",
+          "imageUrl": null
         }
       ]
     },
     {
-      "id": "ashtakam_linga",
-      "title": "Lingashtakam",
+      "id": "ashta_ram",
+      "title": "Ram Ashtakam",
       "language": "english",
-      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/ashtakam/namah_shivaya.jpg",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/ashtakam/ram.jpg",
       "orderIndex": 4,
       "content": [
         {
-          "shloka": "Brahma Murari Surarchita Lingam",
-          "meaning": "The Shiva Linga represents the cosmic form of Shiva."
+          "shloka": "Bhaje visheshha-sundaram samasta-papa-khandanam,\nSvabhakta-chitta-ranjanam sadaiva Ram manoharam.",
+          "meaning": "I worship the extraordinarily beautiful one, the destroyer of all sins, he who delights the hearts of his devotees, the ever-enchanting Lord Rama.",
+          "transliteration": "Bhaje viśeṣa-sundaraṁ samasta-pāpa-khaṇḍanaṁ,\nSvabhakta-citta-rañjanaṁ sadaiva Rāma manoharaṁ.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Niketa-vaarini-tata-supavana-sthitam harim,\nAneka-muni-pujitam raghukulaja-ratnadeepam.",
+          "meaning": "Hari who dwells in the beautiful gardens on the banks of sacred rivers, worshipped by many sages, the radiant jewel-lamp born in the Raghu dynasty.",
+          "transliteration": "Niketa-vāriṇī-taṭa-supavana-sthitaṁ hariṁ,\nAneka-muni-pūjitaṁ raghukulaja-ratnadīpam.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Raghuottamam taponidhim suranganam jagatgurum,\nDashagriva-mardanam Sitapati-param prabhum.",
+          "meaning": "The best of the Raghu dynasty, the treasure of penance, the one beautiful among the gods, the guru of the world. The vanquisher of the ten-headed Ravana, the supreme Lord and husband of Sita.",
+          "transliteration": "Raghūttamaṁ taponidhiṁ surāṅganaṁ jagatguruṁ,\nDaśagrīva-mardanaṁ Sītāpati-paraṁ prabhum.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sva-bhakta-manasampadam harim naumi Raghunandanam,\nSugrIva-mitra-rupam cha Vaidehi-priyam-isham.",
+          "meaning": "The wealth of the devotees' minds, I salute Hari, the joy of the Raghu clan. The one who befriended Sugriva, the beloved Lord of Vaidehi (Sita).",
+          "transliteration": "Svabhakta-mānasāmpadaṁ hariṁ naumi Raghunandanaṁ,\nSugrīva-mitra-rūpaṁ ca Vaidehī-priyam-īśam.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Jaganmangalakaarakam Raghupati-rajaram maheshvaram,\nPranamataam kalpavriksham Kausalyaa-nandana-varadam.",
+          "meaning": "The one who brings auspiciousness to the world, the great Lord Raghupati Raja Ram. The wish-fulfilling tree for those who bow down, the boon-granting son of Kausalya.",
+          "transliteration": "Jaganmaṅgalakārakaṁ Raghupati-rājarāma maheśvaraṁ,\nPraṇamatāṁ kalpavṛkṣaṁ Kausalyā-nandana-varadam.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Tataka-mardanam devam Ahilya-taarakam vibhum,\nDhanushya-bhanjana-parama Sri-Ramam patitapaavanam.",
+          "meaning": "The Lord who slew Tataka, the one who liberated Ahalya, the all-pervading one. The supreme breaker of the divine bow, Sri Rama, the purifier of the fallen.",
+          "transliteration": "Tāṭakā-mardanaṁ devaṁ Ahalyā-tārakaṁ vibhuṁ,\nDhanuṣya-bhañjana-paramaṁ Śrī-Rāmaṁ patitāpāvanam.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Vana-vaasi-jata-dharanam pita-vaachana-paalakam,\nSaumitra-sahitam devam Rama-chandram namaamyaham.",
+          "meaning": "The forest-dwelling Lord with matted locks, the upholder of his father's word. The Lord accompanied by Saumitra (Lakshmana), I bow to Rama Chandra.",
+          "transliteration": "Vana-vāsī-jaṭā-dhāraṇaṁ pitṛ-vācana-pālakam,\nSaumitra-sahitaṁ devaṁ Rāma-candraṁ namāmyaham.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sri Rama-ashtakam-idam divyam yah pathet prayatah sada,\nSarva-siddhi-mavapnoti Ramaanugrahato narah.\nAyodhyapati-devesham Raghuveeram-avyayam,\nNamami Dasharathaatmajam bhaktaabhistadaayakam.",
+          "meaning": "Whoever recites this divine Rama Ashtakam with devotion always, that person attains all accomplishments by the grace of Rama. I bow to the imperishable Lord of Ayodhya, the heroic one of the Raghu clan, the son of Dasharatha, the bestower of devotees' desires.",
+          "transliteration": "Śrī Rāma-aṣṭakam-idaṁ divyaṁ yaḥ paṭhet prayataḥ sadā,\nSarva-siddhi-māvāpnoti Rāmānugrāhato naraḥ.\nAyodhyāpati-deveśaṁ Raghuvīram-avyayam,\nNamāmi Daśarathātmajaṁ bhaktābhīṣṭadāyakam.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "ashta_krishna",
+      "title": "Krishna Ashtakam",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/ashtakam/krishna.jpg",
+      "orderIndex": 5,
+      "content": [
+        {
+          "shloka": "Vasudeva-sutam devam Kansa-Chanura-mardanam,\nDevaki-paramanandam Krishnam vande Jagadgurum.",
+          "meaning": "I worship Krishna, the son of Vasudeva, the slayer of Kansa and Chanura, the supreme bliss of Devaki, the Guru of the universe.",
+          "transliteration": "Vāsudeva-sutaṁ devaṁ Kaṁsa-Cāṇūra-mardanam,\nDevakī-paramānandaṁ Kṛṣṇaṁ vande Jagadgurum.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Atasi-pushpa-sankaasham hara-nupura-shobhitam,\nRatna-kangana-keyuuram Krishnam vandhe Jagadgurum.",
+          "meaning": "The one who resembles the atasi flower in complexion, adorned with necklace and anklets. Beautiful with jeweled bracelets and armlets, I worship Krishna, the Guru of the universe.",
+          "transliteration": "Atasī-puṣpa-saṅkāśaṁ hāra-nūpura-śobhitam,\nRatna-kaṅkaṇa-keyūraṁ Kṛṣṇaṁ vande Jagadgurum.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kutilalaka-samyuktam purna-chandra-nibhananam,\nVilasa-nayanadharam Krishnam vande Jagadgurum.",
+          "meaning": "The one with beautiful curly locks, whose face resembles the full moon. The one with playful eyes, I worship Krishna, the Guru of the universe.",
+          "transliteration": "Kuṭilālaka-saṁyuktaṁ pūrṇa-candra-nibhānanam,\nVilāsa-nayanādhāraṁ Kṛṣṇaṁ vande Jagadgurum.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Mandara-gandha-samyuktam charu-hasam chaturbhujam,\nBarhi-pichcha-vachudangam Krishnam vande Jagadgurum.",
+          "meaning": "The one fragrant with the mandara flower's scent, the beautiful smiling four-armed Lord. The one adorned with a peacock feather, I worship Krishna, the Guru of the universe.",
+          "transliteration": "Mandāra-gandha-saṁyuktaṁ cāru-hāsaṁ caturbhujam,\nBarhi-piccha-vācūḍāṅgaṁ Kṛṣṇaṁ vande Jagadgurum.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Uttphaulla-padma-patraksha-mandaramalya-shobhitam,\nGo-gopavrindusangeetam Krishnam vande Jagadgurum.",
+          "meaning": "The one whose eyes are like fully bloomed lotus petals, adorned with mandara garlands. The one celebrated in the songs of cows and cowherds, I worship Krishna, the Guru of the universe.",
+          "transliteration": "Utphulla-padma-patrākṣa-mandāramālya-śobhitam,\nGo-gopavṛndu-saṅgītaṁ Kṛṣṇaṁ vande Jagadgurum.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Rukmini-keli-samyuktam pitambara-sushobhitam,\nAvapta-tulasi-gandham Krishnam vande Jagadgurum.",
+          "meaning": "The one who sports with Rukmini, beautifully adorned with yellow garments. The one whose fragrance is attained through tulasi, I worship Krishna, the Guru of the universe.",
+          "transliteration": "Rukmiṇī-kelī-saṁyuktaṁ pītāmbara-suśobhitam,\nĀvāpta-tulasī-gandhaṁ Kṛṣṇaṁ vande Jagadgurum.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Gopikanam kuchadvanda-kunkumaankita-vakshasam,\nSri-niketam maheshvasam Krishnam vande Jagadgurum.",
+          "meaning": "The one whose chest bears the kumkum marks from the gopis' embrace. The abode of Sri (Lakshmi), the Lord of the universe, I worship Krishna, the Guru of the universe.",
+          "transliteration": "Gopikānāṁ kucadvandva-kuṅkumāṅkita-vakṣasam,\nŚrī-niketaṁ maheśvāsaṁ Kṛṣṇaṁ vande Jagadgurum.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Shri Krishnashtakam-idam punyam pratar-utthaya yah pathet,\nKoti-janma-krutam papam smaranena vinashyati.\nGopi-jana-vallabham devam Nanda-nandana-sundaram,\nKrishnam vande Jagadgurum sarvaloka-maheshvaram.",
+          "meaning": "Whoever rises in the morning and recites this sacred Krishna Ashtakam destroys the sins accumulated over millions of births through its remembrance. The beloved of the gopis, the beautiful son of Nanda, I worship Krishna, the Guru of the universe, the great Lord of all worlds.",
+          "transliteration": "Śrī Kṛṣṇāṣṭakam-idaṁ puṇyaṁ prātar-utthāya yaḥ paṭhet,\nKoṭi-janma-kṛtaṁ pāpaṁ smaraṇena vināśyati.\nGopī-jana-vallabhaṁ devaṁ Nanda-nandana-sundaraṁ,\nKṛṣṇaṁ vande Jagadguruṁ sarvaloka-maheśvaram.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "ashta_hanuman",
+      "title": "Hanuman Ashtakam",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/ashtakam/hanuman.jpg",
+      "orderIndex": 6,
+      "content": [
+        {
+          "shloka": "Shri Guru charana saroja raja nija manu mukuru sudhari,\nVarnau Raghu vara vimala yasha jo dayaku phala chari.\nBala-samaya Ravi bhaksha liyo taba teenahu loka apara,\nTahi te teja pratapa maha jaga vande Hanumana uchara.",
+          "meaning": "Cleansing the mirror of my mind with the dust from the lotus feet of my Guru, I describe the pure glory of the best of the Raghu dynasty, which bestows the four fruits of life. In childhood he swallowed the sun, illuminating the three worlds. Because of that great radiance and valor, the world glorifies Hanuman.",
+          "transliteration": "Śrī Guru caraṇa saroja raja nija manu mukuru sudhārī,\nVarṇau Raghu vara vimala yaśa jo dāyaku phala cārī.\nBāla-samaya Ravi bhakṣa liyo taba tīnahu loka apārā,\nTāhi te teja pratāpa mahā jaga vande Hanumāna ucārā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Mahabala-dayakam devam Anjani-nandana-sundaram,\nRamadutam atulitabalam namami Hanumantam-avyayam.",
+          "meaning": "The god who bestows great strength, the beautiful son of Anjani, the messenger of Rama, the one of incomparable power, I bow to the imperishable Hanuman.",
+          "transliteration": "Mahābala-dāyakaṁ devaṁ Añjanī-nandana-sundaraṁ,\nRāmadūtam atulitabalaṁ namāmi Hanumantam-avyayam.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Lanka-vidhvansa-kaarakam Sita-shoka-nivaranam,\nDasha-mukha-darpaharam cha Rameshta-kaaryakaarinam.",
+          "meaning": "The destroyer of Lanka, the remover of Sita's grief, the one who shattered the pride of the ten-headed Ravana, the one who carries out the beloved tasks of Rama.",
+          "transliteration": "Laṅkā-vidhvaṁsa-kārakaṁ Sītā-śoka-nivāraṇaṁ,\nDaśa-mukha-darpahāraṁ ca Rāmeṣṭa-kāryakāriṇam.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sanjeevani-samaahartam Lakshmanasya pranadayakam,\nVayu-putra-namastubhyam panchavaktra-bhayankaram.",
+          "meaning": "The bringer of the Sanjeevani herb, the one who restored Lakshmana's life. Salutations to you, son of Vayu, the fearsome one with five faces.",
+          "transliteration": "Sañjīvanī-samāhartaṁ Lakṣmaṇasya prāṇadāyakam,\nVāyu-putra-namastubhyaṁ pañcavaktra-bhayaṅkaram.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ashta-siddhi-nava-nidhi ke data asa bara deena Janaki mata,\nRama-rasayana tumhare pasa sada raho Raghupati ke dasa.",
+          "meaning": "The mother Janaki granted you the boon that you can bestow the eight siddhis and nine treasures. The elixir of Rama's devotion resides always with you, O eternal servant of Raghupati.",
+          "transliteration": "Aṣṭa-siddhi-nava-nidhi ke dātā asa bara dīnā Jānakī mātā,\nRāma-rasāyana tumhāre pāsa sadā raho Raghupati ke dāsa.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Bhima-rupam mahaa-rudram Pavan-suta-balam param,\nKanchanabha-viraj-vapusham namami pawanaja-sundaram.",
+          "meaning": "The one of terrifying form, the great Rudra, the supreme powerful son of the wind. The one whose body shines like golden radiance, I bow to the beautiful son of the wind god.",
+          "transliteration": "Bhīma-rūpaṁ mahā-rudraṁ Pavana-suta-balaṁ param,\nKāñcanābha-virāj-vapuṣaṁ namāmi pavaṇaja-sundaram.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Manojavam maruta-tulya-vegam jitendriyam buddhi-mataam varishtham,\nVata-atmajam vanara-yutham mukhyam Shri-Rama-dutam sharanaham prapadye.",
+          "meaning": "Swift as the mind, fast as the wind, master of the senses, the greatest among the intelligent. The son of the wind god, the chief of the monkey army, I take refuge in Sri Rama's messenger.",
+          "transliteration": "Manojaṁvaṁ māruta-tulya-vegaṁ jitendriyaṁ buddhi-matāṁ variṣṭham,\nVātātmajaṁ vānara-yūtha-mukhyaṁ Śrī-Rāma-dūtaṁ śaraṇāhaṁ prapadye.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Hanumad-ashtakam-idam punyam ya pathet prayatah sada,\nSarva-badha-vinirmukto labhet vanchita-phala sada.\nSri Ramacharana-kamala-archana-priyam Hanumantkam,\nSarva-mangala-dayakam pranamami Vayunandanam.",
+          "meaning": "Whoever recites this sacred Hanuman Ashtakam with devotion always becomes freed from all afflictions and obtains the desired fruits always. I bow to Hanuman, who delights in worshipping the lotus feet of Sri Rama, the bestower of all auspiciousness, the son of Vayu.",
+          "transliteration": "Hanumad-aṣṭakam-idaṁ puṇyaṁ ya paṭhet prayataḥ sadā,\nSarva-bādhā-vinirmukto labhet vāñchita-phala sadā.\nŚrī Rāmacaraṇa-kamala-arcana-priyaṁ Hanumantakam,\nSarva-maṅgala-dāyakaṁ praṇamāmi Vāyunandanam.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "ashta_durga",
+      "title": "Durga Ashtakam",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/ashtakam/durga.jpg",
+      "orderIndex": 7,
+      "content": [
+        {
+          "shloka": "Amba Vaachaamatiga-gocharim nirmalam sarva-devaam prathama-vandanaam,\nPratyaksha-mahisha-mardanim ambikaam pranamamyaham.\nDurgam Durgatinashini Durgamam cha duratikramaam.",
+          "meaning": "O Mother, beyond the reach of speech and mind, the immaculate one to whom all gods bow first. The one who visibly destroyed the buffalo demon, I bow to Ambika. Durga, the destroyer of evil fate, the unconquerable one, the one impossible to transgress.",
+          "transliteration": "Ambā Vācāmatīga-gocarīṁ nirmalāṁ sarva-devāṁ prathama-vandanām,\nPratyakṣa-mahiṣa-mardinīṁ ambikāṁ praṇamāmyaham.\nDurgāṁ Durgatināśinīṁ Durgamāṁ ca durātikramām.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Simha-vaahini maheshvarim bhayaharim kaatyaayanim shivaam,\nShailaputri-svarupaam cha Brahmachaarinim-avyayaam.",
+          "meaning": "The great goddess riding the lion, the remover of fear, Katyayani, the auspicious one. She who is in the form of Shailaputri (daughter of the mountain) and the imperishable Brahmacharini.",
+          "transliteration": "Siṁha-vāhinī maheśvarīṁ bhayahāriṁ kātyāyanīṁ śivām,\nŚailaputrī-svarūpāṁ ca Brahmacāriṇīm-avyayām.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Chandraghantaam mahaabalaam kushmaandaam jagataadhikaam,\nSkandamaataram shubhaam deveem Kaataayaaneem namaamyaham.",
+          "meaning": "Chandraghanta of great power, Kushmanda who transcends the universe, the auspicious mother of Skanda, I bow to the goddess Katyayani.",
+          "transliteration": "Candraghaṇṭāṁ mahābalāṁ kūṣmāṇḍāṁ jagatādhikām,\nSkandamātaraṁ śubhāṁ devīṁ Kāṭāyānīṁ namāmyaham.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kaalaraatreem mahaamayaam mahagaurim tapasvinim,\nSiddhidaatreem namastubhyam Durgaye namo namah.",
+          "meaning": "Kalaratri of great mystic power, Mahagauri the great penance-performer, Siddhidatri, the bestower of perfection, salutations to you, O Durga, we bow again and again.",
+          "transliteration": "Kālarātriṁ mahāmāyāṁ Mahāgaurīṁ tapasvinīm,\nSiddhidātrīṁ namastubhyaṁ Durgāye namo namaḥ.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sarva-mangala-mangalye Shive sarvaartha-saadhike,\nSharanyetryambake Gauri Narayani namostute.",
+          "meaning": "O auspicious of all that is auspicious, O consort of Shiva, who fulfills all objectives. O refuge of all, three-eyed Gauri, O Narayani, salutations to you.",
+          "transliteration": "Sarva-maṅgala-māṅgalye Śive sarvārtha-sādhike,\nŚaraṇye tryambake Gaurī Nārāyaṇī namostute.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Jayanti mangala kaali Bhadrakaali kapaalini,\nDurga kshama shivaa dhatri svaaha svadhaa namostute.",
+          "meaning": "O Jayanti, Mangala, Kali, Bhadrakali, Kapalini, Durga, Kshama, Shiva, Dhatri, Svaha, Svadha, salutations to you.",
+          "transliteration": "Jayantī maṅgalā kālī Bhadrakālī kapālinī,\nDurgā kṣamā śivā dhātrī svāhā svadhā namostute.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Shulena pahino devi paahi khadgena chambike,\nGhanta-svanena nah paahi chaapajyaanih svanena cha.",
+          "meaning": "Protect us with your trident, O Goddess, protect us with your sword, O Ambika. Protect us with the sound of your bell and the twang of your bowstring.",
+          "transliteration": "Śūlena pāhino devī pāhi khaḍgena cāmbike,\nGhaṇṭā-svanena naḥ pāhi cāpajyāniḥ svanena ca.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Iti Durga-ashtakam punyam yah pathet bhakti-samyutah,\nSarva-badha-pramuktah syat trailokye cha vishrutah.\nJaya Durge Durgati-pariharini devi Narayani namostute,\nNamah sarvaye sarvasye sarva-shaktaye namo namah.",
+          "meaning": "Thus whoever recites this sacred Durga Ashtakam with devotion becomes freed from all afflictions and becomes renowned in the three worlds. Victory to Durga, the goddess who removes all misfortune, salutations to Devi Narayani. Salutations to the all-encompassing one, to the power of all, again and again.",
+          "transliteration": "Iti Durgā-aṣṭakaṁ puṇyaṁ yaḥ paṭhet bhakti-saṁyutaḥ,\nSarva-bādhā-pramuktaḥ syāt trailokye ca viśrutaḥ.\nJaya Durge Durgati-parihāriṇi devī Nārāyaṇī namostute,\nNamaḥ sarvāye sarvāsye sarva-śaktaye namo namaḥ.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "ashta_lakshmi",
+      "title": "Lakshmi Ashtakam",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/ashtakam/lakshmi.jpg",
+      "orderIndex": 8,
+      "content": [
+        {
+          "shloka": "Namastyai yashoda-pataye vishtaraashrave,\nNamas sarva-lokeshvari shri Mahaalakshmyai namo namah.\nPadmasane padmini padmahaste padmapriye padmadalaayataakshi.",
+          "meaning": "Salutations to the consort of Yashoda's Lord, whose fame pervades everywhere. Salutations to the goddess of all worlds, Sri Mahalakshmi, again and again. Seated on a lotus, holding lotuses in her hands, the beloved of the lotus, with wide eyes like lotus petals.",
+          "transliteration": "Namastyai yaśodā-pataye viṣṭarāśrave,\nNamas sarva-lokeśvari śrī Mahālakṣmyai namo namaḥ.\nPadmāsane padminī padmahaste padmapriye padmadalāyatākṣi.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kshirasagara-tanaye sura-sundari Vishnu-patni namostute,\nHiranyavarnaam harineem suvarna-rajata-srajam.",
+          "meaning": "O daughter of the milky ocean, beautiful among the gods, consort of Vishnu, salutations to you. The one with a golden complexion, adorned with garlands of gold and silver.",
+          "transliteration": "Kṣīrāsāgara-tanaye sura-sundarī Viṣṇu-patnī namostute,\nHiraṇyavarṇāṁ hariṇīṁ suvarṇa-rajata-srajām.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sarvagye sarva-varade sarva-dushta-bhayankari,\nSarva-duhkha-hare devi Mahalakshmi namostute.",
+          "meaning": "O all-knowing one, bestower of all boons, the one who terrifies all evil. O goddess who removes all sorrows, Mahalakshmi, salutations to you.",
+          "transliteration": "Sarvajñe sarva-varade sarva-duṣṭa-bhayaṅkarī,\nSarva-duḥkha-hare devī Mahālakṣmī namostute.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Siddhi-buddhi-prade devi bhukti-mukti-pradayini,\nMantra-muurtey sada devi Mahalakshmi namostute.",
+          "meaning": "O goddess who grants accomplishment and wisdom, who bestows enjoyment and liberation. O goddess who is the embodiment of sacred mantras, Mahalakshmi, salutations to you.",
+          "transliteration": "Siddhi-buddhi-prade devī bhukti-mukti-pradāyinī,\nMantra-mūrtey sadā devī Mahālakṣmī namostute.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Aadyantarahite devi Aadyashakti Maheshvari,\nYogaje yogasambhute Mahalakshmi namostute.",
+          "meaning": "O goddess without beginning or end, the primordial power, the great goddess. Born of yoga and manifested through yoga, Mahalakshmi, salutations to you.",
+          "transliteration": "Ādyantarahite devī Ādyaśakti Maheśvarī,\nYogaje yogasambhūte Mahālakṣmī namostute.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sthoola-sookshma-maharaudre Mahashakti Mahodare,\nMahapaapa-hare devi Mahalakshmi namostute.",
+          "meaning": "O one who is gross, subtle, and of great fury, great power, and great expanse. O goddess who destroys great sins, Mahalakshmi, salutations to you.",
+          "transliteration": "Sthūla-sūkṣma-mahāraudre Mahāśakti Mahodare,\nMahāpāpa-hare devī Mahālakṣmī namostute.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Padma-sthite padma-varne padmini padma-sambhave,\nTan me bhajasi padmakshi yena saukhyam labhamyaham.",
+          "meaning": "O one seated on the lotus, lotus-colored, lotus-holding one, born of the lotus. Bless me, O lotus-eyed one, so that I may attain happiness.",
+          "transliteration": "Padma-sthite padma-varṇe padminī padma-sambhave,\nTan me bhajasi padmākṣī yena saukhyaṁ labhāmyaham.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Mahalakshmi-ashtakam stotram yah pathet bhakti-manasah,\nSarva-siddhi-mavapnoti rajyam prapnoti sarvada.\nEka-kale pathennityam Mahaapaapa-vinashanam,\nDvikalam yah pathennityam dhanadhanya samanvitah.",
+          "meaning": "Whoever recites this Mahalakshmi Ashtakam stotra with a devoted mind attains all accomplishments and always gains sovereignty. Reciting it once daily destroys great sins. Reciting it twice daily brings wealth and prosperity.",
+          "transliteration": "Mahālakṣmī-aṣṭakaṁ stotraṁ yaḥ paṭhet bhakti-mānasaḥ,\nSarva-siddhi-māvāpnoti rājyaṁ prāpnoti sarvadā.\nEka-kāle paṭhennityaṁ Mahāpāpa-vināśanaṁ,\nDvi-kālaṁ yaḥ paṭhennityaṁ dhanadhānya samanvitaḥ.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "ashta_saraswati",
+      "title": "Saraswati Ashtakam",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/ashtakam/saraswati.jpg",
+      "orderIndex": 9,
+      "content": [
+        {
+          "shloka": "Yaa kundendu-tushara-hara-dhavalaa yaa shubhra-vastraavritaa,\nYaa veena-varadanda-manditakaraa yaa shveta-padmaasanaa.\nYaa brahmaachyuta-shankara-prabhritibhir devaih sadaa pujitaa,\nSaa maam paatu Sarasvatee Bhagavatee nihshesha-jaadyaapahaa.",
+          "meaning": "May the Goddess Sarasvati protect me. She who is fair like the jasmine, the moon, and the snow, dressed in white garments. Whose hands are adorned with the veena and the boon-giving staff, who sits on a white lotus. Who is always worshipped by Brahma, Vishnu, Shankara and other gods, the Goddess who removes all traces of ignorance.",
+          "transliteration": "Yā kundendu-tuṣāra-hāra-dhavalā yā śubhra-vastrāvṛtā,\nYā vīṇā-varadaṇḍa-maṇḍitakarā yā śveta-padmāsanā.\nYā brahmācyuta-śaṅkara-prabhṛtibhir devaiḥ sadā pūjitā,\nSā māṁ pātu Sarasvatī Bhagavatī niḥśeṣa-jāḍyāpahā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Chaturbhuje chandrakalaa-vatamse suvarna-maalaa-vibhushite vibhushte,\nVandaamahe tvaam amrita-svaroope vidyaam pradehino varada-shreshta-roope.",
+          "meaning": "O four-armed one, adorned with the crescent moon and decorated with golden garlands. We worship you, O one of immortal form, grant us knowledge, O one of the most excellent boon-giving form.",
+          "transliteration": "Caturbhuje candrākalā-vatāṁse suvarṇa-mālā-vibhūṣite vibhūṣṭe,\nVandāmahe tvāṁ amṛta-svarūpe vidyāṁ pradehino varada-śreṣṭa-rūpe.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sharada-chandravadanaam veenaahastaam svashobhitaam,\nVaraabhaya-pradam deveem pranamamyaham Sarasvateem.",
+          "meaning": "The one whose face is like the autumn moon, holding the veena and looking resplendent. The goddess who grants boons and dispels fear, I bow to Sarasvati.",
+          "transliteration": "Śāradā-candravadanāṁ vīṇāhastāṁ svaśobhitāṁ,\nVarābhaya-pradāṁ devīṁ praṇamāmyahaṁ Sarasvatīm.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Vidhyaa-daayinee maheshvaree cha sarva-kaala-shobhita,\nPustaka-dharinee shuddhaam vandaamahe tu Vaagiishvareem.",
+          "meaning": "The great goddess who bestows learning, adorned for all time. The pure one who holds the book, we worship Vagishvari (the mistress of speech).",
+          "transliteration": "Vidyā-dāyinī maheśvarī ca sarva-kāla-śobhitā,\nPustaka-dhāriṇī śuddhāṁ vandāmahe tu Vāgīśvarīm.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Hamsaasana-sthitaam deveem hamsa-vaahineem-avyayaam,\nVidyaadaanambudhi-roopaam Sarasvateem namaamyaham.",
+          "meaning": "The goddess seated on a swan throne, the imperishable one who rides the swan. I bow to Sarasvati who is like an ocean of knowledge-granting wisdom.",
+          "transliteration": "Haṁsāsana-sthitāṁ devīṁ haṁsa-vāhinīm-avyayāṁ,\nVidyādānambudhi-rūpāṁ Sarasvatīṁ namāmyaham.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sangeetha-sahitye kaladhaare kavitaamayi,\nNaatyashaastre praveenam cha vandaamahe swaraa-devataam.",
+          "meaning": "The one who abides in music and literature, the embodiment of arts and poetry. The one proficient in the science of drama, we worship the goddess of melody.",
+          "transliteration": "Saṅgīta-sāhitye kalādhāre kavitāmayī,\nNāṭyaśāstre pravīṇāṁ ca vandāmahe svarā-devatām.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Akshara-svaroopaam akshamaalaa-dharineem cha,\nBrahmavidyaa-pradaam deveem vandaamahe Sarva-mangalaam.",
+          "meaning": "The one whose form is the syllables, who holds the rosary of letters. The goddess who grants the knowledge of Brahman, we worship the all-auspicious one.",
+          "transliteration": "Akṣara-svarūpāṁ akṣamālā-dhāriṇīṁ ca,\nBrahmavidyā-pradāṁ devīṁ vandāmahe Sarva-maṅgalām.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sarasvatyashtakam stotram ya pathet bhaktimaan narah,\nTasya vaakpati-saamarthyam vidyaa vanchitam-aapnuyaat.\nShukla-vastra-dharaam deveem vidyaalankrita-bhushitaam,\nNamami Sarasvateem shuddhaam sarvashaastra-pravartinim.",
+          "meaning": "Whoever recites this Sarasvati Ashtakam stotra with devotion gains mastery over speech and obtains the desired knowledge. I bow to Sarasvati, the pure one dressed in white garments, adorned with the ornaments of learning, the one who promotes all sciences.",
+          "transliteration": "Sarasvatyaṣṭakaṁ stotraṁ ya paṭhet bhaktimān naraḥ,\nTasya vākpati-sāmarthyaṁ vidyā vāñchitam-āpnuyāt.\nŚukla-vastra-dharāṁ devīṁ vidyālaṅkṛta-bhūṣitāṁ,\nNamāmi Sarasvatīṁ śuddhāṁ sarvaśāstra-pravartinīm.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "ashta_datta",
+      "title": "Dattatreya Ashtakam",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/ashtakam/dattatreya.jpg",
+      "orderIndex": 10,
+      "content": [
+        {
+          "shloka": "Mahaayogee mahaatmaanam Dattaatreya-maheshvaram,\nAvadhutam digambaram cha Trimurti-swarupam-isham.",
+          "meaning": "The great yogi, the great soul, Lord Dattatreya the supreme Lord. The liberated one, sky-clad, who is the embodiment of the triple deity (Brahma, Vishnu, Mahesh).",
+          "transliteration": "Mahāyogī mahātmānaṁ Dattātreya-maheśvaraṁ,\nAvadhūtaṁ digambaraṁ ca Trimūrti-svarūpam-īśam.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Atri-putra-mahaatejam Anasooyaa-nandana-prabhum,\nShreedharakhyam param brahmam namami Dattam-avyayam.",
+          "meaning": "The greatly radiant son of sage Atri, the Lord who is Anasuya's beloved son. Known as the bearer of Sri, the supreme Brahman, I bow to the imperishable Datta.",
+          "transliteration": "Atri-putra-mahātejaṁ Anasūyā-nandana-prabhuṁ,\nŚrīdharākhyaṁ paraṁ brahma namāmi Dattam-avyayam.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Chaturi-shvanvitam devam sarva-bhuta-hite ratam,\nAudumbaratale sthitam deva-devam Dattam-isham.",
+          "meaning": "The Lord accompanied by four dogs, ever engaged in the welfare of all beings. Dwelling beneath the Audumbara tree, the god of gods, Lord Datta.",
+          "transliteration": "Caturī-śvānvitaṁ devaṁ sarva-bhūta-hite ratam,\nAudumbaratale sthitaṁ deva-devaṁ Dattam-īśam.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kamandalu-dharaam devam kamala-varna-lochanam,\nVeda-vedaanta-tattvajnam namami Dattam-avyayam.",
+          "meaning": "The Lord who holds the water vessel, whose eyes are lotus-colored. The knower of the essence of the Vedas and Vedanta, I bow to the imperishable Datta.",
+          "transliteration": "Kamaṇḍalu-dhārāṁ devaṁ kamala-varṇa-locanam,\nVeda-vedānta-tattvajñaṁ namāmi Dattam-avyayam.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Yoga-shaastra-pravaktaaram bhakta-kaamadugha-prabhum,\nJnaana-vairaagya-sampannam namami Dattam-avyayam.",
+          "meaning": "The expounder of the science of yoga, the Lord who fulfills devotees' desires like the wish-fulfilling cow. The one endowed with knowledge and renunciation, I bow to the imperishable Datta.",
+          "transliteration": "Yoga-śāstra-pravaktāraṁ bhakta-kāmadugha-prabhuṁ,\nJñāna-vairāgya-sampannaṁ namāmi Dattam-avyayam.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Trigunaateetam-anantam sarva-vyaapi-jagadgurum,\nChatur-vedaartha-sampannam namami Dattam-avyayam.",
+          "meaning": "The one beyond the three gunas, infinite, the all-pervading guru of the world. The one endowed with the meaning of the four Vedas, I bow to the imperishable Datta.",
+          "transliteration": "Triguṇātītam-anantaṁ sarva-vyāpi-jagadguruṁ,\nCatur-vedārtha-sampannaṁ namāmi Dattam-avyayam.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Smaranaat-sarva-paapaghnam bhakta-chitta-prasaadanam,\nSarva-roga-haram devam namami Dattam-avyayam.",
+          "meaning": "The one whose mere remembrance destroys all sins, who brings peace to the minds of devotees. The deity who removes all diseases, I bow to the imperishable Datta.",
+          "transliteration": "Smaraṇāt-sarva-pāpaghnaṁ bhakta-citta-prasādanaṁ,\nSarva-roga-haraṁ devaṁ namāmi Dattam-avyayam.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Dattaatreyaashtakam stotram yah pathet bhakti-samyutah,\nSarva-duhkha-vinirmukto sarveshaam priyataam vrajet.\nAnasuyaa-trisambhutam Dattaatreya-namostute,\nDigambaram param devam smaraami Dattam-eeshvaram.",
+          "meaning": "Whoever recites this Dattatreya Ashtakam stotra with devotion becomes freed from all sorrows and wins the affection of all. Born of the three from Anasuya, salutations to Dattatreya. The sky-clad supreme god, I remember Lord Datta.",
+          "transliteration": "Dattātreyāṣṭakaṁ stotraṁ yaḥ paṭhet bhakti-saṁyutaḥ,\nSarva-duḥkha-vinirmukto sarveṣāṁ priyatāṁ vrajet.\nAnasūyā-trisambhūtaṁ Dattātreya-namostute,\nDigambaraṁ paraṁ devaṁ smarāmi Dattam-eśvaram.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "ashta_guru",
+      "title": "Guru Ashtakam",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/ashtakam/guru.jpg",
+      "orderIndex": 11,
+      "content": [
+        {
+          "shloka": "Shareeram suroopam tathaa vaa kalatram\nYashas-chaaru chitram dhanam merutulyam.\nManashchenna lagnam Guroranghripadme\nTatah kim tatah kim tatah kim tatah kim.",
+          "meaning": "Even if one has a beautiful body, a worthy spouse, fame that is wonderful, and wealth equal to Mount Meru — if the mind is not attached to the lotus feet of the Guru, then what use, what use, what use, what use is it all?",
+          "transliteration": "Śarīraṁ surūpaṁ tathā vā kalatraṁ\nYaśaścāru citraṁ dhanaṁ merutulyam.\nManaścenna lagnaṁ Guroraṅghripadme\nTataḥ kiṁ tataḥ kiṁ tataḥ kiṁ tataḥ kim.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kalatram dhanam putrapautraadi sarvam\nGruham bhandhavaah sarvametaddhi jaatam.\nManashchenna lagnam Guroranghripadme\nTatah kim tatah kim tatah kim tatah kim.",
+          "meaning": "Wife, wealth, sons, grandsons and all, home, kinsmen — all this has come into being. But if the mind is not attached to the lotus feet of the Guru, then what use, what use, what use, what use is it all?",
+          "transliteration": "Kalatraṁ dhanaṁ putrapautrādi sarvaṁ\nGṛhaṁ bāndhavāḥ sarvametaddhi jātam.\nManaścenna lagnaṁ Guroraṅghripadme\nTataḥ kiṁ tataḥ kiṁ tataḥ kiṁ tataḥ kim.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Shadangaadivedo mukhe shaastravidyaa\nKavitvaadi gadyam supadyam karoti.\nManashchenna lagnam Guroranghripadme\nTatah kim tatah kim tatah kim tatah kim.",
+          "meaning": "The six Vedangas on the tongue, mastery of scriptures and learning, composing prose and beautiful poetry — if the mind is not attached to the lotus feet of the Guru, then what use, what use, what use, what use is it all?",
+          "transliteration": "Ṣaḍaṅgādivedo mukhe śāstravidyā\nKavitvādi gadyaṁ supadyaṁ karoti.\nManaścenna lagnaṁ Guroraṅghripadme\nTataḥ kiṁ tataḥ kiṁ tataḥ kiṁ tataḥ kim.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Videshesu maanyah svadesheshu dhaanyah\nSadaachaara-vrittheshu matto na chaanyah.\nManashchenna lagnam Guroranghripadme\nTatah kim tatah kim tatah kim tatah kim.",
+          "meaning": "Honored in foreign lands, prosperous in one's own country, in righteous conduct none surpasses me — if the mind is not attached to the lotus feet of the Guru, then what use, what use, what use, what use is it all?",
+          "transliteration": "Videśeṣu mānyaḥ svadeśeṣu dhānyaḥ\nSadācāra-vṛtteṣu matto na cānyaḥ.\nManaścenna lagnaṁ Guroraṅghripadme\nTataḥ kiṁ tataḥ kiṁ tataḥ kiṁ tataḥ kim.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kshama mandalam bhoopalaih sevitam\nYasho gaatam dikshu viditam.\nManashchenna lagnam Guroranghripadme\nTatah kim tatah kim tatah kim tatah kim.",
+          "meaning": "The circle of the earth served by kings, fame spread in all directions and well-known — if the mind is not attached to the lotus feet of the Guru, then what use, what use, what use, what use is it all?",
+          "transliteration": "Kṣamā maṇḍalaṁ bhūpalaiḥ sevitaṁ\nYaśo gātaṁ dikṣu viditam.\nManaścenna lagnaṁ Guroraṅghripadme\nTataḥ kiṁ tataḥ kiṁ tataḥ kiṁ tataḥ kim.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Na bhoge na yoge na vaa vaaji-raajau\nNa kanta-mukhe naiva vitteshu chittam.\nManashchenna lagnam Guroranghripadme\nTatah kim tatah kim tatah kim tatah kim.",
+          "meaning": "Not in enjoyment, not in yoga, not in fine horses, not in the face of the beloved, not even in wealth is the mind fixed. If the mind is not attached to the lotus feet of the Guru, then what use, what use, what use, what use is it all?",
+          "transliteration": "Na bhoge na yoge na vā vāji-rājau\nNa kāntā-mukhe naiva vitteṣu cittam.\nManaścenna lagnaṁ Guroraṅghripadme\nTataḥ kiṁ tataḥ kiṁ tataḥ kiṁ tataḥ kim.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Aranye na vaa svasya gehe na kaarye\nNa dehe mano vartate me tvanarghye.\nManashchenna lagnam Guroranghripadme\nTatah kim tatah kim tatah kim tatah kim.",
+          "meaning": "Not in the forest, not in one's own home, not in duties, not in the body — my mind does not dwell on the priceless. If the mind is not attached to the lotus feet of the Guru, then what use, what use, what use, what use is it all?",
+          "transliteration": "Araṇye na vā svasya gehe na kārye\nNa dehe mano vartate me tvanarghye.\nManaścenna lagnaṁ Guroraṅghripadme\nTataḥ kiṁ tataḥ kiṁ tataḥ kiṁ tataḥ kim.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Gurorashtakam yah pathet punya-dehi\nYatir-bhupatiir-brahmachaari cha gehi.\nLabhed vaanchitam paadukaam shri-Guroh\nPadambujam tasya namostu nityam.",
+          "meaning": "Whoever recites this Guru Ashtakam, whether an ascetic, a king, a celibate, or a householder, obtains the desired grace — the holy sandals of the Guru. May there be eternal salutations to the lotus feet of the Guru.",
+          "transliteration": "Guroraṣṭakaṁ yaḥ paṭhet puṇya-dehī\nYatir-bhūpatir-brahmacārī ca gehī.\nLabhed vāñchitaṁ pādukāṁ śrī-Guroḥ\nPadāmbujaṁ tasya namostu nityam.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "ashta_surya",
+      "title": "Surya Ashtakam",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/ashtakam/surya.jpg",
+      "orderIndex": 12,
+      "content": [
+        {
+          "shloka": "Aadideva namastubhyam prasiida mama bhaaskara,\nDivaakaara namastubhyam prabhaakaara namostute.",
+          "meaning": "O primeval god, salutations to you, be pleased with me, O radiant one. O day-maker, salutations to you; O light-maker, salutations to you.",
+          "transliteration": "Ādideva namastubhyaṁ prasīda mama bhāskara,\nDivākara namastubhyaṁ prabhākara namostute.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Saptaashva-rathaaruudham prachanda-kaashyapaatmajam,\nShveta-padma-dharaam devam tam Suryam pranamaamyaham.",
+          "meaning": "Mounted on the chariot drawn by seven horses, the fierce son of Kashyapa. The Lord who holds the white lotus, I bow to that Surya.",
+          "transliteration": "Saptāśva-rathārūḍhaṁ pracaṇḍaṁ kāśyapātmajam,\nŚveta-padma-dharāṁ devaṁ taṁ Sūryaṁ praṇamāmyaham.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Lohitam rathamaruudham sarvalokapitaamaham,\nMahapaapa-haram devam tam Suryam pranamaamyaham.",
+          "meaning": "The crimson one mounted on his chariot, the grandfather of all the worlds. The Lord who destroys great sins, I bow to that Surya.",
+          "transliteration": "Lohitaṁ rathamārūḍhaṁ sarvaloka-pitāmaham,\nMahāpāpa-haraṁ devaṁ taṁ Sūryaṁ praṇamāmyaham.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Trayeemoortiaa namaskaaram grahaanaam pataye namah,\nDineshvaraya namastubhyam prabhakaraya namostute.",
+          "meaning": "Salutations to the embodiment of the three Vedas, obeisance to the lord of the planets. Salutations to the lord of the day, salutations to the maker of light.",
+          "transliteration": "Trayīmūrtim namaskāraṁ grahāṇāṁ pataye namaḥ,\nDineśvarāya namastubhyaṁ prabhākarāya namostute.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Khagodhikam mahabhaanau sahasramsha divaakaara,\nTamo-bhedaya namastubhyam bhaanave mahatejase.",
+          "meaning": "O lord of the sky, O great sun, O thousand-rayed day-maker. Salutations to you, the dispeller of darkness, to the shining one of great radiance.",
+          "transliteration": "Khagādhikaṁ mahābhānau sahasrāṁśa divākara,\nTamo-bhedāya namastubhyaṁ bhānave mahātejase.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Hritaroga-haram devam shuklavaraam chirasthitam,\nArogya-dhana-dayinam Suryam namami bhaskaram.",
+          "meaning": "The Lord who cures heart diseases, the one in bright form, ever-abiding. The bestower of health and wealth, I salute Surya, the luminous one.",
+          "transliteration": "Hṛtaroga-haraṁ devaṁ śuklavarāṁ cirasthitam,\nĀrogya-dhana-dāyinaṁ Sūryaṁ namāmi bhāskaram.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Tamoghnaya himahnaaya shughnaya namo namah,\nVyaadhighnaaya vrishodeepashraya namo namah.",
+          "meaning": "To the destroyer of darkness, the melter of frost, the remover of sorrow, again and again obeisance. To the destroyer of disease, the light of the righteous, again and again obeisance.",
+          "transliteration": "Tamoghnāya himāghnāya śughnāya namo namaḥ,\nVyādhighnāya vṛṣodīpa-śrāya namo namaḥ.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Suryaashtakam pathet yasthu bhaaktimaanyo dvijaah sadaa,\nSarva-paapa-vinirmukto Suryalokam-avaapnuyaat.\nBhaanu-shankara-sangyaaya namas Suryaaya chandrine,\nTamogatraya-naashaya namastejonidhaye namah.",
+          "meaning": "Whoever recites this Surya Ashtakam with devotion, the twice-born always becomes freed from all sins and attains the world of Surya. Salutations to the Sun known as Bhanu and Shankara, the radiant one. Salutations to the destroyer of the three forms of darkness, salutations to the treasury of radiance.",
+          "transliteration": "Sūryāṣṭakaṁ paṭhet yastu bhāktimānyo dvijāḥ sadā,\nSarva-pāpa-vinirmukto Sūryalokam-āvāpnuyāt.\nBhānu-śaṅkara-saṁjñāya namas Sūryāya candrīṇe,\nTamogh-atraya-nāśāya namastejonidhaye namaḥ.",
+          "imageUrl": null
         }
       ]
     }

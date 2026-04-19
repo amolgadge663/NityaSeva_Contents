@@ -1,0 +1,555 @@
+{
+  "category": "Bhajan Sangraha",
+  "version": 1,
+  "items": [
+    {
+      "id": "bhajan_siya_ram",
+      "title": "Siya Ram Siya Ram (Ram Dhun)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhajan/ram.jpg",
+      "orderIndex": 1,
+      "content": [
+        {
+          "shloka": "Siya Ram Siya Ram Siya Ram,\nJai Jai Ram Jai Jai Ram Jai Siya Ram.",
+          "meaning": "Glory to Sita and Rama! Chanting their sacred names together brings divine grace, for Sita and Rama are inseparable — the eternal union of devotion and the Divine.",
+          "transliteration": "Sīyā Rām Sīyā Rām Sīyā Rām,\nJai Jai Rām Jai Jai Rām Jai Sīyā Rām.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Siya Ram Siya Ram kahiye,\nJahi vidhi rakhe Ram tahi vidhi rahiye.",
+          "meaning": "Keep chanting the names of Sita and Rama. However the Lord keeps you, remain content in that state — surrender to His divine will.",
+          "transliteration": "Sīyā Rām Sīyā Rām kahiye,\nJāhī vidhi rākhe Rām tāhī vidhi rahiye.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Mangal bhavan amangal hari,\nDravahu so Dasharath Ajir bihari.",
+          "meaning": "He who is the abode of auspiciousness and the destroyer of all inauspiciousness — may that Lord Rama, the delight of King Dasharatha's courtyard, shower His grace upon us.",
+          "transliteration": "Maṅgal bhavan amaṅgal hārī,\nDravahu so Daśaratha Ajira bihārī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Raghupati Raghav Raja Ram,\nPatita Pavan Sita Ram.\nSita Ram Sita Ram,\nBhaj pyare tu Sita Ram.",
+          "meaning": "O Lord Rama, chief of the Raghu dynasty! O Redeemer of the fallen, Sita-Rama! Beloved one, chant the sacred names of Sita and Rama.",
+          "transliteration": "Raghupati Rāghav Rājā Rām,\nPatita Pāvan Sītā Rām.\nSītā Rām Sītā Rām,\nBhaj pyāre tū Sītā Rām.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ishwar Allah tero naam,\nSab ko sanmati de Bhagavan.",
+          "meaning": "Whether called Ishwar or Allah, it is Your name, O Lord. Bless everyone with right understanding and noble thoughts.",
+          "transliteration": "Īśvar Allāh tero nām,\nSab ko sanmati de Bhagavān.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "bhajan_hare_krishna",
+      "title": "Hare Krishna Mahamantra",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhajan/krishna.jpg",
+      "orderIndex": 2,
+      "content": [
+        {
+          "shloka": "Hare Krishna Hare Krishna,\nKrishna Krishna Hare Hare.\nHare Rama Hare Rama,\nRama Rama Hare Hare.",
+          "meaning": "O Supreme Energy (Hare)! O All-Attractive Lord (Krishna)! O Source of All Pleasure (Rama)! Please engage me in Your devotional service. This Mahamantra is the supreme means of deliverance in the age of Kali.",
+          "transliteration": "Hare Kṛṣṇa Hare Kṛṣṇa,\nKṛṣṇa Kṛṣṇa Hare Hare.\nHare Rāma Hare Rāma,\nRāma Rāma Hare Hare.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Cheto darpana marjanam bhava maha-davagni nirvapanam,\nShreyah kairava chandrika vitaranam vidya vadhu jivanam.",
+          "meaning": "The chanting of the Holy Name cleanses the mirror of the heart, extinguishes the blazing fire of material existence, spreads the moonlight of auspiciousness, and is the life of all transcendental knowledge.",
+          "transliteration": "Ceto-darpaṇa-mārjanaṁ bhava-mahā-dāvāgni-nirvāpaṇaṁ,\nŚreyaḥ-kairava-candrikā-vitaraṇaṁ vidyā-vadhū-jīvanam.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Anandambudhi vardhanam prati padam purnamritasvadanam,\nSarvatma snapanam param vijayate Shri Krishna Sankirtanam.",
+          "meaning": "The congregational chanting of Krishna's name increases the ocean of transcendental bliss, enables tasting of full nectar at every step, and bathes the entire self in divine joy. All glories to the Sankirtana of Lord Krishna!",
+          "transliteration": "Ānandāmbudhi-vardhanaṁ prati-padaṁ pūrṇāmṛtāsvādanaṁ,\nSarvātma-snapanaṁ paraṁ vijayate Śrī-Kṛṣṇa-saṅkīrtanam.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Namnam akari bahudha nija sarva shaktis,\nTatrarpita niyamitah smarane na kalah.\nEtadrishi tava kripa bhagavan mamapi,\nDurdaivam idrisham ihajani nanuragah.",
+          "meaning": "O Lord, Your Holy Name bestows all benedictions. You have invested all Your transcendental energies in these Names. There are no hard rules for chanting. O Lord, You are so kind — yet my misfortune is that I have no attraction for Your Name.",
+          "transliteration": "Nāmnām akāri bahudhā nija-sarva-śaktis,\nTatrārpitā niyamitaḥ smaraṇe na kālaḥ.\nEtādṛśī tava kṛpā bhagavan mamāpi,\nDurdaivam īdṛśam ihājani nānurāgaḥ.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Harer nama harer nama harer namaiva kevalam,\nKalau nasty eva nasty eva nasty eva gatir anyatha.",
+          "meaning": "In this age of Kali, the Holy Name of the Lord, the Holy Name of the Lord, the Holy Name of the Lord alone is the only way, the only way, the only way — there is no other path.",
+          "transliteration": "Harer nāma harer nāma harer nāmaiva kevalam,\nKalau nāsty eva nāsty eva nāsty eva gatir anyathā.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "bhajan_om_namah_shivaya",
+      "title": "Om Namah Shivaya Dhun",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhajan/shiv.jpg",
+      "orderIndex": 3,
+      "content": [
+        {
+          "shloka": "Om Namah Shivaya, Om Namah Shivaya,\nOm Namah Shivaya, Om Namah Shivaya.",
+          "meaning": "I bow to Lord Shiva, the auspicious one. This Panchakshari mantra invokes the five elements and the grace of Mahadeva, the supreme consciousness.",
+          "transliteration": "Oṁ Namaḥ Śivāya, Oṁ Namaḥ Śivāya,\nOṁ Namaḥ Śivāya, Oṁ Namaḥ Śivāya.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kar le Shiv ka dhyan, O man ke musafir,\nNa jaane kab ho jaaye tera ant safar.",
+          "meaning": "O traveller of the mind, meditate on Lord Shiva. You never know when your final journey will begin — so take refuge in Him now.",
+          "transliteration": "Kar le Śiv kā dhyān, o man ke musāfir,\nNā jāne kab ho jāye terā ant safar.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Bam Bam Bhole Bam Bam Bhole,\nDevo ke Dev Mahadeva.\nBam Bam Bhole Bam Bam Bhole,\nBhole Nath Mahadeva.",
+          "meaning": "Hail Bholenath, hail the innocent Lord! The God of all gods, Mahadeva! Shiva, who is easily pleased by sincere devotion.",
+          "transliteration": "Bam Bam Bhole Bam Bam Bhole,\nDevo ke Dev Mahādevā.\nBam Bam Bhole Bam Bam Bhole,\nBhole Nāth Mahādevā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Shiv Shiv Shiv Shiv Shivaya Namah Om,\nHara Hara Hara Hara Namah Shivaya.\nAdi Dev Mahadev Karuna Nidhe,\nAb to dayal daya kijiye.",
+          "meaning": "Salutations to Lord Shiva again and again! O Primordial God, great Lord, treasure of compassion — O merciful one, please bestow Your grace upon us now.",
+          "transliteration": "Śiv Śiv Śiv Śiv Śivāya Namaḥ Oṁ,\nHara Hara Hara Hara Namaḥ Śivāya.\nĀdi Dev Mahādev Karuṇā Nidhe,\nAb to dayāl dayā kījiye.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Namo Namo Shankara Bholenath,\nTumhi ho jagat ke swami.\nKailashi Nath Parvati Pati,\nMeri bigdi bana do Swami.",
+          "meaning": "Salutations again and again to Lord Shankara, the innocent Lord. You alone are the master of the universe. O Lord of Kailash, husband of Parvati, please set right my troubled life.",
+          "transliteration": "Namo Namo Śaṅkara Bholenāth,\nTumhī ho jagat ke svāmī.\nKailāśī Nāth Pārvatī Pati,\nMerī bigaḍī banā do Svāmī.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "bhajan_jai_mata",
+      "title": "Jai Mata Di Bhajan",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhajan/durga.jpg",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "Jai Mata Di, Jai Mata Di,\nBolo sada Jai Mata Di.\nJagdamba Jai Jai, Maa Jai Jai,\nBolo sada Jai Mata Di.",
+          "meaning": "Hail to the Divine Mother! Always chant 'Victory to Mother.' Hail to Jagdamba, the Mother of the Universe — always proclaim Her glory.",
+          "transliteration": "Jai Mātā Dī, Jai Mātā Dī,\nBolo sadā Jai Mātā Dī.\nJagdambā Jai Jai, Mā Jai Jai,\nBolo sadā Jai Mātā Dī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ambe tu hai Jagdambe Kali,\nJai Durge khappar wali.\nTera hi gun gaave Bharati,\nO Maiya hum sab utare teri aarti.",
+          "meaning": "O Amba, you are Jagdamba, you are Kali! Victory to Durga, the fierce protector. All of India sings your praises — O Mother, we offer you this sacred aarti.",
+          "transliteration": "Ambe tū hai Jagdambe Kālī,\nJai Durge khappar vālī.\nTerā hī guṇ gāve Bhāratī,\nO Maiyā ham sab utāre terī āratī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Bigdi meri bana do, Sheronwali Maa,\nApni sharan mein lelo, Maiya Maa.\nTeri jai ho Durge, Maata rani,\nSunte sab ki Maiya, Antaryami.",
+          "meaning": "O Mother who rides the lion, set right my troubled life. Take me into Your shelter, O Divine Mother. Victory to You, O Queen Mother Durga — You listen to all, O All-Knowing One.",
+          "transliteration": "Bigaḍī merī banā do, Śeronvālī Mā,\nApnī śaraṇ meṁ le lo, Maiyā Mā.\nTerī jai ho Durge, Mātā Rānī,\nSunte sab kī Maiyā, Antaryāmī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Jhulat Radhe rani jhulat maha rani,\nNau Durga ke naam sada sukhdayani.\nShailputri Brahmacharini Chandraghanta Maa,\nKushmanda Skandmata Katyayani Maa.",
+          "meaning": "The great Queen swings in joy. The nine forms of Durga always bestow happiness — Shailputri, Brahmacharini, Chandraghanta, Kushmanda, Skandamata, and Katyayani.",
+          "transliteration": "Jhūlat Rāḍhe Rānī jhūlat Mahā Rānī,\nNau Durgā ke nām sadā sukhdāyanī.\nŚailputrī Brahmacāriṇī Candraghaṇṭā Mā,\nKūṣmāṇḍā Skandamātā Kātyāyanī Mā.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "bhajan_vitthal",
+      "title": "Vitthal Bhajan (Warkari Abhang)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhajan/Panduranga.jpg",
+      "orderIndex": 5,
+      "content": [
+        {
+          "shloka": "Vitthala Vitthala Vitthala Hari,\nPanduranga Vitthala Hari.\nPundalik varada Hari Vitthala,\nSri Dnyandev Tukaram.",
+          "meaning": "Chant the name of Vitthala, Lord Hari of Pandharpur! He who blessed devotee Pundalik — salutations to Him whose glories were sung by Dnyaneshwar and Tukaram.",
+          "transliteration": "Viṭṭhala Viṭṭhala Viṭṭhala Hari,\nPāṇḍuraṅga Viṭṭhala Hari.\nPuṇḍalīk varadā Hari Viṭṭhala,\nŚrī Jñāndev Tukārām.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Jya sukhaasi karane, dev vedha zhale,\nTe sukha sahaje santal ladhale.\nJethe Naama ghoshi Hari Vitthalachi,\nTethe kripa varse Pandurangachi.",
+          "meaning": "The bliss that even the gods long for, the saints have effortlessly attained. Wherever the Name of Hari Vitthala resounds, there the grace of Panduranga showers down.",
+          "transliteration": "Jyā sukhāsī kāraṇe, dev vedhā jhāle,\nTe sukh sahaje santāṁl lādhale.\nJethe Nāma-ghoṣī Hari Viṭṭhalachī,\nTethe kṛpā varse Pāṇḍuraṅgācī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "He Vitthal bara poriye, sandavali waari.\nChangdev watalit, jnyane padari.\nEka janardani, bhav sindhu taari.",
+          "meaning": "O Vitthala, how wonderful! The Wari pilgrimage flourishes. Changdev bowed, Dnyaneshwar placed His feet. Lord Janardana carries us across the ocean of worldly existence.",
+          "transliteration": "He Viṭṭhal barā poriye, sāṇḍavalī vārī.\nCāṅgdev vāṭalīt, Jñāne paḍarī.\nEkā Janārdanī, bhav-sindhu tārī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Mauli Mauli, Dnyanoba Mauli,\nTukaram Mauli re.\nPandharichi vari geli Devachi nagari,\nSangati karuni Dnyanoba Tukaram.",
+          "meaning": "O beloved Mauli (Mother-Guru)! Dnyanoba is our Mauli, Tukaram is our Mauli. The Wari pilgrimage has reached the city of God — in the sacred company of Dnyanoba and Tukaram.",
+          "transliteration": "Māulī Māulī, Jñānobā Māulī,\nTukārām Māulī re.\nPaṇḍharīcī vārī gelī Devācī nagarī,\nSaṅgatī karunī Jñānobā Tukārām.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Yei ho Vitthale, Maaze maahera Pandhari.\nAavad mala bhetalaa Maher Pandhari,\nVithe bhivare ubha, vitevari.",
+          "meaning": "Come, O Vitthala! Pandharpur is my maternal home. I have found the joy of my mother's home in Pandhari. On the banks of the river Bhima, He stands upon the brick.",
+          "transliteration": "Yeī ho Viṭṭhale, māze māhera Paṇḍharī.\nĀvaḍ malā bheṭalā Māher Paṇḍharī,\nViṭhe bhīvare ubhā, viṭevarī.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "bhajan_hanuman",
+      "title": "Hanuman Bhajan",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhajan/hanuman.jpg",
+      "orderIndex": 6,
+      "content": [
+        {
+          "shloka": "Bajrang Baan padhe Hanuman,\nSankat kate Mahavir Hanuman.\nJai Hanuman, Jai Jai Hanuman,\nPavan putra bali Hanuman.",
+          "meaning": "Hanuman, who recites the Bajrang Baan, destroys all calamities. Victory to Hanuman, the mighty son of the Wind God! Hail to the most powerful Hanuman.",
+          "transliteration": "Bajraṅg Bāṇ paḍhe Hanumān,\nSaṅkaṭ kaṭe Mahāvīr Hanumān.\nJai Hanumān, Jai Jai Hanumān,\nPavan putra balī Hanumān.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ram lakhana sita man basiya,\nShri Hanuman ji ke hriday basiya.\nSabke sankat door karo, Mahaveer,\nBhakton ke hriday mein nit nit basiye.",
+          "meaning": "Rama, Lakshmana, and Sita dwell in His heart. Shri Hanuman resides in the hearts of all devotees. O Great Warrior, remove the troubles of all — dwell eternally in the hearts of Your devotees.",
+          "transliteration": "Rām Lakhan Sītā man basiyā,\nŚrī Hanumān jī ke hṛday basiyā.\nSabke saṅkaṭ dūr karo, Mahāvīr,\nBhaktoṁ ke hṛday meṁ nit nit basiye.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Jai Jai Jai Hanuman Gosaai,\nKripa karahu Gurudev ki naai.\nJo sat baar paath kar koi,\nChutehi bandi maha sukh hoi.",
+          "meaning": "Glory, glory to Lord Hanuman! Bestow grace like a supreme guru. Whoever recites this a hundred times is freed from all bondage and attains great happiness.",
+          "transliteration": "Jai Jai Jai Hanumān Gosāīṁ,\nKṛpā karahu Gurudev kī nāīṁ.\nJo śat bār pāṭh kar koī,\nChūṭehi bandī mahā sukh hoī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sankat mochan naam tiharo,\nSumirat hiye sankat sab haro.\nRam Lakhan Sita sahit Hanuman,\nHriday basahu sur bhup Bhagwan.",
+          "meaning": "Your name is the Reliever of Afflictions. Remembering You in the heart, all troubles vanish. May Rama, Lakshmana, Sita along with Hanuman forever dwell in our hearts, O Supreme Lord.",
+          "transliteration": "Saṅkaṭ Mocan nām tihāro,\nSumirat hiye saṅkaṭ sab hāro.\nRām Lakhan Sītā sahit Hanumān,\nHṛday basahu sur bhūp Bhagavān.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "bhajan_ganesh",
+      "title": "Jai Ganesh Deva Bhajan",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhajan/ganesh.jpg",
+      "orderIndex": 7,
+      "content": [
+        {
+          "shloka": "Jai Ganesh Jai Ganesh Jai Ganesh Deva,\nMata jaki Parvati Pita Mahadeva.",
+          "meaning": "Victory to Lord Ganesh! His mother is Goddess Parvati and His father is Lord Mahadeva (Shiva). He is worshipped first among all deities.",
+          "transliteration": "Jai Gaṇeś Jai Gaṇeś Jai Gaṇeś Devā,\nMātā jākī Pārvatī Pitā Mahādevā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ek dant dayavant char bhuja dhari,\nMaathe par tilak sohe muse ki savari.\nAndhon ko aankh det kodhiyon ko kaaya,\nBaanjhan ko putra det nirdhan ko maya.",
+          "meaning": "Single-tusked, compassionate, four-armed Lord, a sacred mark adorns His forehead, riding a mouse. He gives sight to the blind, heals the lepers, blesses the childless with sons, and grants wealth to the poor.",
+          "transliteration": "Ek dant dayāvant cār bhujā dhārī,\nMāthe par tilak sohe mūse kī savārī.\nAndhon ko āṅkh det koḍhiyon ko kāyā,\nBāṅjhan ko putra det nirdhan ko māyā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Haar chadhe phool chadhe aur chadhe meva,\nLadduan ka bhog lage sant kare seva.",
+          "meaning": "Garlands are offered, flowers are offered, dry fruits are offered. He is pleased with offerings of laddu sweets, and the saints serve Him with devotion.",
+          "transliteration": "Hār caḍhe phūl caḍhe aur caḍhe mevā,\nLaḍḍuaṁ kā bhog lāge sant kare sevā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Deenan ki laaj rakho Shambhu sutkaari,\nKamna ko puri karo Jai Girijaa ke dulhaari.\nJai Ganesh Jai Ganesh Jai Ganesh Deva,\nMata jaki Parvati Pita Mahadeva.",
+          "meaning": "Protect the honour of the humble, O Son of Shambhu. Fulfil our wishes, O beloved of Mother Girija. Victory to Lord Ganesh, whose mother is Parvati and father is Mahadeva!",
+          "transliteration": "Dīnan kī lāj rākho Śambhu sutkārī,\nKāmnā ko pūrī karo Jai Girijā ke dulhārī.\nJai Gaṇeś Jai Gaṇeś Jai Gaṇeś Devā,\nMātā jākī Pārvatī Pitā Mahādevā.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "bhajan_meera",
+      "title": "Meera Bai Bhajan (Payoji Maine)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhajan/krishna.jpg",
+      "orderIndex": 8,
+      "content": [
+        {
+          "shloka": "Payoji maine Ram Ratan Dhan payo,\nVastu amolak di mere Satguru,\nKirpa kar apnayo.",
+          "meaning": "I have found the priceless jewel of the Lord's name! My true Guru graciously bestowed upon me this invaluable treasure and accepted me as His own.",
+          "transliteration": "Pāyojī maine Rām Ratan Dhan pāyo,\nVastu amolak dī mere Satguru,\nKṛpā kar apnāyo.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Janam janam ki punji paai,\nJag mein sabhi khovayo.\nKhevanh nahin koi takkar laagat,\nChhor dalidar gaayo.",
+          "meaning": "I have received the treasure accumulated over many lifetimes — the world has lost this wealth. No thief can steal it, no moth can destroy it. All poverty has vanished.",
+          "transliteration": "Janam janam kī pūṅjī pāī,\nJag meṁ sabhī khovāyo.\nKhevaṇh nahīṁ koī ṭakkar lāgat,\nChor ḍalidar gāyo.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sat ki naav khevatiya Satguru,\nBhav sagar tar aayo.\nMeera ke Prabhu Giridhar Nagar,\nHarakh harakh jas gaayo.",
+          "meaning": "The boat of Truth with the Satguru as the boatman has carried me across the ocean of worldly existence. Meera's Lord is Giridhar Nagar (Krishna, the lifter of Govardhan) — with joy, she sings His praises.",
+          "transliteration": "Sat kī nāv khevatiyā Satguru,\nBhav sāgar tar āyo.\nMīrā ke Prabhu Giridhar Nāgar,\nHarakh harakh jas gāyo.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Mere to Giridhar Gopal, doosra na koi,\nJake sir mor mukut, mero pati soi.\nChaadi diye rajya vaibhav, nate kul ki kaani,\nPaathaan baithi paachhan, moti main nibhani.",
+          "meaning": "My Lord is Giridhar Gopal, there is no other for me. He who wears the peacock crown upon His head — He alone is my husband. I have renounced royal splendour and the honour of my family. Seated among the saints, I string pearls of devotion.",
+          "transliteration": "Mere to Giridhara Gopāl, dūsrā na koī,\nJāke sir mor mukuṭ, mero pati soī.\nChāḍi diye rājya vaibhav, nāte kul kī kānī,\nPāṭhāṁ baiṭhī pāchan, motī maiṁ nibhānī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Mane chakar rakho ji,\nGirdhari laala, mane chakar rakho ji.\nChakar rahungi baag lagaungi,\nNit uthungi darshan paaungi.",
+          "meaning": "Keep me as Your servant, O beloved Giridhari! I shall remain Your servant, tend Your garden, rise early each day, and behold Your divine form.",
+          "transliteration": "Māne cākar rākho jī,\nGirdharī Lāl, māne cākar rākho jī.\nCākar rahūṅgī bāg lagāūṅgī,\nNit uṭhūṅgī darśan pāūṅgī.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "bhajan_kabir",
+      "title": "Kabir Bhajan (Dohe)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhajan/kabir.jpg",
+      "orderIndex": 9,
+      "content": [
+        {
+          "shloka": "Chalti chaaki dekh ke, diya Kabira roye,\nDui paatan ke beech mein, sabit bacha na koye.",
+          "meaning": "Watching the grinding stones turn, Kabir weeps — between the two millstones of life and death, no one escapes unscathed. Only the one who clings to the axle (the divine Name) is saved.",
+          "transliteration": "Caltī cākī dekh ke, diyā Kabīrā roye,\nDui pāṭan ke bīc meṁ, sābit bacā na koye.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Bura jo dekhan main chala, bura na milya koi,\nJo dil khoja aapna, mujh se bura na koi.",
+          "meaning": "When I set out to find evil in the world, I found none. But when I searched my own heart, I found no one worse than myself.",
+          "transliteration": "Burā jo dekhan maiṁ calā, burā na milyā koī,\nJo dil khojā āpnā, mujh se burā na koī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Dukh mein sumiran sab kare, sukh mein kare na koi,\nJo sukh mein sumiran kare, dukh kahe ko hoi.",
+          "meaning": "Everyone remembers God in times of sorrow, but none remember Him in joy. If you remember Him in happiness, why would sorrow ever come?",
+          "transliteration": "Dukh meṁ sumiran sab kare, sukh meṁ kare na koī,\nJo sukh meṁ sumiran kare, dukh kāhe ko hoī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Pothi padh padh jag mua, pandit bhaya na koi,\nDhai akshar prem ka, padhe so pandit hoi.",
+          "meaning": "Reading and reading, the whole world died, yet no one became truly learned. Whoever reads the two-and-a-half letters of love (prem) becomes the real scholar.",
+          "transliteration": "Pothī paḍh paḍh jag muā, paṇḍit bhayā na koī,\nḌhāī akṣar prem kā, paḍhe so paṇḍit hoī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kaal kare so aaj kar, aaj kare so ab,\nPal mein pralay hoyegi, bahuri karega kab.",
+          "meaning": "What you plan to do tomorrow, do it today. What you plan for today, do it now. In a moment, destruction may come — when will you do it then?",
+          "transliteration": "Kāl kare so āj kar, āj kare so ab,\nPal meṁ pralay hoygī, bahuri karegā kab.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Mala to kar mein phire, jeebh phire mukh maahi,\nManua to chahun dish phire, yeh to sumiran naahi.",
+          "meaning": "The rosary turns in the hand, the tongue moves in the mouth, but the mind wanders in all directions — this is not true remembrance of the Divine.",
+          "transliteration": "Mālā to kar meṁ phire, jībh phire mukh māhī,\nManuā to cāhuṁ diś phire, yeh to sumiran nāhī.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "bhajan_tukaram",
+      "title": "Tukaram Abhang (Warkari)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhajan/Panduranga.jpg",
+      "orderIndex": 10,
+      "content": [
+        {
+          "shloka": "Abhanga vani Tukobachi, gajar dare Vitthalachee.\nSadhu santa samaj meli, Pandharpur nagari bhali.",
+          "meaning": "The immortal words of Tukaram resound with the glory of Vitthala. The assembly of saints and holy ones has made the city of Pandharpur truly blessed.",
+          "transliteration": "Abhaṅga vāṇī Tukobācī, gajar dare Viṭṭhalachī.\nSādhu santa samāj melī, Paṇḍharpur nagarī bhalī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Jaga karane Hari, jaag karane Hari,\nAnant sukhachya saagara, kadhee dekhaseel hari.",
+          "meaning": "Awake, O Hari! Awake, O Hari! O ocean of infinite bliss, when will I behold You, Lord?",
+          "transliteration": "Jāg karaṇe Hari, jāg karaṇe Hari,\nAnant sukhācyā sāgarā, kadhī dekhśīl Hari.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Vriksha valli amha soyari vanachare,\nPakshi hi susware aalviti kiti re.\nYethe sakal siddhi bolatichi Vachane,\nYethe Naama smaran kirtanache khune.",
+          "meaning": "Trees and creepers are our kinsfolk, and the forest creatures our friends. The birds sing so sweetly here. Here all spiritual powers speak their wisdom, and the chanting of the Name is the hallmark of kirtan.",
+          "transliteration": "Vṛkṣa vallī āmhā soyarī vanacāre,\nPakṣī hī susvare ālvitī kitī re.\nYethe sakal siddhī bolatīcī vācane,\nYethe Nāma smaraṇ kīrtanāce khuṇe.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Tukha mhane aata urasala bhagavant,\nSakalanche de jo aamucha santant.\nJe ka ranjale gaanjale, tyasi mhane jo aapule,\nTuka mhane yechi dharma, jano deva Panduranga.",
+          "meaning": "Tuka says, now only God remains. May He give everything to the lineage of saints. Whoever says 'mine' to the afflicted and downtrodden — Tuka says this is true dharma, and that person is Panduranga himself.",
+          "transliteration": "Tukā mhaṇe ātā urasalā Bhagavant,\nSakalāṅce de jo āmucā santant.\nJe kā rāṅjale gāṅjale, tyāsī mhaṇe jo āpule,\nTukā mhaṇe yecī dharmā, jāṇo devā Pāṇḍuraṅgā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sadhu sant yeti ghari, tochi diwali dasara.\nEk tari ovi mhane, Tuka mhanaj jeev re.",
+          "meaning": "When saints and holy ones visit your home, that day itself is Diwali and Dussehra. Say at least one verse of devotion, says Tuka — that is what it means to truly live.",
+          "transliteration": "Sādhu sant yetī gharī, tocī Divāḷī Dasarā.\nEk tarī ovī mhaṇe, Tukā mhaṇaj jīv re.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "bhajan_surdas",
+      "title": "Surdas Bhajan",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhajan/krishna.jpg",
+      "orderIndex": 11,
+      "content": [
+        {
+          "shloka": "Main nahin maakhan khaayo,\nMaiya main nahin maakhan khaayo.\nKhilat rahaat moh pe dolat,\nMokhe gher gher mat jaayo.",
+          "meaning": "I have not eaten the butter, O Mother! I have not eaten the butter. Other children keep swinging around me and playing — do not go blaming me in every house.",
+          "transliteration": "Maiṁ nahīṁ mākhan khāyo,\nMaiyā maiṁ nahīṁ mākhan khāyo.\nKhilat rahāt moh pe ḍolat,\nMokhe gher gher mat jāyo.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Graval baat agar moti chai,\nKahat na baat sahi taayo.\nJo main maakhan khayo hai toh,\nDaant dikhao bataayo.",
+          "meaning": "The path to Your home is rocky, says the child Krishna. I cannot walk that far. If I really ate the butter, then look — show me my teeth (as proof).",
+          "transliteration": "Graval bāṭ agar motī cāī,\nKahat na bāt sahī tāyo.\nJo maiṁ mākhan khāyo hai toh,\nDāṁt dikhāo batāyo.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sur das ke Prabhu daurhiyo dhaayo,\nNand ke nand kishore.\nMohini moorat shyam sundar,\nBrajh mein sabhi kishore.",
+          "meaning": "Surdas's Lord came running quickly — the darling child of Nanda! His enchanting dark-complexioned form is the most beautiful in all of Vraja.",
+          "transliteration": "Sūrdās ke Prabhu daurhiyo dhāyo,\nNand ke nand Kiśore.\nMohinī mūrat Śyām sundar,\nBraj meṁ sabhī Kiśore.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Akhiyan Hari darshan ki pyasi,\nDekhoon Vrindavan vaasi.\nSurdas Prabhu tumhare darshan,\nParasi param sukh rasi.",
+          "meaning": "My eyes thirst for the sight of Lord Hari — I long to see the dweller of Vrindavan. Surdas says, O Lord, beholding You is the supreme treasure of happiness.",
+          "transliteration": "Akhiyāṁ Hari darśan kī pyāsī,\nDekhūṁ Vṛndāvan vāsī.\nSūrdās Prabhu tumhāre darśan,\nParāsī param sukh rāsī.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "bhajan_tulsidas",
+      "title": "Tulsidas Bhajan",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhajan/ram.jpg",
+      "orderIndex": 12,
+      "content": [
+        {
+          "shloka": "Shri Ramchandra kripalu bhajman,\nHaran bhavbhaya daaurnman.\nNavkanj lochan kanj mukha, kar kanj pad kanjarunam.\nKandarp aganit amit chhavi, nava neel neeraj sundaram.",
+          "meaning": "Worship Lord Ramchandra, the compassionate one, who destroys the fear and sorrow of worldly existence. His eyes are like fresh lotuses, His face like a lotus, His hands and feet like lotus blossoms. His beauty surpasses millions of Cupids — like a fresh, dark-blue rain cloud, He is magnificent.",
+          "transliteration": "Śrī Rāmcandra kṛpālu bhajman,\nHaraṇ bhavbhay dāruṇman.\nNavkañj locan kañj mukhā, kar kañj pad kañjāruṇam.\nKandarp aganit amit chavi, nav nīl nīraj sundaram.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Pat peet maanahu tadit ruci, shuchi naumi janaka sutaam.\nBhaju deena bandhu dinesha, Daanavdaitya vansha nikandanam.\nRaghunand anand kand, Kaushal chand Dasharath nandanam.",
+          "meaning": "Her yellow garments shine like lightning — I bow to the pure daughter of Janaka. Worship the friend of the poor, Lord of the humble, destroyer of the demon races. He is Raghunanda, the root of all bliss, the moon of Kaushalya, the darling son of Dasharatha.",
+          "transliteration": "Paṭ pīt mānahu taḍit rucī, śucī naumī Janak sutām.\nBhaju dīna bandhu dīneśa, Dānavdaitya vaṁś nikandanam.\nRaghunand ānand kand, Kauśal cand Daśarath nandanam.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Sir mukut kundale tilak charu udaar ang garha chandam.\nManihaar padak undee mala, tanu sajat sar sundaram.\nShiv virinji sureshi sevahi, Tulsi hit janman.",
+          "meaning": "His head adorned with a crown, earrings, a beautiful tilak, His magnificent body decorated with sandalwood paste. Jewelled necklaces, pendants, and garlands adorn His beautiful form. Shiva, Brahma, and Indra serve Him — Tulsi says, it is for our benefit that He took birth.",
+          "transliteration": "Sir mukuṭ kuṇḍale tilak cāru udār aṅg garhā candanam.\nManihār padak undī mālā, tanu sājat sar sundaram.\nŚiv Virīñci Sureśī sevahī, Tulasī hit janmān.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Ram se badhkar Ram ka naam,\nRam se badhkar Ram ka naam.\nTulsi sada Hari cheraa,\nKarke vichar yeh kaam.",
+          "meaning": "Greater than Rama Himself is Rama's name! Greater than Rama Himself is Rama's name. Tulsi is forever the servant of Lord Hari — having reflected deeply, this is the conclusion.",
+          "transliteration": "Rām se baḍhkar Rām kā nām,\nRām se baḍhkar Rām kā nām.\nTulasī sadā Hari cerā,\nKarke vicār yeh kām.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "bhajan_namdev",
+      "title": "Sant Namdev Abhang",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhajan/Panduranga.jpg",
+      "orderIndex": 13,
+      "content": [
+        {
+          "shloka": "Naache Vitthala naache Vithoo,\nNaamyachi gadi Vitthoo naache.\nDev suthaar kambar keli, Namdev aang paridhaan kayli.",
+          "meaning": "Vitthala dances, Vitthoo dances! On Namdev's singing, Vitthala dances. The Lord, like a carpenter, made the body — and Namdev clothed that body with devotion.",
+          "transliteration": "Nāce Viṭṭhala nāce Viṭhū,\nNāmyācī gaḍī Viṭhū nāce.\nDev suthār kambar kelī, Nāmdev āṅg paridhān kaylī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Aadhi Rachila Vithoo maga rachili veet,\nDevala bandha kalee Nama tyavar cheet.\nNaache Vitthala, Naache Vithoo.",
+          "meaning": "First Vitthala was created, then the brick was made. The temple was built, and Namdev's mind is fixed upon Him. Vitthala dances, Vitthoo dances!",
+          "transliteration": "Ādhī Racilā Viṭhū mag racilī vīṭ,\nDevāla bandhā kelī Nāmā tyāvar cīt.\nNāce Viṭṭhala, Nāce Viṭhū.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Naama mhane maza Vitthala bhala,\nTyachiye payi maza jeev ovalaala.\nHari maza mukha, Hari maza doola,\nHari sarvabhaava naamache ghola.",
+          "meaning": "Namdev says, my Vitthala is wonderful! My life is a sacrifice at His feet. Hari is my face, Hari is my beloved — Hari pervades everything, and Nama's heart is absorbed in Him.",
+          "transliteration": "Nāmā mhaṇe māzā Viṭṭhala bhalā,\nTyāciye pāyī māzā jīv ovaḷālā.\nHari māzā mukhā, Hari māzā dūlā,\nHari sarvabhāvā Nāmāce gholā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Zhaale mohre naama yache, deva Vitthal kaise ugavale,\nNirmal manase pujile, Naama Haripath ghetale.",
+          "meaning": "The seed of the Name was sown, and Lord Vitthala sprouted forth. With a pure mind He was worshipped — Namdev took the path of Hari.",
+          "transliteration": "Jhāle mohre nāmā yāce, devā Viṭṭhal kaise ugavale,\nNirmal mānase pūjile, Nāmā Haripāth ghetale.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "bhajan_eknath",
+      "title": "Sant Eknath Abhang",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhajan/Panduranga.jpg",
+      "orderIndex": 14,
+      "content": [
+        {
+          "shloka": "Eka tari Vitthala mhana re baa,\nYene honti sarvahi kaama.\nPandhariche bhoot maher, tya naama gheta sukh maher.",
+          "meaning": "Say 'Vitthala' at least once, O friend! By this all your works will be accomplished. The spirit of Pandharpur is like a mother's home — taking that Name gives the comfort of a mother's embrace.",
+          "transliteration": "Ekā tarī Viṭṭhala mhaṇā re bā,\nYeṇe hontī sarvahī kāmā.\nPaṇḍharīce bhūt māher, tyā nāmā ghetā sukh māher.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Dev maza vithu savala, saguna nirgun aakala.\nRukmini vallabh maher, Eknath tyacha putra.",
+          "meaning": "My God is the dark-complexioned Vitthu — He is both with form and formless, beyond comprehension. He is the beloved of Rukmini — Eknath is His child.",
+          "transliteration": "Dev māzā Viṭhū sāvḷā, saguṇ nirguṇ ākḷā.\nRukmiṇī vallabh māher, Eknāth tyācā putrā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Kanha re doot kanha re doot,\nSangati dhara Vitthal soot.\nSant sangati parama pavitra,\nEknathi bhajan amrut charitra.",
+          "meaning": "Where are the messengers, where are the messengers? Hold the thread of Vitthala's company. The company of saints is supremely purifying — Eknath's bhajans are the nectar of divine life.",
+          "transliteration": "Kānhā re dūt kānhā re dūt,\nSaṅgatī dharā Viṭṭhal sūt.\nSant saṅgatī paramā pavitrā,\nEknāthī bhajan amṛt caritrā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Devachi krupahi je ghadali aapana,\nSant sanga ladhale he bhagya sampurn.\nEka Janardani sanga dharile, dev Vitthal labh kele.",
+          "meaning": "By God's grace this has come to pass — the fortune of finding saintly company is complete. With one-pointed devotion to Lord Janardana, the treasure of Lord Vitthala is obtained.",
+          "transliteration": "Devācī kṛpāhī je ghaḍalī āpaṇā,\nSant saṅga lādhale he bhāgya sampūrṇ.\nEkā Janārdanī saṅga dharile, dev Viṭṭhal lābh kele.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "bhajan_ramdas_manache",
+      "title": "Samarth Ramdas — Manache Shlok",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/bhajan/ram.jpg",
+      "orderIndex": 15,
+      "content": [
+        {
+          "shloka": "Gana gana gana gana Ganadheeshaa,\nSarva siddhi dayaka deva Ganeshaa.\nDhaav paav maza Gajaananaa,\nLaav laav Shri Hari chi karunaa.",
+          "meaning": "Sing, sing, sing of the Lord of the Ganas (Ganesha)! The deity who bestows all accomplishments. Rush to my aid, O Gajanana! Shower upon me the compassion of Lord Hari.",
+          "transliteration": "Gaṇa gaṇa gaṇa gaṇa Gaṇādhīśā,\nSarva siddhi dāyakā devā Gaṇeśā.\nDhāv pāv māzā Gajānanā,\nLāv lāv Śrī Hari cī karuṇā.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Mana sajjana bhakti panthe chalaa,\nParamartha karani thaav re,\nVichar karuniya mukhya karaa,\nAnubhav ghya re sakala.",
+          "meaning": "O good mind, walk the path of devotion! Make your abode in spiritual practice. Reflect deeply and choose what is essential — experience it all fully.",
+          "transliteration": "Manā sajjanā bhakti panthe calā,\nParamārtha karaṇī ṭhāv re,\nVicār karuṇiyā mukhya karā,\nAnubhav ghyā re sakal.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Jaya jaya Raghuveer samartha,\nSada karoni tujha karunaa artha.\nKaroni naam ghosh uttama,\nTuka mhane Rama param.",
+          "meaning": "Victory, victory to the mighty Raghuveer (Rama)! We always seek Your compassion and grace. Chanting Your glorious Name is the highest practice — Tuka says, Rama is the Supreme.",
+          "transliteration": "Jayā jayā Raghuvīr samarthā,\nSadā karonī tujhā karuṇā arthā.\nKaronī nām ghoṣ uttamā,\nTukā mhaṇe Rāmā param.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Mana he saambhal aata re vichaari,\nTuza tujha paashi aahe re.\nPrapaanch karuni Hari bajan keli,\nDaas Ramdas mhane saukhya ailii.",
+          "meaning": "O mind, listen now and reflect carefully — your own true self is with you always. By living in the world while chanting Hari's name, Servant Ramdas says happiness arrives.",
+          "transliteration": "Manā he sāmbhaḷ ātā re vicārī,\nTuzā tujhā pāśī āhe re.\nPrapañc karunī Hari bhajan kelī,\nDās Rāmdās mhaṇe saukhya āilī.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "Manache shloka mhanaa re mhanaa,\nVichar karuniya nijadhaam jaanaa.\nSamarth Ramdas swaami sanga,\nGhya re bhetavi Panduranga.",
+          "meaning": "Recite the verses addressed to the mind, recite them! Reflect deeply and journey to your true abode. With the company of Lord Samarth Ramdas Swami, you shall attain the vision of Panduranga.",
+          "transliteration": "Mānāce śloka mhaṇā re mhaṇā,\nVicār karuṇiyā nijdhām jāṇā.\nSamarth Rāmdās Svāmī saṅgā,\nGhyā re bheṭavī Pāṇḍuraṅgā.",
+          "imageUrl": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "category": "Sampurn Havan Vidhi",
+  "version": 1,
+  "items": [
+    {
+      "id": "havan_ganesh",
+      "title": "गणेश हवन",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/havan/agni.jpg",
+      "orderIndex": 1,
+      "content": [
+        {
+          "shloka": "ॐ गणानां त्वा गणपतिं हवामहे\nकविं कवीनामुपमश्रवस्तमम् |\nज्येष्ठराजं ब्रह्मणां ब्रह्मणस्पत\nआ नः शृण्वन्नूतिभिः सीद सादनम् ||",
+          "meaning": "आम्ही सर्व गणांचे स्वामी गणपती यांचे आवाहन करतो, जे कवींमध्ये श्रेष्ठ कवी आणि अत्यंत प्रसिद्ध आहेत. हे पवित्र प्रार्थनांचे ज्येष्ठ राजा, हे ब्रह्मणस्पती, आमची स्तुती ऐकून या पवित्र वेदीवर विराजमान व्हा.",
+          "transliteration": "Om Ganaanaam tvaa ganapatim havaamahe kavim kaviinaam upamashravastamam | Jyeshtharaajam brahmanaam brahmanaspata aa nah shrinvannutibhih siida saadanam ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "गणेश हवन सर्व शुभ कार्यांच्या आणि विधींच्या प्रारंभी केला जातो. विघ्नहर्ता भगवान गणेशाचे सर्वप्रथम आवाहन केले जाते जेणेकरून हवन कोणत्याही अडथळ्यांशिवाय पार पडेल.",
+          "meaning": "वैदिक परंपरेत गणेश पूजनाशिवाय कोणताही विधी पूर्ण मानला जात नाही. गणेश हवन वातावरण शुद्ध करतो, नकारात्मक ऊर्जा दूर करतो आणि समृद्धी तसेच बुद्धीचे आवाहन करतो.",
+          "transliteration": "Ganesh havan sarva shubh kaaryaanchyaa aani vidhiinchyaa praarambhii kelaa jaato. Vighnahartaa Bhagavaan Ganeshāche sarvaprathama aavāhana kele jaate jenekroon havan konatyaahii adathalyaanshivaay paar padel.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ एकदन्ताय विद्महे वक्रतुण्डाय धीमहि |\nतन्नो दन्ती प्रचोदयात् ||",
+          "meaning": "आम्ही एकदंताला जाणतो, वक्रतुंडाचे ध्यान करतो. दंतधारी देव आम्हांला प्रेरणा आणि प्रकाश प्रदान करोत.",
+          "transliteration": "Om Ekadantaaya vidmahe vakratundaaya dheemahi | Tanno dantii prachodayaat ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ श्री गणेशाय नमः स्वाहा | ॐ गं गणपतये नमः स्वाहा |\nॐ वक्रतुण्डाय नमः स्वाहा | ॐ लम्बोदराय नमः स्वाहा |",
+          "meaning": "आहुत्या: प्रत्येक मंत्राचे पठण करताना एक चमचा तूप आणि सामग्री पवित्र अग्नीत अर्पण केली जाते. संपूर्ण गणेश हवनासाठी किमान १०८ आहुत्या दिल्या जातात.",
+          "transliteration": "Om Shri Ganeshaya Namah Svaahaa | Om Gam Ganapataye Namah Svaahaa | Om Vakratundaaya Namah Svaahaa | Om Lambodraaya Namah Svaahaa |",
+          "imageUrl": null
+        },
+        {
+          "shloka": "विधी: 1) हवन कुंड तयार करा आणि कापूर, तूप आणि कोरड्या लाकडाने पवित्र अग्नी प्रज्वलित करा. 2) आचमन आणि संकल्प करा. 3) गणेश अथर्वशीर्ष किंवा वरील मंत्रांनी भगवान गणेशाचे आवाहन करा. 4) प्रत्येक 'स्वाहा' सह तूप आणि सामग्रीच्या १०८ आहुत्या अर्पण करा. 5) नारळ, तूप आणि सामग्रीसह पूर्णाहुती करा. 6) शांती मंत्राचे पठण करा आणि प्रसाद वाटा.",
+          "meaning": "गणेश हवन साधा परंतु अत्यंत प्रभावशाली आहे. कोणत्याही नव्या कार्यापूर्वी — गृहप्रवेश, व्यापार उद्घाटन, विवाह किंवा विद्यारंभ यावेळी केला जाऊ शकतो. अग्नी दिव्य दूत म्हणून आहुत्या भगवान गणेशापर्यंत पोहोचवतो.",
+          "transliteration": "Vidhi: 1) Havan kund tayaar karaa aani kaapoor, toop aani koradyaa laakadaane pavitra agni prajvalit karaa. 2) Aachaman aani sankalp karaa. 3) Ganesh Atharvashirsha kinvaa varil mantraanni Bhagavaan Ganeshāche aavāhana karaa. 4) Pratyeka 'Svaahaa' saha toop aani saamagriichyaa 108 aahutya arpan karaa. 5) Naaral, toop aani saamagriisaha poornāhuti karaa. 6) Shaanti mantrāche pathan karaa aani prasaad vaataa.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "havan_gayatri",
+      "title": "गायत्री हवन",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/havan/agni.jpg",
+      "orderIndex": 2,
+      "content": [
+        {
+          "shloka": "ॐ भूर्भुवः स्वः | तत्सवितुर्वरेण्यं |\nभर्गो देवस्य धीमहि | धियो यो नः प्रचोदयात् || स्वाहा ||",
+          "meaning": "आम्ही सर्वोच्च सृष्टिकर्ता सवित्याच्या दिव्य प्रकाशाचे ध्यान करतो. तो तेजस्वी प्रकाश आमच्या बुद्धीला प्रकाशित करो आणि आम्हांला सन्मार्गाकडे नेवो. स्वाहा (अग्नीला अर्पण).",
+          "transliteration": "Om Bhur Bhuvah Svah | Tat Savitur Varenyam | Bhargo Devasya Dheemahi | Dhiyo Yo Nah Prachodayaat || Svaahaa ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "गायत्री हवन हिंदू परंपरेतील सर्वात पवित्र आणि सर्वाधिक केल्या जाणाऱ्या हवनांपैकी एक आहे. सर्व वेदांची जननी गायत्री मंत्राचे प्रत्येक आहुतीसह पठण केले जाते.",
+          "meaning": "हा हवन मन शुद्ध करतो, बुद्धी तीक्ष्ण करतो आणि आध्यात्मिक जागृती आणतो. हा नियमितपणे करण्याची शिफारस केली जाते — विशेषतः रविवार, पौर्णिमा आणि नवरात्रीत.",
+          "transliteration": "Gaayatri havan Hindu paramparetil sarvaat pavitra aani sarvaadhik kelyaa jaanaaryaa havanaanpaiki ek aahe. Sarva vedaanchi jananee Gaayatri mantrāche pratyeka aahutisaha pathan kele jaate.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "गायत्री मंत्रात २४ अक्षरे आहेत, प्रत्येकावर एका देवतेचा अधिकार आहे:\nतत् (गणपती), स (नृसिंह), वि (विष्णू), तुर् (शिव), व (कृष्ण),\nरे (राधा), णि (लक्ष्मी), यं (अग्नी), भर् (इंद्र), गो (सरस्वती),\nदे (दुर्गा), व (हनुमान), स्य (पृथ्वी), धी (सूर्य), म (श्रीराम),\nहि (सीता), धि (चंद्र), यो (यम), यो (ब्रह्मा), नः (वरुण),\nप्र (नारायण), चो (हयग्रीव), द (हंस), यात् (तुळशी).",
+          "meaning": "गायत्री मंत्राचे प्रत्येक अक्षर अपार आध्यात्मिक शक्ती धारण करते. २४ अक्षरे २४ वैश्विक ऊर्जांशी जोडतात, एक पूर्ण आध्यात्मिक परिपथ तयार करतात.",
+          "transliteration": "Gaayatri mantraat 24 akshare aahet, pratyekaavar ekaa devatechaa adhikaar aahe: Tat (Ganapati), Sa (Nrisimha), Vi (Vishnu), Tur (Shiva), Va (Krishna), Re (Raadhaa), Ni (Lakshmi), Yam (Agni), Bhar (Indra), Go (Sarasvati), De (Durgaa), Va (Hanumaan), Sya (Prithvi), Dhee (Soorya), Ma (Shriraam), Hi (Sitaa), Dhi (Chandra), Yo (Yama), Yo (Brahmaa), Nah (Varuna), Pra (Naaraayana), Cho (Hayagriva), Da (Hamsa), Yaat (Tulashi).",
+          "imageUrl": null
+        },
+        {
+          "shloka": "विधी: 1) हवन कुंड पूर्व दिशेकडे तोंड करून बसवा. 2) कापूर आणि कोरड्या गोवऱ्यांनी अग्नी प्रज्वलित करा. 3) आचमन, प्राणायाम आणि संकल्प करा. 4) गायत्री मंत्राचे पठण करा आणि प्रत्येक 'स्वाहा' सह तूप + सामग्रीची आहुती द्या. 5) संकल्पानुसार १०८, १००८ किंवा १०००८ आहुत्या अर्पण करा. 6) पूर्णाहुती आणि शांती पाठाने पूर्ण करा.",
+          "meaning": "गायत्री हवन विद्यार्थी, विद्वान आणि मानसिक स्पष्टता इच्छिणाऱ्या सर्वांसाठी आदर्श आहे. मंत्राच्या ध्वनी तरंगा शुद्धीकारक अग्नीसह मिळून अत्यंत सकारात्मक वातावरण निर्माण करतात.",
+          "transliteration": "Vidhi: 1) Havan kund poorva dishekade tond karoon basavaa. 2) Kaapoor aani koradyaa govaryaanni agni prajvalit karaa. 3) Aachaman, praanaayaam aani sankalp karaa. 4) Gaayatri mantrāche pathan karaa aani pratyeka 'Svaahaa' saha toop + saamagriichi aahuti dyaa. 5) Sankalpaanusaar 108, 1008 kinvaa 10008 aahutya arpan karaa. 6) Poornāhuti aani shaanti paathaane poorna karaa.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "havan_navgraha",
+      "title": "नवग्रह हवन",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/havan/agni.jpg",
+      "orderIndex": 3,
+      "content": [
+        {
+          "shloka": "सूर्य: ॐ ह्रां ह्रीं ह्रौं सः सूर्याय नमः स्वाहा |\nचंद्र: ॐ श्रां श्रीं श्रौं सः चंद्राय नमः स्वाहा |\nमंगळ: ॐ क्रां क्रीं क्रौं सः भौमाय नमः स्वाहा |",
+          "meaning": "पहिल्या तीन ग्रहांचे — सूर्य, चंद्र आणि मंगळ — बीज मंत्र. प्रत्येक मंत्राचे पठण करताना संबंधित ग्रहाची विशिष्ट सामग्री अर्पण केली जाते.",
+          "transliteration": "Surya: Om Hraam Hreem Hraum Sah Suryaaya Namah Svaahaa | Chandra: Om Shraam Shreem Shraum Sah Chandraaya Namah Svaahaa | Mangal: Om Kraam Kreem Kraum Sah Bhaumaaya Namah Svaahaa |",
+          "imageUrl": null
+        },
+        {
+          "shloka": "बुध: ॐ ब्रां ब्रीं ब्रौं सः बुधाय नमः स्वाहा |\nगुरु: ॐ ग्रां ग्रीं ग्रौं सः गुरवे नमः स्वाहा |\nशुक्र: ॐ द्रां द्रीं द्रौं सः शुक्राय नमः स्वाहा |",
+          "meaning": "बुध, गुरु (बृहस्पती) आणि शुक्र यांचे बीज मंत्र. गुरु सर्वात शुभ ग्रह आहे आणि त्याचा मंत्र ज्ञान, आध्यात्मिक विकास आणि समृद्धी आणतो.",
+          "transliteration": "Budh: Om Braam Breem Braum Sah Budhaaya Namah Svaahaa | Guru: Om Graam Greem Graum Sah Gurve Namah Svaahaa | Shukra: Om Draam Dreem Draum Sah Shukraaya Namah Svaahaa |",
+          "imageUrl": null
+        },
+        {
+          "shloka": "शनी: ॐ प्रां प्रीं प्रौं सः शनैश्चराय नमः स्वाहा |\nराहू: ॐ भ्रां भ्रीं भ्रौं सः राहवे नमः स्वाहा |\nकेतू: ॐ स्त्रां स्त्रीं स्त्रौं सः केतवे नमः स्वाहा |",
+          "meaning": "शनी, राहू आणि केतू यांचे बीज मंत्र. नवग्रह हवन सर्व नऊ ग्रहांना शांत करतो आणि ग्रह गोचर तसेच दशांचे नकारात्मक प्रभाव कमी करतो.",
+          "transliteration": "Shani: Om Praam Preem Praum Sah Shanaischaraaya Namah Svaahaa | Raahu: Om Bhraam Bhreem Bhraum Sah Raahave Namah Svaahaa | Ketu: Om Straam Streem Straum Sah Ketave Namah Svaahaa |",
+          "imageUrl": null
+        },
+        {
+          "shloka": "नवग्रह हवन वैदिक ज्योतिषशास्त्रानुसार मानवी नशिबावर प्रभाव टाकणाऱ्या सर्व नऊ खगोलीय पिंडांना प्रसन्न करण्यासाठी केला जातो.",
+          "meaning": "हा हवन विशेषतः ग्रह दोष, साडेसाती, राहू-केतू दशा किंवा महत्त्वाच्या जीवन घटनांपूर्वी शिफारस केला जातो. प्रत्येक ग्रहाची विशिष्ट सामग्री: सूर्य (लाल चंदन), चंद्र (पांढरे चंदन), मंगळ (लाल फुले), बुध (हिरवी मूग), गुरु (पिवळी मोहरी), शुक्र (पांढरे तांदूळ), शनी (काळे तीळ), राहू (दूर्वा), केतू (कुश).",
+          "transliteration": "Navagraha havan Vaidik jyotish-shaastraanusaar maanavi nashibaavar prabhaav taakanaaryaa sarva nau khagoliiya pindaannaa prasanna karnyaasaathi kelaa jaato.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "विधी: 1) हवन कुंड नऊ लहान विभागांत विभागा किंवा एक कुंड वापरा. 2) मध्यभागी नवग्रह यंत्र स्थापित करा. 3) प्रत्येक ग्रहाचा बीज मंत्र विशिष्ट आहुत्यांसह १०८ वेळा पठण करा. 4) एकूण ९७२ आहुत्या (१०८ × ९ ग्रह). 5) पूर्णाहुती करा आणि नवग्रह प्रसाद वाटा.",
+          "meaning": "नवग्रह हवन वैश्विक संतुलन निर्माण करतो आणि व्यक्तीवरील ग्रहीय प्रभाव अनुकूल करतो. हा हिंदू घरांमध्ये सर्वाधिक केल्या जाणाऱ्या हवनांपैकी एक आहे.",
+          "transliteration": "Vidhi: 1) Havan kund nau lahaan vibhaagaant vibhaagaa kinvaa ek kund vaaparaa. 2) Madhyabhaagi Navagraha yantra sthaapit karaa. 3) Pratyeka grahāchaa bija mantra vishishta aahutyanasaha 108 velaa pathan karaa. 4) Ekoon 972 aahutya (108 x 9 graha). 5) Poornāhuti karaa aani Navagraha prasaad vaataa.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "havan_rudra",
+      "title": "रुद्र हवन",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/havan/agni.jpg",
+      "orderIndex": 4,
+      "content": [
+        {
+          "shloka": "ॐ नमो भगवते रुद्राय | ॐ नमस्ते रुद्र मन्यव\nउतोत इषवे नमः | नमस्ते अस्तु धन्वने\nबाहुभ्यामुतते नमः ||",
+          "meaning": "भगवान रुद्र (शिव) यांना नमन. आम्ही तुमच्या क्रोधाला नमन करतो आणि तुमच्या बाणांनाही. तुमच्या धनुष्याला नमस्कार आणि तुमच्या शक्तिशाली भुजांना नमस्कार.",
+          "transliteration": "Om Namo Bhagavate Rudraaya | Om Namaste Rudra Manyava Utota Ishave Namah | Namaste Astu Dhanvane Baahubhyaamutate Namah ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "रुद्र हवन यजुर्वेदातील श्री रुद्रम् (नमकम् आणि चमकम्) वर आधारित आहे. हा भगवान शिवाच्या रुद्र स्वरूपाला समर्पित सर्वात शक्तिशाली वैदिक अग्नी विधींपैकी एक आहे.",
+          "meaning": "हा हवन नकारात्मकतेचा नाश करतो, रोग दूर करतो, शत्रूंपासून रक्षण प्रदान करतो आणि मोक्ष (मुक्ती) प्रदान करतो. हा विशेषतः सोमवार, प्रदोष, महाशिवरात्री आणि श्रावण महिन्यात अत्यंत प्रभावशाली आहे.",
+          "transliteration": "Rudra havan Yajurvedaatil Shri Rudram (Namakam aani Chamakam) var aadhaarit aahe. Haa Bhagavaan Shivāchyaa Rudra svaroopaalaa samarpit sarvaat shaktishaali Vaidik agni vidhiinpaiki ek aahe.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम् |\nउर्वारुकमिव बन्धनान्मृत्योर्मुक्षीय मामृतात् || स्वाहा ||",
+          "meaning": "आम्ही त्रिनेत्र भगवान शिवाची उपासना करतो जे सुगंधित आहेत आणि सर्वांचे पोषण करतात. जसे पिकलेले फळ सहज वेलीपासून सुटते, तसे आम्हांला मृत्यूच्या बंधनातून मुक्त करा — आम्हांला अमृतत्व प्रदान करा. स्वाहा!",
+          "transliteration": "Om Tryambakam Yajaamahe Sugandhim Pushti-vardhanam | Urvaarukamiva Bandhanaan Mrityor Muksheeya Maamritaat || Svaahaa ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "विधी: 1) हवन कुंड स्थापित करा आणि जवळ शिवलिंग ठेवा. 2) शक्य असल्यास बेलाच्या लाकडाने अग्नी प्रज्वलित करा. 3) आहुत्या अर्पण करताना रुद्रम् (नमकम्) चे पठण करा. 4) चमकम् पठण करा. 5) महामृत्युंजय मंत्र १०८ वेळा अर्पण करा. 6) तूप, बेलपत्र आणि पूर्ण नारळासह पूर्णाहुती करा. 7) उर्वरित पवित्र सामग्रीने शिवलिंगावर रुद्राभिषेक करा.",
+          "meaning": "रुद्र हवन पारंपरिकरित्या प्रशिक्षित वैदिक पुरोहितांद्वारे केला जातो. गृहस्थांसाठी पंचाक्षरी मंत्र (ॐ नमः शिवाय) वापरून सरलीकृत आवृत्तीही अत्यंत प्रभावशाली आहे.",
+          "transliteration": "Vidhi: 1) Havan kund sthaapit karaa aani javal Shivalinga thevaa. 2) Shakya asalyaas belāchyaa laakadaane agni prajvalit karaa. 3) Aahutya arpan karataanaa Rudram (Namakam) che pathan karaa. 4) Chamakam pathan karaa. 5) Mahaamrityunjaya mantra 108 velaa arpan karaa. 6) Toop, belpatra aani poorna naaralāsaha poornāhuti karaa. 7) Urvarit pavitra saamagriine Shivalingaavar Rudraabhishek karaa.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "havan_vastu",
+      "title": "वास्तुशांती हवन",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/havan/agni.jpg",
+      "orderIndex": 5,
+      "content": [
+        {
+          "shloka": "ॐ वास्तोष्पते प्रति जानीह्यस्मान् स्वावेश्यो\nअनमीवो भवनः | यत्त्वेमहि प्रति तन्नो जुषस्व\nशन्नो भव द्विपदे शंचतुष्पदे || स्वाहा ||",
+          "meaning": "हे गृहाच्या स्वामी (वास्तोष्पती), आम्हांला अनुकूलतेने स्वीकारा. आमच्या घरात रोगमुक्त राहा. आम्ही जे काही तुम्हांला मागतो, ते प्रसन्नतेने प्रदान करा. या घरातील सर्व द्विपाद आणि चतुष्पाद प्राण्यांसाठी शुभ व्हा.",
+          "transliteration": "Om Vaastoshpate Prati Jaanihyasmaan Svaaveshyo Anamivo Bhavanah | Yat Tvemahi Prati Tanno Jushasva Shanno Bhava Dvipade Shamchatushpade || Svaahaa ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "वास्तुशांती हवन गृहप्रवेशाच्या वेळी किंवा विद्यमान घरात अथवा कार्यालयात वास्तुदोष निवारणासाठी केला जातो. तो वास्तुपुरुष आणि सर्व दिशा देवतांच्या आशीर्वादाचे आवाहन करतो.",
+          "meaning": "वास्तुशास्त्रानुसार, प्रत्येक इमारतीत वास्तुपुरुषाने प्रभावित एक ऊर्जा क्षेत्र असते. हा हवन ऊर्जा अनुकूल करतो, नकारात्मकता दूर करतो आणि रहिवाशांना शांती, समृद्धी आणि आरोग्य प्रदान करतो.",
+          "transliteration": "Vaastushaanti havan grihapraveshāchyaa veli kinvaa vidyamaan gharaat athavaa kaaryaalayaat vaastudosh nivaaranaasaathi kelaa jaato. To Vaastupurusha aani sarva dishaa devataanchyaa aashirvaadāche aavāhana karato.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ भूमिर्यस्मा अन्तरिक्षं महित्वा\nशन्नो भवन्त्वापः शन्नोषधीः |\nशन्नो बृहस्पतिर्दधातु शं नः स्वाहा ||",
+          "meaning": "पृथ्वी, अंतरिक्ष आणि विशाल आकाश आमच्यासाठी शुभ होवोत. जल आणि औषधी शांतीदायक होवोत. बृहस्पती आम्हांला कल्याण प्रदान करोत. स्वाहा!",
+          "transliteration": "Om Bhoomiryasmaa antarikshaam mahitvaa shanno bhavantvaaapah shannoshadhiih | Shanno brihaspatirdadhaatu sham nah svaahaa ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "विधी: 1) संपूर्ण घर स्वच्छ करा आणि गंगाजल शिंपडा. 2) घराच्या ब्रह्मस्थानी (मध्यभागी) हवन कुंड स्थापित करा. 3) आठ दिशा देवतांचे (इंद्र, अग्नी, यम, नैऋत्य, वरुण, वायू, कुबेर, ईशान) आवाहन करा. 4) वास्तू सूक्ताचे पठण करत १०८ आहुत्या द्या. 5) आठही दिशांना तुपाच्या आहुत्या अर्पण करा. 6) पूर्णाहुती करा आणि प्रत्येक खोलीत पवित्र जल शिंपडा.",
+          "meaning": "हवनानंतर सत्यनारायण कथा करणे, ब्राह्मणांना भोजन देणे आणि प्रसाद वाटणे ही प्रथा आहे. वास्तुशांती चिरस्थायी शांती आणते आणि सर्व रहिवाशांचे कल्याण सुनिश्चित करते.",
+          "transliteration": "Vidhi: 1) Sampoorna ghar svachchha karaa aani Gangaajal shimpadaa. 2) Gharāchyaa Brahmasthāni (madhyabhaagi) havan kund sthaapit karaa. 3) Aath dishaa devataanche (Indra, Agni, Yama, Nairitya, Varuna, Vaayu, Kubera, Ishaana) aavāhana karaa. 4) Vaastu Sooktāche pathan karat 108 aahutya dyaa. 5) Aathahi dishaannaa tupāchyaa aahutya arpan karaa. 6) Poornāhuti karaa aani pratyeka kholiit pavitra jal shimpadaa.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "havan_dhanvantari",
+      "title": "धन्वंतरी हवन",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/havan/agni.jpg",
+      "orderIndex": 6,
+      "content": [
+        {
+          "shloka": "ॐ नमो भगवते वासुदेवाय धन्वंतरये\nअमृतकलश हस्ताय सर्व आमय विनाशाय\nत्रिलोक्यनाथाय श्री महाविष्णवे नमः स्वाहा ||",
+          "meaning": "भगवान धन्वंतरी यांना नमन, जे वासुदेव (विष्णू) चे अवतार आहेत, जे अमृत कलश धारण करतात आणि सर्व रोगांचा नाश करतात. त्रिलोकांचे नाथ श्री महाविष्णूंना नमस्कार.",
+          "transliteration": "Om Namo Bhagavate Vasudevaaya Dhanvantaraye Amritakalasha Hastaaya Sarva Aamaya Vinaashaaya Trilokyanaathaaya Shri Mahavishnave Namah Svaahaa ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "धन्वंतरी हवन भगवान धन्वंतरी यांचे आवाहन करण्यासाठी केला जातो — ते दिव्य वैद्य जे समुद्रमंथनाच्या वेळी अमृत कलश घेऊन प्रकट झाले. ते आयुर्वेदाचे जनक आहेत.",
+          "meaning": "हा हवन चांगले आरोग्य, आजारातून बरे होणे, रोग प्रतिबंध आणि एकूण कल्याणासाठी केला जातो. तो विशेषतः धनत्रयोदशी (धन्वंतरी त्रयोदशी) ला अत्यंत शुभ आहे जो दिवाळीच्या दोन दिवस आधी येतो.",
+          "transliteration": "Dhanvantari havan Bhagavaan Dhanvantari yaanche aavāhana karnyaasaathi kelaa jaato — te divya vaidya je Samudramanthanāchyaa veli amrit kalash gheoon prakat zhale. Te Aayurvedāche janak aahet.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ अच्युताय नमः स्वाहा | ॐ अनंताय नमः स्वाहा |\nॐ गोविंदाय नमः स्वाहा | ॐ धन्वंतरये नमः स्वाहा |",
+          "meaning": "धन्वंतरी हवनाच्या आहुत्या: प्रत्येक स्वाहाच्या उच्चारणासह एक चमचा तूप औषधी वनस्पतींसह (ब्राह्मी, अश्वगंधा, तुळशी, हळद) पवित्र अग्नीत अर्पण करा.",
+          "transliteration": "Om Achyutaaya Namah Svaahaa | Om Anantaaya Namah Svaahaa | Om Govindaaya Namah Svaahaa | Om Dhanvantaraye Namah Svaahaa |",
+          "imageUrl": null
+        },
+        {
+          "shloka": "विधी: 1) हवन कुंड स्थापित करा आणि जवळ धन्वंतरी मूर्ती किंवा चित्र ठेवा. 2) अग्नी प्रज्वलित करा, आचमन आणि संकल्प करा. 3) धन्वंतरी स्तोत्रम्चे पठण करा. 4) धन्वंतरी मंत्राने १०८ आहुत्या अर्पण करा. 5) सामग्रीत औषधी वनस्पती (तुळशी, कडुनिंब, अश्वगंधा) समाविष्ट करा. 6) पूर्णाहुती करा आणि कुटुंबातील सर्व सदस्यांच्या आरोग्यासाठी प्रार्थना करा.",
+          "meaning": "धन्वंतरी हवनातून निघणारा धूर, जो औषधी वनस्पतींनी समृद्ध असतो, हवा शुद्ध करतो आणि चिकित्सकीय फायदे देतो. ही प्रथा आयुर्वेदातील धूमवती चिकित्सा (धूर चिकित्सा) च्या तत्त्वांशी सुसंगत आहे.",
+          "transliteration": "Vidhi: 1) Havan kund sthaapit karaa aani javal Dhanvantari moorti kinvaa chitra thevaa. 2) Agni prajvalit karaa, aachaman aani sankalp karaa. 3) Dhanvantari Stotramche pathan karaa. 4) Dhanvantari mantraane 108 aahutya arpan karaa. 5) Saamagriit aushadhi vanaspati (Tulashi, Kadunimb, Ashvagandhaa) samavisht karaa. 6) Poornāhuti karaa aani kutumbaatil sarva sadasyaanchyaa aarogyaasaathi praarthanaa karaa.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "havan_mahamrityunjaya",
+      "title": "महामृत्युंजय हवन",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/havan/agni.jpg",
+      "orderIndex": 7,
+      "content": [
+        {
+          "shloka": "ॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम् |\nउर्वारुकमिव बन्धनान्मृत्योर्मुक्षीय मामृतात् || स्वाहा ||",
+          "meaning": "आम्ही त्रिनेत्र भगवान (शिव) ची उपासना करतो जे सुगंधित आहेत आणि सर्व प्राण्यांचे पोषण करतात. जसे पिकलेली काकडी सहज वेलीपासून वेगळी होते, तसे आम्हांला मृत्यूपासून मुक्त करा आणि अमृतत्व प्रदान करा. स्वाहा!",
+          "transliteration": "Om Tryambakam Yajaamahe Sugandhim Pushti-vardhanam | Urvaarukamiva Bandhanaan Mrityor Muksheeya Maamritaat || Svaahaa ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "महामृत्युंजय हवन सर्वात शक्तिशाली वैदिक अग्नी विधींपैकी एक आहे. ऋग्वेद (७.५९.१२) मधील महामृत्युंजय मंत्र 'मृत्यू-विजयी मंत्र' म्हणून ओळखला जातो आणि भगवान शिवाला मृत्युंजय (मृत्यूच्या विजेत्या) म्हणून समर्पित आहे.",
+          "meaning": "हा हवन दीर्घायुष्य, गंभीर आजारातून बरे होणे, अपघातांपासून रक्षण आणि मृत्यूच्या भीतीवर विजय मिळवण्यासाठी केला जातो. हा संपूर्ण वैदिक साहित्यातील दोन सर्वात महत्त्वाच्या मंत्रांपैकी एक आहे (दुसरा गायत्री मंत्र).",
+          "transliteration": "Mahaamrityunjaya havan sarvaat shaktishaali Vaidik agni vidhiinpaiki ek aahe. Rigveda (7.59.12) madhil Mahaamrityunjaya mantra 'Mrityu-vijayi mantra' mhanoon olakhalaa jaato aani Bhagavaan Shivaalaa Mrityunjaya (mrityoochyaa vijetyaa) mhanoon samarpit aahe.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "ॐ हौं जूं सः | ॐ भूर्भुवः स्वः |\nॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम् |\nउर्वारुकमिव बन्धनान्मृत्योर्मुक्षीय मामृतात् |\nॐ स्वः भुवः भूर् ॐ | सः जूं हौं ॐ ||",
+          "meaning": "हा महामृत्युंजय मंत्राचा विस्तारित (बीजयुक्त) आवृत्ती आहे ज्यात सुरुवातीला बीज मंत्र जोडले आहेत आणि शेवटी उलट्या क्रमात आहेत. हवनात जास्तीत जास्त शक्तीसाठी या आवृत्तीचा वापर केला जातो.",
+          "transliteration": "Om Haum Joom Sah | Om Bhur Bhuvah Svah | Om Tryambakam Yajaamahe Sugandhim Pushti-vardhanam | Urvaarukamiva Bandhanaan Mrityor Muksheeya Maamritaat | Om Svah Bhuvah Bhur Om | Sah Joom Haum Om ||",
+          "imageUrl": null
+        },
+        {
+          "shloka": "विधी: 1) हवन कुंड स्थापित करा, शक्यतो जवळ शिवलिंग ठेवा. 2) बेलाचे लाकूड, कापूर आणि गायीच्या तुपाने अग्नी प्रज्वलित करा. 3) व्यक्तीच्या आरोग्य आणि दीर्घायुष्यासाठी संकल्प करा. 4) महामृत्युंजय मंत्र १,२५,००० वेळा (अनेक दिवसांत) किंवा एका बैठकीत १,००८ किंवा १०८ वेळा पठण करा. 5) प्रत्येक 'स्वाहा' सह तूप + सामग्री अर्पण करा. 6) बेलपत्र, धोत्रा आणि भस्म आहुतीत समाविष्ट करा. 7) पूर्णाहुती आणि शांती पाठ करा.",
+          "meaning": "पारंपरिकरित्या, सव्वा लाख मंत्रांचा महामृत्युंजय हवन १० दिवसांत केला जातो. वैयक्तिकरित्या, पूर्ण भक्तीने केलेल्या १०८ आहुत्याही अपार लाभ देतात. हा हवन साडेसाती, आरोग्य संकट किंवा वाढदिवस विधी म्हणून विशेष शिफारस केला जातो.",
+          "transliteration": "Vidhi: 1) Havan kund sthaapit karaa, shakyato javal Shivalinga thevaa. 2) Belāche laakood, kaapoor aani gaayichyaa tupaane agni prajvalit karaa. 3) Vyaktichyaa aarogya aani dirghāyushyaasaathi sankalp karaa. 4) Mahaamrityunjaya mantra 1,25,000 velaa (anek divasaant) kinvaa ekaa baithakiit 1,008 kinvaa 108 velaa pathan karaa. 5) Pratyeka 'Svaahaa' saha toop + saamagri arpan karaa. 6) Belpatra, dhotraa aani bhasma aahutiit samavisht karaa. 7) Poornāhuti aani shaanti paath karaa.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "havan_samagri_list",
+      "title": "हवन सामग्री — संपूर्ण यादी",
+      "language": "marathi",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/havan/agni.jpg",
+      "orderIndex": 8,
+      "content": [
+        {
+          "shloka": "आवश्यक सामग्री (मूळ सामग्री):\n1. गायीचे तूप (देशी तूप) — मुख्य आहुती\n2. सुके खोबरे (कोपरा)\n3. कापूर\n4. चंदन पावडर\n5. गूळ किंवा साखर\n6. काळे तीळ\n7. जव (यव)\n8. तांदूळ (अक्षता)",
+          "meaning": "या प्रत्येक हवनात वापरल्या जाणाऱ्या मूलभूत सामग्री आहेत. गायीचे तूप सर्वात महत्त्वाचे आहे — ते हवा शुद्ध करते, सकारात्मक ऊर्जा निर्माण करते आणि पवित्र अग्नी टिकवून ठेवण्याचे इंधन आहे.",
+          "transliteration": "Aavashyak saamagri (mool saamagri): 1. Gaayiche toop (deshi toop) — mukhya aahuti. 2. Suke khobre (koparaa). 3. Kaapoor. 4. Chandan paavdar. 5. Gool kinvaa saakhar. 6. Kaale til. 7. Jav (Yava). 8. Taandool (Akshataa).",
+          "imageUrl": null
+        },
+        {
+          "shloka": "पवित्र लाकडे आणि वनस्पती:\n1. आंब्याच्या लाकडाच्या समिधा\n2. पिंपळाचे लाकूड\n3. वडाचे लाकूड\n4. बेलाचे लाकूड\n5. पळसाचे लाकूड\n6. कोरड्या शेणाच्या गोवऱ्या\n7. गुग्गुळ\n8. लोबान\n9. अगर\n10. तगर",
+          "meaning": "वरील पवित्र लाकडे वैदिक परंपरेत पवित्र मानल्या जाणाऱ्या वृक्षांपासून आहेत. आंब्याचे लाकूड सर्वात सामान्यपणे वापरले जाते. बांबू, काटेरी लाकूड किंवा दूधरहित (चीक नसलेल्या) वृक्षांचे लाकूड कधीही वापरू नका.",
+          "transliteration": "Pavitra laakade aani vanaspati: 1. Aambyāchyaa laakadāchyaa samidhaa. 2. Pimpalāche laakood. 3. Vadāche laakood. 4. Belāche laakood. 5. Palasāche laakood. 6. Koradyaa shenāchyaa govaryaa. 7. Guggul. 8. Lobaan. 9. Agar. 10. Tagar.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "औषधी आणि सुगंधित सामग्री:\n1. तुळशीची पाने\n2. कडुनिंबाची पाने\n3. ब्राह्मी\n4. अश्वगंधा\n5. हळद\n6. दालचिनी\n7. वेलची\n8. लवंग\n9. जायफळ\n10. तमालपत्र\n11. नागरमोथा\n12. जायपत्री",
+          "meaning": "या औषधी सामग्री हवन अग्नीत जळतात तेव्हा लाभदायक संयुगे सोडतात जी हवा शुद्ध करतात आणि जंतुनाशक, जीवाणूनाशक आणि शांतीदायक गुणधर्म ठेवतात. हे वैज्ञानिकदृष्ट्या सिद्ध आहे.",
+          "transliteration": "Aushadhi aani sugandhit saamagri: 1. Tulashichi paane. 2. Kadunimbāchi paane. 3. Braahmi. 4. Ashvagandhaa. 5. Halad. 6. Daalchini. 7. Velchi. 8. Lavang. 9. Jaayaphal. 10. Tamaalapatra. 11. Naagarmothaa. 12. Jaayapatri.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "हवन उपकरणे:\n1. हवन कुंड (तांब्याचा किंवा विटांचा, पिरॅमिड आकाराचा)\n2. मोठा लाकडी चमचा (स्रुक्) — तुपासाठी\n3. लहान लाकडी पळी (स्रुवा)\n4. तांब्याचा जलपात्र (कलश)\n5. पंचपात्र (पाच धातूंचे पात्र)\n6. आचमनी चमचा\n7. फुलांची तबकडी\n8. आसन — लोकरीचे किंवा कुशाचे चटई",
+          "meaning": "हवन कुंड आदर्शपणे तांब्याचा आणि उलट्या पिरॅमिड आकाराचा असावा. आकार हवनाच्या प्रकारावर अवलंबून असतो — लहान घरगुती कुंड (१ फूट) पासून मोठ्या विधी कुंडापर्यंत (९ फूट किंवा अधिक).",
+          "transliteration": "Havan upakarane: 1. Havan kund (taambyaachaa kinvaa vitaanchaa, pyramid aakaaraachaa). 2. Mothaa laakadi chamchaa (Sruk) — tupaasaathi. 3. Lahaan laakadi pali (Sruvaa). 4. Taambyaachaa jalapaatr (Kalash). 5. Panchapaatr (paach dhaatoonche paatr). 6. Aachamani chamchaa. 7. Fulaanchi tabakadi. 8. Aasan — lokarichee kinvaa kushāche chatai.",
+          "imageUrl": null
+        },
+        {
+          "shloka": "हवनाचे सामान्य नियम:\n1. हवन करताना पूर्व किंवा उत्तर दिशेकडे तोंड करा.\n2. स्वच्छ, शक्यतो पांढरे किंवा केशरी कपडे घाला.\n3. मंत्रपठणादरम्यान मौन आणि एकाग्रता ठेवा.\n4. हवन अग्नी कधीही एकटी सोडू नका.\n5. अग्नी विझण्यापूर्वी हवन पूर्ण करा — गरज असल्यास तूप घाला.\n6. नेहमी पूर्णाहुती आणि शांती पाठाने समाप्त करा.\n7. उर्वरित सामग्री प्रसाद म्हणून वाटा.\n8. हवनाची राख आदरपूर्वक नदीत किंवा बागेत विसर्जित करा.",
+          "meaning": "हे नियम हवन योग्यरित्या पार पाडला जाईल आणि जास्तीत जास्त आध्यात्मिक तसेच भौतिक लाभ मिळतील याची खात्री करतात. विधीची शिस्त मंत्रांइतकीच महत्त्वाची आहे.",
+          "transliteration": "Havanāche saamaanya niyam: 1. Havan karataanaa poorva kinvaa uttara dishekade tond karaa. 2. Svachchha, shakyato paandhare kinvaa keshari kapade ghaalaa. 3. Mantrapathanaadarmyaan maun aani ekaagrataa thevaa. 4. Havan agni kadhiihi ekati sodu nakaa. 5. Agni vizhnyaapoortvi havan poorna karaa — garaj asalyaas toop ghaalaa. 6. Nehami poornāhuti aani shaanti paathaane samaapt karaa. 7. Urvarit saamagri prasaad mhanoon vaataa. 8. Havanāchi raakh aadarapoorvak nadiit kinvaa baaget visarjit karaa.",
+          "imageUrl": null
+        }
+      ]
+    }
+  ]
+}

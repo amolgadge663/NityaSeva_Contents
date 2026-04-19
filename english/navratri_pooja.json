@@ -1,0 +1,137 @@
+{
+  "category": "Navratri Pooja",
+  "version": 1,
+  "items": [
+    {
+      "id": "nav_day1",
+      "title": "Day 1 - Shailputri Puja",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/navratri/shailputri.jpg",
+      "orderIndex": 1,
+      "content": [
+        {"shloka": "Vande vāñchita-lābhāya candrārdha-kṛta-śekharām | Vṛṣārūḍhāṃ śūla-dharāṃ śailaputrīṃ yaśasvinīm ||", "meaning": "I worship Shailputri, the auspicious daughter of the mountain king Himalaya, who wears the crescent moon on her head, rides the bull Nandi, and holds a trident. She is the first form of Navadurga worshipped on Day 1.", "transliteration": "Vande vāñchita-lābhāya candrārdha-kṛta-śekharām vṛṣārūḍhāṃ śūla-dharāṃ śailaputrīṃ yaśasvinīm", "imageUrl": null},
+        {"shloka": "Yā devī sarva-bhūteṣu Śakti-rūpeṇa saṃsthitā | Namastasyai namastasyai namastasyai namo namaḥ ||", "meaning": "Salutations to the Goddess who dwells in all beings in the form of power (Shakti). Salutations again and again to Her. This universal Devi mantra is chanted on each day of Navratri.", "transliteration": "Yā devī sarva-bhūteṣu Śakti-rūpeṇa saṃsthitā namastasyai namastasyai namastasyai namo namaḥ", "imageUrl": null},
+        {"shloka": "Oṃ Hrīṃ Śailaputryai namaḥ ||", "meaning": "Om Hreem, salutations to Shailputri. This is the beeja mantra for the first day of Navratri. Chanting it 108 times bestows the blessings of Maa Shailputri.", "transliteration": "Oṃ Hrīṃ Śailaputryai namaḥ", "imageUrl": null},
+        {"shloka": "Prathamaṃ Śailaputrī ca dvitīyaṃ Brahmacāriṇī | Tṛtīyaṃ Candraghaṇṭeti Kūṣmāṇḍeti caturthakam ||", "meaning": "The first is Shailputri, the second Brahmacharini, the third Chandraghanta, and the fourth Kushmanda. This verse enumerates the nine forms of Durga worshipped during Navratri.", "transliteration": "Prathamaṃ Śailaputrī ca dvitīyaṃ Brahmacāriṇī tṛtīyaṃ Candraghaṇṭeti Kūṣmāṇḍeti caturthakam", "imageUrl": null}
+      ]
+    },
+    {
+      "id": "nav_day2",
+      "title": "Day 2 - Brahmacharini Puja",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/navratri/brahmacharini.jpg",
+      "orderIndex": 2,
+      "content": [
+        {"shloka": "Dadānā kara-padmābhyām akṣa-mālā-kamaṇḍalū | Devī prasīdatu mayi Brahmacāriṇī anuttamā ||", "meaning": "She who holds a rosary and water pot in her lotus-like hands — may the supreme Goddess Brahmacharini be pleased with me. She symbolizes penance and austerity.", "transliteration": "Dadānā kara-padmābhyām akṣa-mālā-kamaṇḍalū devī prasīdatu mayi Brahmacāriṇī anuttamā", "imageUrl": null},
+        {"shloka": "Yā devī sarva-bhūteṣu Śraddhā-rūpeṇa saṃsthitā | Namastasyai namastasyai namastasyai namo namaḥ ||", "meaning": "Salutations to the Goddess who dwells in all beings in the form of faith (Shraddha). This mantra invokes the aspect of devotion embodied by Brahmacharini.", "transliteration": "Yā devī sarva-bhūteṣu Śraddhā-rūpeṇa saṃsthitā namastasyai namastasyai namastasyai namo namaḥ", "imageUrl": null},
+        {"shloka": "Oṃ Hrīṃ Brahmacāriṇyai namaḥ ||", "meaning": "Om Hreem, salutations to Brahmacharini. The beeja mantra for Day 2 of Navratri grants spiritual strength and knowledge.", "transliteration": "Oṃ Hrīṃ Brahmacāriṇyai namaḥ", "imageUrl": null},
+        {"shloka": "Tapas-cāriṇī tvam Devī siddhi-dātrī śubhā | Brahmacāriṇī Parā Mātā sarva-siddhi pradāyinī ||", "meaning": "You are the goddess who performs austerities, bestower of divine accomplishments, auspicious one. O supreme Mother Brahmacharini, you grant all spiritual powers.", "transliteration": "Tapas-cāriṇī tvam Devī siddhi-dātrī śubhā Brahmacāriṇī Parā Mātā sarva-siddhi pradāyinī", "imageUrl": null}
+      ]
+    },
+    {
+      "id": "nav_day3",
+      "title": "Day 3 - Chandraghanta Puja",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/navratri/chandraghanta.jpg",
+      "orderIndex": 3,
+      "content": [
+        {"shloka": "Piṇḍaja-pravarārūḍhā canda-kopāstra-kairyutā | Prasādaṃ tanute mahyaṃ Candraghaṇṭeti viśrutā ||", "meaning": "She who rides a lion, adorned with weapons of fearsome anger — the one renowned as Chandraghanta, may she bestow her grace upon me. The bell-shaped moon on her forehead radiates courage.", "transliteration": "Piṇḍaja-pravarārūḍhā canda-kopāstra-kairyutā prasādaṃ tanute mahyaṃ Candraghaṇṭeti viśrutā", "imageUrl": null},
+        {"shloka": "Yā devī sarva-bhūteṣu Śānti-rūpeṇa saṃsthitā | Namastasyai namastasyai namastasyai namo namaḥ ||", "meaning": "Salutations to the Goddess who dwells in all beings in the form of peace (Shanti). Chandraghanta removes all sorrows and bestows tranquility.", "transliteration": "Yā devī sarva-bhūteṣu Śānti-rūpeṇa saṃsthitā namastasyai namastasyai namastasyai namo namaḥ", "imageUrl": null},
+        {"shloka": "Oṃ Hrīṃ Candraghaṇṭāyai namaḥ ||", "meaning": "Om Hreem, salutations to Chandraghanta. This Day 3 beeja mantra removes obstacles and grants fearlessness.", "transliteration": "Oṃ Hrīṃ Candraghaṇṭāyai namaḥ", "imageUrl": null},
+        {"shloka": "Candra-ghaṇṭā-dhvani-yukta divya-kānti-svarūpiṇī | Siṃhārūḍhā daśa-bhujā Candraghaṇṭā yaśasvinī ||", "meaning": "She whose bell-like moon resonates with divine sound, who has a celestial radiance, who rides a lion with ten arms — glory to Chandraghanta, the illustrious one.", "transliteration": "Candra-ghaṇṭā-dhvani-yukta divya-kānti-svarūpiṇī siṃhārūḍhā daśa-bhujā Candraghaṇṭā yaśasvinī", "imageUrl": null}
+      ]
+    },
+    {
+      "id": "nav_day4",
+      "title": "Day 4 - Kushmanda Puja",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/navratri/kushmanda.jpg",
+      "orderIndex": 4,
+      "content": [
+        {"shloka": "Surāsampūrṇa-kalaśaṃ rudhirāplutam-eva ca | Dadhānā hasta-padmābhyāṃ Kūṣmāṇḍā śubhadāstu me ||", "meaning": "She who holds in her lotus hands a pot full of divine nectar and blood (representing creation and destruction) — may Kushmanda bestow auspiciousness upon me. She created the universe with her divine smile.", "transliteration": "Surāsampūrṇa-kalaśaṃ rudhirāplutam-eva ca dadhānā hasta-padmābhyāṃ Kūṣmāṇḍā śubhadāstu me", "imageUrl": null},
+        {"shloka": "Yā devī sarva-bhūteṣu Buddhi-rūpeṇa saṃsthitā | Namastasyai namastasyai namastasyai namo namaḥ ||", "meaning": "Salutations to the Goddess who dwells in all beings in the form of intelligence (Buddhi). Kushmanda illuminates the intellect of her devotees.", "transliteration": "Yā devī sarva-bhūteṣu Buddhi-rūpeṇa saṃsthitā namastasyai namastasyai namastasyai namo namaḥ", "imageUrl": null},
+        {"shloka": "Oṃ Hrīṃ Kūṣmāṇḍāyai namaḥ ||", "meaning": "Om Hreem, salutations to Kushmanda. This Day 4 beeja mantra bestows creative energy, health, and prosperity.", "transliteration": "Oṃ Hrīṃ Kūṣmāṇḍāyai namaḥ", "imageUrl": null},
+        {"shloka": "Aṣṭa-bhujā-dharā Devī vividhāyudha-saṃyutā | Kūṣmāṇḍākhyā jagad-dhātrī stūyatāṃ viśva-vanditā ||", "meaning": "The eight-armed Goddess equipped with various weapons, known as Kushmanda, sustainer of the universe — may she be praised, she who is worshipped by the whole world.", "transliteration": "Aṣṭa-bhujā-dharā Devī vividhāyudha-saṃyutā Kūṣmāṇḍākhyā jagad-dhātrī stūyatāṃ viśva-vanditā", "imageUrl": null}
+      ]
+    },
+    {
+      "id": "nav_day5",
+      "title": "Day 5 - Skandamata Puja",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/navratri/skandamata.jpg",
+      "orderIndex": 5,
+      "content": [
+        {"shloka": "Siṃhāsanagatā nityaṃ padmāśritakaradvayā | Śubhadāstu sadā Devī Skandamātā yaśasvinī ||", "meaning": "She who is ever seated on a lion throne, with two hands resting on lotuses — may the illustrious Goddess Skandamata always bestow auspiciousness. She is the mother of Kartikeya (Skanda).", "transliteration": "Siṃhāsanagatā nityaṃ padmāśritakaradvayā śubhadāstu sadā Devī Skandamātā yaśasvinī", "imageUrl": null},
+        {"shloka": "Yā devī sarva-bhūteṣu Mātṛ-rūpeṇa saṃsthitā | Namastasyai namastasyai namastasyai namo namaḥ ||", "meaning": "Salutations to the Goddess who dwells in all beings in the form of Mother. Skandamata embodies the supreme maternal love.", "transliteration": "Yā devī sarva-bhūteṣu Mātṛ-rūpeṇa saṃsthitā namastasyai namastasyai namastasyai namo namaḥ", "imageUrl": null},
+        {"shloka": "Oṃ Hrīṃ Skandamātāyai namaḥ ||", "meaning": "Om Hreem, salutations to Skandamata. This Day 5 beeja mantra grants the blessings of divine motherhood and protection.", "transliteration": "Oṃ Hrīṃ Skandamātāyai namaḥ", "imageUrl": null},
+        {"shloka": "Skanda-dhāriṇī Mahā-Devī mahā-bala-parākramā | Pūjyā varadā sadā Mātā namāmi Skandamātaram ||", "meaning": "The great Goddess who bears Skanda, of supreme strength and valor, ever worshipful and boon-bestowing Mother — I bow to Skandamata.", "transliteration": "Skanda-dhāriṇī Mahā-Devī mahā-bala-parākramā pūjyā varadā sadā Mātā namāmi Skandamātaram", "imageUrl": null}
+      ]
+    },
+    {
+      "id": "nav_day6",
+      "title": "Day 6 - Katyayani Puja",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/navratri/katyayani.jpg",
+      "orderIndex": 6,
+      "content": [
+        {"shloka": "Candrahāsa-ojaskaraṃ śārṅga-pāṇi caturmukham | Mahiṣāsura-trāsaghnaṃ Kātyāyanīṃ praṇamāmyaham ||", "meaning": "I bow to Katyayani, who bears the shining sword and bow in her four hands, and who is the terror of the buffalo demon Mahishasura. She incarnated as the daughter of Sage Katyayana.", "transliteration": "Candrahāsa-ojaskaraṃ śārṅga-pāṇi caturmukham Mahiṣāsura-trāsaghnaṃ Kātyāyanīṃ praṇamāmyaham", "imageUrl": null},
+        {"shloka": "Yā devī sarva-bhūteṣu Kānti-rūpeṇa saṃsthitā | Namastasyai namastasyai namastasyai namo namaḥ ||", "meaning": "Salutations to the Goddess who dwells in all beings in the form of radiance. Katyayani bestows divine beauty and grace upon devotees.", "transliteration": "Yā devī sarva-bhūteṣu Kānti-rūpeṇa saṃsthitā namastasyai namastasyai namastasyai namo namaḥ", "imageUrl": null},
+        {"shloka": "Oṃ Hrīṃ Kātyāyanyai namaḥ ||", "meaning": "Om Hreem, salutations to Katyayani. This Day 6 beeja mantra fulfills desires and removes obstacles in marriage and relationships.", "transliteration": "Oṃ Hrīṃ Kātyāyanyai namaḥ", "imageUrl": null},
+        {"shloka": "Kātyāyanī Mahā-Māye Mahā-Yoginy-adhīśvarī | Nanda-gopa-sutāṃ Devīṃ Patiṃ me kuru te namaḥ ||", "meaning": "O Katyayani, great Goddess of illusion, supreme mistress of Yoga, O divine daughter of Nanda Gopa — grant me a worthy spouse, salutations to you. (This mantra from Bhagavatam is chanted by unmarried girls.)", "transliteration": "Kātyāyanī Mahā-Māye Mahā-Yoginy adhīśvarī Nanda-gopa-sutāṃ Devīṃ patiṃ me kuru te namaḥ", "imageUrl": null}
+      ]
+    },
+    {
+      "id": "nav_day7",
+      "title": "Day 7 - Kalaratri Puja",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/navratri/kalaratri.jpg",
+      "orderIndex": 7,
+      "content": [
+        {"shloka": "Ekaveṇī japākarṇa-pūrā nagnā kharāsthitā | Lamboṣṭhī karṇikākarṇī taila-abhyakta-śarīriṇī ||", "meaning": "She with a single braid, with ears adorned like hibiscus flowers, bare, riding a donkey, with pendulous lips and earrings, her body smeared with oil — Kalaratri is the fiercest form of Durga who destroys all darkness.", "transliteration": "Ekaveṇī japākarṇa-pūrā nagnā kharāsthitā lamboṣṭhī karṇikākarṇī taila-abhyakta-śarīriṇī", "imageUrl": null},
+        {"shloka": "Yā devī sarva-bhūteṣu Nidrā-rūpeṇa saṃsthitā | Namastasyai namastasyai namastasyai namo namaḥ ||", "meaning": "Salutations to the Goddess who dwells in all beings in the form of sleep. Kalaratri rules over the cosmic night of destruction.", "transliteration": "Yā devī sarva-bhūteṣu Nidrā-rūpeṇa saṃsthitā namastasyai namastasyai namastasyai namo namaḥ", "imageUrl": null},
+        {"shloka": "Oṃ Hrīṃ Kālarātryai namaḥ ||", "meaning": "Om Hreem, salutations to Kalaratri. This Day 7 beeja mantra destroys all fears, evil spirits, and negative energies.", "transliteration": "Oṃ Hrīṃ Kālarātryai namaḥ", "imageUrl": null},
+        {"shloka": "Kāla-rātri mahā-rātri moha-rātri ca dāruṇā | Tvam ahaṃ śaraṇaṃ prāptā tārayasva namo'stu te ||", "meaning": "O night of time, great night, terrible night of delusion — I have come to your refuge. Please ferry me across. Salutations to you.", "transliteration": "Kāla-rātri mahā-rātri moha-rātri ca dāruṇā tvam ahaṃ śaraṇaṃ prāptā tārayasva namo'stu te", "imageUrl": null}
+      ]
+    },
+    {
+      "id": "nav_day8",
+      "title": "Day 8 - Mahagauri Puja",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/navratri/mahagauri.jpg",
+      "orderIndex": 8,
+      "content": [
+        {"shloka": "Śvete vṛṣe samārūḍhā śvetāmbarā-dharā śuciḥ | Mahāgaurī śubhaṃ dadyāt Mahādeva-pramodadā ||", "meaning": "She who rides a white bull, wears white garments, and is pure — may Mahagauri bestow auspiciousness, she who delights Mahadeva (Shiva). She represents purity attained through severe penance.", "transliteration": "Śvete vṛṣe samārūḍhā śvetāmbarā-dharā śuciḥ Mahāgaurī śubhaṃ dadyāt Mahādeva-pramodadā", "imageUrl": null},
+        {"shloka": "Yā devī sarva-bhūteṣu Dayā-rūpeṇa saṃsthitā | Namastasyai namastasyai namastasyai namo namaḥ ||", "meaning": "Salutations to the Goddess who dwells in all beings in the form of compassion. Mahagauri embodies divine mercy and forgiveness.", "transliteration": "Yā devī sarva-bhūteṣu Dayā-rūpeṇa saṃsthitā namastasyai namastasyai namastasyai namo namaḥ", "imageUrl": null},
+        {"shloka": "Oṃ Hrīṃ Mahāgauryai namaḥ ||", "meaning": "Om Hreem, salutations to Mahagauri. This Day 8 beeja mantra purifies past sins and bestows peace and prosperity.", "transliteration": "Oṃ Hrīṃ Mahāgauryai namaḥ", "imageUrl": null},
+        {"shloka": "Sarvā-maṅgala-māṅgalye Śive sarvārtha-sādhike | Śaraṇye Tryambake Gauri Nārāyaṇi namo'stu te ||", "meaning": "O auspicious among all that is auspicious, O Shiva who accomplishes all purposes, O refuge of all, three-eyed Gauri, O Narayani — salutations to you.", "transliteration": "Sarvā-maṅgala-māṅgalye Śive sarvārtha-sādhike śaraṇye Tryambake Gauri Nārāyaṇi namo'stu te", "imageUrl": null}
+      ]
+    },
+    {
+      "id": "nav_day9",
+      "title": "Day 9 - Siddhidatri Puja",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/navratri/siddhidatri.jpg",
+      "orderIndex": 9,
+      "content": [
+        {"shloka": "Siddha-gandharva-yakṣādyair-asurair-amarair-api | Sevyamānā sadā bhūyāt Siddhidā Siddhidāyinī ||", "meaning": "She who is ever served by Siddhas, Gandharvas, Yakshas, Asuras and Devas alike — may Siddhidatri, the bestower of all supernatural powers, always be present. She grants the eight siddhis.", "transliteration": "Siddha-gandharva-yakṣādyair asurair amarair api sevyamānā sadā bhūyāt Siddhidā Siddhidāyinī", "imageUrl": null},
+        {"shloka": "Yā devī sarva-bhūteṣu Lakṣmī-rūpeṇa saṃsthitā | Namastasyai namastasyai namastasyai namo namaḥ ||", "meaning": "Salutations to the Goddess who dwells in all beings in the form of Lakshmi (prosperity). Siddhidatri grants all forms of divine wealth and spiritual attainment.", "transliteration": "Yā devī sarva-bhūteṣu Lakṣmī-rūpeṇa saṃsthitā namastasyai namastasyai namastasyai namo namaḥ", "imageUrl": null},
+        {"shloka": "Oṃ Hrīṃ Siddhidātryai namaḥ ||", "meaning": "Om Hreem, salutations to Siddhidatri. This Day 9 beeja mantra bestows all eight siddhis — anima, mahima, garima, laghima, prapti, prakamya, ishitva, and vashitva.", "transliteration": "Oṃ Hrīṃ Siddhidātryai namaḥ", "imageUrl": null},
+        {"shloka": "Aṇimā mahimā caiva garimā laghimā tathā | Prāptiḥ prākāmyam-īśitvaṃ vaśitvaṃ cāṣṭa-siddhayaḥ ||", "meaning": "The eight siddhis are: Anima (becoming tiny), Mahima (becoming vast), Garima (becoming heavy), Laghima (becoming light), Prapti (obtaining anything), Prakamya (fulfilling any desire), Ishitva (lordship), and Vashitva (control over all).", "transliteration": "Aṇimā mahimā caiva garimā laghimā tathā prāptiḥ prākāmyam īśitvaṃ vaśitvaṃ cāṣṭa-siddhayaḥ", "imageUrl": null}
+      ]
+    },
+    {
+      "id": "nav_durga_saptashati",
+      "title": "Durga Saptashati (700 Verses)",
+      "language": "english",
+      "image": "https://amolgadge663.github.io/NityaSeva_Contents/images/navratri/durga.jpg",
+      "orderIndex": 10,
+      "content": [
+        {"shloka": "Oṃ Jaya Tvaṃ Devī Cāmuṇḍe Jaya Bhūtāpahāriṇi | Jaya Sarvagate Devi Kālarātri namo'stu te ||", "meaning": "Victory to you, O Goddess Chamunda! Victory to you, remover of all evil beings! Victory to you, O all-pervading Goddess Kalaratri, salutations to you. (Opening invocation of Durga Saptashati)", "transliteration": "Oṃ Jaya Tvaṃ Devī Cāmuṇḍe Jaya Bhūtāpahāriṇi Jaya Sarvagate Devi Kālarātri namo'stu te", "imageUrl": null},
+        {"shloka": "Sarva-maṅgala-māṅgalye Śive sarvārtha-sādhike | Śaraṇye Tryambake Gauri Nārāyaṇi namo'stu te ||", "meaning": "O auspicious among all that is auspicious, O Shiva who accomplishes all goals, O three-eyed Gauri, refuge of all — O Narayani, salutations to you. (Devi Mahatmya 11.10)", "transliteration": "Sarva-maṅgala-māṅgalye Śive sarvārtha-sādhike śaraṇye Tryambake Gauri Nārāyaṇi namo'stu te", "imageUrl": null},
+        {"shloka": "Sṛṣṭi-sthiti-vināśānāṃ śaktibhūte sanātani | Guṇāśraye guṇamaye Nārāyaṇi namo'stu te ||", "meaning": "O eternal one, you are the power behind creation, preservation, and destruction. O repository of the gunas, O embodiment of the gunas — O Narayani, salutations to you. (Devi Mahatmya 11.11)", "transliteration": "Sṛṣṭi-sthiti-vināśānāṃ śaktibhūte sanātani guṇāśraye guṇamaye Nārāyaṇi namo'stu te", "imageUrl": null},
+        {"shloka": "Rogān-aśeṣān-apahaṃsi tuṣṭā ruṣṭā tu kāmān sakalān-abhīṣṭān | Tvām-āśritānāṃ na vipanna-rāṇāṃ tvām-āśritā hy-āśrayatāṃ prayānti ||", "meaning": "When pleased, you destroy all diseases; when angered, you destroy all desires. Those who take refuge in you never come to grief — those devoted to you truly become a refuge for others. (Devi Mahatmya 11.28)", "transliteration": "Rogān aśeṣān apahaṃsi tuṣṭā ruṣṭā tu kāmān sakalān abhīṣṭān", "imageUrl": null},
+        {"shloka": "Vidyāḥ samastāḥ tava Devi bhedāḥ striyaḥ samastāḥ sakalā jagatsu | Tvayaikayā pūritam-ambayaitat kā te stutiḥ stavya-parā-paroktiḥ ||", "meaning": "All forms of knowledge are your manifestations, O Devi; all women in the world are your forms. By you alone, O Mother, this entire universe is filled — what praise can be adequate for you who are beyond all praise? (Devi Mahatmya 11.6)", "transliteration": "Vidyāḥ samastāḥ tava Devi bhedāḥ striyaḥ samastāḥ sakalā jagatsu", "imageUrl": null}
+      ]
+    }
+  ]
+}
